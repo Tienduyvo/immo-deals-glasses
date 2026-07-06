@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-06T10:31:32",
+ "generated_at": "2026-07-06T13:43:24",
  "count": 30,
  "deals": [
   {
@@ -102,6 +102,15 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54990&land_abk=he"
   },
   {
+   "yield": 6.26,
+   "price": 169000,
+   "sqm": 63.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "ImmoScout24 (Mail)",
+   "title": "Verdana, sans-serif; font-size:13px; line-height:1.4; color:",
+   "url": "https://push.search.is24.de/email/expose/169087004"
+  },
+  {
    "yield": 6.13,
    "price": 1300000,
    "sqm": 474.0,
@@ -154,6 +163,42 @@
    "source": "ImmoScout24 (Mail)",
    "title": "Dreifamilienhaus und 2 Garagen",
    "url": "https://www.immobilienscout24.de/expose/169083541"
+  },
+  {
+   "yield": 5.64,
+   "price": 629000,
+   "sqm": 211.09,
+   "district": "Frankfurt (unspez.)",
+   "source": "ImmoScout24 (Mail)",
+   "title": "Roboto, Arial, sans-serif; font-size: 17px;line-height: 1.4;",
+   "url": "https://push.search.is24.de/email/expose/169083541"
+  },
+  {
+   "yield": 5.64,
+   "price": 629000,
+   "sqm": 211.09,
+   "district": "Frankfurt (unspez.)",
+   "source": "ImmoScout24 (Mail)",
+   "title": "Roboto, Arial, sans-serif; font-size: 17px;line-height: 1.4;",
+   "url": "https://push.search.is24.de/email/expose/169083531"
+  },
+  {
+   "yield": 5.64,
+   "price": 629000,
+   "sqm": 211.09,
+   "district": "Frankfurt (unspez.)",
+   "source": "ImmoScout24 (Mail)",
+   "title": "Roboto, Arial, sans-serif; font-size: 17px;line-height: 1.4;",
+   "url": "https://push.search.is24.de/email/expose/169083526"
+  },
+  {
+   "yield": 5.64,
+   "price": 629000,
+   "sqm": 211.09,
+   "district": "Frankfurt (unspez.)",
+   "source": "ImmoScout24 (Mail)",
+   "title": "Roboto, Arial, sans-serif; font-size: 17px;line-height: 1.4;",
+   "url": "https://push.search.is24.de/email/expose/169083519"
   },
   {
    "yield": 5.64,
@@ -226,51 +271,6 @@
    "source": "ImmoScout24 (Browser)",
    "title": "Ehemalige Scheune mit Loft-Charakter",
    "url": "https://www.immobilienscout24.de/expose/169008290"
-  },
-  {
-   "yield": 4.85,
-   "price": 2950000,
-   "sqm": 851.02,
-   "district": "Bornheim",
-   "source": "immoscout24-mail",
-   "title": "Frankfurt-Bornheim: Gepflegtes Mehrfamilienhaus mit 17 Wohnu",
-   "url": "https://www.immobilienscout24.de/expose/165472603"
-  },
-  {
-   "yield": 4.74,
-   "price": 1298000,
-   "sqm": 366,
-   "district": "",
-   "source": "immoscout24-mail",
-   "title": "Bungalow mit moderner Architektur wartet auf die Eigentümer,",
-   "url": "https://www.immobilienscout24.de/expose/168503644"
-  },
-  {
-   "yield": 4.68,
-   "price": 330000,
-   "sqm": 91.93,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Browser)",
-   "title": "Lichtdurchflutete Drei-Zimmer-Wohnung",
-   "url": "https://www.immobilienscout24.de/expose/169039500"
-  },
-  {
-   "yield": 4.68,
-   "price": 475000,
-   "sqm": 132.3,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Browser)",
-   "title": "Endlich Platz für die Familie: Reihenhaus",
-   "url": "https://www.immobilienscout24.de/expose/169015869"
-  },
-  {
-   "yield": 4.64,
-   "price": 557000,
-   "sqm": 154,
-   "district": "Kriftel",
-   "source": "ZVG",
-   "title": "Einfamilienhaus : Theodor-Heuss-Weg 4, 65830 Kriftel",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55076&land_abk=he"
   }
  ]
 }
