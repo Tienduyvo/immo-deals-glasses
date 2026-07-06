@@ -42,7 +42,7 @@
   html.glass .list{margin-top:14px;}
   html.glass .row{display:flex;align-items:center;gap:14px;padding:14px 16px;border-radius:12px;border:3px solid transparent;margin-bottom:8px;}
   html.glass .row.focus{border-color:#e6edf3;background:#0e0e0e;}
-  html.glass .row .y{font-size:34px;font-weight:800;min-width:132px;}
+  html.glass .row .y{font-size:30px;font-weight:800;min-width:178px;}
   html.glass .row .mid{font-size:24px;color:#e6edf3;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
   html.glass .row .d{font-size:22px;color:#9aa7b2;margin-left:auto;white-space:nowrap;}
   html.glass .detail{margin-top:10px;height:520px;display:flex;flex-direction:column;}
@@ -74,7 +74,7 @@
                 border:1px solid #1c232b;background:#11161c;cursor:pointer;-webkit-tap-highlight-color:transparent;}
   html.web .row:active{background:#161d25;}
   html.web .row.focus{border-color:#30363d;}
-  html.web .row .y{font-size:clamp(24px,7vw,30px);font-weight:800;min-width:92px;}
+  html.web .row .y{font-size:clamp(22px,6vw,28px);font-weight:800;min-width:118px;}
   html.web .row .mid{font-size:clamp(13px,3.9vw,16px);color:#e6edf3;line-height:1.25;flex:1;}
   html.web .row .d{font-size:12px;color:#9aa7b2;text-align:right;white-space:nowrap;}
   html.web .row::after{content:"›";color:#4b5560;font-size:22px;margin-left:2px;}
@@ -111,9 +111,10 @@ var ISGLASS = !!window.__ISGLASS__;
 var PER_PAGE = 5, CACHE_KEY = "immo_deals_cache";
 var deals = [], generatedAt = "", focus = 0, view = "list";
 
-function colorClass(y){ return y >= 5 ? "g" : (y >= 4 ? "ye" : "w"); }
+function eurm2(o){ return (o && o.price && o.sqm) ? (o.price / o.sqm) : null; }
+function colorClass(v){ return v==null ? "w" : (v < 2500 ? "g" : (v < 4000 ? "ye" : "w")); }
 function fmtEuro(n){ return (n==null? "–" : Number(n).toLocaleString("de-DE")) + " €"; }
-function fmtYield(y){ return (y==null? "–" : Number(y).toLocaleString("de-DE",{minimumFractionDigits:2,maximumFractionDigits:2})) + " %"; }
+function fmtEurM2(v){ return (v==null? "–" : Math.round(v).toLocaleString("de-DE")) + " €/m²"; }
 function fmtSqm(n){ return (n==null? "–" : Number(n).toLocaleString("de-DE")) + " m²"; }
 function esc(s){ return (s||"").replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];}); }
 function safeUrl(u){ return /^https?:\/\//i.test(u||"") ? u : ""; }
@@ -135,27 +136,27 @@ function renderList(){
   else { start = 0; slice = deals; }   // Web: alle, scrollbar
   var html = "";
   for(var i=0;i<slice.length;i++){
-    var g = start+i, o = slice[i], cc = colorClass(o["yield"]);
+    var g = start+i, o = slice[i], em = eurm2(o), cc = colorClass(em);
     var mid = fmtEuro(o.price) + " · " + fmtSqm(o.sqm);
     if(!ISGLASS && o.title) mid += "<br><span style='color:#8b98a5'>" + esc(String(o.title).slice(0,70)) + "</span>";
     html += '<div class="row'+(g===focus?" focus":"")+'" data-idx="'+g+'">'
-          + '<div class="y '+cc+'">'+fmtYield(o["yield"])+'</div>'
+          + '<div class="y '+cc+'">'+fmtEurM2(em)+'</div>'
           + '<div class="mid">'+mid+'</div>'
           + '<div class="d">'+esc(o.district||o.source||"")+'</div></div>';
   }
   document.getElementById("listView").innerHTML = html;
   document.getElementById("pageinfo").textContent = ISGLASS
       ? ("Deal " + (focus+1) + " / " + deals.length)
-      : (deals.length + " Deals · Top nach Bruttorendite");
+      : (deals.length + " Deals · sortiert nach €/m²");
 }
 function renderDetail(){
   document.getElementById("listView").style.display="none";
   var dv = document.getElementById("detailView"); dv.style.display="flex";
   document.getElementById("hint").textContent = ISGLASS ? "◀ Liste · ▲▼ wechseln" : "Detail";
-  var o = deals[focus], cc = colorClass(o["yield"]), url = safeUrl(o.url);
+  var o = deals[focus], em = eurm2(o), cc = colorClass(em), url = safeUrl(o.url);
   var html = "";
   if(!ISGLASS) html += '<button class="backbtn" type="button">‹ Zurück zur Liste</button>';
-  html += '<div class="big '+cc+'">'+fmtYield(o["yield"])+'</div>'
+  html += '<div class="big '+cc+'">'+fmtEurM2(em)+'</div>'
         + '<div class="title">'+esc(o.title||"")+'</div>'
         + '<div class="grid">'
         +   '<div><div class="lbl">Preis</div><div class="val">'+fmtEuro(o.price)+'</div></div>'
@@ -192,7 +193,8 @@ document.getElementById("app").addEventListener("click", function(e){
 
 function applyData(obj){
   if(obj && Array.isArray(obj.deals) && obj.deals.length){
-    deals = obj.deals; generatedAt = obj.generated_at || obj.generatedAt || "";
+    deals = obj.deals.slice().sort(function(a,b){ var A=eurm2(a), B=eurm2(b); if(A==null) return 1; if(B==null) return -1; return A-B; });
+    generatedAt = obj.generated_at || obj.generatedAt || "";
     if(focus >= deals.length) focus = 0;
     render();
     return true;

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-06T19:55:43",
+ "generated_at": "2026-07-06T21:41:10",
  "count": 30,
  "deals": [
   {
@@ -100,6 +100,24 @@
    "source": "ZVG",
    "title": "Eigentumswohnung (3 bis 4 Zimmer) : Toni-Sender-Straße 2-14,",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54990&land_abk=he"
+  },
+  {
+   "yield": 6.48,
+   "price": 200000,
+   "sqm": 77.1,
+   "district": "Frankfurt (unspez.)",
+   "source": "immoscout24-mail",
+   "title": "3-Zimmer-Wohnung nebst Loggia mit Weitblick",
+   "url": "https://www.immobilienscout24.de/expose/169083530"
+  },
+  {
+   "yield": 6.26,
+   "price": 169000,
+   "sqm": 63.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "immoscout24-mail",
+   "title": "Jetzt investieren: Zentrale Eigentumswohnung in gefragte Lag",
+   "url": "https://www.immobilienscout24.de/expose/169087004"
   },
   {
    "yield": 6.26,
@@ -249,28 +267,10 @@
    "yield": 5.05,
    "price": 195000,
    "sqm": 58.64,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Mail)",
-   "title": "Verdana, sans-serif; font-size:13px; line-height:1.4; color:",
-   "url": "https://push.search.is24.de/email/expose/169096786"
-  },
-  {
-   "yield": 5.03,
-   "price": 259000,
-   "sqm": 77.5,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Browser)",
-   "title": "* Provisionsfrei * Kernsanierte 3,5-Zi.-Wohnung",
-   "url": "https://www.immobilienscout24.de/expose/169034921"
-  },
-  {
-   "yield": 5.03,
-   "price": 229000,
-   "sqm": 68.5,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Mail)",
-   "title": "Verdana, sans-serif; font-size:13px; line-height:1.4; color:",
-   "url": "https://push.search.is24.de/email/expose/169102060"
+   "district": "Oberrad",
+   "source": "immoscout24-mail",
+   "title": "Sie wollen hoch hinaus? Top gepflegte Zweizimmerwohnung mit ",
+   "url": "https://www.immobilienscout24.de/expose/169096786"
   }
  ]
 }
