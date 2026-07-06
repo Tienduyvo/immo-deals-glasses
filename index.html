@@ -2,38 +2,98 @@
 <html lang="de">
 <head>
 <meta charset="utf-8">
-<meta name="description" content="Frankfurter Immobilien-Deals nach Bruttomietrendite – Live-Liste für das Meta Ray-Ban Display.">
+<meta name="description" content="Frankfurter Immobilien-Deals nach Bruttomietrendite – Live-Liste, responsiv für Handy und Meta Ray-Ban Display.">
 <meta name="mrbd-web-app-capable" content="yes">
-<meta name="viewport" content="width=600, height=600, initial-scale=1.0, user-scalable=no">
-<title>Immo-Deals</title>
+<title>Immo-Deals Frankfurt</title>
+<script>
+/* Modus VOR dem ersten Paint festlegen und passenden viewport setzen.
+   Glas: 600x600 additiv (schwarz = transparent), Tastatur-Navigation.
+   Web (Handy/Desktop): responsiv, scrollbar, Tippen für Details.
+   Override per URL: ...#glass / ?glass=1  bzw.  #web / ?web=1  */
+(function(){
+  var qs = (location.search + " " + location.hash).toLowerCase();
+  var forceGlass = /glass/.test(qs);
+  var forceWeb   = /\b(web|mobile|phone)\b/.test(qs);
+  var w = window.innerWidth || 0, h = window.innerHeight || 0;
+  var squareish = w >= 520 && w <= 680 && Math.abs(w - h) < 90;   // 600x600-Display
+  var isGlass = forceGlass || (!forceWeb && squareish);
+  var vp = document.createElement("meta");
+  vp.name = "viewport";
+  vp.content = isGlass
+    ? "width=600, height=600, initial-scale=1.0, user-scalable=no"
+    : "width=device-width, initial-scale=1.0, viewport-fit=cover";
+  document.head.appendChild(vp);
+  document.documentElement.className = isGlass ? "glass" : "web";
+  window.__ISGLASS__ = isGlass;
+})();
+</script>
 <style>
-  html,body{margin:0;padding:0;width:600px;height:600px;overflow:hidden;background:#000;}
   *{box-sizing:border-box;font-family:system-ui,"Segoe UI",Roboto,Arial,sans-serif;}
-  #app{width:600px;height:600px;background:#000;color:#fff;position:relative;padding:22px 26px;}
-  .head{display:flex;justify-content:space-between;align-items:baseline;}
-  .head h1{font-size:26px;margin:0;font-weight:800;letter-spacing:.3px;}
-  .head .hint{font-size:18px;color:#8b98a5;}
-  /* ---- Liste ---- */
-  .list{margin-top:14px;}
-  .row{display:flex;align-items:center;gap:14px;padding:14px 16px;border-radius:12px;border:3px solid transparent;margin-bottom:8px;}
-  .row.focus{border-color:#e6edf3;background:#0e0e0e;}
-  .row .y{font-size:34px;font-weight:800;min-width:132px;}
-  .row .mid{font-size:24px;color:#e6edf3;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
-  .row .d{font-size:22px;color:#9aa7b2;margin-left:auto;white-space:nowrap;}
-  /* ---- Detail ---- */
-  .detail{margin-top:10px;height:520px;display:flex;flex-direction:column;}
-  .detail .big{font-size:82px;font-weight:800;line-height:1.05;}
-  .detail .title{font-size:30px;margin:14px 0 20px;color:#fff;font-weight:600;line-height:1.2;}
-  .detail .grid{display:flex;gap:40px;margin-top:6px;}
-  .detail .grid .lbl{font-size:20px;color:#8b98a5;}
-  .detail .grid .val{font-size:38px;font-weight:700;}
-  .detail .src{margin-top:auto;font-size:22px;color:#9aa7b2;}
-  /* ---- Farben nach Rendite ---- */
   .g{color:#3fb950;} .ye{color:#d29922;} .w{color:#ffffff;}
-  /* ---- Fuß ---- */
-  .foot{position:absolute;left:26px;bottom:14px;font-size:16px;color:#6b7681;}
-  .pageinfo{position:absolute;right:26px;bottom:14px;font-size:16px;color:#6b7681;}
-  #empty{display:none;position:absolute;inset:0;align-items:center;justify-content:center;font-size:40px;color:#8b98a5;}
+
+  /* ============================================================
+     GLAS-MODUS – 600x600, additiv (schwarz = transparent)
+     ============================================================ */
+  html.glass, html.glass body{margin:0;padding:0;width:600px;height:600px;overflow:hidden;background:#000;}
+  html.glass #app{width:600px;height:600px;background:#000;color:#fff;position:relative;padding:22px 26px;}
+  html.glass .head{display:flex;justify-content:space-between;align-items:baseline;}
+  html.glass .head h1{font-size:26px;margin:0;font-weight:800;letter-spacing:.3px;}
+  html.glass .head .hint{font-size:18px;color:#8b98a5;}
+  html.glass .list{margin-top:14px;}
+  html.glass .row{display:flex;align-items:center;gap:14px;padding:14px 16px;border-radius:12px;border:3px solid transparent;margin-bottom:8px;}
+  html.glass .row.focus{border-color:#e6edf3;background:#0e0e0e;}
+  html.glass .row .y{font-size:34px;font-weight:800;min-width:132px;}
+  html.glass .row .mid{font-size:24px;color:#e6edf3;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+  html.glass .row .d{font-size:22px;color:#9aa7b2;margin-left:auto;white-space:nowrap;}
+  html.glass .detail{margin-top:10px;height:520px;display:flex;flex-direction:column;}
+  html.glass .detail .big{font-size:82px;font-weight:800;line-height:1.05;}
+  html.glass .detail .title{font-size:30px;margin:14px 0 20px;color:#fff;font-weight:600;line-height:1.2;}
+  html.glass .detail .grid{display:flex;gap:40px;margin-top:6px;}
+  html.glass .detail .grid .lbl{font-size:20px;color:#8b98a5;}
+  html.glass .detail .grid .val{font-size:38px;font-weight:700;}
+  html.glass .detail .src{margin-top:auto;font-size:22px;color:#9aa7b2;}
+  html.glass .link,html.glass .backbtn{display:none;}       /* kein Touch/Browser auf der Brille */
+  html.glass .foot{position:absolute;left:26px;bottom:14px;font-size:16px;color:#6b7681;}
+  html.glass .pageinfo{position:absolute;right:26px;bottom:14px;font-size:16px;color:#6b7681;}
+  html.glass #empty{display:none;position:absolute;inset:0;align-items:center;justify-content:center;font-size:40px;color:#8b98a5;}
+
+  /* ============================================================
+     WEB-MODUS – responsiv (Handy/Desktop)
+     ============================================================ */
+  html.web,html.web body{margin:0;padding:0;width:100%;background:#0b0f14;color:#e6edf3;}
+  html.web body{min-height:100vh;-webkit-text-size-adjust:100%;}
+  html.web #app{position:static;width:100%;max-width:680px;min-height:100vh;margin:0 auto;
+                padding:0 16px calc(28px + env(safe-area-inset-bottom));background:#0b0f14;}
+  html.web .head{position:sticky;top:0;z-index:5;display:flex;justify-content:space-between;align-items:baseline;
+                 gap:10px;background:#0b0f14;padding:14px 0 12px;border-bottom:1px solid #1c232b;}
+  html.web .head h1{font-size:clamp(18px,5.2vw,24px);margin:0;font-weight:800;line-height:1.15;}
+  html.web .head .hint{font-size:12px;color:#8b98a5;white-space:nowrap;}
+
+  html.web .list{margin-top:12px;}
+  html.web .row{display:flex;align-items:center;gap:12px;padding:14px;margin-bottom:10px;border-radius:14px;
+                border:1px solid #1c232b;background:#11161c;cursor:pointer;-webkit-tap-highlight-color:transparent;}
+  html.web .row:active{background:#161d25;}
+  html.web .row.focus{border-color:#30363d;}
+  html.web .row .y{font-size:clamp(24px,7vw,30px);font-weight:800;min-width:92px;}
+  html.web .row .mid{font-size:clamp(13px,3.9vw,16px);color:#e6edf3;line-height:1.25;flex:1;}
+  html.web .row .d{font-size:12px;color:#9aa7b2;text-align:right;white-space:nowrap;}
+  html.web .row::after{content:"›";color:#4b5560;font-size:22px;margin-left:2px;}
+
+  html.web .detail{position:static;height:auto;margin-top:12px;display:flex;flex-direction:column;}
+  html.web .detail .big{font-size:clamp(46px,16vw,72px);font-weight:800;line-height:1.02;}
+  html.web .detail .title{font-size:clamp(18px,5vw,22px);margin:12px 0 18px;font-weight:600;line-height:1.25;color:#fff;}
+  html.web .detail .grid{display:flex;flex-wrap:wrap;gap:16px 34px;margin-top:4px;}
+  html.web .detail .grid .lbl{font-size:13px;color:#8b98a5;}
+  html.web .detail .grid .val{font-size:clamp(22px,6vw,30px);font-weight:700;}
+  html.web .detail .src{margin-top:16px;font-size:14px;color:#9aa7b2;}
+  html.web .link{display:inline-block;margin-top:22px;padding:14px 20px;border-radius:12px;background:#1f6feb;
+                 color:#fff;text-decoration:none;font-weight:700;font-size:16px;text-align:center;}
+  html.web .link:active{background:#1a5fd0;}
+  html.web .backbtn{display:inline-block;margin:2px 0 14px;padding:8px 0;border:0;background:none;color:#8b98a5;
+                    font-size:15px;cursor:pointer;}
+  html.web .foot{position:static;margin-top:20px;padding-top:12px;border-top:1px solid #1c232b;font-size:12px;color:#6b7681;}
+  html.web .pageinfo{font-size:12px;color:#8b98a5;}
+  html.web #empty{display:none;padding:80px 0;text-align:center;font-size:22px;color:#8b98a5;}
 </style>
 </head>
 <body>
@@ -47,6 +107,7 @@
 </div>
 <script>
 "use strict";
+var ISGLASS = !!window.__ISGLASS__;
 var PER_PAGE = 5, CACHE_KEY = "immo_deals_cache";
 var deals = [], generatedAt = "", focus = 0, view = "list";
 
@@ -54,11 +115,12 @@ function colorClass(y){ return y >= 5 ? "g" : (y >= 4 ? "ye" : "w"); }
 function fmtEuro(n){ return (n==null? "–" : Number(n).toLocaleString("de-DE")) + " €"; }
 function fmtYield(y){ return (y==null? "–" : Number(y).toLocaleString("de-DE",{minimumFractionDigits:2,maximumFractionDigits:2})) + " %"; }
 function fmtSqm(n){ return (n==null? "–" : Number(n).toLocaleString("de-DE")) + " m²"; }
-function esc(s){ return (s||"").replace(/[&<>]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;"}[c];}); }
+function esc(s){ return (s||"").replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];}); }
+function safeUrl(u){ return /^https?:\/\//i.test(u||"") ? u : ""; }
 
 function render(){
   var empty = document.getElementById("empty");
-  if(!deals.length){ empty.style.display="flex"; document.getElementById("listView").style.display="none"; document.getElementById("detailView").style.display="none"; document.getElementById("pageinfo").textContent=""; return; }
+  if(!deals.length){ empty.style.display=ISGLASS?"flex":"block"; document.getElementById("listView").style.display="none"; document.getElementById("detailView").style.display="none"; document.getElementById("pageinfo").textContent=""; return; }
   empty.style.display="none";
   if(view === "list") renderList(); else renderDetail();
   var d = new Date(generatedAt);
@@ -67,34 +129,42 @@ function render(){
 function renderList(){
   document.getElementById("listView").style.display="block";
   document.getElementById("detailView").style.display="none";
-  document.getElementById("hint").textContent = "▲▼ blättern · ⏎ Detail";
-  var page = Math.floor(focus / PER_PAGE), start = page*PER_PAGE, slice = deals.slice(start, start+PER_PAGE);
+  document.getElementById("hint").textContent = ISGLASS ? "▲▼ blättern · ⏎ Detail" : "Tippen für Details";
+  var start, slice;
+  if(ISGLASS){ var page = Math.floor(focus / PER_PAGE); start = page*PER_PAGE; slice = deals.slice(start, start+PER_PAGE); }
+  else { start = 0; slice = deals; }   // Web: alle, scrollbar
   var html = "";
   for(var i=0;i<slice.length;i++){
     var g = start+i, o = slice[i], cc = colorClass(o["yield"]);
     var mid = fmtEuro(o.price) + " · " + fmtSqm(o.sqm);
-    html += '<div class="row'+(g===focus?" focus":"")+'">'
+    if(!ISGLASS && o.title) mid += "<br><span style='color:#8b98a5'>" + esc(String(o.title).slice(0,70)) + "</span>";
+    html += '<div class="row'+(g===focus?" focus":"")+'" data-idx="'+g+'">'
           + '<div class="y '+cc+'">'+fmtYield(o["yield"])+'</div>'
           + '<div class="mid">'+mid+'</div>'
           + '<div class="d">'+esc(o.district||o.source||"")+'</div></div>';
   }
   document.getElementById("listView").innerHTML = html;
-  document.getElementById("pageinfo").textContent = "Deal " + (focus+1) + " / " + deals.length;
+  document.getElementById("pageinfo").textContent = ISGLASS
+      ? ("Deal " + (focus+1) + " / " + deals.length)
+      : (deals.length + " Deals · Top nach Bruttorendite");
 }
 function renderDetail(){
   document.getElementById("listView").style.display="none";
   var dv = document.getElementById("detailView"); dv.style.display="flex";
-  document.getElementById("hint").textContent = "◀ Liste · ▲▼ wechseln";
-  var o = deals[focus], cc = colorClass(o["yield"]);
-  dv.innerHTML =
-      '<div class="big '+cc+'">'+fmtYield(o["yield"])+'</div>'
-    + '<div class="title">'+esc(o.title||"")+'</div>'
-    + '<div class="grid">'
-    +   '<div><div class="lbl">Preis</div><div class="val">'+fmtEuro(o.price)+'</div></div>'
-    +   '<div><div class="lbl">Fläche</div><div class="val">'+fmtSqm(o.sqm)+'</div></div>'
-    +   '<div><div class="lbl">Stadtteil</div><div class="val">'+esc(o.district||"–")+'</div></div>'
-    + '</div>'
-    + '<div class="src">Quelle: '+esc(o.source||"–")+'</div>';
+  document.getElementById("hint").textContent = ISGLASS ? "◀ Liste · ▲▼ wechseln" : "Detail";
+  var o = deals[focus], cc = colorClass(o["yield"]), url = safeUrl(o.url);
+  var html = "";
+  if(!ISGLASS) html += '<button class="backbtn" type="button">‹ Zurück zur Liste</button>';
+  html += '<div class="big '+cc+'">'+fmtYield(o["yield"])+'</div>'
+        + '<div class="title">'+esc(o.title||"")+'</div>'
+        + '<div class="grid">'
+        +   '<div><div class="lbl">Preis</div><div class="val">'+fmtEuro(o.price)+'</div></div>'
+        +   '<div><div class="lbl">Fläche</div><div class="val">'+fmtSqm(o.sqm)+'</div></div>'
+        +   '<div><div class="lbl">Stadtteil</div><div class="val">'+esc(o.district||"–")+'</div></div>'
+        + '</div>'
+        + '<div class="src">Quelle: '+esc(o.source||"–")+'</div>';
+  if(!ISGLASS && url) html += '<a class="link" href="'+esc(url)+'" target="_blank" rel="noopener noreferrer">Zum Inserat ↗</a>';
+  dv.innerHTML = html;
   document.getElementById("pageinfo").textContent = "Deal " + (focus+1) + " / " + deals.length;
 }
 function moveFocus(delta){
@@ -102,6 +172,7 @@ function moveFocus(delta){
   focus = (focus + delta + deals.length) % deals.length;
   render();
 }
+/* Tastatur (Glas + Desktop) */
 document.addEventListener("keydown", function(e){
   switch(e.key){
     case "ArrowDown": e.preventDefault(); moveFocus(1); break;
@@ -110,6 +181,13 @@ document.addEventListener("keydown", function(e){
     case "ArrowLeft": e.preventDefault(); if(view==="detail"){ view="list"; render(); } break;
     case "ArrowRight":e.preventDefault(); if(view==="list"){ view="detail"; render(); } break;
   }
+});
+/* Tippen/Klick (Web) */
+document.getElementById("app").addEventListener("click", function(e){
+  if(e.target.closest(".link")) return;                          // Link normal folgen lassen
+  if(e.target.closest(".backbtn")){ view="list"; render(); window.scrollTo(0,0); return; }
+  var row = e.target.closest(".row");
+  if(row && row.getAttribute("data-idx")!=null){ focus = +row.getAttribute("data-idx"); view="detail"; render(); window.scrollTo(0,0); }
 });
 
 function applyData(obj){
@@ -121,13 +199,11 @@ function applyData(obj){
   }
   return false;
 }
-// 1) Cache zuerst
 try{ var c = JSON.parse(localStorage.getItem(CACHE_KEY)||"null"); if(c) applyData(c); }catch(err){}
-// 2) frische deals.json holen
 fetch("deals.json", {cache:"no-store"})
   .then(function(r){ if(!r.ok) throw new Error(r.status); return r.json(); })
   .then(function(j){ if(applyData(j)){ try{ localStorage.setItem(CACHE_KEY, JSON.stringify(j)); }catch(e){} } })
-  .catch(function(){ if(!deals.length) render(); /* zeigt "Keine Daten" */ });
+  .catch(function(){ if(!deals.length) render(); });
 render();
 </script>
 </body>
