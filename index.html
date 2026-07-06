@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="mrbd-web-app-capable" content="yes">
+<meta name="viewport" content="width=600, height=600">
+<title>Immo-Deals</title>
+<style>
+  html,body{margin:0;padding:0;width:600px;height:600px;overflow:hidden;background:#000;}
+  *{box-sizing:border-box;font-family:system-ui,"Segoe UI",Roboto,Arial,sans-serif;}
+  #app{width:600px;height:600px;background:#000;color:#fff;position:relative;padding:22px 26px;}
+  .head{display:flex;justify-content:space-between;align-items:baseline;}
+  .head h1{font-size:26px;margin:0;font-weight:800;letter-spacing:.3px;}
+  .head .hint{font-size:18px;color:#8b98a5;}
+  /* ---- Liste ---- */
+  .list{margin-top:14px;}
+  .row{display:flex;align-items:center;gap:14px;padding:14px 16px;border-radius:12px;border:3px solid transparent;margin-bottom:8px;}
+  .row.focus{border-color:#e6edf3;background:#0e0e0e;}
+  .row .y{font-size:34px;font-weight:800;min-width:132px;}
+  .row .mid{font-size:24px;color:#e6edf3;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+  .row .d{font-size:22px;color:#9aa7b2;margin-left:auto;white-space:nowrap;}
+  /* ---- Detail ---- */
+  .detail{margin-top:10px;height:520px;display:flex;flex-direction:column;}
+  .detail .big{font-size:82px;font-weight:800;line-height:1.05;}
+  .detail .title{font-size:30px;margin:14px 0 20px;color:#fff;font-weight:600;line-height:1.2;}
+  .detail .grid{display:flex;gap:40px;margin-top:6px;}
+  .detail .grid .lbl{font-size:20px;color:#8b98a5;}
+  .detail .grid .val{font-size:38px;font-weight:700;}
+  .detail .src{margin-top:auto;font-size:22px;color:#9aa7b2;}
+  /* ---- Farben nach Rendite ---- */
+  .g{color:#3fb950;} .ye{color:#d29922;} .w{color:#ffffff;}
+  /* ---- Fuß ---- */
+  .foot{position:absolute;left:26px;bottom:14px;font-size:16px;color:#6b7681;}
+  .pageinfo{position:absolute;right:26px;bottom:14px;font-size:16px;color:#6b7681;}
+  #empty{display:none;position:absolute;inset:0;align-items:center;justify-content:center;font-size:40px;color:#8b98a5;}
+</style>
+</head>
+<body>
+<div id="app">
+  <div class="head"><h1>🏠 Immo-Deals Frankfurt</h1><div class="hint" id="hint">▲▼ blättern · ⏎ Detail</div></div>
+  <div id="listView" class="list"></div>
+  <div id="detailView" class="detail" style="display:none"></div>
+  <div class="foot" id="foot">–</div>
+  <div class="pageinfo" id="pageinfo"></div>
+  <div id="empty">Keine Daten</div>
+</div>
+<script>
+"use strict";
+var PER_PAGE = 5, CACHE_KEY = "immo_deals_cache";
+var deals = [], generatedAt = "", focus = 0, view = "list";
+
+function colorClass(y){ return y >= 5 ? "g" : (y >= 4 ? "ye" : "w"); }
+function fmtEuro(n){ return (n==null? "–" : Number(n).toLocaleString("de-DE")) + " €"; }
+function fmtYield(y){ return (y==null? "–" : Number(y).toLocaleString("de-DE",{minimumFractionDigits:2,maximumFractionDigits:2})) + " %"; }
+function fmtSqm(n){ return (n==null? "–" : Number(n).toLocaleString("de-DE")) + " m²"; }
+function esc(s){ return (s||"").replace(/[&<>]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;"}[c];}); }
+
+function render(){
+  var empty = document.getElementById("empty");
+  if(!deals.length){ empty.style.display="flex"; document.getElementById("listView").style.display="none"; document.getElementById("detailView").style.display="none"; document.getElementById("pageinfo").textContent=""; return; }
+  empty.style.display="none";
+  if(view === "list") renderList(); else renderDetail();
+  var d = new Date(generatedAt);
+  document.getElementById("foot").textContent = "Stand: " + (isNaN(d) ? (generatedAt||"–") : d.toLocaleString("de-DE",{day:"2-digit",month:"2-digit",year:"numeric",hour:"2-digit",minute:"2-digit"}));
+}
+function renderList(){
+  document.getElementById("listView").style.display="block";
+  document.getElementById("detailView").style.display="none";
+  document.getElementById("hint").textContent = "▲▼ blättern · ⏎ Detail";
+  var page = Math.floor(focus / PER_PAGE), start = page*PER_PAGE, slice = deals.slice(start, start+PER_PAGE);
+  var html = "";
+  for(var i=0;i<slice.length;i++){
+    var g = start+i, o = slice[i], cc = colorClass(o["yield"]);
+    var mid = fmtEuro(o.price) + " · " + fmtSqm(o.sqm);
+    html += '<div class="row'+(g===focus?" focus":"")+'">'
+          + '<div class="y '+cc+'">'+fmtYield(o["yield"])+'</div>'
+          + '<div class="mid">'+mid+'</div>'
+          + '<div class="d">'+esc(o.district||o.source||"")+'</div></div>';
+  }
+  document.getElementById("listView").innerHTML = html;
+  document.getElementById("pageinfo").textContent = "Deal " + (focus+1) + " / " + deals.length;
+}
+function renderDetail(){
+  document.getElementById("listView").style.display="none";
+  var dv = document.getElementById("detailView"); dv.style.display="flex";
+  document.getElementById("hint").textContent = "◀ Liste · ▲▼ wechseln";
+  var o = deals[focus], cc = colorClass(o["yield"]);
+  dv.innerHTML =
+      '<div class="big '+cc+'">'+fmtYield(o["yield"])+'</div>'
+    + '<div class="title">'+esc(o.title||"")+'</div>'
+    + '<div class="grid">'
+    +   '<div><div class="lbl">Preis</div><div class="val">'+fmtEuro(o.price)+'</div></div>'
+    +   '<div><div class="lbl">Fläche</div><div class="val">'+fmtSqm(o.sqm)+'</div></div>'
+    +   '<div><div class="lbl">Stadtteil</div><div class="val">'+esc(o.district||"–")+'</div></div>'
+    + '</div>'
+    + '<div class="src">Quelle: '+esc(o.source||"–")+'</div>';
+  document.getElementById("pageinfo").textContent = "Deal " + (focus+1) + " / " + deals.length;
+}
+function moveFocus(delta){
+  if(!deals.length) return;
+  focus = (focus + delta + deals.length) % deals.length;
+  render();
+}
+document.addEventListener("keydown", function(e){
+  switch(e.key){
+    case "ArrowDown": e.preventDefault(); moveFocus(1); break;
+    case "ArrowUp":   e.preventDefault(); moveFocus(-1); break;
+    case "Enter":     e.preventDefault(); view = (view==="list"?"detail":"list"); render(); break;
+    case "ArrowLeft": e.preventDefault(); if(view==="detail"){ view="list"; render(); } break;
+    case "ArrowRight":e.preventDefault(); if(view==="list"){ view="detail"; render(); } break;
+  }
+});
+
+function applyData(obj){
+  if(obj && Array.isArray(obj.deals) && obj.deals.length){
+    deals = obj.deals; generatedAt = obj.generated_at || obj.generatedAt || "";
+    if(focus >= deals.length) focus = 0;
+    render();
+    return true;
+  }
+  return false;
+}
+// 1) Cache zuerst
+try{ var c = JSON.parse(localStorage.getItem(CACHE_KEY)||"null"); if(c) applyData(c); }catch(err){}
+// 2) frische deals.json holen
+fetch("deals.json", {cache:"no-store"})
+  .then(function(r){ if(!r.ok) throw new Error(r.status); return r.json(); })
+  .then(function(j){ if(applyData(j)){ try{ localStorage.setItem(CACHE_KEY, JSON.stringify(j)); }catch(e){} } })
+  .catch(function(){ if(!deals.length) render(); /* zeigt "Keine Daten" */ });
+render();
+</script>
+</body>
+</html>

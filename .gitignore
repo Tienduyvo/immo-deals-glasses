@@ -1,0 +1,7 @@
+# Nur index.html, deals.json und README gehören ins öffentliche Repo.
+# Alles andere ausschließen (Sicherheit gegen versehentliche Secrets).
+*
+!index.html
+!deals.json
+!README.md
+!.gitignore
