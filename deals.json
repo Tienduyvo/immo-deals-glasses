@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-06T22:17:16",
+ "generated_at": "2026-07-07T00:13:47",
  "count": 30,
  "deals": [
   {
@@ -293,14 +293,14 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55076&land_abk=he"
   },
   {
-   "eur_sqm": 3754,
-   "yield": 4.48,
-   "price": 259000,
-   "sqm": 69,
-   "district": "Kalbach",
-   "source": "Immowelt (Mail)",
-   "title": "Wohnträume... 2 Zi.-Penthouse, Frankfurt-Kalbach",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Mjl9ADMAAAAAAHwdHykpYtGZMQ_JVGKIRNVSd-GmrtGBSbNY5Uw0fJOOl-plfivTSvciFT08ChYr0r7yhsWg5RXmpUmi9eqpQztSWL14GXdG_JMSIs_WnJTvOc69FA"
+   "eur_sqm": 3780,
+   "yield": 4.44,
+   "price": 155000,
+   "sqm": 41.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "ImmoScout24 (Mail)",
+   "title": "Inserat\" conversion=\"false\" data-linkto=\"https://\">Frankfurt",
+   "url": "https://push.search.is24.de/email/expose/163907636"
   }
  ]
 }
