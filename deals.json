@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-07-06T21:41:10",
+ "generated_at": "2026-07-06T22:17:16",
  "count": 30,
  "deals": [
   {
+   "eur_sqm": 1152,
    "yield": 14.58,
    "price": 325000,
    "sqm": 282,
@@ -12,6 +13,7 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55061&land_abk=he"
   },
   {
+   "eur_sqm": 1899,
    "yield": 8.85,
    "price": 695000,
    "sqm": 366.0,
@@ -21,6 +23,7 @@
    "url": "https://www.immobilienscout24.de/expose/168879099"
   },
   {
+   "eur_sqm": 2017,
    "yield": 8.33,
    "price": 353000,
    "sqm": 175,
@@ -30,6 +33,7 @@
    "url": "https://www.immobilienscout24.de/expose/168265319"
   },
   {
+   "eur_sqm": 2129,
    "yield": 7.89,
    "price": 121000,
    "sqm": 56.83,
@@ -39,6 +43,7 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54926&land_abk=he"
   },
   {
+   "eur_sqm": 2183,
    "yield": 7.7,
    "price": 275000,
    "sqm": 126.0,
@@ -48,6 +53,7 @@
    "url": "https://www.immobilienscout24.de/expose/169028358"
   },
   {
+   "eur_sqm": 2187,
    "yield": 7.68,
    "price": 398000,
    "sqm": 182.0,
@@ -57,6 +63,7 @@
    "url": "https://www.immobilienscout24.de/expose/169030181"
   },
   {
+   "eur_sqm": 2300,
    "yield": 7.3,
    "price": 299000,
    "sqm": 130.0,
@@ -66,24 +73,7 @@
    "url": "https://www.immobilienscout24.de/expose/169022817"
   },
   {
-   "yield": 7.0,
-   "price": 605000,
-   "sqm": 252.2,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Browser)",
-   "title": "Abbruchreifes Dreifamilienhaus nebst 5 Garagen (= ZVG Willib",
-   "url": "https://www.immobilienscout24.de/expose/168920074"
-  },
-  {
-   "yield": 7.0,
-   "price": 605000,
-   "sqm": 252.2,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Mail)",
-   "title": "Abbruchreifes Dreifamilienhaus nebst 5 Garagen",
-   "url": "https://www.immobilienscout24.de/expose/169083531"
-  },
-  {
+   "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
    "sqm": 252,
@@ -93,6 +83,7 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
   },
   {
+   "eur_sqm": 2585,
    "yield": 6.5,
    "price": 200000,
    "sqm": 77.38,
@@ -102,15 +93,7 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54990&land_abk=he"
   },
   {
-   "yield": 6.48,
-   "price": 200000,
-   "sqm": 77.1,
-   "district": "Frankfurt (unspez.)",
-   "source": "immoscout24-mail",
-   "title": "3-Zimmer-Wohnung nebst Loggia mit Weitblick",
-   "url": "https://www.immobilienscout24.de/expose/169083530"
-  },
-  {
+   "eur_sqm": 2683,
    "yield": 6.26,
    "price": 169000,
    "sqm": 63.0,
@@ -120,15 +103,7 @@
    "url": "https://www.immobilienscout24.de/expose/169087004"
   },
   {
-   "yield": 6.26,
-   "price": 169000,
-   "sqm": 63.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Mail)",
-   "title": "Verdana, sans-serif; font-size:13px; line-height:1.4; color:",
-   "url": "https://push.search.is24.de/email/expose/169087004"
-  },
-  {
+   "eur_sqm": 2743,
    "yield": 6.13,
    "price": 1300000,
    "sqm": 474.0,
@@ -138,6 +113,7 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54983&land_abk=he"
   },
   {
+   "eur_sqm": 2770,
    "yield": 6.06,
    "price": 450000,
    "sqm": 162.43,
@@ -147,6 +123,7 @@
    "url": "https://www.immobilienscout24.de/expose/168947215"
   },
   {
+   "eur_sqm": 2799,
    "yield": 6.0,
    "price": 1125000,
    "sqm": 402,
@@ -156,6 +133,7 @@
    "url": "https://www.immobilienscout24.de/expose/168520469"
   },
   {
+   "eur_sqm": 2943,
    "yield": 5.71,
    "price": 1120000,
    "sqm": 380.5,
@@ -165,60 +143,7 @@
    "url": "https://www.immobilienscout24.de/expose/167986260"
   },
   {
-   "yield": 5.64,
-   "price": 629000,
-   "sqm": 211.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Browser)",
-   "title": "Dreifamilienhaus und 2 Garagen (= ZVG Hartmannweg 16)",
-   "url": "https://www.immobilienscout24.de/expose/169003101"
-  },
-  {
-   "yield": 5.64,
-   "price": 629000,
-   "sqm": 211.09,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Mail)",
-   "title": "Dreifamilienhaus und 2 Garagen",
-   "url": "https://www.immobilienscout24.de/expose/169083541"
-  },
-  {
-   "yield": 5.64,
-   "price": 629000,
-   "sqm": 211.09,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Mail)",
-   "title": "Roboto, Arial, sans-serif; font-size: 17px;line-height: 1.4;",
-   "url": "https://push.search.is24.de/email/expose/169083541"
-  },
-  {
-   "yield": 5.64,
-   "price": 629000,
-   "sqm": 211.09,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Mail)",
-   "title": "Roboto, Arial, sans-serif; font-size: 17px;line-height: 1.4;",
-   "url": "https://push.search.is24.de/email/expose/169083531"
-  },
-  {
-   "yield": 5.64,
-   "price": 629000,
-   "sqm": 211.09,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Mail)",
-   "title": "Roboto, Arial, sans-serif; font-size: 17px;line-height: 1.4;",
-   "url": "https://push.search.is24.de/email/expose/169083526"
-  },
-  {
-   "yield": 5.64,
-   "price": 629000,
-   "sqm": 211.09,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Mail)",
-   "title": "Roboto, Arial, sans-serif; font-size: 17px;line-height: 1.4;",
-   "url": "https://push.search.is24.de/email/expose/169083519"
-  },
-  {
+   "eur_sqm": 2981,
    "yield": 5.64,
    "price": 629000,
    "sqm": 211,
@@ -228,24 +153,7 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55080&land_abk=he"
   },
   {
-   "yield": 5.25,
-   "price": 2040000,
-   "sqm": 637.03,
-   "district": "Kalbach",
-   "source": "ImmoScout24 (Browser)",
-   "title": "7-Familienhaus mit Balkonen und Terrassen (= ZVG Kalbacher H",
-   "url": "https://www.immobilienscout24.de/expose/168921096"
-  },
-  {
-   "yield": 5.25,
-   "price": 2040000,
-   "sqm": 637.1,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Mail)",
-   "title": "7-Familienhaus mit Balkonen und Terrasse",
-   "url": "https://www.immobilienscout24.de/expose/169083526"
-  },
-  {
+   "eur_sqm": 3203,
    "yield": 5.25,
    "price": 2040000,
    "sqm": 637.0,
@@ -255,6 +163,7 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54982&land_abk=he"
   },
   {
+   "eur_sqm": 3287,
    "yield": 5.11,
    "price": 355000,
    "sqm": 108.0,
@@ -264,6 +173,7 @@
    "url": "https://www.immobilienscout24.de/expose/168930130"
   },
   {
+   "eur_sqm": 3325,
    "yield": 5.05,
    "price": 195000,
    "sqm": 58.64,
@@ -271,6 +181,126 @@
    "source": "immoscout24-mail",
    "title": "Sie wollen hoch hinaus? Top gepflegte Zweizimmerwohnung mit ",
    "url": "https://www.immobilienscout24.de/expose/169096786"
+  },
+  {
+   "eur_sqm": 3342,
+   "yield": 5.03,
+   "price": 259000,
+   "sqm": 77.5,
+   "district": "Frankfurt (unspez.)",
+   "source": "ImmoScout24 (Browser)",
+   "title": "* Provisionsfrei * Kernsanierte 3,5-Zi.-Wohnung",
+   "url": "https://www.immobilienscout24.de/expose/169034921"
+  },
+  {
+   "eur_sqm": 3343,
+   "yield": 5.03,
+   "price": 229000,
+   "sqm": 68.5,
+   "district": "Frankfurt (unspez.)",
+   "source": "immoscout24-mail",
+   "title": "3ZKB Eigentumswohnung - für Eigennutzer und Kapitalanleger",
+   "url": "https://www.immobilienscout24.de/expose/169102060"
+  },
+  {
+   "eur_sqm": 3371,
+   "yield": 4.98,
+   "price": 268000,
+   "sqm": 79.5,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Hoher Wohncomfort, gepfl. Anl, Weitblick Taunuspan...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Mjl9ADMAAAAAAHw4XOnK9O2Ik64-zcKcPB04qXVSa2i6f8SRXNVaZWtQKvrl7WwHqsUNyp7GEKr4Ss224a32PCMFrJwNWHH41SYRQB454QtV2CMDkdrikzVJXcpoFg"
+  },
+  {
+   "eur_sqm": 3416,
+   "yield": 4.92,
+   "price": 361000,
+   "sqm": 105.68,
+   "district": "Frankfurt (unspez.)",
+   "source": "immoscout24-mail",
+   "title": "1/2 Anteil - 3-Zimmer-Wohnung",
+   "url": "https://www.immobilienscout24.de/expose/169083540"
+  },
+  {
+   "eur_sqm": 3420,
+   "yield": 4.91,
+   "price": 585500,
+   "sqm": 171.2,
+   "district": "Frankfurt (unspez.)",
+   "source": "ImmoScout24 (Browser)",
+   "title": "Ehemalige Scheune mit Loft-Charakter",
+   "url": "https://www.immobilienscout24.de/expose/169008290"
+  },
+  {
+   "eur_sqm": 3466,
+   "yield": 4.85,
+   "price": 2950000,
+   "sqm": 851.02,
+   "district": "Bornheim",
+   "source": "immoscout24-mail",
+   "title": "Frankfurt-Bornheim: Gepflegtes Mehrfamilienhaus mit 17 Wohnu",
+   "url": "https://www.immobilienscout24.de/expose/165472603"
+  },
+  {
+   "eur_sqm": 3546,
+   "yield": 4.74,
+   "price": 1298000,
+   "sqm": 366,
+   "district": "",
+   "source": "immoscout24-mail",
+   "title": "Bungalow mit moderner Architektur wartet auf die Eigentümer,",
+   "url": "https://www.immobilienscout24.de/expose/168503644"
+  },
+  {
+   "eur_sqm": 3590,
+   "yield": 4.68,
+   "price": 330000,
+   "sqm": 91.93,
+   "district": "Frankfurt (unspez.)",
+   "source": "ImmoScout24 (Browser)",
+   "title": "Lichtdurchflutete Drei-Zimmer-Wohnung",
+   "url": "https://www.immobilienscout24.de/expose/169039500"
+  },
+  {
+   "eur_sqm": 3590,
+   "yield": 4.68,
+   "price": 475000,
+   "sqm": 132.3,
+   "district": "Frankfurt (unspez.)",
+   "source": "ImmoScout24 (Browser)",
+   "title": "Endlich Platz für die Familie: Reihenhaus",
+   "url": "https://www.immobilienscout24.de/expose/169015869"
+  },
+  {
+   "eur_sqm": 3598,
+   "yield": 4.67,
+   "price": 295000,
+   "sqm": 82.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "immoscout24-mail",
+   "title": "Zentrale Altbauwohnung mit Balkon und hochwertiger Einbauküc",
+   "url": "https://www.immobilienscout24.de/expose/169085057"
+  },
+  {
+   "eur_sqm": 3617,
+   "yield": 4.64,
+   "price": 557000,
+   "sqm": 154,
+   "district": "Kriftel",
+   "source": "ZVG",
+   "title": "Einfamilienhaus : Theodor-Heuss-Weg 4, 65830 Kriftel",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55076&land_abk=he"
+  },
+  {
+   "eur_sqm": 3754,
+   "yield": 4.48,
+   "price": 259000,
+   "sqm": 69,
+   "district": "Kalbach",
+   "source": "Immowelt (Mail)",
+   "title": "Wohnträume... 2 Zi.-Penthouse, Frankfurt-Kalbach",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Mjl9ADMAAAAAAHwdHykpYtGZMQ_JVGKIRNVSd-GmrtGBSbNY5Uw0fJOOl-plfivTSvciFT08ChYr0r7yhsWg5RXmpUmi9eqpQztSWL14GXdG_JMSIs_WnJTvOc69FA"
   }
  ]
 }
