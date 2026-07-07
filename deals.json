@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-07T09:49:51",
+ "generated_at": "2026-07-07T09:50:57",
  "count": 30,
  "deals": [
   {
@@ -156,7 +156,7 @@
    "eur_sqm": 3126,
    "yield": 5.37,
    "price": 272000,
-   "sqm": 87,
+   "sqm": 87.0,
    "district": "Nieder-Eschbach",
    "source": "immoscout",
    "title": "FRANKFURT-NIEDER-ESCHBACH: Schöne und helle 3 ZW mit Balkon ",
@@ -216,7 +216,7 @@
    "eur_sqm": 3370,
    "yield": 4.99,
    "price": 246000,
-   "sqm": 73,
+   "sqm": 73.0,
    "district": "Rödelheim",
    "source": "kleinanzeigen-mail",
    "title": "Provisionsfrei* Schöne Wohnung in FRANKFURT Rödelheim",
@@ -236,7 +236,7 @@
    "eur_sqm": 3380,
    "yield": 4.97,
    "price": 169000,
-   "sqm": 50,
+   "sqm": 50.0,
    "district": "Frankfurt (unspez.)",
    "source": "kleinanzeigen-mail",
    "title": "Pflegeimmobilie Neubau als ⭐Kapitalanlage⭐ ab nur 200 € im M",
