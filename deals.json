@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-07-07T09:09:05",
+ "generated_at": "2026-07-07T09:49:51",
  "count": 30,
  "deals": [
   {
    "eur_sqm": 1152,
    "yield": 14.58,
    "price": 325000,
-   "sqm": 282,
+   "sqm": 282.0,
    "district": "Karben",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Rathausstraße 29, 61184 Karben",
@@ -14,7 +14,7 @@
   },
   {
    "eur_sqm": 1899,
-   "yield": 8.85,
+   "yield": null,
    "price": 695000,
    "sqm": 366.0,
    "district": "Frankfurt (unspez.)",
@@ -24,9 +24,9 @@
   },
   {
    "eur_sqm": 2017,
-   "yield": 8.33,
+   "yield": null,
    "price": 353000,
-   "sqm": 175,
+   "sqm": 175.0,
    "district": "Frankfurt (unspez.)",
    "source": "immoscout24-mail",
    "title": "Teilvermietetes MFH mit 4 Wohneinheiten und Erbbaurecht in g",
@@ -44,7 +44,7 @@
   },
   {
    "eur_sqm": 2183,
-   "yield": 7.7,
+   "yield": null,
    "price": 275000,
    "sqm": 126.0,
    "district": "Goldstein",
@@ -54,7 +54,7 @@
   },
   {
    "eur_sqm": 2187,
-   "yield": 7.68,
+   "yield": null,
    "price": 398000,
    "sqm": 182.0,
    "district": "Frankfurt (unspez.)",
@@ -64,7 +64,7 @@
   },
   {
    "eur_sqm": 2300,
-   "yield": 7.3,
+   "yield": null,
    "price": 299000,
    "sqm": 130.0,
    "district": "Frankfurt (unspez.)",
@@ -76,7 +76,7 @@
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
-   "sqm": 252,
+   "sqm": 252.0,
    "district": "Eschersheim",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
@@ -94,7 +94,7 @@
   },
   {
    "eur_sqm": 2683,
-   "yield": 6.26,
+   "yield": null,
    "price": 169000,
    "sqm": 63.0,
    "district": "Frankfurt (unspez.)",
@@ -114,7 +114,7 @@
   },
   {
    "eur_sqm": 2770,
-   "yield": 6.06,
+   "yield": null,
    "price": 450000,
    "sqm": 162.43,
    "district": "Frankfurt (unspez.)",
@@ -124,9 +124,9 @@
   },
   {
    "eur_sqm": 2799,
-   "yield": 6.0,
+   "yield": null,
    "price": 1125000,
-   "sqm": 402,
+   "sqm": 402.0,
    "district": "",
    "source": "immoscout24-mail",
    "title": "Kernsaniertes Zweifamilienhaus + Rohbau-Hinterhaus | Baugene",
@@ -134,7 +134,7 @@
   },
   {
    "eur_sqm": 2943,
-   "yield": 5.71,
+   "yield": null,
    "price": 1120000,
    "sqm": 380.5,
    "district": "Frankfurt (unspez.)",
@@ -146,7 +146,7 @@
    "eur_sqm": 2981,
    "yield": 5.64,
    "price": 629000,
-   "sqm": 211,
+   "sqm": 211.0,
    "district": "Seckbach",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Hartmannweg 16, 60389 Frankfurt am Main, ",
@@ -174,7 +174,7 @@
   },
   {
    "eur_sqm": 3287,
-   "yield": 5.11,
+   "yield": null,
    "price": 355000,
    "sqm": 108.0,
    "district": "Frankfurt (unspez.)",
@@ -184,7 +184,7 @@
   },
   {
    "eur_sqm": 3325,
-   "yield": 5.05,
+   "yield": null,
    "price": 195000,
    "sqm": 58.64,
    "district": "Oberrad",
@@ -194,7 +194,7 @@
   },
   {
    "eur_sqm": 3342,
-   "yield": 5.03,
+   "yield": null,
    "price": 259000,
    "sqm": 77.5,
    "district": "Frankfurt (unspez.)",
@@ -204,7 +204,7 @@
   },
   {
    "eur_sqm": 3343,
-   "yield": 5.03,
+   "yield": null,
    "price": 229000,
    "sqm": 68.5,
    "district": "Frankfurt (unspez.)",
@@ -244,7 +244,7 @@
   },
   {
    "eur_sqm": 3416,
-   "yield": 4.92,
+   "yield": null,
    "price": 361000,
    "sqm": 105.68,
    "district": "Frankfurt (unspez.)",
@@ -254,7 +254,7 @@
   },
   {
    "eur_sqm": 3420,
-   "yield": 4.91,
+   "yield": null,
    "price": 585500,
    "sqm": 171.2,
    "district": "Frankfurt (unspez.)",
@@ -264,7 +264,7 @@
   },
   {
    "eur_sqm": 3466,
-   "yield": 4.85,
+   "yield": null,
    "price": 2950000,
    "sqm": 851.02,
    "district": "Bornheim",
@@ -274,9 +274,9 @@
   },
   {
    "eur_sqm": 3546,
-   "yield": 4.74,
+   "yield": null,
    "price": 1298000,
-   "sqm": 366,
+   "sqm": 366.0,
    "district": "",
    "source": "immoscout24-mail",
    "title": "Bungalow mit moderner Architektur wartet auf die Eigentümer,",
@@ -284,7 +284,7 @@
   },
   {
    "eur_sqm": 3590,
-   "yield": 4.68,
+   "yield": null,
    "price": 330000,
    "sqm": 91.93,
    "district": "Frankfurt (unspez.)",
@@ -294,7 +294,7 @@
   },
   {
    "eur_sqm": 3590,
-   "yield": 4.68,
+   "yield": null,
    "price": 475000,
    "sqm": 132.3,
    "district": "Frankfurt (unspez.)",
