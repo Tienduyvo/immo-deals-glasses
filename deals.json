@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-07T07:53:37",
+ "generated_at": "2026-07-07T08:02:59",
  "count": 30,
  "deals": [
   {
@@ -11,6 +11,16 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Rathausstraße 29, 61184 Karben",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55061&land_abk=he"
+  },
+  {
+   "eur_sqm": 1625,
+   "yield": 10.34,
+   "price": 38999,
+   "sqm": 24,
+   "district": "Frankfurt (unspez.)",
+   "source": "kleinanzeigen-mail",
+   "title": "Tiny House mit Anhänger mit Ausstattung",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3327942869"
   },
   {
    "eur_sqm": 1899,
@@ -153,6 +163,16 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55080&land_abk=he"
   },
   {
+   "eur_sqm": 3126,
+   "yield": 5.37,
+   "price": 272000,
+   "sqm": 87,
+   "district": "Nieder-Eschbach",
+   "source": "immoscout",
+   "title": "FRANKFURT-NIEDER-ESCHBACH: Schöne und helle 3 ZW mit Balkon ",
+   "url": "https://www.immobilienscout24.de/expose/169074266"
+  },
+  {
    "eur_sqm": 3203,
    "yield": 5.25,
    "price": 2040000,
@@ -203,6 +223,16 @@
    "url": "https://www.immobilienscout24.de/expose/169102060"
   },
   {
+   "eur_sqm": 3370,
+   "yield": 4.99,
+   "price": 246000,
+   "sqm": 73,
+   "district": "Rödelheim",
+   "source": "kleinanzeigen-mail",
+   "title": "Provisionsfrei* Schöne Wohnung in FRANKFURT Rödelheim",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3452048596"
+  },
+  {
    "eur_sqm": 3371,
    "yield": 4.98,
    "price": 268000,
@@ -211,6 +241,16 @@
    "source": "Immowelt (Mail)",
    "title": "Hoher Wohncomfort, gepfl. Anl, Weitblick Taunuspan...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Mjl9ADMAAAAAAHw4XOnK9O2Ik64-zcKcPB04qXVSa2i6f8SRXNVaZWtQKvrl7WwHqsUNyp7GEKr4Ss224a32PCMFrJwNWHH41SYRQB454QtV2CMDkdrikzVJXcpoFg"
+  },
+  {
+   "eur_sqm": 3380,
+   "yield": 4.97,
+   "price": 169000,
+   "sqm": 50,
+   "district": "Frankfurt (unspez.)",
+   "source": "kleinanzeigen-mail",
+   "title": "Pflegeimmobilie Neubau als ⭐Kapitalanlage⭐ ab nur 200 € im M",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3451992963"
   },
   {
    "eur_sqm": 3416,
@@ -261,46 +301,6 @@
    "source": "ImmoScout24 (Browser)",
    "title": "Lichtdurchflutete Drei-Zimmer-Wohnung",
    "url": "https://www.immobilienscout24.de/expose/169039500"
-  },
-  {
-   "eur_sqm": 3590,
-   "yield": 4.68,
-   "price": 475000,
-   "sqm": 132.3,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Browser)",
-   "title": "Endlich Platz für die Familie: Reihenhaus",
-   "url": "https://www.immobilienscout24.de/expose/169015869"
-  },
-  {
-   "eur_sqm": 3598,
-   "yield": 4.67,
-   "price": 295000,
-   "sqm": 82.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "immoscout24-mail",
-   "title": "Zentrale Altbauwohnung mit Balkon und hochwertiger Einbauküc",
-   "url": "https://www.immobilienscout24.de/expose/169085057"
-  },
-  {
-   "eur_sqm": 3617,
-   "yield": 4.64,
-   "price": 557000,
-   "sqm": 154,
-   "district": "Kriftel",
-   "source": "ZVG",
-   "title": "Einfamilienhaus : Theodor-Heuss-Weg 4, 65830 Kriftel",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55076&land_abk=he"
-  },
-  {
-   "eur_sqm": 3780,
-   "yield": 4.44,
-   "price": 155000,
-   "sqm": 41.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Mail)",
-   "title": "Inserat\" conversion=\"false\" data-linkto=\"https://\">Frankfurt",
-   "url": "https://push.search.is24.de/email/expose/163907636"
   }
  ]
 }
