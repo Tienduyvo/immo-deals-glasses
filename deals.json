@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-07T08:31:47",
+ "generated_at": "2026-07-07T08:31:40",
  "count": 30,
  "deals": [
   {
@@ -213,16 +213,6 @@
    "url": "https://www.immobilienscout24.de/expose/169102060"
   },
   {
-   "eur_sqm": 3370,
-   "yield": 4.99,
-   "price": 246000,
-   "sqm": 73,
-   "district": "Rödelheim",
-   "source": "kleinanzeigen-mail",
-   "title": "Provisionsfrei* Schöne Wohnung in FRANKFURT Rödelheim",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3452048596"
-  },
-  {
    "eur_sqm": 3371,
    "yield": 4.98,
    "price": 268000,
@@ -231,16 +221,6 @@
    "source": "Immowelt (Mail)",
    "title": "Hoher Wohncomfort, gepfl. Anl, Weitblick Taunuspan...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Mjl9ADMAAAAAAHw4XOnK9O2Ik64-zcKcPB04qXVSa2i6f8SRXNVaZWtQKvrl7WwHqsUNyp7GEKr4Ss224a32PCMFrJwNWHH41SYRQB454QtV2CMDkdrikzVJXcpoFg"
-  },
-  {
-   "eur_sqm": 3380,
-   "yield": 4.97,
-   "price": 169000,
-   "sqm": 50,
-   "district": "Frankfurt (unspez.)",
-   "source": "kleinanzeigen-mail",
-   "title": "Pflegeimmobilie Neubau als ⭐Kapitalanlage⭐ ab nur 200 € im M",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3451992963"
   },
   {
    "eur_sqm": 3416,
@@ -301,6 +281,26 @@
    "source": "ImmoScout24 (Browser)",
    "title": "Endlich Platz für die Familie: Reihenhaus",
    "url": "https://www.immobilienscout24.de/expose/169015869"
+  },
+  {
+   "eur_sqm": 3598,
+   "yield": 4.67,
+   "price": 295000,
+   "sqm": 82.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "immoscout24-mail",
+   "title": "Zentrale Altbauwohnung mit Balkon und hochwertiger Einbauküc",
+   "url": "https://www.immobilienscout24.de/expose/169085057"
+  },
+  {
+   "eur_sqm": 3600,
+   "yield": 4.67,
+   "price": 162000,
+   "sqm": 45,
+   "district": "Frankfurt (unspez.)",
+   "source": "immoscout",
+   "title": "Attraktive 1 Zimmer Wohnung für Kapitalanleger in Frankfurt ",
+   "url": "https://www.immobilienscout24.de/expose/169032269"
   }
  ]
 }
