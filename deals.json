@@ -1,17 +1,7 @@
 {
- "generated_at": "2026-07-08T11:19:39",
+ "generated_at": "2026-07-08T11:39:52",
  "count": 30,
  "deals": [
-  {
-   "eur_sqm": 755,
-   "yield": 22.25,
-   "price": 730000,
-   "sqm": 967.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Mail)",
-   "title": "Roboto, Arial, sans-serif; font-size: 17px;line-height: 1.4;",
-   "url": "https://push.search.is24.de/email/expose/169110923"
-  },
   {
    "eur_sqm": 1152,
    "yield": 14.58,
@@ -111,16 +101,6 @@
    "source": "immoscout24-mail",
    "title": "Jetzt investieren: Zentrale Eigentumswohnung in gefragte Lag",
    "url": "https://www.immobilienscout24.de/expose/169087004"
-  },
-  {
-   "eur_sqm": 2712,
-   "yield": 6.19,
-   "price": 850000,
-   "sqm": 313.43,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Mail)",
-   "title": "Roboto, Arial, sans-serif; font-size: 17px;line-height: 1.4;",
-   "url": "https://push.search.is24.de/email/expose/169118264"
   },
   {
    "eur_sqm": 2743,
@@ -301,6 +281,26 @@
    "source": "ZVG",
    "title": "Eigentumswohnung (1 bis 2 Zimmer) : Kohlrauschweg 11, 11A, 1",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55105&land_abk=he"
+  },
+  {
+   "eur_sqm": 3546,
+   "yield": null,
+   "price": 1298000,
+   "sqm": 366.0,
+   "district": "",
+   "source": "immoscout24-mail",
+   "title": "Bungalow mit moderner Architektur wartet auf die Eigentümer,",
+   "url": "https://www.immobilienscout24.de/expose/168503644"
+  },
+  {
+   "eur_sqm": 3590,
+   "yield": null,
+   "price": 330000,
+   "sqm": 91.93,
+   "district": "Frankfurt (unspez.)",
+   "source": "ImmoScout24 (Browser)",
+   "title": "Lichtdurchflutete Drei-Zimmer-Wohnung",
+   "url": "https://www.immobilienscout24.de/expose/169039500"
   }
  ]
 }
