@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-08T11:39:52",
+ "generated_at": "2026-07-08T12:02:11",
  "count": 30,
  "deals": [
   {
@@ -153,10 +153,20 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55080&land_abk=he"
   },
   {
+   "eur_sqm": 3043,
+   "yield": 5.52,
+   "price": 140000,
+   "sqm": 46.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Attraktive",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzF9ADMAAAAAAH9txo5y0R26kVLmwCvJ7CCvaYjPSfiVPVUUl_N0iCadzAUFSATAYh53H0m-acjlTblMCeSKLiyBa25qvjCQTFDDLvH_QuwpHqPPI9MA7ggqdq4c8w"
+  },
+  {
    "eur_sqm": 3126,
    "yield": 5.37,
    "price": 272000,
-   "sqm": 87,
+   "sqm": 87.0,
    "district": "Nieder-Eschbach",
    "source": "immoscout",
    "title": "FRANKFURT-NIEDER-ESCHBACH: Schöne und helle 3 ZW mit Balkon ",
@@ -216,7 +226,7 @@
    "eur_sqm": 3370,
    "yield": 4.99,
    "price": 246000,
-   "sqm": 73,
+   "sqm": 73.0,
    "district": "Rödelheim",
    "source": "kleinanzeigen-mail",
    "title": "Provisionsfrei* Schöne Wohnung in FRANKFURT Rödelheim",
@@ -236,7 +246,7 @@
    "eur_sqm": 3380,
    "yield": 4.97,
    "price": 169000,
-   "sqm": 50,
+   "sqm": 50.0,
    "district": "Frankfurt (unspez.)",
    "source": "kleinanzeigen-mail",
    "title": "Pflegeimmobilie Neubau als ⭐Kapitalanlage⭐ ab nur 200 € im M",
@@ -291,16 +301,6 @@
    "source": "immoscout24-mail",
    "title": "Bungalow mit moderner Architektur wartet auf die Eigentümer,",
    "url": "https://www.immobilienscout24.de/expose/168503644"
-  },
-  {
-   "eur_sqm": 3590,
-   "yield": null,
-   "price": 330000,
-   "sqm": 91.93,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Browser)",
-   "title": "Lichtdurchflutete Drei-Zimmer-Wohnung",
-   "url": "https://www.immobilienscout24.de/expose/169039500"
   }
  ]
 }
