@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-07-08T08:17:04",
+ "generated_at": "2026-07-08T08:32:01",
  "count": 30,
  "deals": [
   {
    "eur_sqm": 1152,
    "yield": 14.58,
    "price": 325000,
-   "sqm": 282.0,
+   "sqm": 282,
    "district": "Karben",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Rathausstraße 29, 61184 Karben",
@@ -76,7 +76,7 @@
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
-   "sqm": 252.0,
+   "sqm": 252,
    "district": "Eschersheim",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
@@ -146,7 +146,7 @@
    "eur_sqm": 2981,
    "yield": 5.64,
    "price": 629000,
-   "sqm": 211.0,
+   "sqm": 211,
    "district": "Seckbach",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Hartmannweg 16, 60389 Frankfurt am Main, ",
@@ -213,16 +213,6 @@
    "url": "https://www.immobilienscout24.de/expose/169102060"
   },
   {
-   "eur_sqm": 3370,
-   "yield": 4.99,
-   "price": 246000,
-   "sqm": 73.0,
-   "district": "Rödelheim",
-   "source": "kleinanzeigen-mail",
-   "title": "Provisionsfrei* Schöne Wohnung in FRANKFURT Rödelheim",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3452048596"
-  },
-  {
    "eur_sqm": 3371,
    "yield": 4.98,
    "price": 268000,
@@ -231,16 +221,6 @@
    "source": "Immowelt (Mail)",
    "title": "Hoher Wohncomfort, gepfl. Anl, Weitblick Taunuspan...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Mjl9ADMAAAAAAHw4XOnK9O2Ik64-zcKcPB04qXVSa2i6f8SRXNVaZWtQKvrl7WwHqsUNyp7GEKr4Ss224a32PCMFrJwNWHH41SYRQB454QtV2CMDkdrikzVJXcpoFg"
-  },
-  {
-   "eur_sqm": 3380,
-   "yield": 4.97,
-   "price": 169000,
-   "sqm": 50.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "kleinanzeigen-mail",
-   "title": "Pflegeimmobilie Neubau als ⭐Kapitalanlage⭐ ab nur 200 € im M",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3451992963"
   },
   {
    "eur_sqm": 3416,
@@ -273,6 +253,16 @@
    "url": "https://www.immobilienscout24.de/expose/165472603"
   },
   {
+   "eur_sqm": 3542,
+   "yield": 4.74,
+   "price": 91000,
+   "sqm": 25.69,
+   "district": "Bockenheim",
+   "source": "ZVG",
+   "title": "Eigentumswohnung (1 bis 2 Zimmer) : Kohlrauschweg 11, 11A, 1",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55105&land_abk=he"
+  },
+  {
    "eur_sqm": 3546,
    "yield": null,
    "price": 1298000,
@@ -301,6 +291,16 @@
    "source": "ImmoScout24 (Browser)",
    "title": "Endlich Platz für die Familie: Reihenhaus",
    "url": "https://www.immobilienscout24.de/expose/169015869"
+  },
+  {
+   "eur_sqm": 3598,
+   "yield": null,
+   "price": 295000,
+   "sqm": 82.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "immoscout24-mail",
+   "title": "Zentrale Altbauwohnung mit Balkon und hochwertiger Einbauküc",
+   "url": "https://www.immobilienscout24.de/expose/169085057"
   }
  ]
 }
