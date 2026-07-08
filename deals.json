@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-07-08T11:15:27",
+ "generated_at": "2026-07-08T11:19:39",
  "count": 30,
  "deals": [
+  {
+   "eur_sqm": 755,
+   "yield": 22.25,
+   "price": 730000,
+   "sqm": 967.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "ImmoScout24 (Mail)",
+   "title": "Roboto, Arial, sans-serif; font-size: 17px;line-height: 1.4;",
+   "url": "https://push.search.is24.de/email/expose/169110923"
+  },
   {
    "eur_sqm": 1152,
    "yield": 14.58,
@@ -103,6 +113,16 @@
    "url": "https://www.immobilienscout24.de/expose/169087004"
   },
   {
+   "eur_sqm": 2712,
+   "yield": 6.19,
+   "price": 850000,
+   "sqm": 313.43,
+   "district": "Frankfurt (unspez.)",
+   "source": "ImmoScout24 (Mail)",
+   "title": "Roboto, Arial, sans-serif; font-size: 17px;line-height: 1.4;",
+   "url": "https://push.search.is24.de/email/expose/169118264"
+  },
+  {
    "eur_sqm": 2743,
    "yield": 6.13,
    "price": 1300000,
@@ -156,7 +176,7 @@
    "eur_sqm": 3126,
    "yield": 5.37,
    "price": 272000,
-   "sqm": 87.0,
+   "sqm": 87,
    "district": "Nieder-Eschbach",
    "source": "immoscout",
    "title": "FRANKFURT-NIEDER-ESCHBACH: Schöne und helle 3 ZW mit Balkon ",
@@ -213,6 +233,16 @@
    "url": "https://www.immobilienscout24.de/expose/169102060"
   },
   {
+   "eur_sqm": 3370,
+   "yield": 4.99,
+   "price": 246000,
+   "sqm": 73,
+   "district": "Rödelheim",
+   "source": "kleinanzeigen-mail",
+   "title": "Provisionsfrei* Schöne Wohnung in FRANKFURT Rödelheim",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3452048596"
+  },
+  {
    "eur_sqm": 3371,
    "yield": 4.98,
    "price": 268000,
@@ -221,6 +251,16 @@
    "source": "Immowelt (Mail)",
    "title": "Hoher Wohncomfort, gepfl. Anl, Weitblick Taunuspan...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Mjl9ADMAAAAAAHw4XOnK9O2Ik64-zcKcPB04qXVSa2i6f8SRXNVaZWtQKvrl7WwHqsUNyp7GEKr4Ss224a32PCMFrJwNWHH41SYRQB454QtV2CMDkdrikzVJXcpoFg"
+  },
+  {
+   "eur_sqm": 3380,
+   "yield": 4.97,
+   "price": 169000,
+   "sqm": 50,
+   "district": "Frankfurt (unspez.)",
+   "source": "kleinanzeigen-mail",
+   "title": "Pflegeimmobilie Neubau als ⭐Kapitalanlage⭐ ab nur 200 € im M",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3451992963"
   },
   {
    "eur_sqm": 3416,
@@ -261,46 +301,6 @@
    "source": "ZVG",
    "title": "Eigentumswohnung (1 bis 2 Zimmer) : Kohlrauschweg 11, 11A, 1",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55105&land_abk=he"
-  },
-  {
-   "eur_sqm": 3546,
-   "yield": null,
-   "price": 1298000,
-   "sqm": 366.0,
-   "district": "",
-   "source": "immoscout24-mail",
-   "title": "Bungalow mit moderner Architektur wartet auf die Eigentümer,",
-   "url": "https://www.immobilienscout24.de/expose/168503644"
-  },
-  {
-   "eur_sqm": 3590,
-   "yield": null,
-   "price": 330000,
-   "sqm": 91.93,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Browser)",
-   "title": "Lichtdurchflutete Drei-Zimmer-Wohnung",
-   "url": "https://www.immobilienscout24.de/expose/169039500"
-  },
-  {
-   "eur_sqm": 3590,
-   "yield": null,
-   "price": 475000,
-   "sqm": 132.3,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Browser)",
-   "title": "Endlich Platz für die Familie: Reihenhaus",
-   "url": "https://www.immobilienscout24.de/expose/169015869"
-  },
-  {
-   "eur_sqm": 3598,
-   "yield": null,
-   "price": 295000,
-   "sqm": 82.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "immoscout24-mail",
-   "title": "Zentrale Altbauwohnung mit Balkon und hochwertiger Einbauküc",
-   "url": "https://www.immobilienscout24.de/expose/169085057"
   }
  ]
 }
