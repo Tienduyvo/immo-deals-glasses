@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-09T10:31:20",
+ "generated_at": "2026-07-09T11:07:03",
  "count": 30,
  "deals": [
   {
@@ -173,6 +173,16 @@
    "url": "https://www.immobilienscout24.de/expose/169074266"
   },
   {
+   "eur_sqm": 3251,
+   "yield": 5.17,
+   "price": 1749000,
+   "sqm": 538.0,
+   "district": "Höchst",
+   "source": "Immowelt (Mail)",
+   "title": "Kapitalanlage im Herzen von Frankfurt-Höchst - Hau...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzJ9ADMAAAAAAIEIqM0vGuZlGJyKuSbrc5-Ras_MGEfHP5b4x1vhOKRNWt8cwXQV3T-HA4z6kNYWnbwyFvBRJVOZRBEfrBquMIKGBp3oqhlni5YB9ozIl3CdWj_Sdw"
+  },
+  {
    "eur_sqm": 3287,
    "yield": null,
    "price": 355000,
@@ -291,16 +301,6 @@
    "source": "ImmoScout24 (Browser)",
    "title": "Endlich Platz für die Familie: Reihenhaus",
    "url": "https://www.immobilienscout24.de/expose/169015869"
-  },
-  {
-   "eur_sqm": 3598,
-   "yield": null,
-   "price": 295000,
-   "sqm": 82.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "immoscout24-mail",
-   "title": "Zentrale Altbauwohnung mit Balkon und hochwertiger Einbauküc",
-   "url": "https://www.immobilienscout24.de/expose/169085057"
   }
  ]
 }
