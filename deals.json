@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-09T13:02:30",
+ "generated_at": "2026-07-09T13:18:13",
  "count": 30,
  "deals": [
   {
@@ -11,6 +11,16 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Rathausstraße 29, 61184 Karben",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55061&land_abk=he"
+  },
+  {
+   "eur_sqm": 1641,
+   "yield": 10.23,
+   "price": 499000,
+   "sqm": 304.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Raum für Generationen, Ideen und Perspektiven.",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzJ9ADMAAAAAAIFo8vbswnjUpImu6KUcoFGwGNvsk5qc6YbjFA_C9bCO86Hlm4VEbG_yubkpFdz9Vn_IWBLgmygNLwb440FlYi0kOqoQe9sFklX_aqXNb3fNaY8jBg"
   },
   {
    "eur_sqm": 1899,
@@ -291,16 +301,6 @@
    "source": "ImmoScout24 (Browser)",
    "title": "Lichtdurchflutete Drei-Zimmer-Wohnung",
    "url": "https://www.immobilienscout24.de/expose/169039500"
-  },
-  {
-   "eur_sqm": 3590,
-   "yield": null,
-   "price": 475000,
-   "sqm": 132.3,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Browser)",
-   "title": "Endlich Platz für die Familie: Reihenhaus",
-   "url": "https://www.immobilienscout24.de/expose/169015869"
   }
  ]
 }
