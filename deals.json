@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-07-10T08:31:42",
+ "generated_at": "2026-07-10T08:31:39",
  "count": 30,
  "deals": [
   {
    "eur_sqm": 1152,
    "yield": 14.58,
    "price": 325000,
-   "sqm": 282.0,
+   "sqm": 282,
    "district": "Karben",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Rathausstraße 29, 61184 Karben",
@@ -86,7 +86,7 @@
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
-   "sqm": 252.0,
+   "sqm": 252,
    "district": "Eschersheim",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
@@ -156,7 +156,7 @@
    "eur_sqm": 2981,
    "yield": 5.64,
    "price": 629000,
-   "sqm": 211.0,
+   "sqm": 211,
    "district": "Seckbach",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Hartmannweg 16, 60389 Frankfurt am Main, ",
@@ -181,6 +181,16 @@
    "source": "immoscout",
    "title": "FRANKFURT-NIEDER-ESCHBACH: Schöne und helle 3 ZW mit Balkon ",
    "url": "https://www.immobilienscout24.de/expose/169074266"
+  },
+  {
+   "eur_sqm": 3203,
+   "yield": 5.25,
+   "price": 2040000,
+   "sqm": 637.0,
+   "district": "Kalbach",
+   "source": "ZVG",
+   "title": "Mehrfamilienhaus : Kalbacher Hauptstraße 60c, 60437 Frankfur",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54982&land_abk=he"
   },
   {
    "eur_sqm": 3251,
@@ -271,16 +281,6 @@
    "source": "immoscout24-mail",
    "title": "Frankfurt-Bornheim: Gepflegtes Mehrfamilienhaus mit 17 Wohnu",
    "url": "https://www.immobilienscout24.de/expose/165472603"
-  },
-  {
-   "eur_sqm": 3506,
-   "yield": 4.79,
-   "price": 575000,
-   "sqm": 164.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Großzügiges Einfamilienhaus mit Garten in Frankfur...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzN9ADMAAAAAAII9vbqdU9v5wf82Mj-ymDL6GHD1cxTtFj0-O5ohqPoslOsc6oKSAgK85-q8WOYh3VdmJsX7ceKAcGV7TpXERC6XV-4r_yei1YDYXAetYeEBw25s-A"
   },
   {
    "eur_sqm": 3542,
