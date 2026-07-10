@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-07-10T08:31:39",
+ "generated_at": "2026-07-10T08:57:20",
  "count": 30,
  "deals": [
   {
    "eur_sqm": 1152,
    "yield": 14.58,
    "price": 325000,
-   "sqm": 282,
+   "sqm": 282.0,
    "district": "Karben",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Rathausstraße 29, 61184 Karben",
@@ -86,7 +86,7 @@
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
-   "sqm": 252,
+   "sqm": 252.0,
    "district": "Eschersheim",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
@@ -156,7 +156,7 @@
    "eur_sqm": 2981,
    "yield": 5.64,
    "price": 629000,
-   "sqm": 211,
+   "sqm": 211.0,
    "district": "Seckbach",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Hartmannweg 16, 60389 Frankfurt am Main, ",
@@ -283,6 +283,16 @@
    "url": "https://www.immobilienscout24.de/expose/165472603"
   },
   {
+   "eur_sqm": 3506,
+   "yield": 4.79,
+   "price": 575000,
+   "sqm": 164.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Großzügiges Einfamilienhaus mit Garten in Frankfur...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzN9ADMAAAAAAII9vbqdU9v5wf82Mj-ymDL6GHD1cxTtFj0-O5ohqPoslOsc6oKSAgK85-q8WOYh3VdmJsX7ceKAcGV7TpXERC6XV-4r_yei1YDYXAetYeEBw25s-A"
+  },
+  {
    "eur_sqm": 3542,
    "yield": 4.74,
    "price": 91000,
@@ -291,16 +301,6 @@
    "source": "ZVG",
    "title": "Eigentumswohnung (1 bis 2 Zimmer) : Kohlrauschweg 11, 11A, 1",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55105&land_abk=he"
-  },
-  {
-   "eur_sqm": 3546,
-   "yield": null,
-   "price": 1298000,
-   "sqm": 366.0,
-   "district": "",
-   "source": "immoscout24-mail",
-   "title": "Bungalow mit moderner Architektur wartet auf die Eigentümer,",
-   "url": "https://www.immobilienscout24.de/expose/168503644"
   }
  ]
 }
