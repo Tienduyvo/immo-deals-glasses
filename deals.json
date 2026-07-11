@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-11T08:53:10",
+ "generated_at": "2026-07-11T09:44:29",
  "count": 30,
  "deals": [
   {
@@ -81,6 +81,16 @@
    "source": "ImmoScout24 (Browser)",
    "title": "Ein Haus für Familie und neue Kapitel",
    "url": "https://www.immobilienscout24.de/expose/169022817"
+  },
+  {
+   "eur_sqm": 2364,
+   "yield": 7.11,
+   "price": 740000,
+   "sqm": 313.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Ca. im Jahr 2015 aufwendig saniertes Mehrgeneratio...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzR9ADMAAAAAAIPKpZgLlXxczXuLduRrVX3JRLdfgpCESaFUIz2mD5VyWJgzyJirfnl3V2uU3yK4E-nIU1_fE42Do3ikC2RmADRKz9fpNZ5oE2vHYvwYC5wDqj9jnQ"
   },
   {
    "eur_sqm": 2401,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Großzügiges Einfamilienhaus mit Garten in Frankfur...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzN9ADMAAAAAAII9vbqdU9v5wf82Mj-ymDL6GHD1cxTtFj0-O5ohqPoslOsc6oKSAgK85-q8WOYh3VdmJsX7ceKAcGV7TpXERC6XV-4r_yei1YDYXAetYeEBw25s-A"
-  },
-  {
-   "eur_sqm": 3542,
-   "yield": 4.74,
-   "price": 91000,
-   "sqm": 25.69,
-   "district": "Bockenheim",
-   "source": "ZVG",
-   "title": "Eigentumswohnung (1 bis 2 Zimmer) : Kohlrauschweg 11, 11A, 1",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55105&land_abk=he"
   }
  ]
 }
