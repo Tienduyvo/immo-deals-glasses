@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-07-13T08:59:53",
+ "generated_at": "2026-07-13T09:37:35",
  "count": 30,
  "deals": [
+  {
+   "eur_sqm": 1100,
+   "yield": 15.27,
+   "price": 55000,
+   "sqm": 50.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Gewerbefläxhe/laufender Premium Barbershop/Friseur...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzZ9ADMAAAAAAIWZYtQwG9EPKew-Y0_zXSkCm-lfDKQa6TiludvkX27O2xi_ESUIV9Ube-7MVaj_qrpev40-rW6PNqFTb7N0dwZkpA605c8fM0WHGd8X4lcMYEfBSA"
+  },
   {
    "eur_sqm": 1152,
    "yield": 14.58,
@@ -291,16 +301,6 @@
    "source": "immoscout24-mail",
    "title": "Frankfurt-Bornheim: Gepflegtes Mehrfamilienhaus mit 17 Wohnu",
    "url": "https://www.immobilienscout24.de/expose/165472603"
-  },
-  {
-   "eur_sqm": 3506,
-   "yield": 4.79,
-   "price": 575000,
-   "sqm": 164.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Großzügiges Einfamilienhaus mit Garten in Frankfur...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzN9ADMAAAAAAII9vbqdU9v5wf82Mj-ymDL6GHD1cxTtFj0-O5ohqPoslOsc6oKSAgK85-q8WOYh3VdmJsX7ceKAcGV7TpXERC6XV-4r_yei1YDYXAetYeEBw25s-A"
   }
  ]
 }
