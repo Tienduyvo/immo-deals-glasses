@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-13T14:31:34",
+ "generated_at": "2026-07-13T15:48:18",
  "count": 30,
  "deals": [
   {
@@ -51,6 +51,16 @@
    "source": "immoscout24-mail",
    "title": "Teilvermietetes MFH mit 4 Wohneinheiten und Erbbaurecht in g",
    "url": "https://www.immobilienscout24.de/expose/168265319"
+  },
+  {
+   "eur_sqm": 2049,
+   "yield": 8.2,
+   "price": 295000,
+   "sqm": 144.0,
+   "district": "Zeilsheim",
+   "source": "Immowelt (Mail)",
+   "title": "Frankfurt-Zeilsheim: Erbpacht- vermietetes DHH mit...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzZ9ADMAAAAAAIXoM96Xhfuu1rIj54N77yWj2-we8MyFc27KE6o9lI8bXAnWLkEyPoZMmCV58uYkSAMj-Oc-1-qWHPGM6pQUjO-ax9KSHkYm1aoTomcsOeEoJorGng"
   },
   {
    "eur_sqm": 2129,
@@ -291,16 +301,6 @@
    "source": "ImmoScout24 (Browser)",
    "title": "Ehemalige Scheune mit Loft-Charakter",
    "url": "https://www.immobilienscout24.de/expose/169008290"
-  },
-  {
-   "eur_sqm": 3466,
-   "yield": null,
-   "price": 2950000,
-   "sqm": 851.02,
-   "district": "Bornheim",
-   "source": "immoscout24-mail",
-   "title": "Frankfurt-Bornheim: Gepflegtes Mehrfamilienhaus mit 17 Wohnu",
-   "url": "https://www.immobilienscout24.de/expose/165472603"
   }
  ]
 }
