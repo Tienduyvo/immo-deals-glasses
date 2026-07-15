@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-15T08:32:39",
+ "generated_at": "2026-07-15T08:32:23",
  "count": 30,
  "deals": [
   {
@@ -16,7 +16,7 @@
    "eur_sqm": 1152,
    "yield": 14.58,
    "price": 325000,
-   "sqm": 282.0,
+   "sqm": 282,
    "district": "Karben",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Rathausstraße 29, 61184 Karben",
@@ -116,7 +116,7 @@
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
-   "sqm": 252.0,
+   "sqm": 252,
    "district": "Eschersheim",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
@@ -186,7 +186,7 @@
    "eur_sqm": 2981,
    "yield": 5.64,
    "price": 629000,
-   "sqm": 211.0,
+   "sqm": 211,
    "district": "Seckbach",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Hartmannweg 16, 60389 Frankfurt am Main, ",
@@ -201,6 +201,16 @@
    "source": "Immowelt (Mail)",
    "title": "Attraktive",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzF9ADMAAAAAAH9txo5y0R26kVLmwCvJ7CCvaYjPSfiVPVUUl_N0iCadzAUFSATAYh53H0m-acjlTblMCeSKLiyBa25qvjCQTFDDLvH_QuwpHqPPI9MA7ggqdq4c8w"
+  },
+  {
+   "eur_sqm": 3061,
+   "yield": 5.49,
+   "price": 425500,
+   "sqm": 139.0,
+   "district": "Hattersheim",
+   "source": "ZVG",
+   "title": "Einfamilienhaus : Hebbelweg 4 und Linsenberger Straße, 65795",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55145&land_abk=he"
   },
   {
    "eur_sqm": 3126,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Hoher Wohncomfort, gepfl. Anl, Weitblick Taunuspan...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Mjl9ADMAAAAAAHw4XOnK9O2Ik64-zcKcPB04qXVSa2i6f8SRXNVaZWtQKvrl7WwHqsUNyp7GEKr4Ss224a32PCMFrJwNWHH41SYRQB454QtV2CMDkdrikzVJXcpoFg"
-  },
-  {
-   "eur_sqm": 3416,
-   "yield": null,
-   "price": 361000,
-   "sqm": 105.68,
-   "district": "Frankfurt (unspez.)",
-   "source": "immoscout24-mail",
-   "title": "1/2 Anteil - 3-Zimmer-Wohnung",
-   "url": "https://www.immobilienscout24.de/expose/169083540"
   }
  ]
 }
