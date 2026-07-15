@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-15T15:27:03",
+ "generated_at": "2026-07-15T15:38:48",
  "count": 30,
  "deals": [
   {
@@ -121,6 +121,16 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
+  },
+  {
+   "eur_sqm": 2574,
+   "yield": 6.53,
+   "price": 798000,
+   "sqm": 310.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Dreifamilienhaus und Lagerhalle in Frankfurt-Schwa...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Mzh9ADMAAAAAAIl6U4_BMKeWm6jBFMuJy4nMlF5vm4lq5j1vZuy8mR_G1yi2qtXAg-PLxMlZ24C1rtf1SvFi9nzaIdGYNdTLUy4CSwhV2UuwKq48KSracV6praoXaQ"
   },
   {
    "eur_sqm": 2585,
@@ -291,16 +301,6 @@
    "source": "immoscout24-mail",
    "title": "3ZKB Eigentumswohnung - für Eigennutzer und Kapitalanleger",
    "url": "https://www.immobilienscout24.de/expose/169102060"
-  },
-  {
-   "eur_sqm": 3371,
-   "yield": 4.98,
-   "price": 268000,
-   "sqm": 79.5,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Hoher Wohncomfort, gepfl. Anl, Weitblick Taunuspan...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Mjl9ADMAAAAAAHw4XOnK9O2Ik64-zcKcPB04qXVSa2i6f8SRXNVaZWtQKvrl7WwHqsUNyp7GEKr4Ss224a32PCMFrJwNWHH41SYRQB454QtV2CMDkdrikzVJXcpoFg"
   }
  ]
 }
