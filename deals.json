@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-17T08:55:39",
+ "generated_at": "2026-07-17T10:30:03",
  "count": 30,
  "deals": [
   {
@@ -141,16 +141,6 @@
    "source": "Immowelt (Mail)",
    "title": "Nimm` 2: Gepflegtes Zweifamilienhaus mit großem Ga...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Mzh9ADMAAAAAAIoCTuU7qVimvsXwK__dgoA9_NrXNlCH9GYdxskvoPJYRJ0A_GTZELOkoJe-zA7NOn981qA0VKG5F6ISrhf3n1gdmSpFht8DdIxxFBVmM7JNmg7zDw"
-  },
-  {
-   "eur_sqm": 2574,
-   "yield": 6.53,
-   "price": 798000,
-   "sqm": 310.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Dreifamilienhaus und Lagerhalle in Frankfurt-Schwa...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Mzh9ADMAAAAAAIl6U4_BMKeWm6jBFMuJy4nMlF5vm4lq5j1vZuy8mR_G1yi2qtXAg-PLxMlZ24C1rtf1SvFi9nzaIdGYNdTLUy4CSwhV2UuwKq48KSracV6praoXaQ"
   },
   {
    "eur_sqm": 2585,
@@ -301,6 +291,16 @@
    "source": "immoscout24-mail",
    "title": "Sie wollen hoch hinaus? Top gepflegte Zweizimmerwohnung mit ",
    "url": "https://www.immobilienscout24.de/expose/169096786"
+  },
+  {
+   "eur_sqm": 3342,
+   "yield": null,
+   "price": 259000,
+   "sqm": 77.5,
+   "district": "Frankfurt (unspez.)",
+   "source": "ImmoScout24 (Browser)",
+   "title": "* Provisionsfrei * Kernsanierte 3,5-Zi.-Wohnung",
+   "url": "https://www.immobilienscout24.de/expose/169034921"
   }
  ]
 }
