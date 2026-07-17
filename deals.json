@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-17T11:24:36",
+ "generated_at": "2026-07-17T11:55:47",
  "count": 30,
  "deals": [
   {
@@ -31,16 +31,6 @@
    "source": "Immowelt (Mail)",
    "title": "Raum für Generationen, Ideen und Perspektiven.",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzJ9ADMAAAAAAIFo8vbswnjUpImu6KUcoFGwGNvsk5qc6YbjFA_C9bCO86Hlm4VEbG_yubkpFdz9Vn_IWBLgmygNLwb440FlYi0kOqoQe9sFklX_aqXNb3fNaY8jBg"
-  },
-  {
-   "eur_sqm": 1782,
-   "yield": 9.43,
-   "price": 335000,
-   "sqm": 188.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Zwangsversteigerung einer gr. ca. 188m² Eigentums ...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Mzh9ADMAAAAAAImA9nnLo7oplDU5HFobA-5_qhSj5Iz3liHBHut4p5rqsLpFwuBCVxr_WedUIORVNYxwX5Jt1NZ1uaUzXnZAalEIQSVkO1Cg6r7ug83XHvA6VKYQhw"
   },
   {
    "eur_sqm": 1899,
@@ -301,6 +291,16 @@
    "source": "ImmoScout24 (Browser)",
    "title": "* Provisionsfrei * Kernsanierte 3,5-Zi.-Wohnung",
    "url": "https://www.immobilienscout24.de/expose/169034921"
+  },
+  {
+   "eur_sqm": 3343,
+   "yield": null,
+   "price": 229000,
+   "sqm": 68.5,
+   "district": "Frankfurt (unspez.)",
+   "source": "immoscout24-mail",
+   "title": "3ZKB Eigentumswohnung - für Eigennutzer und Kapitalanleger",
+   "url": "https://www.immobilienscout24.de/expose/169102060"
   }
  ]
 }
