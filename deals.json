@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-17T15:20:24",
+ "generated_at": "2026-07-17T16:16:51",
  "count": 30,
  "deals": [
   {
@@ -121,16 +121,6 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
-  },
-  {
-   "eur_sqm": 2522,
-   "yield": 6.66,
-   "price": 749000,
-   "sqm": 297.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Nimm` 2: Gepflegtes Zweifamilienhaus mit großem Ga...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Mzh9ADMAAAAAAIoCTuU7qVimvsXwK__dgoA9_NrXNlCH9GYdxskvoPJYRJ0A_GTZELOkoJe-zA7NOn981qA0VKG5F6ISrhf3n1gdmSpFht8DdIxxFBVmM7JNmg7zDw"
   },
   {
    "eur_sqm": 2585,
@@ -301,6 +291,16 @@
    "source": "ImmoScout24 (Browser)",
    "title": "* Provisionsfrei * Kernsanierte 3,5-Zi.-Wohnung",
    "url": "https://www.immobilienscout24.de/expose/169034921"
+  },
+  {
+   "eur_sqm": 3343,
+   "yield": null,
+   "price": 229000,
+   "sqm": 68.5,
+   "district": "Frankfurt (unspez.)",
+   "source": "immoscout24-mail",
+   "title": "3ZKB Eigentumswohnung - für Eigennutzer und Kapitalanleger",
+   "url": "https://www.immobilienscout24.de/expose/169102060"
   }
  ]
 }
