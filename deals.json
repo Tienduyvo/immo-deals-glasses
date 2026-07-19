@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-19T16:29:30",
+ "generated_at": "2026-07-19T16:41:41",
  "count": 30,
  "deals": [
   {
@@ -193,6 +193,16 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
   },
   {
+   "eur_sqm": 2457,
+   "yield": 6.84,
+   "price": 565000,
+   "sqm": 230.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Ein Haus, das Komfort, Charakter & Familienleben v...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDJ9ADMAAAAAAI6h8eqBvwuI9sY8k8VKekRLL3Sf_fGNYdUNB-3b8t_3xMYlNkBKwgKMzSk5NlyVzrGdx-IrxxO_5fy8j5S8vovGoK7TlDDku8gqSn0p53J8OsGe0A"
+  },
+  {
    "eur_sqm": 2500,
    "yield": 6.72,
    "price": 175000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "** Seltenes Fachwerkhaus mit Kamin, Sauna, Terrass...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDJ9ADMAAAAAAI6g-A70BdCJZZY9yF8UtHoQwX9uyGpNcvFKj7o1crVjoqq3EUs-jk_wVUveJWkN-PazFzNnEyJsgXtaRNKCbT9IzgNYaCGasIc3x21DuZ3XSbNkqg"
-  },
-  {
-   "eur_sqm": 3043,
-   "yield": 5.52,
-   "price": 140000,
-   "sqm": 46.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Attraktive",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzF9ADMAAAAAAH9txo5y0R26kVLmwCvJ7CCvaYjPSfiVPVUUl_N0iCadzAUFSATAYh53H0m-acjlTblMCeSKLiyBa25qvjCQTFDDLvH_QuwpHqPPI9MA7ggqdq4c8w"
   }
  ]
 }
