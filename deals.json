@@ -1,16 +1,56 @@
 {
- "generated_at": "2026-07-19T02:17:45",
+ "generated_at": "2026-07-19T08:48:45",
  "count": 30,
  "deals": [
+  {
+   "eur_sqm": 10,
+   "yield": 1680.0,
+   "price": 2710,
+   "sqm": 271.0,
+   "district": "",
+   "source": "ZVG",
+   "title": "unbebautes Grundstück : Am/Das Gemeindche, 35043 Marburg, Ba",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54994&land_abk=he"
+  },
+  {
+   "eur_sqm": 331,
+   "yield": 50.7,
+   "price": 56000,
+   "sqm": 169.0,
+   "district": "",
+   "source": "ZVG",
+   "title": "Eigentumswohnung (ab 5 Zimmer) : Kornstraße 12, 34537 Bad Wi",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54935&land_abk=he"
+  },
+  {
+   "eur_sqm": 737,
+   "yield": 22.8,
+   "price": 420000,
+   "sqm": 570.0,
+   "district": "",
+   "source": "ZVG",
+   "title": "Doppelhaushälfte : Mollweg 3, 65510 Idstein, Wörsdorf",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54706&land_abk=he"
+  },
   {
    "eur_sqm": 1152,
    "yield": 14.58,
    "price": 325000,
-   "sqm": 282.0,
+   "sqm": 282,
    "district": "Karben",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Rathausstraße 29, 61184 Karben",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55061&land_abk=he"
+  },
+  {
+   "eur_sqm": 1398,
+   "yield": 12.02,
+   "price": 307500,
+   "sqm": 220.0,
+   "district": "",
+   "source": "ZVG",
+   "title": "Einfamilienhaus : Peterstr. 40, 68642 Bürstadt",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55072&land_abk=he"
   },
   {
    "eur_sqm": 1641,
@@ -41,6 +81,26 @@
    "source": "Immowelt (Mail)",
    "title": "Frankfurt-Zeilsheim: Erbpacht- vermietetes DHH mit...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzZ9ADMAAAAAAIXoM96Xhfuu1rIj54N77yWj2-we8MyFc27KE6o9lI8bXAnWLkEyPoZMmCV58uYkSAMj-Oc-1-qWHPGM6pQUjO-ax9KSHkYm1aoTomcsOeEoJorGng"
+  },
+  {
+   "eur_sqm": 2074,
+   "yield": 8.1,
+   "price": 141000,
+   "sqm": 68.0,
+   "district": "Hausen",
+   "source": "ZVG",
+   "title": "Zwei Einfamilienhäuser : Zur Reffenstraße 7, 63654 Büdingen,",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54905&land_abk=he"
+  },
+  {
+   "eur_sqm": 2124,
+   "yield": 7.91,
+   "price": 304000,
+   "sqm": 143.15,
+   "district": "",
+   "source": "ZVG",
+   "title": "Einfamilienhaus : Mühlstraße 114, 65396 Walluf",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55041&land_abk=he"
   },
   {
    "eur_sqm": 2129,
@@ -96,11 +156,21 @@
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
-   "sqm": 252.0,
+   "sqm": 252,
    "district": "Eschersheim",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
+  },
+  {
+   "eur_sqm": 2500,
+   "yield": 6.72,
+   "price": 175000,
+   "sqm": 70.0,
+   "district": "Hanau",
+   "source": "ZVG",
+   "title": "Eigentumswohnung (3 bis 4 Zimmer) : Alter Rückinger Weg / Bü",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54954&land_abk=he"
   },
   {
    "eur_sqm": 2585,
@@ -143,6 +213,16 @@
    "url": "https://www.immobilienscout24.de/expose/168520469"
   },
   {
+   "eur_sqm": 2828,
+   "yield": 5.94,
+   "price": 310000,
+   "sqm": 109.6,
+   "district": "",
+   "source": "ZVG",
+   "title": "Einfamilienhaus : Mittelseestraße 14, 63512 Hainburg, Hainst",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54973&land_abk=he"
+  },
+  {
    "eur_sqm": 2943,
    "yield": null,
    "price": 1120000,
@@ -156,7 +236,7 @@
    "eur_sqm": 2981,
    "yield": 5.64,
    "price": 629000,
-   "sqm": 211.0,
+   "sqm": 211,
    "district": "Seckbach",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Hartmannweg 16, 60389 Frankfurt am Main, ",
@@ -193,6 +273,16 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54982&land_abk=he"
   },
   {
+   "eur_sqm": 3218,
+   "yield": 5.22,
+   "price": 280000,
+   "sqm": 87.0,
+   "district": "Oberursel",
+   "source": "ohne-makler",
+   "title": "280.000 € Schöne 3 ZKB im Rosengärtchen mit Garagenplatz und",
+   "url": "https://www.ohne-makler.net/immobilie/476705/"
+  },
+  {
    "eur_sqm": 3251,
    "yield": 5.17,
    "price": 1749000,
@@ -211,96 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Offene Besichtigung So. 05.07. 10:30|Gepflegte 3,5...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDF9ADMAAAAAAI4aOsV2MSPWy8PIvgXJwkGp1ibkH_wj9nNQ7c5QqoyipNjOpyvapg7X2DPKguSmLON95bAUSrTazTwaiv_-CIxDXUw_zFPlzP6p7eO_Kmx1kiBCaQ"
-  },
-  {
-   "eur_sqm": 3287,
-   "yield": null,
-   "price": 355000,
-   "sqm": 108.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Browser)",
-   "title": "Einfamilienhaus mit Anliegerwohnung & Ausbaupotenzial",
-   "url": "https://www.immobilienscout24.de/expose/168930130"
-  },
-  {
-   "eur_sqm": 3294,
-   "yield": 5.1,
-   "price": 280000,
-   "sqm": 85.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Sanierungsbedürftiges Reihenhaus auf Erbpachtgrund...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Mzd9ADMAAAAAAIgLxR-FbqGZR7iFrpj94jthEvvMN2xdEKic-WeLVyMQFsBOYIMeBFwUlOAotSf1W_d07sLMuRLGyaTalapSYhiabIFikkUJubq5AUUwZ7opAi0IDw"
-  },
-  {
-   "eur_sqm": 3325,
-   "yield": null,
-   "price": 195000,
-   "sqm": 58.64,
-   "district": "Oberrad",
-   "source": "immoscout24-mail",
-   "title": "Sie wollen hoch hinaus? Top gepflegte Zweizimmerwohnung mit ",
-   "url": "https://www.immobilienscout24.de/expose/169096786"
-  },
-  {
-   "eur_sqm": 3342,
-   "yield": null,
-   "price": 259000,
-   "sqm": 77.5,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Browser)",
-   "title": "* Provisionsfrei * Kernsanierte 3,5-Zi.-Wohnung",
-   "url": "https://www.immobilienscout24.de/expose/169034921"
-  },
-  {
-   "eur_sqm": 3343,
-   "yield": null,
-   "price": 229000,
-   "sqm": 68.5,
-   "district": "Frankfurt (unspez.)",
-   "source": "immoscout24-mail",
-   "title": "3ZKB Eigentumswohnung - für Eigennutzer und Kapitalanleger",
-   "url": "https://www.immobilienscout24.de/expose/169102060"
-  },
-  {
-   "eur_sqm": 3382,
-   "yield": 4.97,
-   "price": 230000,
-   "sqm": 68.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Sanierung notwendig mit Garten",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDF9ADMAAAAAAI09AR08piNxI-UqN9KczNJQGvDneqxbiSta58u8OLlse5pVB4RtmITtT0_4v5EoJLegKbl26YEX0cJlmO6ljVKs7ZPivwnPd82f6QXnGsmCXjooLQ"
-  },
-  {
-   "eur_sqm": 3416,
-   "yield": null,
-   "price": 361000,
-   "sqm": 105.68,
-   "district": "Frankfurt (unspez.)",
-   "source": "immoscout24-mail",
-   "title": "1/2 Anteil - 3-Zimmer-Wohnung",
-   "url": "https://www.immobilienscout24.de/expose/169083540"
-  },
-  {
-   "eur_sqm": 3420,
-   "yield": null,
-   "price": 585500,
-   "sqm": 171.2,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Browser)",
-   "title": "Ehemalige Scheune mit Loft-Charakter",
-   "url": "https://www.immobilienscout24.de/expose/169008290"
-  },
-  {
-   "eur_sqm": 3466,
-   "yield": null,
-   "price": 2950000,
-   "sqm": 851.02,
-   "district": "Bornheim",
-   "source": "immoscout24-mail",
-   "title": "Frankfurt-Bornheim: Gepflegtes Mehrfamilienhaus mit 17 Wohnu",
-   "url": "https://www.immobilienscout24.de/expose/165472603"
   }
  ]
 }
