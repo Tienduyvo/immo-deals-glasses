@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-19T14:20:32",
+ "generated_at": "2026-07-19T14:40:41",
  "count": 30,
  "deals": [
   {
@@ -243,6 +243,16 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54973&land_abk=he"
   },
   {
+   "eur_sqm": 2893,
+   "yield": 5.81,
+   "price": 839000,
+   "sqm": 290.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Anzeige ansehen",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3439069874"
+  },
+  {
    "eur_sqm": 2943,
    "yield": null,
    "price": 1120000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "*** Ein wahres Raumwunder für Ihre gesamte Familie...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDJ9ADMAAAAAAI1Yqx68cHQc3fBdCs2sHbJcfS7Bu-G2MCsujXOUR6qU2-FHvbmpbCDRg-V3BOJB9rqdZij8nLvUkTZNJFJNy1M32Cceki2M3xpZvqXx3hLP1Y8a-g"
-  },
-  {
-   "eur_sqm": 3126,
-   "yield": 5.37,
-   "price": 272000,
-   "sqm": 87.0,
-   "district": "Nieder-Eschbach",
-   "source": "immoscout",
-   "title": "FRANKFURT-NIEDER-ESCHBACH: Schöne und helle 3 ZW mit Balkon ",
-   "url": "https://www.immobilienscout24.de/expose/169074266"
   }
  ]
 }
