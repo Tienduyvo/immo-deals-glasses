@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-19T13:37:57",
+ "generated_at": "2026-07-19T14:03:49",
  "count": 30,
  "deals": [
   {
@@ -273,6 +273,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzF9ADMAAAAAAH9txo5y0R26kVLmwCvJ7CCvaYjPSfiVPVUUl_N0iCadzAUFSATAYh53H0m-acjlTblMCeSKLiyBa25qvjCQTFDDLvH_QuwpHqPPI9MA7ggqdq4c8w"
   },
   {
+   "eur_sqm": 3090,
+   "yield": 5.44,
+   "price": 825000,
+   "sqm": 267.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Hier wohnen zwei Familien wie in einem Doppelhaus.",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDJ9ADMAAAAAAI5P4zDsanIqlaMOrsiKXZnyWbSo8nua16YRScmY1PF7W1AzFDlg2G-Bq8K94PUQ4grkwonYyscyXAUvEkKwKftzo18VydDq4TjjaWBbh8iZc7HcIA"
+  },
+  {
    "eur_sqm": 3095,
    "yield": 5.43,
    "price": 650000,
@@ -291,16 +301,6 @@
    "source": "immoscout",
    "title": "FRANKFURT-NIEDER-ESCHBACH: Schöne und helle 3 ZW mit Balkon ",
    "url": "https://www.immobilienscout24.de/expose/169074266"
-  },
-  {
-   "eur_sqm": 3203,
-   "yield": 5.25,
-   "price": 2040000,
-   "sqm": 637.0,
-   "district": "Kalbach",
-   "source": "ZVG",
-   "title": "Mehrfamilienhaus : Kalbacher Hauptstraße 60c, 60437 Frankfur",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54982&land_abk=he"
   }
  ]
 }
