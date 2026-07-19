@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-19T09:45:01",
+ "generated_at": "2026-07-19T10:42:49",
  "count": 30,
  "deals": [
   {
@@ -31,6 +31,16 @@
    "source": "ZVG",
    "title": "Doppelhaushälfte : Mollweg 3, 65510 Idstein, Wörsdorf",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54706&land_abk=he"
+  },
+  {
+   "eur_sqm": 755,
+   "yield": 22.25,
+   "price": 730000,
+   "sqm": 967.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Anzeige ansehen",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3392292268"
   },
   {
    "eur_sqm": 1152,
@@ -291,16 +301,6 @@
    "source": "ohne-makler",
    "title": "280.000 € Schöne 3 ZKB im Rosengärtchen mit Garagenplatz und",
    "url": "https://www.ohne-makler.net/immobilie/476705/"
-  },
-  {
-   "eur_sqm": 3251,
-   "yield": 5.17,
-   "price": 1749000,
-   "sqm": 538.0,
-   "district": "Höchst",
-   "source": "Immowelt (Mail)",
-   "title": "Kapitalanlage im Herzen von Frankfurt-Höchst - Hau...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzJ9ADMAAAAAAIEIqM0vGuZlGJyKuSbrc5-Ras_MGEfHP5b4x1vhOKRNWt8cwXQV3T-HA4z6kNYWnbwyFvBRJVOZRBEfrBquMIKGBp3oqhlni5YB9ozIl3CdWj_Sdw"
   }
  ]
 }
