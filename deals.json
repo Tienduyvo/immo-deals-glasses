@@ -1,47 +1,7 @@
 {
- "generated_at": "2026-07-19T21:20:32",
+ "generated_at": "2026-07-19T22:15:45",
  "count": 30,
  "deals": [
-  {
-   "eur_sqm": 10,
-   "yield": 1680.0,
-   "price": 2710,
-   "sqm": 271.0,
-   "district": "",
-   "source": "ZVG",
-   "title": "unbebautes Grundstück : Am/Das Gemeindche, 35043 Marburg, Ba",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54994&land_abk=he"
-  },
-  {
-   "eur_sqm": 331,
-   "yield": 50.7,
-   "price": 56000,
-   "sqm": 169.0,
-   "district": "",
-   "source": "ZVG",
-   "title": "Eigentumswohnung (ab 5 Zimmer) : Kornstraße 12, 34537 Bad Wi",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54935&land_abk=he"
-  },
-  {
-   "eur_sqm": 737,
-   "yield": 22.8,
-   "price": 420000,
-   "sqm": 570.0,
-   "district": "",
-   "source": "ZVG",
-   "title": "Doppelhaushälfte : Mollweg 3, 65510 Idstein, Wörsdorf",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54706&land_abk=he"
-  },
-  {
-   "eur_sqm": 755,
-   "yield": 22.25,
-   "price": 730000,
-   "sqm": 967.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Anzeige ansehen",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3392292268"
-  },
   {
    "eur_sqm": 1152,
    "yield": 14.58,
@@ -51,26 +11,6 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Rathausstraße 29, 61184 Karben",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55061&land_abk=he"
-  },
-  {
-   "eur_sqm": 1398,
-   "yield": 12.02,
-   "price": 307500,
-   "sqm": 220.0,
-   "district": "",
-   "source": "ZVG",
-   "title": "Einfamilienhaus : Peterstr. 40, 68642 Bürstadt",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55072&land_abk=he"
-  },
-  {
-   "eur_sqm": 1543,
-   "yield": 10.89,
-   "price": 395000,
-   "sqm": 256.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Mehrfamilienhaus mitten in Bruchköbel",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDJ9ADMAAAAAAI6g-A7tt-FMePclqaVqftW-2r1ygftJxDyqeWLRHlgqGBPqLSHxNlgqH3MLa16cUiqRw-DIYJyYlSAdw8FTn5x2mrfFVZsbdlKm-G0eVqkeZXg8IA"
   },
   {
    "eur_sqm": 1641,
@@ -103,26 +43,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzZ9ADMAAAAAAIXoM96Xhfuu1rIj54N77yWj2-we8MyFc27KE6o9lI8bXAnWLkEyPoZMmCV58uYkSAMj-Oc-1-qWHPGM6pQUjO-ax9KSHkYm1aoTomcsOeEoJorGng"
   },
   {
-   "eur_sqm": 2074,
-   "yield": 8.1,
-   "price": 141000,
-   "sqm": 68.0,
-   "district": "Hausen",
-   "source": "ZVG",
-   "title": "Zwei Einfamilienhäuser : Zur Reffenstraße 7, 63654 Büdingen,",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54905&land_abk=he"
-  },
-  {
-   "eur_sqm": 2124,
-   "yield": 7.91,
-   "price": 304000,
-   "sqm": 143.15,
-   "district": "",
-   "source": "ZVG",
-   "title": "Einfamilienhaus : Mühlstraße 114, 65396 Walluf",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55041&land_abk=he"
-  },
-  {
    "eur_sqm": 2129,
    "yield": 7.89,
    "price": 121000,
@@ -151,16 +71,6 @@
    "source": "ImmoScout24 (Browser)",
    "title": "Ein Haus für Familie, Garten und neue Ideen",
    "url": "https://www.immobilienscout24.de/expose/169030181"
-  },
-  {
-   "eur_sqm": 2222,
-   "yield": 7.56,
-   "price": 200000,
-   "sqm": 90.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Neuer Glanz, neues Wohnen: Kernsanierte Wohnung mi...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDJ9ADMAAAAAAI5NCowcLt0MUpxsLFEeXb4wvh-CvGkwyR7D1DW3NrCYCp-UUZabn2xT87ufxKgXdhYVuBtHSK_9tjgIKp21GHX35P3KedL8PqVYSh0kMQRr-hfH4A"
   },
   {
    "eur_sqm": 2300,
@@ -301,6 +211,96 @@
    "source": "immoscout24-mail",
    "title": "Repräsentatives MFH in attraktiver Lage von Frankfurt am Mai",
    "url": "https://www.immobilienscout24.de/expose/167986260"
+  },
+  {
+   "eur_sqm": 2981,
+   "yield": 5.64,
+   "price": 629000,
+   "sqm": 211.0,
+   "district": "Seckbach",
+   "source": "ZVG",
+   "title": "Mehrfamilienhaus : Hartmannweg 16, 60389 Frankfurt am Main, ",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55080&land_abk=he"
+  },
+  {
+   "eur_sqm": 3005,
+   "yield": 5.59,
+   "price": 1280000,
+   "sqm": 426.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "PROVISIONSFREI Großes Einfamilienhaus mit Einlieg...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDJ9ADMAAAAAAI7Y5IQQpT_ReWz5cq3QOZls01_I9o-NbaoEI7DAchAolvkIBVT3QKMJd4BoUzmgMPBqCi6eELBC1Io2asG8M1XgFtiEMcLGqfKLDMN4V3-zBc6mZg"
+  },
+  {
+   "eur_sqm": 3011,
+   "yield": 5.58,
+   "price": 548000,
+   "sqm": 182.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "** Seltenes Fachwerkhaus mit Kamin, Sauna, Terrass...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDJ9ADMAAAAAAI6g-A70BdCJZZY9yF8UtHoQwX9uyGpNcvFKj7o1crVjoqq3EUs-jk_wVUveJWkN-PazFzNnEyJsgXtaRNKCbT9IzgNYaCGasIc3x21DuZ3XSbNkqg"
+  },
+  {
+   "eur_sqm": 3043,
+   "yield": 5.52,
+   "price": 140000,
+   "sqm": 46.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Attraktive",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzF9ADMAAAAAAH9txo5y0R26kVLmwCvJ7CCvaYjPSfiVPVUUl_N0iCadzAUFSATAYh53H0m-acjlTblMCeSKLiyBa25qvjCQTFDDLvH_QuwpHqPPI9MA7ggqdq4c8w"
+  },
+  {
+   "eur_sqm": 3090,
+   "yield": 5.44,
+   "price": 825000,
+   "sqm": 267.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Hier wohnen zwei Familien wie in einem Doppelhaus.",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDJ9ADMAAAAAAI5P4zDsanIqlaMOrsiKXZnyWbSo8nua16YRScmY1PF7W1AzFDlg2G-Bq8K94PUQ4grkwonYyscyXAUvEkKwKftzo18VydDq4TjjaWBbh8iZc7HcIA"
+  },
+  {
+   "eur_sqm": 3095,
+   "yield": 5.43,
+   "price": 650000,
+   "sqm": 210.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "*** Ein wahres Raumwunder für Ihre gesamte Familie...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDJ9ADMAAAAAAI1Yqx68cHQc3fBdCs2sHbJcfS7Bu-G2MCsujXOUR6qU2-FHvbmpbCDRg-V3BOJB9rqdZij8nLvUkTZNJFJNy1M32Cceki2M3xpZvqXx3hLP1Y8a-g"
+  },
+  {
+   "eur_sqm": 3108,
+   "yield": 5.41,
+   "price": 115000,
+   "sqm": 37.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "KLEIN, ABER MIT GROßER WIRKUNG - Durchdachte 1-Zim...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDJ9ADMAAAAAAI6QpXFcMe3Lg4XBL4aet_9DEfo7zuMb7Oxc-tlI-EnhUd5KM4jHuXf13FNxgTVJEWooCkUxrI92hokOaCO7P4CusCvYsNn2UN1vfU65iL0pmLq4iA"
+  },
+  {
+   "eur_sqm": 3126,
+   "yield": 5.37,
+   "price": 272000,
+   "sqm": 87.0,
+   "district": "Nieder-Eschbach",
+   "source": "immoscout",
+   "title": "FRANKFURT-NIEDER-ESCHBACH: Schöne und helle 3 ZW mit Balkon ",
+   "url": "https://www.immobilienscout24.de/expose/169074266"
+  },
+  {
+   "eur_sqm": 3203,
+   "yield": 5.25,
+   "price": 2040000,
+   "sqm": 637.0,
+   "district": "Kalbach",
+   "source": "ZVG",
+   "title": "Mehrfamilienhaus : Kalbacher Hauptstraße 60c, 60437 Frankfur",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54982&land_abk=he"
   }
  ]
 }
