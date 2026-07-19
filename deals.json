@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-19T19:58:52",
+ "generated_at": "2026-07-19T20:08:59",
  "count": 30,
  "deals": [
   {
@@ -213,6 +213,16 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54954&land_abk=he"
   },
   {
+   "eur_sqm": 2514,
+   "yield": 6.68,
+   "price": 450000,
+   "sqm": 179.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Gemacht für gemeinsames Leben, Lieben und Lachen -...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDJ9ADMAAAAAAI6wwOAKxnRpUTbpTsWJQ9UueALeE502xcjEoaQRTUmsfCcxqsuyRox0IKIetl5s8lUibXPGXlboubI1Vhbl-x-wI3a9nZ9jBODLyxNSfa0WaA04BA"
+  },
+  {
    "eur_sqm": 2585,
    "yield": 6.5,
    "price": 200000,
@@ -273,6 +283,16 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/3439069874"
   },
   {
+   "eur_sqm": 2933,
+   "yield": 5.73,
+   "price": 827000,
+   "sqm": 282.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "EIN HAUS VOLLER MÖGLICHKEITEN: Großzügiges Wohnen,...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDJ9ADMAAAAAAI6wwOAEA60OY8sHbEho-oiFz3nDUo8NvGhOFuDO430JipsCwlM9m0i-zIaXVz5a5QK83UMm7CE4X974Cr39bNbk78LVg7xv75ZknPaplkgQ1O-BXA"
+  },
+  {
    "eur_sqm": 2943,
    "yield": null,
    "price": 1120000,
@@ -281,26 +301,6 @@
    "source": "immoscout24-mail",
    "title": "Repräsentatives MFH in attraktiver Lage von Frankfurt am Mai",
    "url": "https://www.immobilienscout24.de/expose/167986260"
-  },
-  {
-   "eur_sqm": 2981,
-   "yield": 5.64,
-   "price": 629000,
-   "sqm": 211.0,
-   "district": "Seckbach",
-   "source": "ZVG",
-   "title": "Mehrfamilienhaus : Hartmannweg 16, 60389 Frankfurt am Main, ",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55080&land_abk=he"
-  },
-  {
-   "eur_sqm": 3011,
-   "yield": 5.58,
-   "price": 548000,
-   "sqm": 182.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "** Seltenes Fachwerkhaus mit Kamin, Sauna, Terrass...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDJ9ADMAAAAAAI6g-A70BdCJZZY9yF8UtHoQwX9uyGpNcvFKj7o1crVjoqq3EUs-jk_wVUveJWkN-PazFzNnEyJsgXtaRNKCbT9IzgNYaCGasIc3x21DuZ3XSbNkqg"
   }
  ]
 }
