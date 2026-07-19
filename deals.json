@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-19T10:42:49",
+ "generated_at": "2026-07-19T10:45:29",
  "count": 30,
  "deals": [
   {
@@ -141,6 +141,16 @@
    "source": "ImmoScout24 (Browser)",
    "title": "Ein Haus für Familie, Garten und neue Ideen",
    "url": "https://www.immobilienscout24.de/expose/169030181"
+  },
+  {
+   "eur_sqm": 2222,
+   "yield": 7.56,
+   "price": 200000,
+   "sqm": 90.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Neuer Glanz, neues Wohnen: Kernsanierte Wohnung mi...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDJ9ADMAAAAAAI5NCowcLt0MUpxsLFEeXb4wvh-CvGkwyR7D1DW3NrCYCp-UUZabn2xT87ufxKgXdhYVuBtHSK_9tjgIKp21GHX35P3KedL8PqVYSh0kMQRr-hfH4A"
   },
   {
    "eur_sqm": 2300,
@@ -291,16 +301,6 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Kalbacher Hauptstraße 60c, 60437 Frankfur",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54982&land_abk=he"
-  },
-  {
-   "eur_sqm": 3218,
-   "yield": 5.22,
-   "price": 280000,
-   "sqm": 87.0,
-   "district": "Oberursel",
-   "source": "ohne-makler",
-   "title": "280.000 € Schöne 3 ZKB im Rosengärtchen mit Garagenplatz und",
-   "url": "https://www.ohne-makler.net/immobilie/476705/"
   }
  ]
 }
