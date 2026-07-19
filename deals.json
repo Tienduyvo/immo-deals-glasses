@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-19T15:14:00",
+ "generated_at": "2026-07-19T15:19:09",
  "count": 30,
  "deals": [
   {
@@ -61,6 +61,16 @@
    "source": "ZVG",
    "title": "Einfamilienhaus : Peterstr. 40, 68642 Bürstadt",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55072&land_abk=he"
+  },
+  {
+   "eur_sqm": 1543,
+   "yield": 10.89,
+   "price": 395000,
+   "sqm": 256.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Mehrfamilienhaus mitten in Bruchköbel",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDJ9ADMAAAAAAI6g-A7tt-FMePclqaVqftW-2r1ygftJxDyqeWLRHlgqGBPqLSHxNlgqH3MLa16cUiqRw-DIYJyYlSAdw8FTn5x2mrfFVZsbdlKm-G0eVqkeZXg8IA"
   },
   {
    "eur_sqm": 1641,
@@ -273,6 +283,16 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55080&land_abk=he"
   },
   {
+   "eur_sqm": 3011,
+   "yield": 5.58,
+   "price": 548000,
+   "sqm": 182.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "** Seltenes Fachwerkhaus mit Kamin, Sauna, Terrass...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDJ9ADMAAAAAAI6g-A70BdCJZZY9yF8UtHoQwX9uyGpNcvFKj7o1crVjoqq3EUs-jk_wVUveJWkN-PazFzNnEyJsgXtaRNKCbT9IzgNYaCGasIc3x21DuZ3XSbNkqg"
+  },
+  {
    "eur_sqm": 3043,
    "yield": 5.52,
    "price": 140000,
@@ -281,26 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Attraktive",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzF9ADMAAAAAAH9txo5y0R26kVLmwCvJ7CCvaYjPSfiVPVUUl_N0iCadzAUFSATAYh53H0m-acjlTblMCeSKLiyBa25qvjCQTFDDLvH_QuwpHqPPI9MA7ggqdq4c8w"
-  },
-  {
-   "eur_sqm": 3090,
-   "yield": 5.44,
-   "price": 825000,
-   "sqm": 267.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Hier wohnen zwei Familien wie in einem Doppelhaus.",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDJ9ADMAAAAAAI5P4zDsanIqlaMOrsiKXZnyWbSo8nua16YRScmY1PF7W1AzFDlg2G-Bq8K94PUQ4grkwonYyscyXAUvEkKwKftzo18VydDq4TjjaWBbh8iZc7HcIA"
-  },
-  {
-   "eur_sqm": 3095,
-   "yield": 5.43,
-   "price": 650000,
-   "sqm": 210.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "*** Ein wahres Raumwunder für Ihre gesamte Familie...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDJ9ADMAAAAAAI1Yqx68cHQc3fBdCs2sHbJcfS7Bu-G2MCsujXOUR6qU2-FHvbmpbCDRg-V3BOJB9rqdZij8nLvUkTZNJFJNy1M32Cceki2M3xpZvqXx3hLP1Y8a-g"
   }
  ]
 }
