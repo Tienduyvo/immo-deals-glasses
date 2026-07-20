@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-20T16:49:24",
+ "generated_at": "2026-07-20T17:02:38",
  "count": 30,
  "deals": [
   {
@@ -153,6 +153,16 @@
    "url": "https://www.immobilienscout24.de/expose/168520469"
   },
   {
+   "eur_sqm": 2842,
+   "yield": 5.91,
+   "price": 395000,
+   "sqm": 139.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Gepflegte 4 Zi. Wohnung inkl. 2 Stellplätzen - zen...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDN9ADMAAAAAAI_JGHHV30Mcxn3XZWsgDKWNWvRW0HHI8XAkcAsv6s6cTftrJfQ817qV3w3K6Gkf2fX5uQAgm3hjCSZp-OfAQXfjhIC20p9wUcnssjokiNZl0GnZRA"
+  },
+  {
    "eur_sqm": 2891,
    "yield": 5.81,
    "price": 425000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Offene Besichtigung So. 05.07. 10:30|Gepflegte 3,5...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDF9ADMAAAAAAI4aOsV2MSPWy8PIvgXJwkGp1ibkH_wj9nNQ7c5QqoyipNjOpyvapg7X2DPKguSmLON95bAUSrTazTwaiv_-CIxDXUw_zFPlzP6p7eO_Kmx1kiBCaQ"
-  },
-  {
-   "eur_sqm": 3287,
-   "yield": null,
-   "price": 355000,
-   "sqm": 108.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Browser)",
-   "title": "Einfamilienhaus mit Anliegerwohnung & Ausbaupotenzial",
-   "url": "https://www.immobilienscout24.de/expose/168930130"
   }
  ]
 }
