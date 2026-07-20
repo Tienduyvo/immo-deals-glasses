@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-20T19:27:41",
+ "generated_at": "2026-07-20T19:28:18",
  "count": 30,
  "deals": [
   {
@@ -203,6 +203,16 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55162&land_abk=he"
   },
   {
+   "eur_sqm": 3006,
+   "yield": 5.59,
+   "price": 499000,
+   "sqm": 166.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Nachhaltig wohnen, großzügig leben - Ihr Familienh...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDN9ADMAAAAAAJAgMCVJ6N6t3fTOroByTjfw0rUFauoil2HRtjv8tfUcFasHDIHDxqcr8KviLttawdIdSMqniKRcY5BAXt3XS7knfR-l19yRs_OEiSD8z2UcM27_DA"
+  },
+  {
    "eur_sqm": 3043,
    "yield": 5.52,
    "price": 140000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Kapitalanlage im Herzen von Frankfurt-Höchst - Hau...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzJ9ADMAAAAAAIEIqM0vGuZlGJyKuSbrc5-Ras_MGEfHP5b4x1vhOKRNWt8cwXQV3T-HA4z6kNYWnbwyFvBRJVOZRBEfrBquMIKGBp3oqhlni5YB9ozIl3CdWj_Sdw"
-  },
-  {
-   "eur_sqm": 3266,
-   "yield": 5.14,
-   "price": 258000,
-   "sqm": 79.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Offene Besichtigung So. 05.07. 10:30|Gepflegte 3,5...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDF9ADMAAAAAAI4aOsV2MSPWy8PIvgXJwkGp1ibkH_wj9nNQ7c5QqoyipNjOpyvapg7X2DPKguSmLON95bAUSrTazTwaiv_-CIxDXUw_zFPlzP6p7eO_Kmx1kiBCaQ"
   }
  ]
 }
