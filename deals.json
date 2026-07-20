@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-20T06:42:20",
+ "generated_at": "2026-07-20T07:59:08",
  "count": 30,
  "deals": [
   {
@@ -141,6 +141,16 @@
    "source": "ZVG",
    "title": "Eigentumswohnung (3 bis 4 Zimmer) : Toni-Sender-Straße 2-14,",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54990&land_abk=he"
+  },
+  {
+   "eur_sqm": 2588,
+   "yield": 6.49,
+   "price": 170000,
+   "sqm": 65.69,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Anzeige ansehen",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3463376992"
   },
   {
    "eur_sqm": 2683,
@@ -291,16 +301,6 @@
    "source": "immoscout",
    "title": "FRANKFURT-NIEDER-ESCHBACH: Schöne und helle 3 ZW mit Balkon ",
    "url": "https://www.immobilienscout24.de/expose/169074266"
-  },
-  {
-   "eur_sqm": 3203,
-   "yield": 5.25,
-   "price": 2040000,
-   "sqm": 637.0,
-   "district": "Kalbach",
-   "source": "ZVG",
-   "title": "Mehrfamilienhaus : Kalbacher Hauptstraße 60c, 60437 Frankfur",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54982&land_abk=he"
   }
  ]
 }
