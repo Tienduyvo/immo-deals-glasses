@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-20T12:55:08",
+ "generated_at": "2026-07-20T13:11:18",
  "count": 30,
  "deals": [
   {
@@ -253,6 +253,16 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54982&land_abk=he"
   },
   {
+   "eur_sqm": 3217,
+   "yield": 5.22,
+   "price": 965000,
+   "sqm": 300.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Sehr gepflegtes 4-Familienhaus mit guter Rendite i...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDN9ADMAAAAAAI-C81Fm-8Gah5Ke9dltZvEbFa3NgIWw-tR_VMDbKJ8eQDQNPEhucGXb-EXC8NnwwDwNjJ0dVYfbZaUKDAcFafFPe9Px4uUkuatthDpaFUoDt7Mlfg"
+  },
+  {
    "eur_sqm": 3218,
    "yield": 5.22,
    "price": 280000,
@@ -291,16 +301,6 @@
    "source": "ImmoScout24 (Browser)",
    "title": "Einfamilienhaus mit Anliegerwohnung & Ausbaupotenzial",
    "url": "https://www.immobilienscout24.de/expose/168930130"
-  },
-  {
-   "eur_sqm": 3294,
-   "yield": 5.1,
-   "price": 280000,
-   "sqm": 85.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Sanierungsbedürftiges Reihenhaus auf Erbpachtgrund...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Mzd9ADMAAAAAAIgLxR-FbqGZR7iFrpj94jthEvvMN2xdEKic-WeLVyMQFsBOYIMeBFwUlOAotSf1W_d07sLMuRLGyaTalapSYhiabIFikkUJubq5AUUwZ7opAi0IDw"
   }
  ]
 }
