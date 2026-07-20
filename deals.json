@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-20T08:45:00",
+ "generated_at": "2026-07-20T08:51:49",
  "count": 30,
  "deals": [
   {
@@ -141,6 +141,16 @@
    "source": "immoscout24-mail",
    "title": "Kernsaniertes Zweifamilienhaus + Rohbau-Hinterhaus | Baugene",
    "url": "https://www.immobilienscout24.de/expose/168520469"
+  },
+  {
+   "eur_sqm": 2891,
+   "yield": 5.81,
+   "price": 425000,
+   "sqm": 147.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Zweifamilienhaus mit Scheune & zusätzlichem Baupot...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDN9ADMAAAAAAI8FlEWdKT_wqlTRFUAcWpPUY0UYxCPS7L91sWERSlizLKLm0OsgW0bbOJyUV1DQaKZIr11IlcWoNWYT_Ao2L5i4hbvV7Cs8OWbGwrfSzciV8RtUUg"
   },
   {
    "eur_sqm": 2893,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Sanierungsbedürftiges Reihenhaus auf Erbpachtgrund...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Mzd9ADMAAAAAAIgLxR-FbqGZR7iFrpj94jthEvvMN2xdEKic-WeLVyMQFsBOYIMeBFwUlOAotSf1W_d07sLMuRLGyaTalapSYhiabIFikkUJubq5AUUwZ7opAi0IDw"
-  },
-  {
-   "eur_sqm": 3325,
-   "yield": null,
-   "price": 195000,
-   "sqm": 58.64,
-   "district": "Oberrad",
-   "source": "immoscout24-mail",
-   "title": "Sie wollen hoch hinaus? Top gepflegte Zweizimmerwohnung mit ",
-   "url": "https://www.immobilienscout24.de/expose/169096786"
   }
  ]
 }
