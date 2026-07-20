@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-20T10:53:32",
+ "generated_at": "2026-07-20T11:19:12",
  "count": 30,
  "deals": [
   {
@@ -31,6 +31,16 @@
    "source": "immoscout24-mail",
    "title": "Teilvermietetes MFH mit 4 Wohneinheiten und Erbbaurecht in g",
    "url": "https://www.immobilienscout24.de/expose/168265319"
+  },
+  {
+   "eur_sqm": 2039,
+   "yield": 8.24,
+   "price": 685000,
+   "sqm": 336.0,
+   "district": "Dietzenbach",
+   "source": "Immowelt (Mail)",
+   "title": "Raumwunder mit Traumgarten: ZFH in Dietzenbach",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDN9ADMAAAAAAI89lzAj9jz5ZfaswasE-oL-teO5vQWhVbNCxFhQBVPhgQzngmeiDlT28UrBIWvz-LmCVBBttFuWSXnItQ5l4dv__OlSWcfHBZVdQeIZ0HCTYhqp3A"
   },
   {
    "eur_sqm": 2049,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Sanierungsbedürftiges Reihenhaus auf Erbpachtgrund...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Mzd9ADMAAAAAAIgLxR-FbqGZR7iFrpj94jthEvvMN2xdEKic-WeLVyMQFsBOYIMeBFwUlOAotSf1W_d07sLMuRLGyaTalapSYhiabIFikkUJubq5AUUwZ7opAi0IDw"
-  },
-  {
-   "eur_sqm": 3325,
-   "yield": null,
-   "price": 195000,
-   "sqm": 58.64,
-   "district": "Oberrad",
-   "source": "immoscout24-mail",
-   "title": "Sie wollen hoch hinaus? Top gepflegte Zweizimmerwohnung mit ",
-   "url": "https://www.immobilienscout24.de/expose/169096786"
   }
  ]
 }
