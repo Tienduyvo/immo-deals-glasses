@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-20T08:59:28",
+ "generated_at": "2026-07-20T09:17:27",
  "count": 30,
  "deals": [
   {
@@ -153,16 +153,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDN9ADMAAAAAAI8FlEWdKT_wqlTRFUAcWpPUY0UYxCPS7L91sWERSlizLKLm0OsgW0bbOJyUV1DQaKZIr11IlcWoNWYT_Ao2L5i4hbvV7Cs8OWbGwrfSzciV8RtUUg"
   },
   {
-   "eur_sqm": 2893,
-   "yield": 5.81,
-   "price": 839000,
-   "sqm": 290.0,
-   "district": "Riedberg",
-   "source": "ohne-makler",
-   "title": "839.000 € Exklusive 4-Zimmer-Gartenwohnung mit ca. 290 m² Ga",
-   "url": "https://www.ohne-makler.net/immobilie/477315/"
-  },
-  {
    "eur_sqm": 2943,
    "yield": null,
    "price": 1120000,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "Sanierungsbedürftiges Reihenhaus auf Erbpachtgrund...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Mzd9ADMAAAAAAIgLxR-FbqGZR7iFrpj94jthEvvMN2xdEKic-WeLVyMQFsBOYIMeBFwUlOAotSf1W_d07sLMuRLGyaTalapSYhiabIFikkUJubq5AUUwZ7opAi0IDw"
+  },
+  {
+   "eur_sqm": 3325,
+   "yield": null,
+   "price": 195000,
+   "sqm": 58.64,
+   "district": "Oberrad",
+   "source": "immoscout24-mail",
+   "title": "Sie wollen hoch hinaus? Top gepflegte Zweizimmerwohnung mit ",
+   "url": "https://www.immobilienscout24.de/expose/169096786"
   }
  ]
 }
