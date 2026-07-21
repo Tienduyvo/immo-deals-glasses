@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T13:17:14",
+ "generated_at": "2026-07-21T13:17:34",
  "count": 30,
  "deals": [
   {
@@ -293,14 +293,14 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDF9ADMAAAAAAI09AR08piNxI-UqN9KczNJQGvDneqxbiSta58u8OLlse5pVB4RtmITtT0_4v5EoJLegKbl26YEX0cJlmO6ljVKs7ZPivwnPd82f6QXnGsmCXjooLQ"
   },
   {
-   "eur_sqm": 3416,
+   "eur_sqm": 3420,
    "yield": null,
-   "price": 361000,
-   "sqm": 105.68,
+   "price": 585500,
+   "sqm": 171.2,
    "district": "Frankfurt (unspez.)",
-   "source": "immoscout24-mail",
-   "title": "1/2 Anteil - 3-Zimmer-Wohnung",
-   "url": "https://www.immobilienscout24.de/expose/169083540"
+   "source": "ImmoScout24 (Browser)",
+   "title": "Ehemalige Scheune mit Loft-Charakter",
+   "url": "https://www.immobilienscout24.de/expose/169008290"
   }
  ]
 }
