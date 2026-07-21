@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T16:45:43",
+ "generated_at": "2026-07-21T16:49:51",
  "count": 30,
  "deals": [
   {
@@ -183,6 +183,16 @@
    "url": "https://www.immobilienscout24.de/expose/169074266"
   },
   {
+   "eur_sqm": 3142,
+   "yield": 5.35,
+   "price": 499500,
+   "sqm": 159.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Großzügiges 1-2 Familienhaus mit traumhaftem Weitb...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDR9ADMAAAAAAJFSF0sJKeVDIX4wfWMdggRiUDP9i5rvnx4uXzySDwRBfnXt1FiZqQccU_3Jh7UFDq2vAj-SwXKHhigBSl6k2IpU4eImzNAXKHOhTqzLUyCEUYcREA"
+  },
+  {
    "eur_sqm": 3203,
    "yield": 5.25,
    "price": 2040000,
@@ -291,16 +301,6 @@
    "source": "ImmoScout24 (Browser)",
    "title": "Ehemalige Scheune mit Loft-Charakter",
    "url": "https://www.immobilienscout24.de/expose/169008290"
-  },
-  {
-   "eur_sqm": 3466,
-   "yield": null,
-   "price": 2950000,
-   "sqm": 851.02,
-   "district": "Bornheim",
-   "source": "immoscout24-mail",
-   "title": "Frankfurt-Bornheim: Gepflegtes Mehrfamilienhaus mit 17 Wohnu",
-   "url": "https://www.immobilienscout24.de/expose/165472603"
   }
  ]
 }
