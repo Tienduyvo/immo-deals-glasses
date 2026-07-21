@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T13:06:15",
+ "generated_at": "2026-07-21T13:07:07",
  "count": 30,
  "deals": [
   {
@@ -143,26 +143,6 @@
    "url": "https://www.immobilienscout24.de/expose/168520469"
   },
   {
-   "eur_sqm": 2842,
-   "yield": 5.91,
-   "price": 395000,
-   "sqm": 139.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Gepflegte 4 Zi. Wohnung inkl. 2 Stellplätzen - zen...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDN9ADMAAAAAAI_JGHHV30Mcxn3XZWsgDKWNWvRW0HHI8XAkcAsv6s6cTftrJfQ817qV3w3K6Gkf2fX5uQAgm3hjCSZp-OfAQXfjhIC20p9wUcnssjokiNZl0GnZRA"
-  },
-  {
-   "eur_sqm": 2891,
-   "yield": 5.81,
-   "price": 425000,
-   "sqm": 147.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Zweifamilienhaus mit Scheune & zusätzlichem Baupot...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDN9ADMAAAAAAI8FlEWdKT_wqlTRFUAcWpPUY0UYxCPS7L91sWERSlizLKLm0OsgW0bbOJyUV1DQaKZIr11IlcWoNWYT_Ao2L5i4hbvV7Cs8OWbGwrfSzciV8RtUUg"
-  },
-  {
    "eur_sqm": 2943,
    "yield": null,
    "price": 1120000,
@@ -193,16 +173,6 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55162&land_abk=he"
   },
   {
-   "eur_sqm": 3006,
-   "yield": 5.59,
-   "price": 499000,
-   "sqm": 166.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Nachhaltig wohnen, großzügig leben - Ihr Familienh...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDN9ADMAAAAAAJAgMCVJ6N6t3fTOroByTjfw0rUFauoil2HRtjv8tfUcFasHDIHDxqcr8KviLttawdIdSMqniKRcY5BAXt3XS7knfR-l19yRs_OEiSD8z2UcM27_DA"
-  },
-  {
    "eur_sqm": 3043,
    "yield": 5.52,
    "price": 140000,
@@ -211,26 +181,6 @@
    "source": "Immowelt (Mail)",
    "title": "Attraktive",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzF9ADMAAAAAAH9txo5y0R26kVLmwCvJ7CCvaYjPSfiVPVUUl_N0iCadzAUFSATAYh53H0m-acjlTblMCeSKLiyBa25qvjCQTFDDLvH_QuwpHqPPI9MA7ggqdq4c8w"
-  },
-  {
-   "eur_sqm": 3062,
-   "yield": 5.49,
-   "price": 199000,
-   "sqm": 65.0,
-   "district": "Hanau",
-   "source": "Immowelt (Mail)",
-   "title": "Gemütliche Drei-Zimmer-Wohnung in Hanau",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDR9ADMAAAAAAJDNKUDRDvUSOjCZnW7Bu95Dbp964tBlsNrBzEBSdHcpZIkr3QBVr6FLTBwkpRbzrX5aJBXNTJIoHMFdA6i9upW0Pf74C1PNSyDdMrcUDifRgOlBsg"
-  },
-  {
-   "eur_sqm": 3090,
-   "yield": 5.44,
-   "price": 825000,
-   "sqm": 267.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Hier wohnen zwei Familien wie in einem Doppelhaus.",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDJ9ADMAAAAAAI5P4zDsanIqlaMOrsiKXZnyWbSo8nua16YRScmY1PF7W1AzFDlg2G-Bq8K94PUQ4grkwonYyscyXAUvEkKwKftzo18VydDq4TjjaWBbh8iZc7HcIA"
   },
   {
    "eur_sqm": 3095,
@@ -301,6 +251,56 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Kalbacher Hauptstraße 60c, 60437 Frankfur",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54982&land_abk=he"
+  },
+  {
+   "eur_sqm": 3217,
+   "yield": 5.22,
+   "price": 965000,
+   "sqm": 300.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Sehr gepflegtes 4-Familienhaus mit guter Rendite i...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDN9ADMAAAAAAI-C81Fm-8Gah5Ke9dltZvEbFa3NgIWw-tR_VMDbKJ8eQDQNPEhucGXb-EXC8NnwwDwNjJ0dVYfbZaUKDAcFafFPe9Px4uUkuatthDpaFUoDt7Mlfg"
+  },
+  {
+   "eur_sqm": 3218,
+   "yield": 5.22,
+   "price": 280000,
+   "sqm": 87.0,
+   "district": "Oberursel",
+   "source": "ohne-makler",
+   "title": "Schöne 3 ZKB im Rosengärtchen mit Garagenplatz und Aussenste",
+   "url": "https://www.ohne-makler.net/immobilie/476705/"
+  },
+  {
+   "eur_sqm": 3247,
+   "yield": 5.17,
+   "price": 250000,
+   "sqm": 77.0,
+   "district": "Maintal",
+   "source": "Immowelt (Mail)",
+   "title": "Maintal-Dörnigheim, Waldrandlage, 3-Zi-ETW mit Log...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDN9ADMAAAAAAJA0yNPqVJwBI7Y4gvp8FZfz-9_ATWANzMRxI8W6qA_kMJXWzyQGgqcmSfkEFQlkVubCAkPBXRo1g09obuYyjtwNW6Fy4yhqsWd4Q08xMbO5B3GJrw"
+  },
+  {
+   "eur_sqm": 3251,
+   "yield": 5.17,
+   "price": 1749000,
+   "sqm": 538.0,
+   "district": "Höchst",
+   "source": "Immowelt (Mail)",
+   "title": "Kapitalanlage im Herzen von Frankfurt-Höchst - Hau...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzJ9ADMAAAAAAIEIqM0vGuZlGJyKuSbrc5-Ras_MGEfHP5b4x1vhOKRNWt8cwXQV3T-HA4z6kNYWnbwyFvBRJVOZRBEfrBquMIKGBp3oqhlni5YB9ozIl3CdWj_Sdw"
+  },
+  {
+   "eur_sqm": 3266,
+   "yield": 5.14,
+   "price": 258000,
+   "sqm": 79.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Offene Besichtigung So. 05.07. 10:30|Gepflegte 3,5...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDF9ADMAAAAAAI4aOsV2MSPWy8PIvgXJwkGp1ibkH_wj9nNQ7c5QqoyipNjOpyvapg7X2DPKguSmLON95bAUSrTazTwaiv_-CIxDXUw_zFPlzP6p7eO_Kmx1kiBCaQ"
   }
  ]
 }
