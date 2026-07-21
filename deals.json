@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T11:33:33",
+ "generated_at": "2026-07-21T11:59:13",
  "count": 30,
  "deals": [
   {
@@ -273,6 +273,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDJ9ADMAAAAAAI6QpXFcMe3Lg4XBL4aet_9DEfo7zuMb7Oxc-tlI-EnhUd5KM4jHuXf13FNxgTVJEWooCkUxrI92hokOaCO7P4CusCvYsNn2UN1vfU65iL0pmLq4iA"
   },
   {
+   "eur_sqm": 3113,
+   "yield": 5.4,
+   "price": 330000,
+   "sqm": 106.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Außergewöhnlich breit. Außergewöhnlich schön.",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDR9ADMAAAAAAJD5Yp5ypc67wtrHdG6qnUyOaoVTPqp15MPHR0SNAlYSy9yQfhOWKvBm0ADVMFrYyWeY2BhIk8c28z7-vHitlBZ3AmsIbjWqQqM6nnxC-AmlBYcuaw"
+  },
+  {
    "eur_sqm": 3126,
    "yield": 5.37,
    "price": 272000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Altbau trifft Potenzial: Villa mit drei Wohneinhei...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDR9ADMAAAAAAJCH_wIu_kvNLa7uTQXuFeQ0TyiniIHDoP9LuUPoDGL-LLz5f8MHxZQ_41mXO64h_TpeqwYhKR0jKNl29u7x7WIfu480iwCWH-nmuI4gYZH4-ebqaw"
-  },
-  {
-   "eur_sqm": 3175,
-   "yield": 5.29,
-   "price": 200000,
-   "sqm": 63.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Gemütliche",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDR9ADMAAAAAAJCYkKXzHMAxEtNgrICMY-WqlM4VJdAJKam39kySv2L6OwPY-EmPfVidL4m8-3GDA09T2xI0sil3p_1YPyxT-ABSP1mBOoTWo5I4h0N3GmDJTKk2hA"
   }
  ]
 }
