@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T09:49:28",
+ "generated_at": "2026-07-21T10:12:21",
  "count": 30,
  "deals": [
   {
@@ -21,6 +21,16 @@
    "source": "Immowelt (Mail)",
    "title": "Raum für Generationen, Ideen und Perspektiven.",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzJ9ADMAAAAAAIFo8vbswnjUpImu6KUcoFGwGNvsk5qc6YbjFA_C9bCO86Hlm4VEbG_yubkpFdz9Vn_IWBLgmygNLwb440FlYi0kOqoQe9sFklX_aqXNb3fNaY8jBg"
+  },
+  {
+   "eur_sqm": 1823,
+   "yield": 9.22,
+   "price": 175000,
+   "sqm": 96.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Einfamilien-Reihenhaus mit",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDR9ADMAAAAAAJCko9m4KJxvEozl-g-T8hgm_OShYATIHIIdcIlARP-W_eLZRaJ-LLimVoK74GSJc3PEX4tnES5WJ1fHUa6WGz6TcX5njNZwoiW1DwhsdS2qBjHbTg"
   },
   {
    "eur_sqm": 2017,
@@ -291,16 +301,6 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Kalbacher Hauptstraße 60c, 60437 Frankfur",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54982&land_abk=he"
-  },
-  {
-   "eur_sqm": 3217,
-   "yield": 5.22,
-   "price": 965000,
-   "sqm": 300.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Sehr gepflegtes 4-Familienhaus mit guter Rendite i...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDN9ADMAAAAAAI-C81Fm-8Gah5Ke9dltZvEbFa3NgIWw-tR_VMDbKJ8eQDQNPEhucGXb-EXC8NnwwDwNjJ0dVYfbZaUKDAcFafFPe9Px4uUkuatthDpaFUoDt7Mlfg"
   }
  ]
 }
