@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T13:12:40",
+ "generated_at": "2026-07-21T13:13:39",
  "count": 30,
  "deals": [
   {
@@ -213,16 +213,6 @@
    "url": "https://www.ohne-makler.net/immobilie/476705/"
   },
   {
-   "eur_sqm": 3247,
-   "yield": 5.17,
-   "price": 250000,
-   "sqm": 77.0,
-   "district": "Maintal",
-   "source": "Immowelt (Mail)",
-   "title": "Maintal-Dörnigheim, Waldrandlage, 3-Zi-ETW mit Log...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDN9ADMAAAAAAJA0yNPqVJwBI7Y4gvp8FZfz-9_ATWANzMRxI8W6qA_kMJXWzyQGgqcmSfkEFQlkVubCAkPBXRo1g09obuYyjtwNW6Fy4yhqsWd4Q08xMbO5B3GJrw"
-  },
-  {
    "eur_sqm": 3251,
    "yield": 5.17,
    "price": 1749000,
@@ -231,16 +221,6 @@
    "source": "Immowelt (Mail)",
    "title": "Kapitalanlage im Herzen von Frankfurt-Höchst - Hau...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzJ9ADMAAAAAAIEIqM0vGuZlGJyKuSbrc5-Ras_MGEfHP5b4x1vhOKRNWt8cwXQV3T-HA4z6kNYWnbwyFvBRJVOZRBEfrBquMIKGBp3oqhlni5YB9ozIl3CdWj_Sdw"
-  },
-  {
-   "eur_sqm": 3266,
-   "yield": 5.14,
-   "price": 258000,
-   "sqm": 79.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Offene Besichtigung So. 05.07. 10:30|Gepflegte 3,5...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDF9ADMAAAAAAI4aOsV2MSPWy8PIvgXJwkGp1ibkH_wj9nNQ7c5QqoyipNjOpyvapg7X2DPKguSmLON95bAUSrTazTwaiv_-CIxDXUw_zFPlzP6p7eO_Kmx1kiBCaQ"
   },
   {
    "eur_sqm": 3287,
@@ -301,6 +281,26 @@
    "source": "immoscout24-mail",
    "title": "3ZKB Eigentumswohnung - für Eigennutzer und Kapitalanleger",
    "url": "https://www.immobilienscout24.de/expose/169102060"
+  },
+  {
+   "eur_sqm": 3361,
+   "yield": 5.0,
+   "price": 279000,
+   "sqm": 83.0,
+   "district": "Dietzenbach",
+   "source": "Immowelt (Mail)",
+   "title": "Klasse 3,5 Zi DG-ETW in Dietzenbach",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDR9ADMAAAAAAJEal1l32mgIudedTeoC7NuXWmyatniUgN3r5vA6N72j2lSd8e3faWaW22ZpMOvPRwmVpnvBGmsCXNnjksefAdFGWTON3r-lQimsK46oTGKwzwum-w"
+  },
+  {
+   "eur_sqm": 3365,
+   "yield": 4.99,
+   "price": 350000,
+   "sqm": 104.0,
+   "district": "",
+   "source": "ZVG",
+   "title": "Einfamilienhaus : Vorm Stichel, 63517 Rodenbach",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54934&land_abk=he"
   }
  ]
 }
