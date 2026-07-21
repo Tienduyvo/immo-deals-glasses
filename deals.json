@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T13:02:10",
+ "generated_at": "2026-07-21T13:06:15",
  "count": 30,
  "deals": [
   {
@@ -23,16 +23,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzJ9ADMAAAAAAIFo8vbswnjUpImu6KUcoFGwGNvsk5qc6YbjFA_C9bCO86Hlm4VEbG_yubkpFdz9Vn_IWBLgmygNLwb440FlYi0kOqoQe9sFklX_aqXNb3fNaY8jBg"
   },
   {
-   "eur_sqm": 1823,
-   "yield": 9.22,
-   "price": 175000,
-   "sqm": 96.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Einfamilien-Reihenhaus mit",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDR9ADMAAAAAAJCko9m4KJxvEozl-g-T8hgm_OShYATIHIIdcIlARP-W_eLZRaJ-LLimVoK74GSJc3PEX4tnES5WJ1fHUa6WGz6TcX5njNZwoiW1DwhsdS2qBjHbTg"
-  },
-  {
    "eur_sqm": 2017,
    "yield": null,
    "price": 353000,
@@ -41,16 +31,6 @@
    "source": "immoscout24-mail",
    "title": "Teilvermietetes MFH mit 4 Wohneinheiten und Erbbaurecht in g",
    "url": "https://www.immobilienscout24.de/expose/168265319"
-  },
-  {
-   "eur_sqm": 2039,
-   "yield": 8.24,
-   "price": 685000,
-   "sqm": 336.0,
-   "district": "Dietzenbach",
-   "source": "Immowelt (Mail)",
-   "title": "Raumwunder mit Traumgarten: ZFH in Dietzenbach",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDN9ADMAAAAAAI89lzAj9jz5ZfaswasE-oL-teO5vQWhVbNCxFhQBVPhgQzngmeiDlT28UrBIWvz-LmCVBBttFuWSXnItQ5l4dv__OlSWcfHBZVdQeIZ0HCTYhqp3A"
   },
   {
    "eur_sqm": 2049,
@@ -301,6 +281,26 @@
    "source": "Immowelt (Mail)",
    "title": "Altbau trifft Potenzial: Villa mit drei Wohneinhei...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDR9ADMAAAAAAJCH_wIu_kvNLa7uTQXuFeQ0TyiniIHDoP9LuUPoDGL-LLz5f8MHxZQ_41mXO64h_TpeqwYhKR0jKNl29u7x7WIfu480iwCWH-nmuI4gYZH4-ebqaw"
+  },
+  {
+   "eur_sqm": 3175,
+   "yield": 5.29,
+   "price": 200000,
+   "sqm": 63.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Gemütliche",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDR9ADMAAAAAAJCYkKXzHMAxEtNgrICMY-WqlM4VJdAJKam39kySv2L6OwPY-EmPfVidL4m8-3GDA09T2xI0sil3p_1YPyxT-ABSP1mBOoTWo5I4h0N3GmDJTKk2hA"
+  },
+  {
+   "eur_sqm": 3203,
+   "yield": 5.25,
+   "price": 2040000,
+   "sqm": 637.0,
+   "district": "Kalbach",
+   "source": "ZVG",
+   "title": "Mehrfamilienhaus : Kalbacher Hauptstraße 60c, 60437 Frankfur",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54982&land_abk=he"
   }
  ]
 }
