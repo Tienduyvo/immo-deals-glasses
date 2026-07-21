@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T21:03:29",
+ "generated_at": "2026-07-21T21:07:08",
  "count": 30,
  "deals": [
   {
@@ -263,6 +263,16 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54810&land_abk=he"
   },
   {
+   "eur_sqm": 3333,
+   "yield": 5.04,
+   "price": 249999,
+   "sqm": 75.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Gepflegte",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDR9ADMAAAAAAJHQLgMDD9Rxfj7IoxzGDA1pB61iJP5hKoVYsjvPJZkB5VhAEbXAqseqM5tQZ8FT192ReANXS0M8x8-WjCPiaawJckd2wm43dFxwAqsr5tq4QdMPcA"
+  },
+  {
    "eur_sqm": 3343,
    "yield": null,
    "price": 229000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Bungalow am Waldrand in Top-Wohnlage Wehrheim/Saal...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDN9ADMAAAAAAI-0RVIiiVZOcX5E4cE4oVXZXiA1jbB_VvphE6ceFmFqMCqKXAGaWcMKCRCRu0lF0oU4Lp9eqXZEBjBAHprPjOzVX2K2s8b0t5FT3BeylWAwrpFWQw"
-  },
-  {
-   "eur_sqm": 3382,
-   "yield": 4.97,
-   "price": 230000,
-   "sqm": 68.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Sanierung notwendig mit Garten",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDF9ADMAAAAAAI09AR08piNxI-UqN9KczNJQGvDneqxbiSta58u8OLlse5pVB4RtmITtT0_4v5EoJLegKbl26YEX0cJlmO6ljVKs7ZPivwnPd82f6QXnGsmCXjooLQ"
   }
  ]
 }
