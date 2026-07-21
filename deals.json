@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T13:16:14",
+ "generated_at": "2026-07-21T13:17:14",
  "count": 30,
  "deals": [
   {
@@ -173,16 +173,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzF9ADMAAAAAAH9txo5y0R26kVLmwCvJ7CCvaYjPSfiVPVUUl_N0iCadzAUFSATAYh53H0m-acjlTblMCeSKLiyBa25qvjCQTFDDLvH_QuwpHqPPI9MA7ggqdq4c8w"
   },
   {
-   "eur_sqm": 3095,
-   "yield": 5.43,
-   "price": 650000,
-   "sqm": 210.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "*** Ein wahres Raumwunder für Ihre gesamte Familie...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDJ9ADMAAAAAAI1Yqx68cHQc3fBdCs2sHbJcfS7Bu-G2MCsujXOUR6qU2-FHvbmpbCDRg-V3BOJB9rqdZij8nLvUkTZNJFJNy1M32Cceki2M3xpZvqXx3hLP1Y8a-g"
-  },
-  {
    "eur_sqm": 3126,
    "yield": 5.37,
    "price": 272000,
@@ -201,16 +191,6 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Kalbacher Hauptstraße 60c, 60437 Frankfur",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54982&land_abk=he"
-  },
-  {
-   "eur_sqm": 3218,
-   "yield": 5.22,
-   "price": 280000,
-   "sqm": 87.0,
-   "district": "Oberursel",
-   "source": "ohne-makler",
-   "title": "Schöne 3 ZKB im Rosengärtchen mit Garagenplatz und Aussenste",
-   "url": "https://www.ohne-makler.net/immobilie/476705/"
   },
   {
    "eur_sqm": 3251,
@@ -301,6 +281,26 @@
    "source": "Immowelt (Mail)",
    "title": "Bungalow am Waldrand in Top-Wohnlage Wehrheim/Saal...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDN9ADMAAAAAAI-0RVIiiVZOcX5E4cE4oVXZXiA1jbB_VvphE6ceFmFqMCqKXAGaWcMKCRCRu0lF0oU4Lp9eqXZEBjBAHprPjOzVX2K2s8b0t5FT3BeylWAwrpFWQw"
+  },
+  {
+   "eur_sqm": 3382,
+   "yield": 4.97,
+   "price": 230000,
+   "sqm": 68.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Sanierung notwendig mit Garten",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDF9ADMAAAAAAI09AR08piNxI-UqN9KczNJQGvDneqxbiSta58u8OLlse5pVB4RtmITtT0_4v5EoJLegKbl26YEX0cJlmO6ljVKs7ZPivwnPd82f6QXnGsmCXjooLQ"
+  },
+  {
+   "eur_sqm": 3416,
+   "yield": null,
+   "price": 361000,
+   "sqm": 105.68,
+   "district": "Frankfurt (unspez.)",
+   "source": "immoscout24-mail",
+   "title": "1/2 Anteil - 3-Zimmer-Wohnung",
+   "url": "https://www.immobilienscout24.de/expose/169083540"
   }
  ]
 }
