@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T13:11:39",
+ "generated_at": "2026-07-21T13:12:40",
  "count": 30,
  "deals": [
   {
@@ -183,16 +183,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDJ9ADMAAAAAAI1Yqx68cHQc3fBdCs2sHbJcfS7Bu-G2MCsujXOUR6qU2-FHvbmpbCDRg-V3BOJB9rqdZij8nLvUkTZNJFJNy1M32Cceki2M3xpZvqXx3hLP1Y8a-g"
   },
   {
-   "eur_sqm": 3113,
-   "yield": 5.4,
-   "price": 330000,
-   "sqm": 106.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Außergewöhnlich breit. Außergewöhnlich schön.",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDR9ADMAAAAAAJD5Yp5ypc67wtrHdG6qnUyOaoVTPqp15MPHR0SNAlYSy9yQfhOWKvBm0ADVMFrYyWeY2BhIk8c28z7-vHitlBZ3AmsIbjWqQqM6nnxC-AmlBYcuaw"
-  },
-  {
    "eur_sqm": 3126,
    "yield": 5.37,
    "price": 272000,
@@ -201,16 +191,6 @@
    "source": "immoscout",
    "title": "FRANKFURT-NIEDER-ESCHBACH: Schöne und helle 3 ZW mit Balkon ",
    "url": "https://www.immobilienscout24.de/expose/169074266"
-  },
-  {
-   "eur_sqm": 3165,
-   "yield": 5.31,
-   "price": 750000,
-   "sqm": 237.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Altbau trifft Potenzial: Villa mit drei Wohneinhei...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDR9ADMAAAAAAJCH_wIu_kvNLa7uTQXuFeQ0TyiniIHDoP9LuUPoDGL-LLz5f8MHxZQ_41mXO64h_TpeqwYhKR0jKNl29u7x7WIfu480iwCWH-nmuI4gYZH4-ebqaw"
   },
   {
    "eur_sqm": 3203,
@@ -301,6 +281,26 @@
    "source": "immoscout24-mail",
    "title": "Sie wollen hoch hinaus? Top gepflegte Zweizimmerwohnung mit ",
    "url": "https://www.immobilienscout24.de/expose/169096786"
+  },
+  {
+   "eur_sqm": 3327,
+   "yield": 5.05,
+   "price": 204000,
+   "sqm": 61.32,
+   "district": "Mörfelden",
+   "source": "ZVG",
+   "title": "Sonstiges : Langgasse 24, 64546 Mörfelden-Walldorf, Mörfelde",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54810&land_abk=he"
+  },
+  {
+   "eur_sqm": 3343,
+   "yield": null,
+   "price": 229000,
+   "sqm": 68.5,
+   "district": "Frankfurt (unspez.)",
+   "source": "immoscout24-mail",
+   "title": "3ZKB Eigentumswohnung - für Eigennutzer und Kapitalanleger",
+   "url": "https://www.immobilienscout24.de/expose/169102060"
   }
  ]
 }
