@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T13:13:39",
+ "generated_at": "2026-07-21T13:16:14",
  "count": 30,
  "deals": [
   {
@@ -283,16 +283,6 @@
    "url": "https://www.immobilienscout24.de/expose/169102060"
   },
   {
-   "eur_sqm": 3361,
-   "yield": 5.0,
-   "price": 279000,
-   "sqm": 83.0,
-   "district": "Dietzenbach",
-   "source": "Immowelt (Mail)",
-   "title": "Klasse 3,5 Zi DG-ETW in Dietzenbach",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDR9ADMAAAAAAJEal1l32mgIudedTeoC7NuXWmyatniUgN3r5vA6N72j2lSd8e3faWaW22ZpMOvPRwmVpnvBGmsCXNnjksefAdFGWTON3r-lQimsK46oTGKwzwum-w"
-  },
-  {
    "eur_sqm": 3365,
    "yield": 4.99,
    "price": 350000,
@@ -301,6 +291,16 @@
    "source": "ZVG",
    "title": "Einfamilienhaus : Vorm Stichel, 63517 Rodenbach",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54934&land_abk=he"
+  },
+  {
+   "eur_sqm": 3379,
+   "yield": 4.97,
+   "price": 598000,
+   "sqm": 177.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Bungalow am Waldrand in Top-Wohnlage Wehrheim/Saal...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDN9ADMAAAAAAI-0RVIiiVZOcX5E4cE4oVXZXiA1jbB_VvphE6ceFmFqMCqKXAGaWcMKCRCRu0lF0oU4Lp9eqXZEBjBAHprPjOzVX2K2s8b0t5FT3BeylWAwrpFWQw"
   }
  ]
 }
