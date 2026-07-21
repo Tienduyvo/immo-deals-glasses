@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T10:37:42",
+ "generated_at": "2026-07-21T10:46:20",
  "count": 30,
  "deals": [
   {
@@ -233,6 +233,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzF9ADMAAAAAAH9txo5y0R26kVLmwCvJ7CCvaYjPSfiVPVUUl_N0iCadzAUFSATAYh53H0m-acjlTblMCeSKLiyBa25qvjCQTFDDLvH_QuwpHqPPI9MA7ggqdq4c8w"
   },
   {
+   "eur_sqm": 3062,
+   "yield": 5.49,
+   "price": 199000,
+   "sqm": 65.0,
+   "district": "Hanau",
+   "source": "Immowelt (Mail)",
+   "title": "Gemütliche Drei-Zimmer-Wohnung in Hanau",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDR9ADMAAAAAAJDNKUDRDvUSOjCZnW7Bu95Dbp964tBlsNrBzEBSdHcpZIkr3QBVr6FLTBwkpRbzrX5aJBXNTJIoHMFdA6i9upW0Pf74C1PNSyDdMrcUDifRgOlBsg"
+  },
+  {
    "eur_sqm": 3090,
    "yield": 5.44,
    "price": 825000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Gemütliche",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDR9ADMAAAAAAJCYkKXzHMAxEtNgrICMY-WqlM4VJdAJKam39kySv2L6OwPY-EmPfVidL4m8-3GDA09T2xI0sil3p_1YPyxT-ABSP1mBOoTWo5I4h0N3GmDJTKk2hA"
-  },
-  {
-   "eur_sqm": 3203,
-   "yield": 5.25,
-   "price": 2040000,
-   "sqm": 637.0,
-   "district": "Kalbach",
-   "source": "ZVG",
-   "title": "Mehrfamilienhaus : Kalbacher Hauptstraße 60c, 60437 Frankfur",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54982&land_abk=he"
   }
  ]
 }
