@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T13:08:07",
+ "generated_at": "2026-07-21T13:09:07",
  "count": 30,
  "deals": [
   {
@@ -223,16 +223,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDR9ADMAAAAAAJCH_wIu_kvNLa7uTQXuFeQ0TyiniIHDoP9LuUPoDGL-LLz5f8MHxZQ_41mXO64h_TpeqwYhKR0jKNl29u7x7WIfu480iwCWH-nmuI4gYZH4-ebqaw"
   },
   {
-   "eur_sqm": 3175,
-   "yield": 5.29,
-   "price": 200000,
-   "sqm": 63.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Gemütliche",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDR9ADMAAAAAAJCYkKXzHMAxEtNgrICMY-WqlM4VJdAJKam39kySv2L6OwPY-EmPfVidL4m8-3GDA09T2xI0sil3p_1YPyxT-ABSP1mBOoTWo5I4h0N3GmDJTKk2hA"
-  },
-  {
    "eur_sqm": 3203,
    "yield": 5.25,
    "price": 2040000,
@@ -241,16 +231,6 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Kalbacher Hauptstraße 60c, 60437 Frankfur",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54982&land_abk=he"
-  },
-  {
-   "eur_sqm": 3217,
-   "yield": 5.22,
-   "price": 965000,
-   "sqm": 300.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Sehr gepflegtes 4-Familienhaus mit guter Rendite i...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDN9ADMAAAAAAI-C81Fm-8Gah5Ke9dltZvEbFa3NgIWw-tR_VMDbKJ8eQDQNPEhucGXb-EXC8NnwwDwNjJ0dVYfbZaUKDAcFafFPe9Px4uUkuatthDpaFUoDt7Mlfg"
   },
   {
    "eur_sqm": 3218,
@@ -301,6 +281,26 @@
    "source": "ImmoScout24 (Browser)",
    "title": "Einfamilienhaus mit Anliegerwohnung & Ausbaupotenzial",
    "url": "https://www.immobilienscout24.de/expose/168930130"
+  },
+  {
+   "eur_sqm": 3294,
+   "yield": 5.1,
+   "price": 280000,
+   "sqm": 85.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Sanierungsbedürftiges Reihenhaus auf Erbpachtgrund...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Mzd9ADMAAAAAAIgLxR-FbqGZR7iFrpj94jthEvvMN2xdEKic-WeLVyMQFsBOYIMeBFwUlOAotSf1W_d07sLMuRLGyaTalapSYhiabIFikkUJubq5AUUwZ7opAi0IDw"
+  },
+  {
+   "eur_sqm": 3310,
+   "yield": 5.08,
+   "price": 278000,
+   "sqm": 84.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Moderne",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDN9ADMAAAAAAI82vvGncbGs8BdEDYaUkuesvZLuCco3t4Ozu2k7TS_rNwGhyE7V9ScLy2_RJsEugfCcgT2GwD7ETL8xbc0mjd757HJ7QwqHidcleaf0REotD0r7Jg"
   }
  ]
 }
