@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T09:03:37",
+ "generated_at": "2026-07-21T09:11:48",
  "count": 30,
  "deals": [
   {
@@ -263,6 +263,16 @@
    "url": "https://www.immobilienscout24.de/expose/169074266"
   },
   {
+   "eur_sqm": 3165,
+   "yield": 5.31,
+   "price": 750000,
+   "sqm": 237.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Altbau trifft Potenzial: Villa mit drei Wohneinhei...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDR9ADMAAAAAAJCH_wIu_kvNLa7uTQXuFeQ0TyiniIHDoP9LuUPoDGL-LLz5f8MHxZQ_41mXO64h_TpeqwYhKR0jKNl29u7x7WIfu480iwCWH-nmuI4gYZH4-ebqaw"
+  },
+  {
    "eur_sqm": 3203,
    "yield": 5.25,
    "price": 2040000,
@@ -291,16 +301,6 @@
    "source": "ohne-makler",
    "title": "Schöne 3 ZKB im Rosengärtchen mit Garagenplatz und Aussenste",
    "url": "https://www.ohne-makler.net/immobilie/476705/"
-  },
-  {
-   "eur_sqm": 3247,
-   "yield": 5.17,
-   "price": 250000,
-   "sqm": 77.0,
-   "district": "Maintal",
-   "source": "Immowelt (Mail)",
-   "title": "Maintal-Dörnigheim, Waldrandlage, 3-Zi-ETW mit Log...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDN9ADMAAAAAAJA0yNPqVJwBI7Y4gvp8FZfz-9_ATWANzMRxI8W6qA_kMJXWzyQGgqcmSfkEFQlkVubCAkPBXRo1g09obuYyjtwNW6Fy4yhqsWd4Q08xMbO5B3GJrw"
   }
  ]
 }
