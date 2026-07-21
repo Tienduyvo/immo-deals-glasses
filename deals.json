@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T13:09:07",
+ "generated_at": "2026-07-21T13:11:39",
  "count": 30,
  "deals": [
   {
@@ -183,16 +183,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDJ9ADMAAAAAAI1Yqx68cHQc3fBdCs2sHbJcfS7Bu-G2MCsujXOUR6qU2-FHvbmpbCDRg-V3BOJB9rqdZij8nLvUkTZNJFJNy1M32Cceki2M3xpZvqXx3hLP1Y8a-g"
   },
   {
-   "eur_sqm": 3108,
-   "yield": 5.41,
-   "price": 115000,
-   "sqm": 37.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "KLEIN, ABER MIT GROßER WIRKUNG - Durchdachte 1-Zim...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDJ9ADMAAAAAAI6QpXFcMe3Lg4XBL4aet_9DEfo7zuMb7Oxc-tlI-EnhUd5KM4jHuXf13FNxgTVJEWooCkUxrI92hokOaCO7P4CusCvYsNn2UN1vfU65iL0pmLq4iA"
-  },
-  {
    "eur_sqm": 3113,
    "yield": 5.4,
    "price": 330000,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "Moderne",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDN9ADMAAAAAAI82vvGncbGs8BdEDYaUkuesvZLuCco3t4Ozu2k7TS_rNwGhyE7V9ScLy2_RJsEugfCcgT2GwD7ETL8xbc0mjd757HJ7QwqHidcleaf0REotD0r7Jg"
+  },
+  {
+   "eur_sqm": 3325,
+   "yield": null,
+   "price": 195000,
+   "sqm": 58.64,
+   "district": "Oberrad",
+   "source": "immoscout24-mail",
+   "title": "Sie wollen hoch hinaus? Top gepflegte Zweizimmerwohnung mit ",
+   "url": "https://www.immobilienscout24.de/expose/169096786"
   }
  ]
 }
