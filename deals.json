@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T13:07:07",
+ "generated_at": "2026-07-21T13:08:07",
  "count": 30,
  "deals": [
   {
@@ -163,16 +163,6 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55080&land_abk=he"
   },
   {
-   "eur_sqm": 3000,
-   "yield": 5.6,
-   "price": 300000,
-   "sqm": 100.0,
-   "district": "Hattersheim",
-   "source": "ZVG",
-   "title": "Einfamilienhaus : Mainzer Landstraße 56, 65795 Hattersheim",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55162&land_abk=he"
-  },
-  {
    "eur_sqm": 3043,
    "yield": 5.52,
    "price": 140000,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "Offene Besichtigung So. 05.07. 10:30|Gepflegte 3,5...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDF9ADMAAAAAAI4aOsV2MSPWy8PIvgXJwkGp1ibkH_wj9nNQ7c5QqoyipNjOpyvapg7X2DPKguSmLON95bAUSrTazTwaiv_-CIxDXUw_zFPlzP6p7eO_Kmx1kiBCaQ"
+  },
+  {
+   "eur_sqm": 3287,
+   "yield": null,
+   "price": 355000,
+   "sqm": 108.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "ImmoScout24 (Browser)",
+   "title": "Einfamilienhaus mit Anliegerwohnung & Ausbaupotenzial",
+   "url": "https://www.immobilienscout24.de/expose/168930130"
   }
  ]
 }
