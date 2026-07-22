@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-22T19:47:51",
+ "generated_at": "2026-07-22T20:29:06",
  "count": 30,
  "deals": [
   {
@@ -153,6 +153,16 @@
    "url": "https://www.immobilienscout24.de/expose/168520469"
   },
   {
+   "eur_sqm": 2846,
+   "yield": 5.9,
+   "price": 185000,
+   "sqm": 65.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Helle",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDV9ADMAAAAAAJMwpD1JLevzxFxc6hfkXgkUBhAXODT9evu8s5CFvfXbK1MHfLmiY6fH2eTp5bXHe4tA7m92ZIjKWnQaROqP8cWiWIXqioBKoOJ8FSRUhFNIlM0thw"
+  },
+  {
    "eur_sqm": 2943,
    "yield": null,
    "price": 1120000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Sanierungsbedürftiges Reihenhaus auf Erbpachtgrund...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Mzd9ADMAAAAAAIgLxR-FbqGZR7iFrpj94jthEvvMN2xdEKic-WeLVyMQFsBOYIMeBFwUlOAotSf1W_d07sLMuRLGyaTalapSYhiabIFikkUJubq5AUUwZ7opAi0IDw"
-  },
-  {
-   "eur_sqm": 3325,
-   "yield": null,
-   "price": 195000,
-   "sqm": 58.64,
-   "district": "Oberrad",
-   "source": "immoscout24-mail",
-   "title": "Sie wollen hoch hinaus? Top gepflegte Zweizimmerwohnung mit ",
-   "url": "https://www.immobilienscout24.de/expose/169096786"
   }
  ]
 }
