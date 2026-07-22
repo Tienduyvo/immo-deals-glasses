@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-22T13:59:14",
+ "generated_at": "2026-07-22T14:10:23",
  "count": 30,
  "deals": [
   {
@@ -193,6 +193,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzF9ADMAAAAAAH9txo5y0R26kVLmwCvJ7CCvaYjPSfiVPVUUl_N0iCadzAUFSATAYh53H0m-acjlTblMCeSKLiyBa25qvjCQTFDDLvH_QuwpHqPPI9MA7ggqdq4c8w"
   },
   {
+   "eur_sqm": 3104,
+   "yield": 5.41,
+   "price": 239000,
+   "sqm": 77.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Charmante",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDV9ADMAAAAAAJJfuOKyrojnv85EXxfGeQQmNcVUpPM0gqrg7jMD-BcRXsW2ovyWql1e_Y-mO8GR_U6VdLqp-i89N1KmhQlRwP2KZyWIqGYVKS_sBjps1X-6jsIoLA"
+  },
+  {
    "eur_sqm": 3126,
    "yield": 5.37,
    "price": 272000,
@@ -291,16 +301,6 @@
    "source": "ZVG",
    "title": "Sonstiges : Langgasse 24, 64546 Mörfelden-Walldorf, Mörfelde",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54810&land_abk=he"
-  },
-  {
-   "eur_sqm": 3333,
-   "yield": 5.04,
-   "price": 249999,
-   "sqm": 75.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Gepflegte",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDR9ADMAAAAAAJHQLgMDD9Rxfj7IoxzGDA1pB61iJP5hKoVYsjvPJZkB5VhAEbXAqseqM5tQZ8FT192ReANXS0M8x8-WjCPiaawJckd2wm43dFxwAqsr5tq4QdMPcA"
   }
  ]
 }
