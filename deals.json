@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-22T08:49:34",
+ "generated_at": "2026-07-22T09:05:10",
  "count": 30,
  "deals": [
   {
@@ -107,7 +107,7 @@
    "yield": 7.0,
    "price": 605000,
    "sqm": 252.0,
-   "district": "Eschersheim",
+   "district": "Frankfurt am Main",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
@@ -117,7 +117,7 @@
    "yield": 6.5,
    "price": 200000,
    "sqm": 77.38,
-   "district": "Sossenheim",
+   "district": "Frankfurt am Main",
    "source": "ZVG",
    "title": "Eigentumswohnung (3 bis 4 Zimmer) : Toni-Sender-Straße 2-14,",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54990&land_abk=he"
@@ -167,7 +167,7 @@
    "yield": 5.64,
    "price": 629000,
    "sqm": 211.0,
-   "district": "Seckbach",
+   "district": "Frankfurt am Main",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Hartmannweg 16, 60389 Frankfurt am Main, ",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55080&land_abk=he"
@@ -217,7 +217,7 @@
    "yield": 5.25,
    "price": 2040000,
    "sqm": 637.0,
-   "district": "Kalbach",
+   "district": "Frankfurt am Main",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Kalbacher Hauptstraße 60c, 60437 Frankfur",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54982&land_abk=he"
@@ -297,7 +297,7 @@
    "yield": 4.99,
    "price": 350000,
    "sqm": 104.0,
-   "district": "",
+   "district": "Rodenbach Hessen",
    "source": "ZVG",
    "title": "Einfamilienhaus : Vorm Stichel, 63517 Rodenbach",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54934&land_abk=he"
