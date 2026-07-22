@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-22T18:31:13",
+ "generated_at": "2026-07-22T18:59:58",
  "count": 30,
  "deals": [
   {
@@ -213,6 +213,16 @@
    "url": "https://www.immobilienscout24.de/expose/169074266"
   },
   {
+   "eur_sqm": 3129,
+   "yield": 5.37,
+   "price": 230000,
+   "sqm": 73.5,
+   "district": "Frankfurt (unspez.)",
+   "source": "ImmoScout24 (Mail)",
+   "title": "VOM HEUCHELBACH BIS ZUM PHILIPPSPARK – 3-Zimmer-Wohnidylle m",
+   "url": "https://push.search.is24.de/email/expose/169478980"
+  },
+  {
    "eur_sqm": 3142,
    "yield": 5.35,
    "price": 499500,
@@ -291,16 +301,6 @@
    "source": "immoscout24-mail",
    "title": "Sie wollen hoch hinaus? Top gepflegte Zweizimmerwohnung mit ",
    "url": "https://www.immobilienscout24.de/expose/169096786"
-  },
-  {
-   "eur_sqm": 3327,
-   "yield": 5.05,
-   "price": 204000,
-   "sqm": 61.32,
-   "district": "Mörfelden",
-   "source": "ZVG",
-   "title": "Sonstiges : Langgasse 24, 64546 Mörfelden-Walldorf, Mörfelde",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54810&land_abk=he"
   }
  ]
 }
