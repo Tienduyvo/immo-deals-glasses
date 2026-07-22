@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-22T10:35:35",
+ "generated_at": "2026-07-22T10:39:14",
  "count": 30,
  "deals": [
   {
@@ -213,6 +213,16 @@
    "url": "https://push.search.is24.de/email/expose/169457896"
   },
   {
+   "eur_sqm": 3159,
+   "yield": 5.32,
+   "price": 199000,
+   "sqm": 63.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "° ° ° Schicke und GUT vermietete 3-Zim.-Wohnung mi...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDV9ADMAAAAAAJI0mU4bNnKrUfhSTulYgGPIAAisAsdpyxnEyQQp_jo9OOI_kvcXQoFIX5NDjdhQhZJl_ie1p0BX-jMWsn5Iga_QUyFs1QBNeyuWk_CGD128c1c6AQ"
+  },
+  {
    "eur_sqm": 3203,
    "yield": 5.25,
    "price": 2040000,
@@ -291,16 +301,6 @@
    "source": "immoscout24-mail",
    "title": "3ZKB Eigentumswohnung - für Eigennutzer und Kapitalanleger",
    "url": "https://www.immobilienscout24.de/expose/169102060"
-  },
-  {
-   "eur_sqm": 3365,
-   "yield": 4.99,
-   "price": 350000,
-   "sqm": 104.0,
-   "district": "Rodenbach Hessen",
-   "source": "ZVG",
-   "title": "Einfamilienhaus : Vorm Stichel, 63517 Rodenbach",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54934&land_abk=he"
   }
  ]
 }
