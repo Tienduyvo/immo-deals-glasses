@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-22T07:43:56",
+ "generated_at": "2026-07-22T07:54:53",
  "count": 30,
  "deals": [
   {
@@ -203,6 +203,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDR9ADMAAAAAAJFSF0sJKeVDIX4wfWMdggRiUDP9i5rvnx4uXzySDwRBfnXt1FiZqQccU_3Jh7UFDq2vAj-SwXKHhigBSl6k2IpU4eImzNAXKHOhTqzLUyCEUYcREA"
   },
   {
+   "eur_sqm": 3150,
+   "yield": 5.33,
+   "price": 189000,
+   "sqm": 60.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "ImmoScout24 (Mail)",
+   "title": "IMAXX Gesellschaft für Immobilien-Marketing mbH – Ein Untern",
+   "url": "https://push.search.is24.de/email/expose/169457896"
+  },
+  {
    "eur_sqm": 3203,
    "yield": 5.25,
    "price": 2040000,
@@ -291,16 +301,6 @@
    "source": "ZVG",
    "title": "Einfamilienhaus : Vorm Stichel, 63517 Rodenbach",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54934&land_abk=he"
-  },
-  {
-   "eur_sqm": 3379,
-   "yield": 4.97,
-   "price": 598000,
-   "sqm": 177.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Bungalow am Waldrand in Top-Wohnlage Wehrheim/Saal...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDN9ADMAAAAAAI-0RVIiiVZOcX5E4cE4oVXZXiA1jbB_VvphE6ceFmFqMCqKXAGaWcMKCRCRu0lF0oU4Lp9eqXZEBjBAHprPjOzVX2K2s8b0t5FT3BeylWAwrpFWQw"
   }
  ]
 }
