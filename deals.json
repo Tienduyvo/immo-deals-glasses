@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-22T11:19:46",
+ "generated_at": "2026-07-22T12:00:59",
  "count": 30,
  "deals": [
   {
@@ -173,6 +173,16 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55080&land_abk=he"
   },
   {
+   "eur_sqm": 3010,
+   "yield": 5.58,
+   "price": 298000,
+   "sqm": 99.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Großzügige",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDV9ADMAAAAAAJJOJrg2iJuZACJdryG0FR4zrG72OmtEvdwtypnvEei94KjFSvH1VYmtquHRQnLe4my2TrYUVJ5fG4pxfySKwHP6StkPFNejMoArU7irC428x4DGEw"
+  },
+  {
    "eur_sqm": 3043,
    "yield": 5.52,
    "price": 140000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Gepflegte",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDR9ADMAAAAAAJHQLgMDD9Rxfj7IoxzGDA1pB61iJP5hKoVYsjvPJZkB5VhAEbXAqseqM5tQZ8FT192ReANXS0M8x8-WjCPiaawJckd2wm43dFxwAqsr5tq4QdMPcA"
-  },
-  {
-   "eur_sqm": 3343,
-   "yield": null,
-   "price": 229000,
-   "sqm": 68.5,
-   "district": "Frankfurt (unspez.)",
-   "source": "immoscout24-mail",
-   "title": "3ZKB Eigentumswohnung - für Eigennutzer und Kapitalanleger",
-   "url": "https://www.immobilienscout24.de/expose/169102060"
   }
  ]
 }
