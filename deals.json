@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-23T07:50:59",
+ "generated_at": "2026-07-23T08:01:13",
  "count": 30,
  "deals": [
   {
@@ -111,6 +111,16 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
+  },
+  {
+   "eur_sqm": 2554,
+   "yield": 6.58,
+   "price": 475000,
+   "sqm": 186.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Großzügiges Einfamilienhaus mit Garten in ruhiger ...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJM8lkjw6p4OxmEISj6HxsN3kDiPOXauOSogaj6OENnpYr1CMmGoCYuoJ-wJQnXtT2p_EIpJVezL673rWb7Ls-t2O62vBlDBHIN1wNWZNiphLJPdnA"
   },
   {
    "eur_sqm": 2585,
@@ -291,16 +301,6 @@
    "source": "ImmoScout24 (Browser)",
    "title": "Einfamilienhaus mit Anliegerwohnung & Ausbaupotenzial",
    "url": "https://www.immobilienscout24.de/expose/168930130"
-  },
-  {
-   "eur_sqm": 3294,
-   "yield": 5.1,
-   "price": 280000,
-   "sqm": 85.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Sanierungsbedürftiges Reihenhaus auf Erbpachtgrund...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Mzd9ADMAAAAAAIgLxR-FbqGZR7iFrpj94jthEvvMN2xdEKic-WeLVyMQFsBOYIMeBFwUlOAotSf1W_d07sLMuRLGyaTalapSYhiabIFikkUJubq5AUUwZ7opAi0IDw"
   }
  ]
 }
