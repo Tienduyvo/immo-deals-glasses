@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-23T14:32:47",
+ "generated_at": "2026-07-23T14:32:58",
  "count": 30,
  "deals": [
   {
@@ -21,6 +21,16 @@
    "source": "Immowelt (Mail)",
    "title": "Viel Raum für Ideen - sanierungsbedürftiges Haus i...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJQG1yROj_tu0KkYzBENYUOh6gwDQGMtyW9oSeGvonrKxBU7FCHA1YarKX3WRWgh4HRX--Pu9L2PRpULdMN0orwmiHHsKY2-N7zGk3t7DdAuUsys7Q"
+  },
+  {
+   "eur_sqm": 1597,
+   "yield": 10.52,
+   "price": 479000,
+   "sqm": 300.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Gepflegtes Mehrfamilienhaus in Kaichen!",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJRFe58w1Jfae9aez0dKOga9noxkKEWU5VxAFmvRDOzkx2KtVmgHLnz4UcP8USoIpBivfdoL_6v-CCS0wvpYgrlw2rn0CW3jHiZ-_qw7ObufjWRRrQ"
   },
   {
    "eur_sqm": 1641,
@@ -291,16 +301,6 @@
    "source": "ImmoScout24 (Mail)",
    "title": "VOM HEUCHELBACH BIS ZUM PHILIPPSPARK – 3-Zimmer-Wohnidylle m",
    "url": "https://push.search.is24.de/email/expose/169478980"
-  },
-  {
-   "eur_sqm": 3142,
-   "yield": 5.35,
-   "price": 499500,
-   "sqm": 159.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Großzügiges 1-2 Familienhaus mit traumhaftem Weitb...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDR9ADMAAAAAAJFSF0sJKeVDIX4wfWMdggRiUDP9i5rvnx4uXzySDwRBfnXt1FiZqQccU_3Jh7UFDq2vAj-SwXKHhigBSl6k2IpU4eImzNAXKHOhTqzLUyCEUYcREA"
   }
  ]
 }
