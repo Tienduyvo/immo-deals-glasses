@@ -1,16 +1,26 @@
 {
- "generated_at": "2026-07-23T08:26:54",
+ "generated_at": "2026-07-23T08:32:44",
  "count": 30,
  "deals": [
   {
    "eur_sqm": 1152,
    "yield": 14.58,
    "price": 325000,
-   "sqm": 282.0,
+   "sqm": 282,
    "district": "Karben",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Rathausstraße 29, 61184 Karben",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55061&land_abk=he"
+  },
+  {
+   "eur_sqm": 1291,
+   "yield": 13.01,
+   "price": 780000,
+   "sqm": 604.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Großzügiges Einfamilienhaus in Nidderau",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3414508099"
   },
   {
    "eur_sqm": 1641,
@@ -106,11 +116,21 @@
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
-   "sqm": 252.0,
+   "sqm": 252,
    "district": "Frankfurt am Main",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
+  },
+  {
+   "eur_sqm": 2500,
+   "yield": 6.72,
+   "price": 750000,
+   "sqm": 300.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "BAUPROJEKT 4 x DHH FREI IN BEEGEHRTER LAGE - KLARE LINIEN, O",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3465670433"
   },
   {
    "eur_sqm": 2554,
@@ -163,6 +183,16 @@
    "url": "https://www.immobilienscout24.de/expose/168520469"
   },
   {
+   "eur_sqm": 2845,
+   "yield": 5.91,
+   "price": 569000,
+   "sqm": 200.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Neubau Erstbezug: Ökologisches Holzhaus in guter Lage Nidder",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3466006761"
+  },
+  {
    "eur_sqm": 2846,
    "yield": 5.9,
    "price": 185000,
@@ -186,7 +216,7 @@
    "eur_sqm": 2981,
    "yield": 5.64,
    "price": 629000,
-   "sqm": 211.0,
+   "sqm": 211,
    "district": "Frankfurt am Main",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Hartmannweg 16, 60389 Frankfurt am Main, ",
@@ -221,6 +251,16 @@
    "source": "Immowelt (Mail)",
    "title": "Charmante",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDV9ADMAAAAAAJJfuOKyrojnv85EXxfGeQQmNcVUpPM0gqrg7jMD-BcRXsW2ovyWql1e_Y-mO8GR_U6VdLqp-i89N1KmhQlRwP2KZyWIqGYVKS_sBjps1X-6jsIoLA"
+  },
+  {
+   "eur_sqm": 3110,
+   "yield": 5.4,
+   "price": 650000,
+   "sqm": 209.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Charmantes Reihenendhaus mit großem Garten in ruhiger Lage",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3441504300"
   },
   {
    "eur_sqm": 3126,
@@ -261,46 +301,6 @@
    "source": "ImmoScout24 (Mail)",
    "title": "IMAXX Gesellschaft für Immobilien-Marketing mbH – Ein Untern",
    "url": "https://push.search.is24.de/email/expose/169457896"
-  },
-  {
-   "eur_sqm": 3159,
-   "yield": 5.32,
-   "price": 199000,
-   "sqm": 63.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "° ° ° Schicke und GUT vermietete 3-Zim.-Wohnung mi...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDV9ADMAAAAAAJI0mU4bNnKrUfhSTulYgGPIAAisAsdpyxnEyQQp_jo9OOI_kvcXQoFIX5NDjdhQhZJl_ie1p0BX-jMWsn5Iga_QUyFs1QBNeyuWk_CGD128c1c6AQ"
-  },
-  {
-   "eur_sqm": 3203,
-   "yield": 5.25,
-   "price": 2040000,
-   "sqm": 637.0,
-   "district": "Frankfurt am Main",
-   "source": "ZVG",
-   "title": "Mehrfamilienhaus : Kalbacher Hauptstraße 60c, 60437 Frankfur",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54982&land_abk=he"
-  },
-  {
-   "eur_sqm": 3251,
-   "yield": 5.17,
-   "price": 1749000,
-   "sqm": 538.0,
-   "district": "Höchst",
-   "source": "Immowelt (Mail)",
-   "title": "Kapitalanlage im Herzen von Frankfurt-Höchst - Hau...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzJ9ADMAAAAAAIEIqM0vGuZlGJyKuSbrc5-Ras_MGEfHP5b4x1vhOKRNWt8cwXQV3T-HA4z6kNYWnbwyFvBRJVOZRBEfrBquMIKGBp3oqhlni5YB9ozIl3CdWj_Sdw"
-  },
-  {
-   "eur_sqm": 3287,
-   "yield": null,
-   "price": 355000,
-   "sqm": 108.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Browser)",
-   "title": "Einfamilienhaus mit Anliegerwohnung & Ausbaupotenzial",
-   "url": "https://www.immobilienscout24.de/expose/168930130"
   }
  ]
 }
