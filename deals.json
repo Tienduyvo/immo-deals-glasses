@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-23T12:49:50",
+ "generated_at": "2026-07-23T12:53:28",
  "count": 30,
  "deals": [
   {
@@ -153,6 +153,16 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54990&land_abk=he"
   },
   {
+   "eur_sqm": 2602,
+   "yield": 6.46,
+   "price": 320000,
+   "sqm": 123.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Stilvolle Maisonettewohnung mit offenem Wohnbereic...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJP5U2_NePcxPzHUK7RJD_X5t4CZsjcPtCf6vHIVP-vdRxkIYYNe2ie-afJV9bVk_I2PRvUPsfL-cvOMR7y6_GxQbHHnUY0yPTGnkQxGwWD5wqH34g"
+  },
+  {
    "eur_sqm": 2683,
    "yield": null,
    "price": 169000,
@@ -291,16 +301,6 @@
    "source": "ImmoScout24 (Mail)",
    "title": "IMAXX Gesellschaft für Immobilien-Marketing mbH – Ein Untern",
    "url": "https://push.search.is24.de/email/expose/169457896"
-  },
-  {
-   "eur_sqm": 3159,
-   "yield": 5.32,
-   "price": 199000,
-   "sqm": 63.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "° ° ° Schicke und GUT vermietete 3-Zim.-Wohnung mi...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDV9ADMAAAAAAJI0mU4bNnKrUfhSTulYgGPIAAisAsdpyxnEyQQp_jo9OOI_kvcXQoFIX5NDjdhQhZJl_ie1p0BX-jMWsn5Iga_QUyFs1QBNeyuWk_CGD128c1c6AQ"
   }
  ]
 }
