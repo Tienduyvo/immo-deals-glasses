@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-23T12:53:28",
+ "generated_at": "2026-07-23T13:22:48",
  "count": 30,
  "deals": [
   {
@@ -193,6 +193,16 @@
    "url": "https://www.immobilienscout24.de/expose/168520469"
   },
   {
+   "eur_sqm": 2812,
+   "yield": 5.97,
+   "price": 225000,
+   "sqm": 80.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Attraktive",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJQUnHwGfjU06PY0DqddndNTzafj-h0GXtXpQzUNvzVUfw1rg4ciGSSxAK3oj6_MiAcsDzrNfK7AxAKzw6BTM7bRBjaxvye5osH7nrW46tyvEQmoKw"
+  },
+  {
    "eur_sqm": 2846,
    "yield": 5.9,
    "price": 185000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Großzügiges 1-2 Familienhaus mit traumhaftem Weitb...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDR9ADMAAAAAAJFSF0sJKeVDIX4wfWMdggRiUDP9i5rvnx4uXzySDwRBfnXt1FiZqQccU_3Jh7UFDq2vAj-SwXKHhigBSl6k2IpU4eImzNAXKHOhTqzLUyCEUYcREA"
-  },
-  {
-   "eur_sqm": 3150,
-   "yield": 5.33,
-   "price": 189000,
-   "sqm": 60.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Mail)",
-   "title": "IMAXX Gesellschaft für Immobilien-Marketing mbH – Ein Untern",
-   "url": "https://push.search.is24.de/email/expose/169457896"
   }
  ]
 }
