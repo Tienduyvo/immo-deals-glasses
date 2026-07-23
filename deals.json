@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-23T11:46:20",
+ "generated_at": "2026-07-23T12:06:39",
  "count": 30,
  "deals": [
   {
@@ -11,6 +11,16 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Rathausstraße 29, 61184 Karben",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55061&land_abk=he"
+  },
+  {
+   "eur_sqm": 1274,
+   "yield": 13.18,
+   "price": 395000,
+   "sqm": 310.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Viel Raum für Ideen - sanierungsbedürftiges Haus i...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJQG1yROj_tu0KkYzBENYUOh6gwDQGMtyW9oSeGvonrKxBU7FCHA1YarKX3WRWgh4HRX--Pu9L2PRpULdMN0orwmiHHsKY2-N7zGk3t7DdAuUsys7Q"
   },
   {
    "eur_sqm": 1641,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "° ° ° Schicke und GUT vermietete 3-Zim.-Wohnung mi...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDV9ADMAAAAAAJI0mU4bNnKrUfhSTulYgGPIAAisAsdpyxnEyQQp_jo9OOI_kvcXQoFIX5NDjdhQhZJl_ie1p0BX-jMWsn5Iga_QUyFs1QBNeyuWk_CGD128c1c6AQ"
-  },
-  {
-   "eur_sqm": 3203,
-   "yield": 5.25,
-   "price": 2040000,
-   "sqm": 637.0,
-   "district": "Frankfurt am Main",
-   "source": "ZVG",
-   "title": "Mehrfamilienhaus : Kalbacher Hauptstraße 60c, 60437 Frankfur",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54982&land_abk=he"
   }
  ]
 }
