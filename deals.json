@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-23T10:11:12",
+ "generated_at": "2026-07-23T10:12:37",
  "count": 30,
  "deals": [
   {
@@ -11,16 +11,6 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Rathausstraße 29, 61184 Karben",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55061&land_abk=he"
-  },
-  {
-   "eur_sqm": 1291,
-   "yield": 13.01,
-   "price": 780000,
-   "sqm": 604.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Großzügiges Einfamilienhaus in Nidderau",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3414508099"
   },
   {
    "eur_sqm": 1641,
@@ -301,6 +291,16 @@
    "source": "ImmoScout24 (Mail)",
    "title": "IMAXX Gesellschaft für Immobilien-Marketing mbH – Ein Untern",
    "url": "https://push.search.is24.de/email/expose/169457896"
+  },
+  {
+   "eur_sqm": 3159,
+   "yield": 5.32,
+   "price": 199000,
+   "sqm": 63.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "° ° ° Schicke und GUT vermietete 3-Zim.-Wohnung mi...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDV9ADMAAAAAAJI0mU4bNnKrUfhSTulYgGPIAAisAsdpyxnEyQQp_jo9OOI_kvcXQoFIX5NDjdhQhZJl_ie1p0BX-jMWsn5Iga_QUyFs1QBNeyuWk_CGD128c1c6AQ"
   }
  ]
 }
