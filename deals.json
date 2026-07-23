@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-23T10:12:58",
+ "generated_at": "2026-07-23T10:20:21",
  "count": 30,
  "deals": [
   {
@@ -173,16 +173,6 @@
    "url": "https://www.immobilienscout24.de/expose/168520469"
   },
   {
-   "eur_sqm": 2845,
-   "yield": 5.91,
-   "price": 569000,
-   "sqm": 200.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Neubau Erstbezug: Ökologisches Holzhaus in guter Lage Nidder",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3466006761"
-  },
-  {
    "eur_sqm": 2846,
    "yield": 5.9,
    "price": 185000,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "° ° ° Schicke und GUT vermietete 3-Zim.-Wohnung mi...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDV9ADMAAAAAAJI0mU4bNnKrUfhSTulYgGPIAAisAsdpyxnEyQQp_jo9OOI_kvcXQoFIX5NDjdhQhZJl_ie1p0BX-jMWsn5Iga_QUyFs1QBNeyuWk_CGD128c1c6AQ"
+  },
+  {
+   "eur_sqm": 3203,
+   "yield": 5.25,
+   "price": 2040000,
+   "sqm": 637.0,
+   "district": "Frankfurt am Main",
+   "source": "ZVG",
+   "title": "Mehrfamilienhaus : Kalbacher Hauptstraße 60c, 60437 Frankfur",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54982&land_abk=he"
   }
  ]
 }
