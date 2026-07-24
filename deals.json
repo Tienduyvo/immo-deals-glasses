@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-24T16:24:42",
+ "generated_at": "2026-07-24T16:39:25",
  "count": 30,
  "deals": [
   {
@@ -141,6 +141,16 @@
    "source": "ImmoScout24 (Browser)",
    "title": "Ein Haus für Familie, Garten und neue Ideen",
    "url": "https://www.immobilienscout24.de/expose/169030181"
+  },
+  {
+   "eur_sqm": 2203,
+   "yield": 7.62,
+   "price": 650000,
+   "sqm": 295.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Eigennutzung und Mieteinnahmen perfekt kombiniert",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJX2qM1Rx1pWRuhCJB45kKPKMUwSNBb_wS0w_VMr1LqoNg9N_qGT8GG583nghJMHlCiqQUKZumZqqhOvydSClN7eOt7iTRQYqYbLVPNHhd73Xbd7WA"
   },
   {
    "eur_sqm": 2253,
@@ -291,16 +301,6 @@
    "source": "ImmoScout24 (Browser)",
    "title": "Freistehendes Zweifamilienhaus im Grünen",
    "url": "https://www.immobilienscout24.de/expose/168947215"
-  },
-  {
-   "eur_sqm": 2799,
-   "yield": null,
-   "price": 1125000,
-   "sqm": 402.0,
-   "district": "",
-   "source": "immoscout24-mail",
-   "title": "Kernsaniertes Zweifamilienhaus + Rohbau-Hinterhaus | Baugene",
-   "url": "https://www.immobilienscout24.de/expose/168520469"
   }
  ]
 }
