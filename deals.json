@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-24T16:16:32",
+ "generated_at": "2026-07-24T16:24:42",
  "count": 30,
  "deals": [
   {
@@ -243,6 +243,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJP5U2_NePcxPzHUK7RJD_X5t4CZsjcPtCf6vHIVP-vdRxkIYYNe2ie-afJV9bVk_I2PRvUPsfL-cvOMR7y6_GxQbHHnUY0yPTGnkQxGwWD5wqH34g"
   },
   {
+   "eur_sqm": 2639,
+   "yield": 6.37,
+   "price": 710000,
+   "sqm": 269.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Kapitalanlage: 3-Familienhaus mit Einliegerwohnung...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJXdY_F-oE_0QSiT5L9aC1pJNLx2tZQmkm-V8JozH-az2B4sRYAqjTQr-lGgS6tiY4gyiV3N3yA4SJfMboevMIdQIy12yOaR8KaTmK7NqKw_Tdxcfg"
+  },
+  {
    "eur_sqm": 2672,
    "yield": 6.29,
    "price": 1590000,
@@ -291,16 +301,6 @@
    "source": "immoscout24-mail",
    "title": "Kernsaniertes Zweifamilienhaus + Rohbau-Hinterhaus | Baugene",
    "url": "https://www.immobilienscout24.de/expose/168520469"
-  },
-  {
-   "eur_sqm": 2812,
-   "yield": 5.97,
-   "price": 225000,
-   "sqm": 80.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Attraktive",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJQUnHwGfjU06PY0DqddndNTzafj-h0GXtXpQzUNvzVUfw1rg4ciGSSxAK3oj6_MiAcsDzrNfK7AxAKzw6BTM7bRBjaxvye5osH7nrW46tyvEQmoKw"
   }
  ]
 }
