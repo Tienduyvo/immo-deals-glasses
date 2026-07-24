@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-24T15:45:49",
+ "generated_at": "2026-07-24T15:51:31",
  "count": 30,
  "deals": [
   {
@@ -21,6 +21,16 @@
    "source": "Immowelt (Mail)",
    "title": "Viel Raum für Ideen - sanierungsbedürftiges Haus i...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJQG1yROj_tu0KkYzBENYUOh6gwDQGMtyW9oSeGvonrKxBU7FCHA1YarKX3WRWgh4HRX--Pu9L2PRpULdMN0orwmiHHsKY2-N7zGk3t7DdAuUsys7Q"
+  },
+  {
+   "eur_sqm": 1278,
+   "yield": 13.14,
+   "price": 170000,
+   "sqm": 133.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Reserviert! Sanierungsobjekt mit Potenzial in Offe...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJXipymVT8jDh6Qo9wpvhbs20jg-Kc38aBthNHHaj6Xge5TfuyT7F2qboj_YudGfGWEk1HeVvyJGPEPCo_RPbAYpl4EEGDUt-dYnHLZmOTqRyML2PA"
   },
   {
    "eur_sqm": 1343,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Attraktive",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJQUnHwGfjU06PY0DqddndNTzafj-h0GXtXpQzUNvzVUfw1rg4ciGSSxAK3oj6_MiAcsDzrNfK7AxAKzw6BTM7bRBjaxvye5osH7nrW46tyvEQmoKw"
-  },
-  {
-   "eur_sqm": 2846,
-   "yield": 5.9,
-   "price": 185000,
-   "sqm": 65.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Helle",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDV9ADMAAAAAAJMwpD1JLevzxFxc6hfkXgkUBhAXODT9evu8s5CFvfXbK1MHfLmiY6fH2eTp5bXHe4tA7m92ZIjKWnQaROqP8cWiWIXqioBKoOJ8FSRUhFNIlM0thw"
   }
  ]
 }
