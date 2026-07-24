@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-24T19:28:40",
+ "generated_at": "2026-07-24T20:46:48",
  "count": 30,
  "deals": [
   {
@@ -193,6 +193,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzR9ADMAAAAAAIPKpZgLlXxczXuLduRrVX3JRLdfgpCESaFUIz2mD5VyWJgzyJirfnl3V2uU3yK4E-nIU1_fE42Do3ikC2RmADRKz9fpNZ5oE2vHYvwYC5wDqj9jnQ"
   },
   {
+   "eur_sqm": 2371,
+   "yield": 7.08,
+   "price": 249000,
+   "sqm": 105.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Großzügige",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJZtgQKcE_ulfCjDJHPwOZN1NHWiiMq2LJl3-OPcRNsBK6MlP1ml8U8OOzoUcra2IQ3jETN1wD-pkHpPIum50ONn1BX-jnlpoeP7qF1LKAO4AuH_Lw"
+  },
+  {
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Ein Zuhause, viele Möglichkeiten: Großzügiges Wohn...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJXTlbS2KRLr6JyM9YBW18qRgmMtx5nYSyiYPF8jYPXpVDs4CpfWDgxRZnx3GK-0joKQS8eMq3b6x3FbXmLvYTbLl6JVuxC3LaTlEz888c9VpFXQ9g"
-  },
-  {
-   "eur_sqm": 2770,
-   "yield": null,
-   "price": 450000,
-   "sqm": 162.43,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Browser)",
-   "title": "Freistehendes Zweifamilienhaus im Grünen",
-   "url": "https://www.immobilienscout24.de/expose/168947215"
   }
  ]
 }
