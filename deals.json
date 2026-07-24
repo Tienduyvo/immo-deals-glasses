@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-07-24T10:21:06",
+ "generated_at": "2026-07-24T10:41:29",
  "count": 30,
  "deals": [
   {
    "eur_sqm": 1152,
    "yield": 14.58,
    "price": 325000,
-   "sqm": 282,
+   "sqm": 282.0,
    "district": "Karben",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Rathausstraße 29, 61184 Karben",
@@ -176,7 +176,7 @@
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
-   "sqm": 252,
+   "sqm": 252.0,
    "district": "Frankfurt am Main",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
@@ -231,6 +231,16 @@
    "source": "Immowelt (Mail)",
    "title": "Stilvolle Maisonettewohnung mit offenem Wohnbereic...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJP5U2_NePcxPzHUK7RJD_X5t4CZsjcPtCf6vHIVP-vdRxkIYYNe2ie-afJV9bVk_I2PRvUPsfL-cvOMR7y6_GxQbHHnUY0yPTGnkQxGwWD5wqH34g"
+  },
+  {
+   "eur_sqm": 2672,
+   "yield": 6.29,
+   "price": 1590000,
+   "sqm": 595.0,
+   "district": "Hanau",
+   "source": "Immowelt (Mail)",
+   "title": "HANAU - representative Jugendstilvilla am Stadtkra...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJU5c7o1KxeHXJzhM9NEV0kwV3skqhrjs9rLUM6ZBtyTF1uoELrZOQUBSYxu0LFgcESDFeSgkS4wsXxMS-ofyqgPR07cZ7oos4FR3824kYTZiuQWFg"
   },
   {
    "eur_sqm": 2683,
@@ -291,16 +301,6 @@
    "source": "ohne-makler",
    "title": "Citynahe Etagenwohnung mit Weitsicht 63263 Neu-Isenburg 2 55",
    "url": "https://www.ohne-makler.net/immobilie/439681/"
-  },
-  {
-   "eur_sqm": 2931,
-   "yield": 5.73,
-   "price": 548060,
-   "sqm": 187.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "TRAUMHAUS AUF IHREM GRUNSTÜCK,BAUHAUS-ARCHITEKTUR IN OKAL-DE",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3331810253"
   }
  ]
 }
