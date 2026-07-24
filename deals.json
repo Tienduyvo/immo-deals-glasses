@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-24T10:13:45",
+ "generated_at": "2026-07-24T10:18:03",
  "count": 30,
  "deals": [
   {
@@ -41,6 +41,16 @@
    "source": "Immowelt (Mail)",
    "title": "Raum für Generationen, Ideen und Perspektiven.",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzJ9ADMAAAAAAIFo8vbswnjUpImu6KUcoFGwGNvsk5qc6YbjFA_C9bCO86Hlm4VEbG_yubkpFdz9Vn_IWBLgmygNLwb440FlYi0kOqoQe9sFklX_aqXNb3fNaY8jBg"
+  },
+  {
+   "eur_sqm": 1995,
+   "yield": 8.42,
+   "price": 860000,
+   "sqm": 431.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Kapitalanlage in guter Wohnlage von Urberach - Meh...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJUsqgnF8qBSQnG0M3Z2fagxWrGbYkaMIqUy6bpzBUMUUmuLIUiMrsTxx3LMXIjxML2VqleCqTm3qrdeGolOH2EuX28rjsuBEPpiNrrOBewXoIIf6g"
   },
   {
    "eur_sqm": 2017,
@@ -291,16 +301,6 @@
    "source": "immoscout",
    "title": "FRANKFURT-NIEDER-ESCHBACH: Schöne und helle 3 ZW mit Balkon ",
    "url": "https://www.immobilienscout24.de/expose/169074266"
-  },
-  {
-   "eur_sqm": 3129,
-   "yield": 5.37,
-   "price": 230000,
-   "sqm": 73.5,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Mail)",
-   "title": "VOM HEUCHELBACH BIS ZUM PHILIPPSPARK – 3-Zimmer-Wohnidylle m",
-   "url": "https://push.search.is24.de/email/expose/169478980"
   }
  ]
 }
