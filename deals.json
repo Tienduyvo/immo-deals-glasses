@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-07-24T10:24:41",
+ "generated_at": "2026-07-24T10:21:06",
  "count": 30,
  "deals": [
   {
    "eur_sqm": 1152,
    "yield": 14.58,
    "price": 325000,
-   "sqm": 282.0,
+   "sqm": 282,
    "district": "Karben",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Rathausstraße 29, 61184 Karben",
@@ -21,6 +21,16 @@
    "source": "Immowelt (Mail)",
    "title": "Viel Raum für Ideen - sanierungsbedürftiges Haus i...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJQG1yROj_tu0KkYzBENYUOh6gwDQGMtyW9oSeGvonrKxBU7FCHA1YarKX3WRWgh4HRX--Pu9L2PRpULdMN0orwmiHHsKY2-N7zGk3t7DdAuUsys7Q"
+  },
+  {
+   "eur_sqm": 1343,
+   "yield": 12.5,
+   "price": 456852,
+   "sqm": 340.05,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "EIN HAUS, EIN RAUMWUNDER, EIN LIEBLINGSORT",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3465217398"
   },
   {
    "eur_sqm": 1597,
@@ -43,6 +53,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzJ9ADMAAAAAAIFo8vbswnjUpImu6KUcoFGwGNvsk5qc6YbjFA_C9bCO86Hlm4VEbG_yubkpFdz9Vn_IWBLgmygNLwb440FlYi0kOqoQe9sFklX_aqXNb3fNaY8jBg"
   },
   {
+   "eur_sqm": 1729,
+   "yield": 9.72,
+   "price": 548060,
+   "sqm": 316.97,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "BAUHAUS-ARCHITEKTUR IN OKAL-DESIGN",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3083921124"
+  },
+  {
    "eur_sqm": 1995,
    "yield": 8.42,
    "price": 860000,
@@ -61,6 +81,16 @@
    "source": "immoscout24-mail",
    "title": "Teilvermietetes MFH mit 4 Wohneinheiten und Erbbaurecht in g",
    "url": "https://www.immobilienscout24.de/expose/168265319"
+  },
+  {
+   "eur_sqm": 2047,
+   "yield": 8.21,
+   "price": 475000,
+   "sqm": 232.0,
+   "district": "Frankfurter Berg",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Frankfurter Berg: Vielseitiges Reihenmittelhaus mit großem G",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3442088299"
   },
   {
    "eur_sqm": 2049,
@@ -103,6 +133,16 @@
    "url": "https://www.immobilienscout24.de/expose/169030181"
   },
   {
+   "eur_sqm": 2253,
+   "yield": 7.46,
+   "price": 565495,
+   "sqm": 251.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Ihr Eigenheim zum Vorteilspreis - bezugsfertig inkl. Grundst",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3255358845"
+  },
+  {
    "eur_sqm": 2283,
    "yield": 7.36,
    "price": 290000,
@@ -136,11 +176,21 @@
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
-   "sqm": 252.0,
+   "sqm": 252,
    "district": "Frankfurt am Main",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
+  },
+  {
+   "eur_sqm": 2473,
+   "yield": 6.79,
+   "price": 549000,
+   "sqm": 222.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Fertighaus-Bungalow mit viel Platz in Top Lage von Königstäd",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3464478787"
   },
   {
    "eur_sqm": 2500,
@@ -233,74 +283,24 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDV9ADMAAAAAAJMwpD1JLevzxFxc6hfkXgkUBhAXODT9evu8s5CFvfXbK1MHfLmiY6fH2eTp5bXHe4tA7m92ZIjKWnQaROqP8cWiWIXqioBKoOJ8FSRUhFNIlM0thw"
   },
   {
-   "eur_sqm": 2943,
-   "yield": null,
-   "price": 1120000,
-   "sqm": 380.5,
-   "district": "Frankfurt (unspez.)",
-   "source": "immoscout24-mail",
-   "title": "Repräsentatives MFH in attraktiver Lage von Frankfurt am Mai",
-   "url": "https://www.immobilienscout24.de/expose/167986260"
+   "eur_sqm": 2891,
+   "yield": 5.81,
+   "price": 159000,
+   "sqm": 55.0,
+   "district": "Neu-Isenburg",
+   "source": "ohne-makler",
+   "title": "Citynahe Etagenwohnung mit Weitsicht 63263 Neu-Isenburg 2 55",
+   "url": "https://www.ohne-makler.net/immobilie/439681/"
   },
   {
-   "eur_sqm": 2981,
-   "yield": 5.64,
-   "price": 629000,
-   "sqm": 211.0,
-   "district": "Frankfurt am Main",
-   "source": "ZVG",
-   "title": "Mehrfamilienhaus : Hartmannweg 16, 60389 Frankfurt am Main, ",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55080&land_abk=he"
-  },
-  {
-   "eur_sqm": 3010,
-   "yield": 5.58,
-   "price": 298000,
-   "sqm": 99.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Großzügige",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDV9ADMAAAAAAJJOJrg2iJuZACJdryG0FR4zrG72OmtEvdwtypnvEei94KjFSvH1VYmtquHRQnLe4my2TrYUVJ5fG4pxfySKwHP6StkPFNejMoArU7irC428x4DGEw"
-  },
-  {
-   "eur_sqm": 3043,
-   "yield": 5.52,
-   "price": 140000,
-   "sqm": 46.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Attraktive",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzF9ADMAAAAAAH9txo5y0R26kVLmwCvJ7CCvaYjPSfiVPVUUl_N0iCadzAUFSATAYh53H0m-acjlTblMCeSKLiyBa25qvjCQTFDDLvH_QuwpHqPPI9MA7ggqdq4c8w"
-  },
-  {
-   "eur_sqm": 3104,
-   "yield": 5.41,
-   "price": 239000,
-   "sqm": 77.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Charmante",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDV9ADMAAAAAAJJfuOKyrojnv85EXxfGeQQmNcVUpPM0gqrg7jMD-BcRXsW2ovyWql1e_Y-mO8GR_U6VdLqp-i89N1KmhQlRwP2KZyWIqGYVKS_sBjps1X-6jsIoLA"
-  },
-  {
-   "eur_sqm": 3110,
-   "yield": 5.4,
-   "price": 650000,
-   "sqm": 209.0,
+   "eur_sqm": 2931,
+   "yield": 5.73,
+   "price": 548060,
+   "sqm": 187.0,
    "district": "Frankfurt (unspez.)",
    "source": "Kleinanzeigen (Mail)",
-   "title": "Charmantes Reihenendhaus mit großem Garten in ruhiger Lage",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3441504300"
-  },
-  {
-   "eur_sqm": 3126,
-   "yield": 5.37,
-   "price": 272000,
-   "sqm": 87.0,
-   "district": "Nieder-Eschbach",
-   "source": "immoscout",
-   "title": "FRANKFURT-NIEDER-ESCHBACH: Schöne und helle 3 ZW mit Balkon ",
-   "url": "https://www.immobilienscout24.de/expose/169074266"
+   "title": "TRAUMHAUS AUF IHREM GRUNSTÜCK,BAUHAUS-ARCHITEKTUR IN OKAL-DE",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3331810253"
   }
  ]
 }
