@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-25T13:50:25",
+ "generated_at": "2026-07-25T14:16:05",
  "count": 30,
  "deals": [
   {
@@ -193,6 +193,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJcAW6h3DNp4qD-iAkXqbZOvb_4YPQOAWjTiF5GXpEvt9SdeLbaOV-b6aqJBtXEOc9KTzTqLgZQEMOMbUpu28Kb-amvy-1E9ettfEriR1M2EeyfeXQ"
   },
   {
+   "eur_sqm": 2492,
+   "yield": 6.74,
+   "price": 1049000,
+   "sqm": 421.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Fünffamilienhaus ohne Mieter in Mainnähe",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJcRhmD-7bY5txRHc5IgTUDLvv0EUhu9L7wYW87qe9n3F3WiMcI-eqvWiFIpLB6-YtjeyxBxt7zFcnWzCAXyxaQy-CGw5Y4YijbLPs1N8xzRpLD67w"
+  },
+  {
    "eur_sqm": 2500,
    "yield": 6.72,
    "price": 750000,
@@ -291,16 +301,6 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "TRAUMHAUS AUF IHREM GRUNSTÜCK, MODERNES WOHNHAUS MIT ELEGANT",
    "url": "https://www.kleinanzeigen.de/s-anzeige/2246288836"
-  },
-  {
-   "eur_sqm": 2770,
-   "yield": null,
-   "price": 450000,
-   "sqm": 162.43,
-   "district": "Frankfurt (unspez.)",
-   "source": "ImmoScout24 (Browser)",
-   "title": "Freistehendes Zweifamilienhaus im Grünen",
-   "url": "https://www.immobilienscout24.de/expose/168947215"
   }
  ]
 }
