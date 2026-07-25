@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-25T16:29:08",
+ "generated_at": "2026-07-25T16:36:19",
  "count": 30,
  "deals": [
   {
@@ -153,6 +153,16 @@
    "url": "https://www.immobilienscout24.de/expose/169022817"
   },
   {
+   "eur_sqm": 2325,
+   "yield": 7.23,
+   "price": 465000,
+   "sqm": 200.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Investoren aufgepasst: Brandhaus mit großzügigem G...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJc_AI5o7b9gsSi5_mGP7vkEv-U-xxsLrCrPscbrNoxUKEGH7OL6QLIzK-D_5qj0ZTmj29vzlIh5t53pP0ia_qk0-SHeb8oks3sKKtUoFSDA5hOGMQ"
+  },
+  {
    "eur_sqm": 2364,
    "yield": 7.11,
    "price": 740000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Ein Zuhause, viele Möglichkeiten: Großzügiges Wohn...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJXTlbS2KRLr6JyM9YBW18qRgmMtx5nYSyiYPF8jYPXpVDs4CpfWDgxRZnx3GK-0joKQS8eMq3b6x3FbXmLvYTbLl6JVuxC3LaTlEz888c9VpFXQ9g"
-  },
-  {
-   "eur_sqm": 2757,
-   "yield": 6.09,
-   "price": 386020,
-   "sqm": 140.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "TRAUMHAUS AUF IHREM GRUNSTÜCK, MODERNES WOHNHAUS MIT ELEGANT",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/2246288836"
   }
  ]
 }
