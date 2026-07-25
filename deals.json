@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-25T18:42:33",
+ "generated_at": "2026-07-25T18:47:14",
  "count": 30,
  "deals": [
   {
@@ -243,6 +243,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJM8lkjw6p4OxmEISj6HxsN3kDiPOXauOSogaj6OENnpYr1CMmGoCYuoJ-wJQnXtT2p_EIpJVezL673rWb7Ls-t2O62vBlDBHIN1wNWZNiphLJPdnA"
   },
   {
+   "eur_sqm": 2573,
+   "yield": 6.53,
+   "price": 84900,
+   "sqm": 33.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "DIETZ:",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJdJeMOF-tjEAkATXkAJ9aMMD3VyGbME8xyPrABBGREa_duNrYj-30RmAEgeSWFmcuOcUrti8vo7ab8OIASz_3s94N2DgJ1n4iYb0oUkQSpY5xDu0w"
+  },
+  {
    "eur_sqm": 2585,
    "yield": 6.5,
    "price": 200000,
@@ -291,16 +301,6 @@
    "source": "immoscout24-mail",
    "title": "Jetzt investieren: Zentrale Eigentumswohnung in gefragte Lag",
    "url": "https://www.immobilienscout24.de/expose/169087004"
-  },
-  {
-   "eur_sqm": 2700,
-   "yield": 6.22,
-   "price": 540000,
-   "sqm": 200.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Ein Zuhause, viele Möglichkeiten: Großzügiges Wohn...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJXTlbS2KRLr6JyM9YBW18qRgmMtx5nYSyiYPF8jYPXpVDs4CpfWDgxRZnx3GK-0joKQS8eMq3b6x3FbXmLvYTbLl6JVuxC3LaTlEz888c9VpFXQ9g"
   }
  ]
 }
