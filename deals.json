@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-25T11:44:36",
+ "generated_at": "2026-07-25T11:45:28",
  "count": 30,
  "deals": [
   {
@@ -21,16 +21,6 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Rathausstraße 29, 61184 Karben",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55061&land_abk=he"
-  },
-  {
-   "eur_sqm": 1274,
-   "yield": 13.18,
-   "price": 395000,
-   "sqm": 310.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Viel Raum für Ideen - sanierungsbedürftiges Haus i...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJQG1yROj_tu0KkYzBENYUOh6gwDQGMtyW9oSeGvonrKxBU7FCHA1YarKX3WRWgh4HRX--Pu9L2PRpULdMN0orwmiHHsKY2-N7zGk3t7DdAuUsys7Q"
   },
   {
    "eur_sqm": 1278,
@@ -301,6 +291,16 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "TRAUMHAUS AUF IHREM GRUNSTÜCK, MODERNES WOHNHAUS MIT ELEGANT",
    "url": "https://www.kleinanzeigen.de/s-anzeige/2246288836"
+  },
+  {
+   "eur_sqm": 2770,
+   "yield": null,
+   "price": 450000,
+   "sqm": 162.43,
+   "district": "Frankfurt (unspez.)",
+   "source": "ImmoScout24 (Browser)",
+   "title": "Freistehendes Zweifamilienhaus im Grünen",
+   "url": "https://www.immobilienscout24.de/expose/168947215"
   }
  ]
 }
