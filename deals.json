@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-26T12:47:56",
+ "generated_at": "2026-07-26T12:48:56",
  "count": 30,
  "deals": [
   {
@@ -31,26 +31,6 @@
    "source": "Immowelt (Mail)",
    "title": "Raum für Generationen, Ideen und Perspektiven.",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5MzJ9ADMAAAAAAIFo8vbswnjUpImu6KUcoFGwGNvsk5qc6YbjFA_C9bCO86Hlm4VEbG_yubkpFdz9Vn_IWBLgmygNLwb440FlYi0kOqoQe9sFklX_aqXNb3fNaY8jBg"
-  },
-  {
-   "eur_sqm": 1680,
-   "yield": 10.0,
-   "price": 419900,
-   "sqm": 250.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Auf Ihrem Grundstück - Ihr Traumhaus von OKAL",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3418579346"
-  },
-  {
-   "eur_sqm": 1766,
-   "yield": 9.51,
-   "price": 629000,
-   "sqm": 356.12,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Neubautraum in Nauheim",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3345725181"
   },
   {
    "eur_sqm": 1995,
@@ -301,6 +281,26 @@
    "source": "Immowelt (Mail)",
    "title": "Ein Zuhause, viele Möglichkeiten: Großzügiges Wohn...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJXTlbS2KRLr6JyM9YBW18qRgmMtx5nYSyiYPF8jYPXpVDs4CpfWDgxRZnx3GK-0joKQS8eMq3b6x3FbXmLvYTbLl6JVuxC3LaTlEz888c9VpFXQ9g"
+  },
+  {
+   "eur_sqm": 2705,
+   "yield": 6.21,
+   "price": 454285,
+   "sqm": 167.94,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Lichtdurchflutetes Einfamilienhaus in begehrter Wohnlage von",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3364509170"
+  },
+  {
+   "eur_sqm": 2707,
+   "yield": 6.21,
+   "price": 249000,
+   "sqm": 92.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Lichtdurchflutet & gepflegt – 3 Zimmer in guter Lage von Heu",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3442753550"
   }
  ]
 }
