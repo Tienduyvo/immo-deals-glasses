@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-26T12:42:49",
+ "generated_at": "2026-07-26T12:47:56",
  "count": 30,
  "deals": [
   {
@@ -121,16 +121,6 @@
    "source": "Immowelt (Mail)",
    "title": "Eigennutzung und Mieteinnahmen perfekt kombiniert",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJX2qM1Rx1pWRuhCJB45kKPKMUwSNBb_wS0w_VMr1LqoNg9N_qGT8GG583nghJMHlCiqQUKZumZqqhOvydSClN7eOt7iTRQYqYbLVPNHhd73Xbd7WA"
-  },
-  {
-   "eur_sqm": 2258,
-   "yield": 7.44,
-   "price": 542000,
-   "sqm": 240.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Ihr maßgeschneidertes Mehrfamilienhaus in Nidderau...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDl9ADMAAAAAAJfb8zPZIN2OuGAhsibYEjQaoBAd5of4Pq5hux1QBFMXmmv6ujjakL4XnP1Evwut3a-iLmIw7uJZA7pJRXdFEh-8G95zJlLsnGBPy93G1s_hxEw3jQ"
   },
   {
    "eur_sqm": 2283,
@@ -301,6 +291,16 @@
    "source": "immoscout24-mail",
    "title": "Jetzt investieren: Zentrale Eigentumswohnung in gefragte Lag",
    "url": "https://www.immobilienscout24.de/expose/169087004"
+  },
+  {
+   "eur_sqm": 2700,
+   "yield": 6.22,
+   "price": 540000,
+   "sqm": 200.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Ein Zuhause, viele Möglichkeiten: Großzügiges Wohn...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJXTlbS2KRLr6JyM9YBW18qRgmMtx5nYSyiYPF8jYPXpVDs4CpfWDgxRZnx3GK-0joKQS8eMq3b6x3FbXmLvYTbLl6JVuxC3LaTlEz888c9VpFXQ9g"
   }
  ]
 }
