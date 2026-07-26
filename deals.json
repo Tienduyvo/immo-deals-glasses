@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-26T12:28:08",
+ "generated_at": "2026-07-26T12:42:49",
  "count": 30,
  "deals": [
   {
@@ -11,16 +11,6 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Rathausstraße 29, 61184 Karben",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55061&land_abk=he"
-  },
-  {
-   "eur_sqm": 1278,
-   "yield": 13.14,
-   "price": 170000,
-   "sqm": 133.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Reserviert! Sanierungsobjekt mit Potenzial in Offe...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJXipymVT8jDh6Qo9wpvhbs20jg-Kc38aBthNHHaj6Xge5TfuyT7F2qboj_YudGfGWEk1HeVvyJGPEPCo_RPbAYpl4EEGDUt-dYnHLZmOTqRyML2PA"
   },
   {
    "eur_sqm": 1597,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "HANAU - representative Jugendstilvilla am Stadtkra...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJU5c7o1KxeHXJzhM9NEV0kwV3skqhrjs9rLUM6ZBtyTF1uoELrZOQUBSYxu0LFgcESDFeSgkS4wsXxMS-ofyqgPR07cZ7oos4FR3824kYTZiuQWFg"
+  },
+  {
+   "eur_sqm": 2683,
+   "yield": null,
+   "price": 169000,
+   "sqm": 63.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "immoscout24-mail",
+   "title": "Jetzt investieren: Zentrale Eigentumswohnung in gefragte Lag",
+   "url": "https://www.immobilienscout24.de/expose/169087004"
   }
  ]
 }
