@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-26T18:53:05",
+ "generated_at": "2026-07-26T19:22:50",
  "count": 30,
  "deals": [
   {
@@ -193,6 +193,16 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/3442753550"
   },
   {
+   "eur_sqm": 2747,
+   "yield": 6.12,
+   "price": 999999,
+   "sqm": 364.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Provisionsfreies Denkmal-Investment mit 4 Einheite...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDl9ADMAAAAAAJgck1OOktbPjN2PlRHNCUODj3V8tP7NYWFCy51BXrWHOgo1HWBGIab-h0XP7wF1oFLxKU1VBRYtaK5RiLPnEvizRCogkgeah_oq-R7xYAYu5MKLOw"
+  },
+  {
    "eur_sqm": 2757,
    "yield": 6.09,
    "price": 386020,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "** Großzügige 3 ZKB in Heusenstamm! **",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJWdnuSG64iHkC60u6QDZT1LWNEGO6DDIDC6Yq4JobCX3rotrv9iCfNDSQual-blMCrrOw09PmSa_dMHtuQ0JHIq8DTv82FDIY9UIfKfOe5OFaQY8Q"
-  },
-  {
-   "eur_sqm": 2908,
-   "yield": 5.78,
-   "price": 189000,
-   "sqm": 65.0,
-   "district": "Dietzenbach",
-   "source": "Immowelt (Mail)",
-   "title": "Herrliche DG-Galerie Wohnung in Dietzenbach",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDl9ADMAAAAAAJgN1g0D_YBVqtHom_R01bHo6De6R9IuvKQGEpCWbHbZwROAsB3T4dtklsyRCHZGhGrxMCRJeRxFS_HH_KHn3W75dMRRSh-ZwpPWUCIeO3D65cb3VA"
   }
  ]
 }
