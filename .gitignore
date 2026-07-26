@@ -1,7 +1,8 @@
-# Nur index.html, deals.json und README gehören ins öffentliche Repo.
+# Nur index.html, deals.json, dashboard.html und README gehören ins öffentliche Repo.
 # Alles andere ausschließen (Sicherheit gegen versehentliche Secrets).
 *
 !index.html
 !deals.json
+!dashboard.html
 !README.md
 !.gitignore
