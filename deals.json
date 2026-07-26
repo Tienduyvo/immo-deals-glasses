@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-26T11:45:55",
+ "generated_at": "2026-07-26T11:56:33",
  "count": 30,
  "deals": [
   {
@@ -131,6 +131,16 @@
    "source": "Immowelt (Mail)",
    "title": "Eigennutzung und Mieteinnahmen perfekt kombiniert",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJX2qM1Rx1pWRuhCJB45kKPKMUwSNBb_wS0w_VMr1LqoNg9N_qGT8GG583nghJMHlCiqQUKZumZqqhOvydSClN7eOt7iTRQYqYbLVPNHhd73Xbd7WA"
+  },
+  {
+   "eur_sqm": 2258,
+   "yield": 7.44,
+   "price": 542000,
+   "sqm": 240.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Ihr maßgeschneidertes Mehrfamilienhaus in Nidderau...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDl9ADMAAAAAAJfb8zPZIN2OuGAhsibYEjQaoBAd5of4Pq5hux1QBFMXmmv6ujjakL4XnP1Evwut3a-iLmIw7uJZA7pJRXdFEh-8G95zJlLsnGBPy93G1s_hxEw3jQ"
   },
   {
    "eur_sqm": 2283,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "HANAU - representative Jugendstilvilla am Stadtkra...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJU5c7o1KxeHXJzhM9NEV0kwV3skqhrjs9rLUM6ZBtyTF1uoELrZOQUBSYxu0LFgcESDFeSgkS4wsXxMS-ofyqgPR07cZ7oos4FR3824kYTZiuQWFg"
-  },
-  {
-   "eur_sqm": 2683,
-   "yield": null,
-   "price": 169000,
-   "sqm": 63.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "immoscout24-mail",
-   "title": "Jetzt investieren: Zentrale Eigentumswohnung in gefragte Lag",
-   "url": "https://www.immobilienscout24.de/expose/169087004"
   }
  ]
 }
