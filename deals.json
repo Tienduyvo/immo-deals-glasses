@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-27T16:15:53",
+ "generated_at": "2026-07-27T16:16:32",
  "count": 30,
  "deals": [
   {
@@ -11,16 +11,6 @@
    "source": "Immowelt (Mail)",
    "title": "Gepflegtes Mehrfamilienhaus in Kaichen!",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJRFe58w1Jfae9aez0dKOga9noxkKEWU5VxAFmvRDOzkx2KtVmgHLnz4UcP8USoIpBivfdoL_6v-CCS0wvpYgrlw2rn0CW3jHiZ-_qw7ObufjWRRrQ"
-  },
-  {
-   "eur_sqm": 1995,
-   "yield": 8.42,
-   "price": 860000,
-   "sqm": 431.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Kapitalanlage in guter Wohnlage von Urberach - Meh...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJUsqgnF8qBSQnG0M3Z2fagxWrGbYkaMIqUy6bpzBUMUUmuLIUiMrsTxx3LMXIjxML2VqleCqTm3qrdeGolOH2EuX28rjsuBEPpiNrrOBewXoIIf6g"
   },
   {
    "eur_sqm": 2203,
@@ -61,6 +51,16 @@
    "source": "Immowelt (Mail)",
    "title": "Zweifamilienhaus mit viel Platz und großem Potenzi...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTB9ADMAAAAAAJioT8r8T6jMHidaOk1yiujR5KOLvacQ-OA-Fg6dlnFb82XJd3JzwueZEWPMzIfMM3gLtWe0MEhXDfU2KKod-PesLOpATJdV1VKDCp_-4YSuF_AKJQ"
+  },
+  {
+   "eur_sqm": 2364,
+   "yield": 7.11,
+   "price": 139500,
+   "sqm": 59.0,
+   "district": "Hanau",
+   "source": "Immowelt (Mail)",
+   "title": "barrierefreie 2-Raum-Wohnung in Hanau, renoviert, ...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTB9ADMAAAAAAJlLT3yhzF_nBbap0YkZugAJ9R-mn-BJpwWeeaEvl515cLYF7MlHFEl1gfWikFThN4IfG5lnMX-8nKWA8wLOvjg-tbVebRF92w-qQyoIqhCN01PRrA"
   },
   {
    "eur_sqm": 2371,
