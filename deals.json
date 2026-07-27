@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-27T17:47:27",
+ "generated_at": "2026-07-27T17:56:38",
  "count": 30,
  "deals": [
   {
@@ -223,6 +223,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJbghFiT5ofSGRbQbtLvAYMxRA8_PFfrgPk8Nx8VmKVd-VqVvXITZ-c7mOT11RxDOqd9rEwHns0G16s5wyFzrbLmUlFakUVI_X96pVZlTEHIJ3YIpA"
   },
   {
+   "eur_sqm": 2780,
+   "yield": 6.04,
+   "price": 570000,
+   "sqm": 205.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Solides Investment mit Weitblick - Gepflegtes 3-Fa...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTB9ADMAAAAAAJlrC1bAlIA_y_IMFax4RooO9FbZztAFk-BQBM5o0bHF3zvQ46FzMre5VOjIwylMTBDYQ7WqwHPgcBL5LVXCQqUae4NQMQ4Ughn3cvGDzOTMiBQmFg"
+  },
+  {
    "eur_sqm": 2785,
    "yield": 6.03,
    "price": 699000,
@@ -291,16 +301,6 @@
    "source": "ohne-makler",
    "title": "Citynahe Etagenwohnung mit Weitsicht 63263 Neu-Isenburg 2 55",
    "url": "https://www.ohne-makler.net/immobilie/439681/"
-  },
-  {
-   "eur_sqm": 2898,
-   "yield": 5.8,
-   "price": 255000,
-   "sqm": 88.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "** Großzügige 3 ZKB in Heusenstamm! **",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJWdnuSG64iHkC60u6QDZT1LWNEGO6DDIDC6Yq4JobCX3rotrv9iCfNDSQual-blMCrrOw09PmSa_dMHtuQ0JHIq8DTv82FDIY9UIfKfOe5OFaQY8Q"
   }
  ]
 }
