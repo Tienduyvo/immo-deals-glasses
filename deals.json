@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-27T16:16:54",
+ "generated_at": "2026-07-27T16:17:53",
  "count": 30,
  "deals": [
   {
@@ -31,16 +31,6 @@
    "source": "Immowelt (Mail)",
    "title": "Fachwerkhaus in zentraler Lage von Kronberg für Ka...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDR9ADMAAAAAAJHQGW4zmyvj4uzUiLVYHvK0B_MoZoL4V3Z85-Fu7qajl5t-SuG_A9Ar0yfCiVyMfo-y0TmQZS095p4p6b_ZjzOdMY5F9k9Y5vQB84DQbJd2ZefmJA"
-  },
-  {
-   "eur_sqm": 2325,
-   "yield": 7.23,
-   "price": 465000,
-   "sqm": 200.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Investoren aufgepasst: Brandhaus mit großzügigem G...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJc_AI5o7b9gsSi5_mGP7vkEv-U-xxsLrCrPscbrNoxUKEGH7OL6QLIzK-D_5qj0ZTmj29vzlIh5t53pP0ia_qk0-SHeb8oks3sKKtUoFSDA5hOGMQ"
   },
   {
    "eur_sqm": 2360,
@@ -131,16 +121,6 @@
    "source": "Immowelt (Mail)",
    "title": "Großzügiges Einfamilienhaus mit Garten in ruhiger ...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJM8lkjw6p4OxmEISj6HxsN3kDiPOXauOSogaj6OENnpYr1CMmGoCYuoJ-wJQnXtT2p_EIpJVezL673rWb7Ls-t2O62vBlDBHIN1wNWZNiphLJPdnA"
-  },
-  {
-   "eur_sqm": 2573,
-   "yield": 6.53,
-   "price": 84900,
-   "sqm": 33.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "DIETZ:",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJdJeMOF-tjEAkATXkAJ9aMMD3VyGbME8xyPrABBGREa_duNrYj-30RmAEgeSWFmcuOcUrti8vo7ab8OIASz_3s94N2DgJ1n4iYb0oUkQSpY5xDu0w"
   },
   {
    "eur_sqm": 2602,
@@ -301,6 +281,26 @@
    "source": "Immowelt (Mail)",
    "title": "Zweifamilienhaus gelegen an der Kleingartenanlage ...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJcAW6io_5uWTOTj1_SVc0b8CeB6URqOsTufh9c_XzLpGMkFI-Qh-tR2p0h4HdM_bMlmBFHtbPKUfmCpvdC6Xg8GDCQqXO-Vf_RBXggUSE0Edx1VnA"
+  },
+  {
+   "eur_sqm": 2891,
+   "yield": 5.81,
+   "price": 159000,
+   "sqm": 55.0,
+   "district": "Neu-Isenburg",
+   "source": "ohne-makler",
+   "title": "Citynahe Etagenwohnung mit Weitsicht 63263 Neu-Isenburg 2 55",
+   "url": "https://www.ohne-makler.net/immobilie/439681/"
+  },
+  {
+   "eur_sqm": 2898,
+   "yield": 5.8,
+   "price": 255000,
+   "sqm": 88.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "** Großzügige 3 ZKB in Heusenstamm! **",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJWdnuSG64iHkC60u6QDZT1LWNEGO6DDIDC6Yq4JobCX3rotrv9iCfNDSQual-blMCrrOw09PmSa_dMHtuQ0JHIq8DTv82FDIY9UIfKfOe5OFaQY8Q"
   }
  ]
 }
