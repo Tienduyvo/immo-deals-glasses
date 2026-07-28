@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-28T13:29:59",
+ "generated_at": "2026-07-28T13:42:43",
  "count": 30,
  "deals": [
   {
@@ -273,6 +273,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJM8lkjw6p4OxmEISj6HxsN3kDiPOXauOSogaj6OENnpYr1CMmGoCYuoJ-wJQnXtT2p_EIpJVezL673rWb7Ls-t2O62vBlDBHIN1wNWZNiphLJPdnA"
   },
   {
+   "eur_sqm": 2584,
+   "yield": 6.5,
+   "price": 199000,
+   "sqm": 77.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Terrassenwohnung mit 2 Parkplätzen",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJpnTy8FiiB_9xOTwjqStK7xVbkyO1gkStOhg_YLP1unn3N7EzigFil40_-CjshU9381A5E_awxZts3UYpuCcYGBT7eA5BE279qRLQzI4Qh2-5PB5w"
+  },
+  {
    "eur_sqm": 2602,
    "yield": 6.46,
    "price": 320000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Kapitalanlage: 3-Familienhaus mit Einliegerwohnung...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJXdY_F-oE_0QSiT5L9aC1pJNLx2tZQmkm-V8JozH-az2B4sRYAqjTQr-lGgS6tiY4gyiV3N3yA4SJfMboevMIdQIy12yOaR8KaTmK7NqKw_Tdxcfg"
-  },
-  {
-   "eur_sqm": 2672,
-   "yield": 6.29,
-   "price": 1590000,
-   "sqm": 595.0,
-   "district": "Hanau",
-   "source": "Immowelt (Mail)",
-   "title": "HANAU - representative Jugendstilvilla am Stadtkra...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJU5c7o1KxeHXJzhM9NEV0kwV3skqhrjs9rLUM6ZBtyTF1uoELrZOQUBSYxu0LFgcESDFeSgkS4wsXxMS-ofyqgPR07cZ7oos4FR3824kYTZiuQWFg"
   }
  ]
 }
