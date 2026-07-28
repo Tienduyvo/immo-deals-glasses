@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-28T20:57:36",
+ "generated_at": "2026-07-28T21:49:55",
  "count": 30,
  "deals": [
   {
@@ -81,6 +81,16 @@
    "source": "Immowelt (Mail)",
    "title": "Gepflegtes Mehrfamilienhaus in Kaichen!",
    "url": "https://www.immowelt.de/expose/bb8232d4-14fc-4f07-86c6-8e6f6fd56f28"
+  },
+  {
+   "eur_sqm": 1864,
+   "yield": 9.01,
+   "price": 123000,
+   "sqm": 66.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Renditekracher: Gepflegte",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJtucJpXEKS9OztvT8GULfqQUAPO4HEbR7ObZUe_T_u0Hv8X-WeWE3ilEq7cRgsdbHE0MucRqjIjqBO0WMwXt6PYF9WkkzPnN1v_UJNaNMZCeKyFBA"
   },
   {
    "eur_sqm": 1882,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Terrassenwohnung mit 2 Parkplätzen",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJpnTy8FiiB_9xOTwjqStK7xVbkyO1gkStOhg_YLP1unn3N7EzigFil40_-CjshU9381A5E_awxZts3UYpuCcYGBT7eA5BE279qRLQzI4Qh2-5PB5w"
-  },
-  {
-   "eur_sqm": 2602,
-   "yield": 6.46,
-   "price": 320000,
-   "sqm": 123.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Stilvolle Maisonettewohnung mit offenem Wohnbereic...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJP5U2_NePcxPzHUK7RJD_X5t4CZsjcPtCf6vHIVP-vdRxkIYYNe2ie-afJV9bVk_I2PRvUPsfL-cvOMR7y6_GxQbHHnUY0yPTGnkQxGwWD5wqH34g"
   }
  ]
 }
