@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-28T20:48:24",
+ "generated_at": "2026-07-28T20:57:36",
  "count": 30,
  "deals": [
   {
@@ -111,6 +111,16 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "Sehr schön Wohnung",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3419228790"
+  },
+  {
+   "eur_sqm": 2128,
+   "yield": 7.9,
+   "price": 100000,
+   "sqm": 47.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Leerstehend: Top gepflegte",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJtlorx1WPr4vBkYbCk8M7fFzNwbnUsbG4eaQ4ZDcEgtEATrsJZw7VfFseg2etYZojvzSIuUJHGdhpaffm9Lkcr6N6qtVo_c0GZFpDgABSY73WbsJA"
   },
   {
    "eur_sqm": 2203,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Stilvolle Maisonettewohnung mit offenem Wohnbereic...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJP5U2_NePcxPzHUK7RJD_X5t4CZsjcPtCf6vHIVP-vdRxkIYYNe2ie-afJV9bVk_I2PRvUPsfL-cvOMR7y6_GxQbHHnUY0yPTGnkQxGwWD5wqH34g"
-  },
-  {
-   "eur_sqm": 2639,
-   "yield": 6.37,
-   "price": 710000,
-   "sqm": 269.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Kapitalanlage: 3-Familienhaus mit Einliegerwohnung...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJXdY_F-oE_0QSiT5L9aC1pJNLx2tZQmkm-V8JozH-az2B4sRYAqjTQr-lGgS6tiY4gyiV3N3yA4SJfMboevMIdQIy12yOaR8KaTmK7NqKw_Tdxcfg"
   }
  ]
 }
