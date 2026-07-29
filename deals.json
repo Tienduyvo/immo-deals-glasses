@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-29T18:32:28",
+ "generated_at": "2026-07-29T18:42:42",
  "count": 30,
  "deals": [
   {
@@ -71,6 +71,16 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "Gepflegte 1-Zimmer-Wohnung mit Balkon in Mörfelden-Walldorf",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3442962187"
+  },
+  {
+   "eur_sqm": 1996,
+   "yield": 8.42,
+   "price": 459000,
+   "sqm": 230.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Viel Platz für Familie & Beruf: Fachwerkhaus mit E...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJzTSFCwLX7VCDj0pdNscngSTGxxLKA9RYIvPsso5mQWuKhR26qrIQKQa0Zas-hxXowImwco549Q-CXBV1Mq5LUbfwEa93H1Lrd5tf2AnsuuklzDjA"
   },
   {
    "eur_sqm": 2128,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Kapitalanlage: 3-Familienhaus mit Einliegerwohnung...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJXdY_F-oE_0QSiT5L9aC1pJNLx2tZQmkm-V8JozH-az2B4sRYAqjTQr-lGgS6tiY4gyiV3N3yA4SJfMboevMIdQIy12yOaR8KaTmK7NqKw_Tdxcfg"
-  },
-  {
-   "eur_sqm": 2652,
-   "yield": 6.34,
-   "price": 556870,
-   "sqm": 210.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Gestalten Sie Ihr Traumhaus in Heusenstamm nach Ihren Vorste",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3470337604"
   }
  ]
 }
