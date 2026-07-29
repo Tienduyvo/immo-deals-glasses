@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-07-29T13:32:20",
+ "generated_at": "2026-07-29T14:34:28",
  "count": 30,
  "deals": [
+  {
+   "eur_sqm": 1346,
+   "yield": 12.48,
+   "price": 179000,
+   "sqm": 133.0,
+   "district": "Offenbach",
+   "source": "Immowelt (Mail)",
+   "title": "Sanierungsobjekt mit Potenzial in Offenbach: 3 Ein...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJxjZtQdLeBw7FcHKQq9AxKERleqWPU2Z9ppUPVziRaaocUH3FVnEvPSmKWd10pExIz4c3pegJqNHn_27ORsgx_BMWUpL0TEvp2u43RJ7BEkdalpPw"
+  },
   {
    "eur_sqm": 1597,
    "yield": 10.52,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "HANAU - representative Jugendstilvilla am Stadtkra...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJU5c7o1KxeHXJzhM9NEV0kwV3skqhrjs9rLUM6ZBtyTF1uoELrZOQUBSYxu0LFgcESDFeSgkS4wsXxMS-ofyqgPR07cZ7oos4FR3824kYTZiuQWFg"
-  },
-  {
-   "eur_sqm": 2700,
-   "yield": 6.22,
-   "price": 540000,
-   "sqm": 200.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Ein Zuhause, viele Möglichkeiten: Großzügiges Wohn...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJXTlbS2KRLr6JyM9YBW18qRgmMtx5nYSyiYPF8jYPXpVDs4CpfWDgxRZnx3GK-0joKQS8eMq3b6x3FbXmLvYTbLl6JVuxC3LaTlEz888c9VpFXQ9g"
   }
  ]
 }
