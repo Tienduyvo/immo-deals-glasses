@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-29T17:51:00",
+ "generated_at": "2026-07-29T17:58:13",
  "count": 30,
  "deals": [
   {
@@ -183,6 +183,16 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
   },
   {
+   "eur_sqm": 2429,
+   "yield": 6.92,
+   "price": 459000,
+   "sqm": 189.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Zweifamilienhaus mit 2 Balkonen, Garten, Keller, G...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJzBWM9Gg2MTDa_nmRCha4ZMi8_uaG_xaOrKEFp5zPZxkvvNE4AqN_byrMHyNTbz321LoLVrgxc-_bt2xcKoN0yGTtAojU8SNNpSpN2Kp7gDPxBldw"
+  },
+  {
    "eur_sqm": 2440,
    "yield": 6.88,
    "price": 959000,
@@ -291,16 +301,6 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "Gestalten Sie Ihr Traumhaus in Heusenstamm nach Ihren Vorste",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3470337604"
-  },
-  {
-   "eur_sqm": 2672,
-   "yield": 6.29,
-   "price": 1590000,
-   "sqm": 595.0,
-   "district": "Hanau",
-   "source": "Immowelt (Mail)",
-   "title": "HANAU - representative Jugendstilvilla am Stadtkra...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJU5c7o1KxeHXJzhM9NEV0kwV3skqhrjs9rLUM6ZBtyTF1uoELrZOQUBSYxu0LFgcESDFeSgkS4wsXxMS-ofyqgPR07cZ7oos4FR3824kYTZiuQWFg"
   }
  ]
 }
