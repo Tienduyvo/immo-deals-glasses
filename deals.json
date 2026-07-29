@@ -1,77 +1,7 @@
 {
- "generated_at": "2026-07-29T10:07:03",
+ "generated_at": "2026-07-29T08:34:34",
  "count": 30,
  "deals": [
-  {
-   "eur_sqm": 25,
-   "yield": 672.0,
-   "price": 1500,
-   "sqm": 60.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Dönerladen zum verkaufen keine Abstand",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3420112082"
-  },
-  {
-   "eur_sqm": 193,
-   "yield": 87.02,
-   "price": 100000,
-   "sqm": 518.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Solarstrom als Kapitalanlage: PV kaufen und 100 % Eigentum s",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3418387452"
-  },
-  {
-   "eur_sqm": 447,
-   "yield": 37.54,
-   "price": 69000,
-   "sqm": 154.2,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Nieuwvliet-Bad (NL) Chalet zu verkaufen /te koop",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3467864217"
-  },
-  {
-   "eur_sqm": 791,
-   "yield": 21.25,
-   "price": 240000,
-   "sqm": 303.52,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "GASTRO-LÄDCHEN IN RÖDERMARK",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/2516165724"
-  },
-  {
-   "eur_sqm": 900,
-   "yield": 18.67,
-   "price": 114990,
-   "sqm": 127.82,
-   "district": "Hanau",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Vermietete 3 Zimmer Wohnung in Hanau Lamboy als Kapitalanlag",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3364243526"
-  },
-  {
-   "eur_sqm": 1489,
-   "yield": 11.29,
-   "price": 127000,
-   "sqm": 85.31,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "1-Zimmer-Eigentumswohnung mit Weitblick",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3464344717"
-  },
-  {
-   "eur_sqm": 1514,
-   "yield": 11.09,
-   "price": 199000,
-   "sqm": 131.41,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Projekt ansehen",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3356814030"
-  },
   {
    "eur_sqm": 1597,
    "yield": 10.52,
@@ -81,6 +11,16 @@
    "source": "Immowelt (Mail)",
    "title": "Gepflegtes Mehrfamilienhaus in Kaichen!",
    "url": "https://www.immowelt.de/expose/bb8232d4-14fc-4f07-86c6-8e6f6fd56f28"
+  },
+  {
+   "eur_sqm": 1767,
+   "yield": 9.51,
+   "price": 281000,
+   "sqm": 159.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Rentenabsicherung!!",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3470414669"
   },
   {
    "eur_sqm": 1864,
@@ -103,6 +43,16 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/3464621185"
   },
   {
+   "eur_sqm": 1907,
+   "yield": 8.81,
+   "price": 349000,
+   "sqm": 183.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Ein tolles Zuhause - modernisiertes Einfamilienhaus",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3470655522"
+  },
+  {
    "eur_sqm": 1909,
    "yield": 8.8,
    "price": 147000,
@@ -111,16 +61,6 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "Gepflegte 1-Zimmer-Wohnung mit Balkon in Mörfelden-Walldorf",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3442962187"
-  },
-  {
-   "eur_sqm": 2002,
-   "yield": 8.39,
-   "price": 175000,
-   "sqm": 87.43,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Sehr schön Wohnung",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3419228790"
   },
   {
    "eur_sqm": 2128,
@@ -226,7 +166,7 @@
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
-   "sqm": 252.0,
+   "sqm": 252,
    "district": "Frankfurt am Main",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
@@ -301,6 +241,66 @@
    "source": "Immowelt (Mail)",
    "title": "Großzügiges Einfamilienhaus mit Garten in ruhiger ...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJM8lkjw6p4OxmEISj6HxsN3kDiPOXauOSogaj6OENnpYr1CMmGoCYuoJ-wJQnXtT2p_EIpJVezL673rWb7Ls-t2O62vBlDBHIN1wNWZNiphLJPdnA"
+  },
+  {
+   "eur_sqm": 2584,
+   "yield": 6.5,
+   "price": 199000,
+   "sqm": 77.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Terrassenwohnung mit 2 Parkplätzen",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJpnTy8FiiB_9xOTwjqStK7xVbkyO1gkStOhg_YLP1unn3N7EzigFil40_-CjshU9381A5E_awxZts3UYpuCcYGBT7eA5BE279qRLQzI4Qh2-5PB5w"
+  },
+  {
+   "eur_sqm": 2602,
+   "yield": 6.46,
+   "price": 320000,
+   "sqm": 123.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Stilvolle Maisonettewohnung mit offenem Wohnbereic...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJP5U2_NePcxPzHUK7RJD_X5t4CZsjcPtCf6vHIVP-vdRxkIYYNe2ie-afJV9bVk_I2PRvUPsfL-cvOMR7y6_GxQbHHnUY0yPTGnkQxGwWD5wqH34g"
+  },
+  {
+   "eur_sqm": 2639,
+   "yield": 6.37,
+   "price": 710000,
+   "sqm": 269.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Kapitalanlage: 3-Familienhaus mit Einliegerwohnung...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJXdY_F-oE_0QSiT5L9aC1pJNLx2tZQmkm-V8JozH-az2B4sRYAqjTQr-lGgS6tiY4gyiV3N3yA4SJfMboevMIdQIy12yOaR8KaTmK7NqKw_Tdxcfg"
+  },
+  {
+   "eur_sqm": 2652,
+   "yield": 6.34,
+   "price": 556870,
+   "sqm": 210.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Gestalten Sie Ihr Traumhaus in Heusenstamm nach Ihren Vorste",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3470337604"
+  },
+  {
+   "eur_sqm": 2672,
+   "yield": 6.29,
+   "price": 1590000,
+   "sqm": 595.0,
+   "district": "Hanau",
+   "source": "Immowelt (Mail)",
+   "title": "HANAU - representative Jugendstilvilla am Stadtkra...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJU5c7o1KxeHXJzhM9NEV0kwV3skqhrjs9rLUM6ZBtyTF1uoELrZOQUBSYxu0LFgcESDFeSgkS4wsXxMS-ofyqgPR07cZ7oos4FR3824kYTZiuQWFg"
+  },
+  {
+   "eur_sqm": 2700,
+   "yield": 6.22,
+   "price": 540000,
+   "sqm": 200.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Ein Zuhause, viele Möglichkeiten: Großzügiges Wohn...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJXTlbS2KRLr6JyM9YBW18qRgmMtx5nYSyiYPF8jYPXpVDs4CpfWDgxRZnx3GK-0joKQS8eMq3b6x3FbXmLvYTbLl6JVuxC3LaTlEz888c9VpFXQ9g"
   }
  ]
 }
