@@ -1,17 +1,7 @@
 {
- "generated_at": "2026-07-30T11:32:57",
+ "generated_at": "2026-07-30T08:33:23",
  "count": 30,
  "deals": [
-  {
-   "eur_sqm": 956,
-   "yield": 17.57,
-   "price": 239000,
-   "sqm": 250.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Exklusives Naturhaus mit Pool auf 2.250m² Grundstück in Para",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3395938779"
-  },
   {
    "eur_sqm": 1346,
    "yield": 12.48,
@@ -33,16 +23,6 @@
    "url": "https://www.immowelt.de/expose/bb8232d4-14fc-4f07-86c6-8e6f6fd56f28"
   },
   {
-   "eur_sqm": 1767,
-   "yield": 9.51,
-   "price": 281000,
-   "sqm": 159.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Rentenabsicherung!!",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3470414669"
-  },
-  {
    "eur_sqm": 1864,
    "yield": 9.01,
    "price": 123000,
@@ -61,16 +41,6 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "Vermietete 1,5-Zimmerwohnung zur Kapitalanlage in Frankfurt-",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3464621185"
-  },
-  {
-   "eur_sqm": 1907,
-   "yield": 8.81,
-   "price": 349000,
-   "sqm": 183.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Ein tolles Zuhause - modernisiertes Einfamilienhaus",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3470655522"
   },
   {
    "eur_sqm": 1909,
@@ -121,26 +91,6 @@
    "source": "Immowelt (Mail)",
    "title": "Fachwerkhaus in zentraler Lage von Kronberg für Ka...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDR9ADMAAAAAAJHQGW4zmyvj4uzUiLVYHvK0B_MoZoL4V3Z85-Fu7qajl5t-SuG_A9Ar0yfCiVyMfo-y0TmQZS095p4p6b_ZjzOdMY5F9k9Y5vQB84DQbJd2ZefmJA"
-  },
-  {
-   "eur_sqm": 2312,
-   "yield": 7.27,
-   "price": 121000,
-   "sqm": 52.33,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "2 Zimmer - Wohnung mit Loggia Provisionsfrei - schnell sein!",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3364515050"
-  },
-  {
-   "eur_sqm": 2333,
-   "yield": 7.2,
-   "price": 315000,
-   "sqm": 135.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "DAS Haus zu Ihrem Grundstück",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3468434058"
   },
   {
    "eur_sqm": 2338,
@@ -196,7 +146,7 @@
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
-   "sqm": 252.0,
+   "sqm": 252,
    "district": "Frankfurt am Main",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
@@ -273,6 +223,16 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/2959051090"
   },
   {
+   "eur_sqm": 2554,
+   "yield": 6.58,
+   "price": 475000,
+   "sqm": 186.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Großzügiges Einfamilienhaus mit Garten in ruhiger ...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJM8lkjw6p4OxmEISj6HxsN3kDiPOXauOSogaj6OENnpYr1CMmGoCYuoJ-wJQnXtT2p_EIpJVezL673rWb7Ls-t2O62vBlDBHIN1wNWZNiphLJPdnA"
+  },
+  {
    "eur_sqm": 2584,
    "yield": 6.5,
    "price": 199000,
@@ -301,6 +261,46 @@
    "source": "Immowelt (Mail)",
    "title": "Zweifamilienhaus zur Kernsanierung mit Ausbaureser...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJzu9FKL7ETjkUizKcDo7eyYuu_7ZSUlYh4ghqymlF-9EQi05efMf1fU6eNfLDOWfKR7H5HSzlasySvn_kVrx_ZefSQbqhRNQX-h_YWUqhz5GMUAMA"
+  },
+  {
+   "eur_sqm": 2639,
+   "yield": 6.37,
+   "price": 710000,
+   "sqm": 269.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Kapitalanlage: 3-Familienhaus mit Einliegerwohnung...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJXdY_F-oE_0QSiT5L9aC1pJNLx2tZQmkm-V8JozH-az2B4sRYAqjTQr-lGgS6tiY4gyiV3N3yA4SJfMboevMIdQIy12yOaR8KaTmK7NqKw_Tdxcfg"
+  },
+  {
+   "eur_sqm": 2643,
+   "yield": 6.36,
+   "price": 185000,
+   "sqm": 70.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "4 Zimmer - Wohnung mit Balkon Provisionsfrei - schnell sein!",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3421624840"
+  },
+  {
+   "eur_sqm": 2652,
+   "yield": 6.34,
+   "price": 556870,
+   "sqm": 210.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Gestalten Sie Ihr Traumhaus in Heusenstamm nach Ihren Vorste",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3470337604"
+  },
+  {
+   "eur_sqm": 2672,
+   "yield": 6.29,
+   "price": 1590000,
+   "sqm": 595.0,
+   "district": "Hanau",
+   "source": "Immowelt (Mail)",
+   "title": "HANAU - representative Jugendstilvilla am Stadtkra...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJU5c7o1KxeHXJzhM9NEV0kwV3skqhrjs9rLUM6ZBtyTF1uoELrZOQUBSYxu0LFgcESDFeSgkS4wsXxMS-ofyqgPR07cZ7oos4FR3824kYTZiuQWFg"
   }
  ]
 }
