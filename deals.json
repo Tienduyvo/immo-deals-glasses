@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-30T16:07:32",
+ "generated_at": "2026-07-30T16:59:36",
  "count": 30,
  "deals": [
   {
@@ -273,6 +273,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJzu9FKL7ETjkUizKcDo7eyYuu_7ZSUlYh4ghqymlF-9EQi05efMf1fU6eNfLDOWfKR7H5HSzlasySvn_kVrx_ZefSQbqhRNQX-h_YWUqhz5GMUAMA"
   },
   {
+   "eur_sqm": 2638,
+   "yield": 6.37,
+   "price": 699000,
+   "sqm": 265.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Wohnen mit Aussicht: Großzügiges Splitlevel-Haus m...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTN9ADMAAAAAAJ7k5KUy4R7nkue_iuOInfpnIl4wvwt1XA6RWoCopS0AZxpMdzaWksrDZaKmOw16gLDWDT_nVmOIWUBCdUkYTKJFF6C-Nl2TUjsiwf5XW8CHaFYmZw"
+  },
+  {
    "eur_sqm": 2639,
    "yield": 6.37,
    "price": 710000,
@@ -291,16 +301,6 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "4 Zimmer - Wohnung mit Balkon Provisionsfrei - schnell sein!",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3421624840"
-  },
-  {
-   "eur_sqm": 2652,
-   "yield": 6.34,
-   "price": 556870,
-   "sqm": 210.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Gestalten Sie Ihr Traumhaus in Heusenstamm nach Ihren Vorste",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3470337604"
   }
  ]
 }
