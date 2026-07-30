@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-07-30T08:29:32",
+ "generated_at": "2026-07-30T09:24:21",
  "count": 30,
  "deals": [
+  {
+   "eur_sqm": 956,
+   "yield": 17.57,
+   "price": 239000,
+   "sqm": 250.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Exklusives Naturhaus mit Pool auf 2.250m² Grundstück in Para",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3395938779"
+  },
   {
    "eur_sqm": 1346,
    "yield": 12.48,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Stilvolle Maisonettewohnung mit offenem Wohnbereic...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJP5U2_NePcxPzHUK7RJD_X5t4CZsjcPtCf6vHIVP-vdRxkIYYNe2ie-afJV9bVk_I2PRvUPsfL-cvOMR7y6_GxQbHHnUY0yPTGnkQxGwWD5wqH34g"
-  },
-  {
-   "eur_sqm": 2630,
-   "yield": 6.39,
-   "price": 405000,
-   "sqm": 154.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Zweifamilienhaus zur Kernsanierung mit Ausbaureser...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJzu9FKL7ETjkUizKcDo7eyYuu_7ZSUlYh4ghqymlF-9EQi05efMf1fU6eNfLDOWfKR7H5HSzlasySvn_kVrx_ZefSQbqhRNQX-h_YWUqhz5GMUAMA"
   }
  ]
 }
