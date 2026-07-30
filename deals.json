@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-07-30T08:33:23",
+ "generated_at": "2026-07-30T11:59:48",
  "count": 30,
  "deals": [
+  {
+   "eur_sqm": 956,
+   "yield": 17.57,
+   "price": 239000,
+   "sqm": 250.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Exklusives Naturhaus mit Pool auf 2.250m² Grundstück in Para",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3395938779"
+  },
   {
    "eur_sqm": 1346,
    "yield": 12.48,
@@ -146,7 +156,7 @@
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
-   "sqm": 252,
+   "sqm": 252.0,
    "district": "Frankfurt am Main",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
@@ -221,16 +231,6 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "Doppelhaushälfte mit Garten in gefragter Schwanheimer Wohnla",
    "url": "https://www.kleinanzeigen.de/s-anzeige/2959051090"
-  },
-  {
-   "eur_sqm": 2554,
-   "yield": 6.58,
-   "price": 475000,
-   "sqm": 186.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Großzügiges Einfamilienhaus mit Garten in ruhiger ...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJM8lkjw6p4OxmEISj6HxsN3kDiPOXauOSogaj6OENnpYr1CMmGoCYuoJ-wJQnXtT2p_EIpJVezL673rWb7Ls-t2O62vBlDBHIN1wNWZNiphLJPdnA"
   },
   {
    "eur_sqm": 2584,
