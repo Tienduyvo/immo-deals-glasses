@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-30T13:22:16",
+ "generated_at": "2026-07-30T13:35:52",
  "count": 30,
  "deals": [
   {
@@ -91,6 +91,16 @@
    "source": "Immowelt (Mail)",
    "title": "Eigennutzung und Mieteinnahmen perfekt kombiniert",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJX2qM1Rx1pWRuhCJB45kKPKMUwSNBb_wS0w_VMr1LqoNg9N_qGT8GG583nghJMHlCiqQUKZumZqqhOvydSClN7eOt7iTRQYqYbLVPNHhd73Xbd7WA"
+  },
+  {
+   "eur_sqm": 2227,
+   "yield": 7.55,
+   "price": 570000,
+   "sqm": 256.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Zentral & ruhig: Gepflegtes Wohn- und Geschäftshau...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTN9ADMAAAAAAJ5V-PkDiaH8rqPAHRE8S-nsGoe4rKAtYeOS9ulPf1H5d8PK4jzFrl_m3K8to3v4nm4A_tUEnKxYKkwKiT11H-Oh6Hg-i_JTSjHGT5fynvoGqRcOyg"
   },
   {
    "eur_sqm": 2283,
@@ -291,16 +301,6 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "Gestalten Sie Ihr Traumhaus in Heusenstamm nach Ihren Vorste",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3470337604"
-  },
-  {
-   "eur_sqm": 2672,
-   "yield": 6.29,
-   "price": 1590000,
-   "sqm": 595.0,
-   "district": "Hanau",
-   "source": "Immowelt (Mail)",
-   "title": "HANAU - representative Jugendstilvilla am Stadtkra...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJU5c7o1KxeHXJzhM9NEV0kwV3skqhrjs9rLUM6ZBtyTF1uoELrZOQUBSYxu0LFgcESDFeSgkS4wsXxMS-ofyqgPR07cZ7oos4FR3824kYTZiuQWFg"
   }
  ]
 }
