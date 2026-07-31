@@ -1,17 +1,7 @@
 {
- "generated_at": "2026-07-31T08:35:09",
+ "generated_at": "2026-07-31T08:59:09",
  "count": 30,
  "deals": [
-  {
-   "eur_sqm": 956,
-   "yield": 17.57,
-   "price": 239000,
-   "sqm": 250.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Exklusives Naturhaus mit Pool auf 2.250m² Grundstück in Para",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3395938779"
-  },
   {
    "eur_sqm": 1346,
    "yield": 12.48,
@@ -301,6 +291,16 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "4 Zimmer - Wohnung mit Balkon Provisionsfrei - schnell sein!",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3421624840"
+  },
+  {
+   "eur_sqm": 2652,
+   "yield": 6.34,
+   "price": 556870,
+   "sqm": 210.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Gestalten Sie Ihr Traumhaus in Heusenstamm nach Ihren Vorste",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3470337604"
   }
  ]
 }
