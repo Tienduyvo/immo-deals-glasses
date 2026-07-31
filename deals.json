@@ -1,17 +1,7 @@
 {
- "generated_at": "2026-07-31T10:57:21",
+ "generated_at": "2026-07-31T08:33:28",
  "count": 30,
  "deals": [
-  {
-   "eur_sqm": 1097,
-   "yield": 15.32,
-   "price": 590000,
-   "sqm": 538.0,
-   "district": "Rödermark",
-   "source": "ZVG",
-   "title": "Mehrfamilienhaus : Donaustr. 21, 63322 Rödermark, Ober-Roden",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54911&land_abk=he"
-  },
   {
    "eur_sqm": 1346,
    "yield": 12.48,
@@ -103,26 +93,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTN9ADMAAAAAAJ5V-PkDiaH8rqPAHRE8S-nsGoe4rKAtYeOS9ulPf1H5d8PK4jzFrl_m3K8to3v4nm4A_tUEnKxYKkwKiT11H-Oh6Hg-i_JTSjHGT5fynvoGqRcOyg"
   },
   {
-   "eur_sqm": 2246,
-   "yield": 7.48,
-   "price": 300000,
-   "sqm": 133.55,
-   "district": "Hammersbach",
-   "source": "ZVG",
-   "title": "Reihenhaus : Mittelstraße 19a, 63546 Hammersbach, Langenberg",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54927&land_abk=he"
-  },
-  {
-   "eur_sqm": 2283,
-   "yield": 7.36,
-   "price": 290000,
-   "sqm": 127.0,
-   "district": "Kronberg",
-   "source": "Immowelt (Mail)",
-   "title": "Fachwerkhaus in zentraler Lage von Kronberg für Ka...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDR9ADMAAAAAAJHQGW4zmyvj4uzUiLVYHvK0B_MoZoL4V3Z85-Fu7qajl5t-SuG_A9Ar0yfCiVyMfo-y0TmQZS095p4p6b_ZjzOdMY5F9k9Y5vQB84DQbJd2ZefmJA"
-  },
-  {
    "eur_sqm": 2338,
    "yield": 7.19,
    "price": 339000,
@@ -176,21 +146,11 @@
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
-   "sqm": 252.0,
+   "sqm": 252,
    "district": "Frankfurt am Main",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
-  },
-  {
-   "eur_sqm": 2426,
-   "yield": 6.92,
-   "price": 165000,
-   "sqm": 68.0,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Gepflegte 2-Zimmer-Wohnung mit Balkon in ansprechender Lage ",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3178989825"
   },
   {
    "eur_sqm": 2429,
@@ -267,7 +227,7 @@
    "yield": 6.6,
    "price": 960000,
    "sqm": 377.16,
-   "district": "Hessen",
+   "district": "Frankfurt (unspez.)",
    "source": "Kleinanzeigen (Mail)",
    "title": "VIER EINZUGSFERTIGE WOHNEINHEITEN auf IHREM GRUNDSTÜCK",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3053477573"
@@ -301,6 +261,46 @@
    "source": "Immowelt (Mail)",
    "title": "Zweifamilienhaus zur Kernsanierung mit Ausbaureser...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJzu9FKL7ETjkUizKcDo7eyYuu_7ZSUlYh4ghqymlF-9EQi05efMf1fU6eNfLDOWfKR7H5HSzlasySvn_kVrx_ZefSQbqhRNQX-h_YWUqhz5GMUAMA"
+  },
+  {
+   "eur_sqm": 2638,
+   "yield": 6.37,
+   "price": 699000,
+   "sqm": 265.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Wohnen mit Aussicht: Großzügiges Splitlevel-Haus m...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTN9ADMAAAAAAJ7k5KUy4R7nkue_iuOInfpnIl4wvwt1XA6RWoCopS0AZxpMdzaWksrDZaKmOw16gLDWDT_nVmOIWUBCdUkYTKJFF6C-Nl2TUjsiwf5XW8CHaFYmZw"
+  },
+  {
+   "eur_sqm": 2639,
+   "yield": 6.37,
+   "price": 710000,
+   "sqm": 269.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Kapitalanlage: 3-Familienhaus mit Einliegerwohnung...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJXdY_F-oE_0QSiT5L9aC1pJNLx2tZQmkm-V8JozH-az2B4sRYAqjTQr-lGgS6tiY4gyiV3N3yA4SJfMboevMIdQIy12yOaR8KaTmK7NqKw_Tdxcfg"
+  },
+  {
+   "eur_sqm": 2643,
+   "yield": 6.36,
+   "price": 185000,
+   "sqm": 70.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "4 Zimmer - Wohnung mit Balkon Provisionsfrei - schnell sein!",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3421624840"
+  },
+  {
+   "eur_sqm": 2652,
+   "yield": 6.34,
+   "price": 556870,
+   "sqm": 210.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Gestalten Sie Ihr Traumhaus in Heusenstamm nach Ihren Vorste",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3470337604"
   }
  ]
 }
