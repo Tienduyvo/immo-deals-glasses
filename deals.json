@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-07-31T08:33:28",
+ "generated_at": "2026-07-31T11:05:23",
  "count": 30,
  "deals": [
+  {
+   "eur_sqm": 1097,
+   "yield": 15.32,
+   "price": 590000,
+   "sqm": 538.0,
+   "district": "Rödermark",
+   "source": "ZVG",
+   "title": "Mehrfamilienhaus : Donaustr. 21, 63322 Rödermark, Ober-Roden",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54911&land_abk=he"
+  },
   {
    "eur_sqm": 1346,
    "yield": 12.48,
@@ -146,11 +156,21 @@
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
-   "sqm": 252,
+   "sqm": 252.0,
    "district": "Frankfurt am Main",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
+  },
+  {
+   "eur_sqm": 2426,
+   "yield": 6.92,
+   "price": 165000,
+   "sqm": 68.0,
+   "district": "Hessen",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Gepflegte 2-Zimmer-Wohnung mit Balkon in ansprechender Lage ",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3178989825"
   },
   {
    "eur_sqm": 2429,
@@ -281,26 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Kapitalanlage: 3-Familienhaus mit Einliegerwohnung...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJXdY_F-oE_0QSiT5L9aC1pJNLx2tZQmkm-V8JozH-az2B4sRYAqjTQr-lGgS6tiY4gyiV3N3yA4SJfMboevMIdQIy12yOaR8KaTmK7NqKw_Tdxcfg"
-  },
-  {
-   "eur_sqm": 2643,
-   "yield": 6.36,
-   "price": 185000,
-   "sqm": 70.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "4 Zimmer - Wohnung mit Balkon Provisionsfrei - schnell sein!",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3421624840"
-  },
-  {
-   "eur_sqm": 2652,
-   "yield": 6.34,
-   "price": 556870,
-   "sqm": 210.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Gestalten Sie Ihr Traumhaus in Heusenstamm nach Ihren Vorste",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3470337604"
   }
  ]
 }
