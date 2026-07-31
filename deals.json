@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-07-31T10:27:53",
+ "generated_at": "2026-07-31T10:36:03",
  "count": 30,
  "deals": [
+  {
+   "eur_sqm": 1097,
+   "yield": 15.32,
+   "price": 590000,
+   "sqm": 538.0,
+   "district": "Rödermark",
+   "source": "ZVG",
+   "title": "Mehrfamilienhaus : Donaustr. 21, 63322 Rödermark, Ober-Roden",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54911&land_abk=he"
+  },
   {
    "eur_sqm": 1346,
    "yield": 12.48,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Zweifamilienhaus zur Kernsanierung mit Ausbaureser...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJzu9FKL7ETjkUizKcDo7eyYuu_7ZSUlYh4ghqymlF-9EQi05efMf1fU6eNfLDOWfKR7H5HSzlasySvn_kVrx_ZefSQbqhRNQX-h_YWUqhz5GMUAMA"
-  },
-  {
-   "eur_sqm": 2638,
-   "yield": 6.37,
-   "price": 699000,
-   "sqm": 265.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Wohnen mit Aussicht: Großzügiges Splitlevel-Haus m...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTN9ADMAAAAAAJ7k5KUy4R7nkue_iuOInfpnIl4wvwt1XA6RWoCopS0AZxpMdzaWksrDZaKmOw16gLDWDT_nVmOIWUBCdUkYTKJFF6C-Nl2TUjsiwf5XW8CHaFYmZw"
   }
  ]
 }
