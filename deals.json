@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-31T09:18:05",
+ "generated_at": "2026-07-31T09:18:52",
  "count": 30,
  "deals": [
   {
@@ -91,6 +91,16 @@
    "source": "Immowelt (Mail)",
    "title": "Zentral & ruhig: Gepflegtes Wohn- und Geschäftshau...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTN9ADMAAAAAAJ5V-PkDiaH8rqPAHRE8S-nsGoe4rKAtYeOS9ulPf1H5d8PK4jzFrl_m3K8to3v4nm4A_tUEnKxYKkwKiT11H-Oh6Hg-i_JTSjHGT5fynvoGqRcOyg"
+  },
+  {
+   "eur_sqm": 2246,
+   "yield": 7.48,
+   "price": 300000,
+   "sqm": 133.55,
+   "district": "Hammersbach",
+   "source": "ZVG",
+   "title": "Reihenhaus : Mittelstraße 19a, 63546 Hammersbach, Langenberg",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54927&land_abk=he"
   },
   {
    "eur_sqm": 2283,
@@ -291,16 +301,6 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "4 Zimmer - Wohnung mit Balkon Provisionsfrei - schnell sein!",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3421624840"
-  },
-  {
-   "eur_sqm": 2652,
-   "yield": 6.34,
-   "price": 556870,
-   "sqm": 210.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Gestalten Sie Ihr Traumhaus in Heusenstamm nach Ihren Vorste",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3470337604"
   }
  ]
 }
