@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-01T11:39:42",
+ "generated_at": "2026-08-01T17:17:40",
  "count": 30,
  "deals": [
   {
@@ -21,16 +21,6 @@
    "source": "Immowelt (Mail)",
    "title": "Sanierungsobjekt mit Potenzial in Offenbach: 3 Ein...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJxjZtQdLeBw7FcHKQq9AxKERleqWPU2Z9ppUPVziRaaocUH3FVnEvPSmKWd10pExIz4c3pegJqNHn_27ORsgx_BMWUpL0TEvp2u43RJ7BEkdalpPw"
-  },
-  {
-   "eur_sqm": 1597,
-   "yield": 10.52,
-   "price": 479000,
-   "sqm": 300.0,
-   "district": "Niddatal",
-   "source": "Immowelt (Mail)",
-   "title": "Gepflegtes Mehrfamilienhaus in Kaichen!",
-   "url": "https://www.immowelt.de/expose/bb8232d4-14fc-4f07-86c6-8e6f6fd56f28"
   },
   {
    "eur_sqm": 1724,
@@ -91,16 +81,6 @@
    "source": "Immowelt (Mail)",
    "title": "Viel Platz für Familie & Beruf: Fachwerkhaus mit E...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJzTSFCwLX7VCDj0pdNscngSTGxxLKA9RYIvPsso5mQWuKhR26qrIQKQa0Zas-hxXowImwco549Q-CXBV1Mq5LUbfwEa93H1Lrd5tf2AnsuuklzDjA"
-  },
-  {
-   "eur_sqm": 2128,
-   "yield": 7.9,
-   "price": 100000,
-   "sqm": 47.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Leerstehend: Top gepflegte",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJtlorx1WPr4vBkYbCk8M7fFzNwbnUsbG4eaQ4ZDcEgtEATrsJZw7VfFseg2etYZojvzSIuUJHGdhpaffm9Lkcr6N6qtVo_c0GZFpDgABSY73WbsJA"
   },
   {
    "eur_sqm": 2203,
@@ -301,6 +281,26 @@
    "source": "Immowelt (Mail)",
    "title": "Terrassenwohnung mit 2 Parkplätzen",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJpnTy8FiiB_9xOTwjqStK7xVbkyO1gkStOhg_YLP1unn3N7EzigFil40_-CjshU9381A5E_awxZts3UYpuCcYGBT7eA5BE279qRLQzI4Qh2-5PB5w"
+  },
+  {
+   "eur_sqm": 2602,
+   "yield": 6.46,
+   "price": 320000,
+   "sqm": 123.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Stilvolle Maisonettewohnung mit offenem Wohnbereic...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJP5U2_NePcxPzHUK7RJD_X5t4CZsjcPtCf6vHIVP-vdRxkIYYNe2ie-afJV9bVk_I2PRvUPsfL-cvOMR7y6_GxQbHHnUY0yPTGnkQxGwWD5wqH34g"
+  },
+  {
+   "eur_sqm": 2630,
+   "yield": 6.39,
+   "price": 405000,
+   "sqm": 154.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Zweifamilienhaus zur Kernsanierung mit Ausbaureser...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJzu9FKL7ETjkUizKcDo7eyYuu_7ZSUlYh4ghqymlF-9EQi05efMf1fU6eNfLDOWfKR7H5HSzlasySvn_kVrx_ZefSQbqhRNQX-h_YWUqhz5GMUAMA"
   }
  ]
 }
