@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-31T11:05:23",
+ "generated_at": "2026-08-01T08:35:53",
  "count": 30,
  "deals": [
   {
@@ -31,6 +31,26 @@
    "source": "Immowelt (Mail)",
    "title": "Gepflegtes Mehrfamilienhaus in Kaichen!",
    "url": "https://www.immowelt.de/expose/bb8232d4-14fc-4f07-86c6-8e6f6fd56f28"
+  },
+  {
+   "eur_sqm": 1724,
+   "yield": 9.74,
+   "price": 100000,
+   "sqm": 58.0,
+   "district": "",
+   "source": "Immowelt (Mail)",
+   "title": "Top Kapitalanlage: Gut vermietete",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAKAuxNq-Y-pJHeQ4mny7INpaKOZ9ggOZiNmNqvZND8zuisVlVRjmO8mQc8uDlwAg8h0Cld3Klbl3tLp2LB3BX2HvihkICASDZUZgoxXokiiWoPy5UQ"
+  },
+  {
+   "eur_sqm": 1805,
+   "yield": 9.31,
+   "price": 379000,
+   "sqm": 210.0,
+   "district": "",
+   "source": "Immowelt (Mail)",
+   "title": "Stilvoll wohnen im Fachwerk: Einfamilienhaus mit W...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAJ7a2gUe0UvUU3KmRVDjNDf5KG2y3Wls4sl6jvui-ZDhlbeL7WhazdmrW0-_w4tmRcuWcsQvLN0oKDYAVz3xi3bzvSrKRx9hF6OUJnvGcMWZcEIBdg"
   },
   {
    "eur_sqm": 1864,
@@ -101,6 +121,16 @@
    "source": "Immowelt (Mail)",
    "title": "Zentral & ruhig: Gepflegtes Wohn- und Geschäftshau...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTN9ADMAAAAAAJ5V-PkDiaH8rqPAHRE8S-nsGoe4rKAtYeOS9ulPf1H5d8PK4jzFrl_m3K8to3v4nm4A_tUEnKxYKkwKiT11H-Oh6Hg-i_JTSjHGT5fynvoGqRcOyg"
+  },
+  {
+   "eur_sqm": 2297,
+   "yield": 7.32,
+   "price": 395000,
+   "sqm": 172.0,
+   "district": "",
+   "source": "Immowelt (Mail)",
+   "title": "Moderner, individuell geplanter Bungalow in Bad Vi...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAKEG_CdXayscK-s4sRxTIomH9itluGp5Zm3t-LNldz6rGBtZaAboXrir5S-tuJVze-Q8ggkOF3lNjCje9YiFFv1Z0z6u1jK8uTMVy4y92HKe9tehcw"
   },
   {
    "eur_sqm": 2338,
@@ -193,6 +223,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJcAW6h3DNp4qD-iAkXqbZOvb_4YPQOAWjTiF5GXpEvt9SdeLbaOV-b6aqJBtXEOc9KTzTqLgZQEMOMbUpu28Kb-amvy-1E9ettfEriR1M2EeyfeXQ"
   },
   {
+   "eur_sqm": 2446,
+   "yield": 6.87,
+   "price": 159000,
+   "sqm": 65.0,
+   "district": "",
+   "source": "Immowelt (Mail)",
+   "title": "Licht, Ruhe und Komfort: Attraktive",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAKAuxNq4wXXdTNPF1C1Z_BnUKi_Xes_YUn3P0ShSIveUUb0r7Qrx2pbxAOc3x1qHjDqFvAfiTbtG4HvXxULZ1al5x3pGx9NCkhGvB4_azRr1-D9iAA"
+  },
+  {
    "eur_sqm": 2468,
    "yield": 6.81,
    "price": 195000,
@@ -261,46 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Terrassenwohnung mit 2 Parkplätzen",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJpnTy8FiiB_9xOTwjqStK7xVbkyO1gkStOhg_YLP1unn3N7EzigFil40_-CjshU9381A5E_awxZts3UYpuCcYGBT7eA5BE279qRLQzI4Qh2-5PB5w"
-  },
-  {
-   "eur_sqm": 2602,
-   "yield": 6.46,
-   "price": 320000,
-   "sqm": 123.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Stilvolle Maisonettewohnung mit offenem Wohnbereic...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJP5U2_NePcxPzHUK7RJD_X5t4CZsjcPtCf6vHIVP-vdRxkIYYNe2ie-afJV9bVk_I2PRvUPsfL-cvOMR7y6_GxQbHHnUY0yPTGnkQxGwWD5wqH34g"
-  },
-  {
-   "eur_sqm": 2630,
-   "yield": 6.39,
-   "price": 405000,
-   "sqm": 154.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Zweifamilienhaus zur Kernsanierung mit Ausbaureser...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJzu9FKL7ETjkUizKcDo7eyYuu_7ZSUlYh4ghqymlF-9EQi05efMf1fU6eNfLDOWfKR7H5HSzlasySvn_kVrx_ZefSQbqhRNQX-h_YWUqhz5GMUAMA"
-  },
-  {
-   "eur_sqm": 2638,
-   "yield": 6.37,
-   "price": 699000,
-   "sqm": 265.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Wohnen mit Aussicht: Großzügiges Splitlevel-Haus m...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTN9ADMAAAAAAJ7k5KUy4R7nkue_iuOInfpnIl4wvwt1XA6RWoCopS0AZxpMdzaWksrDZaKmOw16gLDWDT_nVmOIWUBCdUkYTKJFF6C-Nl2TUjsiwf5XW8CHaFYmZw"
-  },
-  {
-   "eur_sqm": 2639,
-   "yield": 6.37,
-   "price": 710000,
-   "sqm": 269.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Kapitalanlage: 3-Familienhaus mit Einliegerwohnung...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJXdY_F-oE_0QSiT5L9aC1pJNLx2tZQmkm-V8JozH-az2B4sRYAqjTQr-lGgS6tiY4gyiV3N3yA4SJfMboevMIdQIy12yOaR8KaTmK7NqKw_Tdxcfg"
   }
  ]
 }
