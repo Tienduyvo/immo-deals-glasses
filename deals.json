@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-02T08:35:30",
+ "generated_at": "2026-08-03T08:36:02",
  "count": 30,
  "deals": [
   {
@@ -81,6 +81,16 @@
    "source": "Immowelt (Mail)",
    "title": "Viel Platz für Familie & Beruf: Fachwerkhaus mit E...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJzTSFCwLX7VCDj0pdNscngSTGxxLKA9RYIvPsso5mQWuKhR26qrIQKQa0Zas-hxXowImwco549Q-CXBV1Mq5LUbfwEa93H1Lrd5tf2AnsuuklzDjA"
+  },
+  {
+   "eur_sqm": 2097,
+   "yield": 8.01,
+   "price": 130000,
+   "sqm": 62.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Mehr als nur Beton und Ziegel - Ihre Geldanlage mi...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKKX3S3vLUwajQuUUr1a1x4t2wyP-xHVsa24rEQehHoCpMeOxrUwHNlYO7OHaHniZ8XAuqzP3a1_3B9byuJvyGp2Kaf9lfDkQGxvF8tKnEAMGKHkJQ"
   },
   {
    "eur_sqm": 2203,
@@ -166,7 +176,7 @@
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
-   "sqm": 252,
+   "sqm": 252.0,
    "district": "Frankfurt am Main",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
@@ -273,6 +283,16 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/3053477573"
   },
   {
+   "eur_sqm": 2582,
+   "yield": 6.51,
+   "price": 470000,
+   "sqm": 182.0,
+   "district": "Rodgau",
+   "source": "Immowelt (Mail)",
+   "title": "***Viel Platz in zentraler Lage von Rodgau Jügeshe...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKKM6xoyH1N3ZLWa-lsbv17vkfDG6aBrlAzwgnpr8kUInzpQNNvAZ7UkObDu1GHcDWeeB4oHUOB13vY26VJ6O9pIA_FYYd-YxnZcFiS-lMqtXxIqtw"
+  },
+  {
    "eur_sqm": 2584,
    "yield": 6.5,
    "price": 199000,
@@ -281,26 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Terrassenwohnung mit 2 Parkplätzen",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJpnTy8FiiB_9xOTwjqStK7xVbkyO1gkStOhg_YLP1unn3N7EzigFil40_-CjshU9381A5E_awxZts3UYpuCcYGBT7eA5BE279qRLQzI4Qh2-5PB5w"
-  },
-  {
-   "eur_sqm": 2602,
-   "yield": 6.46,
-   "price": 320000,
-   "sqm": 123.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Stilvolle Maisonettewohnung mit offenem Wohnbereic...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJP5U2_NePcxPzHUK7RJD_X5t4CZsjcPtCf6vHIVP-vdRxkIYYNe2ie-afJV9bVk_I2PRvUPsfL-cvOMR7y6_GxQbHHnUY0yPTGnkQxGwWD5wqH34g"
-  },
-  {
-   "eur_sqm": 2630,
-   "yield": 6.39,
-   "price": 405000,
-   "sqm": 154.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Zweifamilienhaus zur Kernsanierung mit Ausbaureser...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJzu9FKL7ETjkUizKcDo7eyYuu_7ZSUlYh4ghqymlF-9EQi05efMf1fU6eNfLDOWfKR7H5HSzlasySvn_kVrx_ZefSQbqhRNQX-h_YWUqhz5GMUAMA"
   }
  ]
 }
