@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-03T08:33:17",
+ "generated_at": "2026-08-03T16:55:18",
  "count": 30,
  "deals": [
   {
@@ -83,6 +83,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJzTSFCwLX7VCDj0pdNscngSTGxxLKA9RYIvPsso5mQWuKhR26qrIQKQa0Zas-hxXowImwco549Q-CXBV1Mq5LUbfwEa93H1Lrd5tf2AnsuuklzDjA"
   },
   {
+   "eur_sqm": 2097,
+   "yield": 8.01,
+   "price": 130000,
+   "sqm": 62.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Mehr als nur Beton und Ziegel - Ihre Geldanlage mi...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKKX3S3vLUwajQuUUr1a1x4t2wyP-xHVsa24rEQehHoCpMeOxrUwHNlYO7OHaHniZ8XAuqzP3a1_3B9byuJvyGp2Kaf9lfDkQGxvF8tKnEAMGKHkJQ"
+  },
+  {
    "eur_sqm": 2203,
    "yield": 7.62,
    "price": 650000,
@@ -111,6 +121,16 @@
    "source": "Immowelt (Mail)",
    "title": "Moderner, individuell geplanter Bungalow in Bad Vi...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAKEG_CdXayscK-s4sRxTIomH9itluGp5Zm3t-LNldz6rGBtZaAboXrir5S-tuJVze-Q8ggkOF3lNjCje9YiFFv1Z0z6u1jK8uTMVy4y92HKe9tehcw"
+  },
+  {
+   "eur_sqm": 2300,
+   "yield": 7.31,
+   "price": 998000,
+   "sqm": 434.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "+OF-Bieber+Mehrgenerationenwohnen:5 Whng.(2-3Zi),a...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTd9ADMAAAAAAKNy4Rqcbtr4CoPGVP7NmaxEksS_8Ws-pIxcTpgdLihjkJiqTwqAk14g37yBZzTWTFwDey6Uqrx28tS6lWz7RACJeYY4HOsZHWCWn1yEvlBuqKxXgg"
   },
   {
    "eur_sqm": 2338,
@@ -166,11 +186,21 @@
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
-   "sqm": 252,
+   "sqm": 252.0,
    "district": "Frankfurt am Main",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
+  },
+  {
+   "eur_sqm": 2402,
+   "yield": 6.99,
+   "price": 579000,
+   "sqm": 241.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Einfamilienhaus mit ELW + genehmigter Gewerbefläch...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTd9ADMAAAAAAKN4yLm3WLmXgcMTpwaYza7LPsPTjidZVaLnPsh-X5MEFYT-e73E_jOtHiAVXFnaw8yCWlX26XVKLyArfBN2SSQvw9ODZOkjN6keHqzMXcx118EW1w"
   },
   {
    "eur_sqm": 2426,
@@ -243,6 +273,16 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/3465670433"
   },
   {
+   "eur_sqm": 2500,
+   "yield": 6.72,
+   "price": 240000,
+   "sqm": 96.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Investieren mit Weitblick:",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTd9ADMAAAAAAKPX8enDFbgNDck1d84bMgYyRexpESQ9uyF9Gnj83I4Pf-uWkdlbGVKyyX05W5bFpNfE5V9siAM5UyeOW-MhfoEkE0rDUw1qWg6weHen5NNI_ax9Uw"
+  },
+  {
    "eur_sqm": 2506,
    "yield": 6.7,
    "price": 599000,
@@ -261,46 +301,6 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "Vermietete 2-Zimmerwohnung in Frankfurt-Griesheim",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3468354353"
-  },
-  {
-   "eur_sqm": 2527,
-   "yield": 6.65,
-   "price": 369000,
-   "sqm": 146.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Doppelhaushälfte mit Garten in gefragter Schwanheimer Wohnla",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/2959051090"
-  },
-  {
-   "eur_sqm": 2545,
-   "yield": 6.6,
-   "price": 960000,
-   "sqm": 377.16,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "VIER EINZUGSFERTIGE WOHNEINHEITEN auf IHREM GRUNDSTÜCK",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3053477573"
-  },
-  {
-   "eur_sqm": 2584,
-   "yield": 6.5,
-   "price": 199000,
-   "sqm": 77.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Terrassenwohnung mit 2 Parkplätzen",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJpnTy8FiiB_9xOTwjqStK7xVbkyO1gkStOhg_YLP1unn3N7EzigFil40_-CjshU9381A5E_awxZts3UYpuCcYGBT7eA5BE279qRLQzI4Qh2-5PB5w"
-  },
-  {
-   "eur_sqm": 2602,
-   "yield": 6.46,
-   "price": 320000,
-   "sqm": 123.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Stilvolle Maisonettewohnung mit offenem Wohnbereic...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJP5U2_NePcxPzHUK7RJD_X5t4CZsjcPtCf6vHIVP-vdRxkIYYNe2ie-afJV9bVk_I2PRvUPsfL-cvOMR7y6_GxQbHHnUY0yPTGnkQxGwWD5wqH34g"
   }
  ]
 }
