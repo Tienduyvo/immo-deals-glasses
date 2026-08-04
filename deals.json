@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-04T20:00:30",
+ "generated_at": "2026-08-04T20:56:25",
  "count": 30,
  "deals": [
   {
@@ -131,6 +131,16 @@
    "source": "Immowelt (Mail)",
    "title": "Top Kapitalanlage: 2 Häuser auf einem Grundstück m...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKVk7gEWmnzgJ2_HyGWx7YHXN6EFF5sW4ElSc_pQ7ehUXkvA63THi5hM0iNqIZ960MD6GmXYNmxFd1j1p_fM2Oiw5I7MfI3C9hVoMS_9FWkTrS3bkQ"
+  },
+  {
+   "eur_sqm": 2055,
+   "yield": 8.18,
+   "price": 150000,
+   "sqm": 73.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Zuhause über den Dächern!",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKY1C_G_jFZOPw6S3zStvn7pq27QDZE5aCDLKHReuImEnWlqmr7vDixTyJ2UbPjHfMjclzxAz60g1R3R6cqe--fQTRa1LWUszKEznx-B_w8msXUeBQ"
   },
   {
    "eur_sqm": 2097,
@@ -291,16 +301,6 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "Gepflegte 2-Zimmer-Wohnung mit Balkon in ansprechender Lage ",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3178989825"
-  },
-  {
-   "eur_sqm": 2429,
-   "yield": 6.92,
-   "price": 459000,
-   "sqm": 189.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Zweifamilienhaus mit 2 Balkonen, Garten, Keller, G...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJzBWM9Gg2MTDa_nmRCha4ZMi8_uaG_xaOrKEFp5zPZxkvvNE4AqN_byrMHyNTbz321LoLVrgxc-_bt2xcKoN0yGTtAojU8SNNpSpN2Kp7gDPxBldw"
   }
  ]
 }
