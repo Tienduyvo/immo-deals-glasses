@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-04T08:19:55",
+ "generated_at": "2026-08-04T08:35:05",
  "count": 30,
  "deals": [
   {
@@ -183,6 +183,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJZtgQKcE_ulfCjDJHPwOZN1NHWiiMq2LJl3-OPcRNsBK6MlP1ml8U8OOzoUcra2IQ3jETN1wD-pkHpPIum50ONn1BX-jnlpoeP7qF1LKAO4AuH_Lw"
   },
   {
+   "eur_sqm": 2375,
+   "yield": 7.07,
+   "price": 190000,
+   "sqm": 80.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Zentral gelegene",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKSVOoSxBTK87tldwICNZ7bMQV_HP3YtkBsIeqZeVVqk44F5j_qAzF73ABtyD7Ch_3nTV_tyGwLjphwNfRnTDFYcGqwGL0hwRFxQprXvM2JFKwcGng"
+  },
+  {
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
@@ -291,16 +301,6 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "Schönes May-Reihenmittelhaus nach Sanierung in Praunheim",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3424311557"
-  },
-  {
-   "eur_sqm": 2526,
-   "yield": 6.65,
-   "price": 240000,
-   "sqm": 95.0,
-   "district": "Griesheim",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Vermietete 2-Zimmerwohnung in Frankfurt-Griesheim",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3468354353"
   }
  ]
 }
