@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-04T11:13:01",
+ "generated_at": "2026-08-04T11:26:01",
  "count": 30,
  "deals": [
   {
@@ -41,6 +41,16 @@
    "source": "Immowelt (Mail)",
    "title": "Sanierungsobjekt mit Potenzial in Offenbach: 3 Ein...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJxjZtQdLeBw7FcHKQq9AxKERleqWPU2Z9ppUPVziRaaocUH3FVnEvPSmKWd10pExIz4c3pegJqNHn_27ORsgx_BMWUpL0TEvp2u43RJ7BEkdalpPw"
+  },
+  {
+   "eur_sqm": 1633,
+   "yield": 10.29,
+   "price": 209000,
+   "sqm": 128.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Haus mit Geschichte - Juwel im Ortskern mit große...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKUVlRmUqVlIGEF6xs9UthPwtl_ZrZJ0noApjJu2R-Lwro9u1ZL0b31-EZDysB-NlFIBixvVeifj1S06Azg26Bc5QUiHBiKHc-LyK9f5DuIg38VRHQ"
   },
   {
    "eur_sqm": 1724,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Licht, Ruhe und Komfort: Attraktive",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAKAuxNq4wXXdTNPF1C1Z_BnUKi_Xes_YUn3P0ShSIveUUb0r7Qrx2pbxAOc3x1qHjDqFvAfiTbtG4HvXxULZ1al5x3pGx9NCkhGvB4_azRr1-D9iAA"
-  },
-  {
-   "eur_sqm": 2468,
-   "yield": 6.81,
-   "price": 195000,
-   "sqm": 79.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Eigentumswohnung",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3464281396"
   }
  ]
 }
