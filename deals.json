@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-04T10:22:05",
+ "generated_at": "2026-08-04T08:36:13",
  "count": 30,
  "deals": [
   {
@@ -11,6 +11,26 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Donaustr. 21, 63322 Rödermark, Ober-Roden",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54911&land_abk=he"
+  },
+  {
+   "eur_sqm": 1137,
+   "yield": 14.78,
+   "price": 307000,
+   "sqm": 270.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Das Haus zu Ihrem Grundstück",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3425071585"
+  },
+  {
+   "eur_sqm": 1221,
+   "yield": 13.76,
+   "price": 94000,
+   "sqm": 77.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Ohne Makler 4 Zimmer - Wohnung mit Loggia",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3106123364"
   },
   {
    "eur_sqm": 1346,
@@ -73,6 +93,16 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/3442962187"
   },
   {
+   "eur_sqm": 1981,
+   "yield": 8.48,
+   "price": 309000,
+   "sqm": 156.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Einzugfertiges Einfamilienhaus zum Vorteilspreis - auf Ihrem",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3474507431"
+  },
+  {
    "eur_sqm": 1996,
    "yield": 8.42,
    "price": 459000,
@@ -91,6 +121,16 @@
    "source": "Immowelt (Mail)",
    "title": "Mehr als nur Beton und Ziegel - Ihre Geldanlage mi...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKKX3S3vLUwajQuUUr1a1x4t2wyP-xHVsa24rEQehHoCpMeOxrUwHNlYO7OHaHniZ8XAuqzP3a1_3B9byuJvyGp2Kaf9lfDkQGxvF8tKnEAMGKHkJQ"
+  },
+  {
+   "eur_sqm": 2176,
+   "yield": 7.72,
+   "price": 185000,
+   "sqm": 85.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Zwei gepflegte Büroeinheiten im Leerstand",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3475277048"
   },
   {
    "eur_sqm": 2203,
@@ -196,7 +236,7 @@
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
-   "sqm": 252.0,
+   "sqm": 252,
    "district": "Frankfurt am Main",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
@@ -261,46 +301,6 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "Eigentumswohnung",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3464281396"
-  },
-  {
-   "eur_sqm": 2492,
-   "yield": 6.74,
-   "price": 1049000,
-   "sqm": 421.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Fünffamilienhaus ohne Mieter in Mainnähe",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJcRhmD-7bY5txRHc5IgTUDLvv0EUhu9L7wYW87qe9n3F3WiMcI-eqvWiFIpLB6-YtjeyxBxt7zFcnWzCAXyxaQy-CGw5Y4YijbLPs1N8xzRpLD67w"
-  },
-  {
-   "eur_sqm": 2500,
-   "yield": 6.72,
-   "price": 750000,
-   "sqm": 300.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "BAUPROJEKT 4 x DHH FREI IN BEEGEHRTER LAGE - KLARE LINIEN, O",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3465670433"
-  },
-  {
-   "eur_sqm": 2500,
-   "yield": 6.72,
-   "price": 240000,
-   "sqm": 96.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Investieren mit Weitblick:",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTd9ADMAAAAAAKPX8enDFbgNDck1d84bMgYyRexpESQ9uyF9Gnj83I4Pf-uWkdlbGVKyyX05W5bFpNfE5V9siAM5UyeOW-MhfoEkE0rDUw1qWg6weHen5NNI_ax9Uw"
-  },
-  {
-   "eur_sqm": 2506,
-   "yield": 6.7,
-   "price": 599000,
-   "sqm": 239.0,
-   "district": "Praunheim",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Schönes May-Reihenmittelhaus nach Sanierung in Praunheim",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3424311557"
   }
  ]
 }
