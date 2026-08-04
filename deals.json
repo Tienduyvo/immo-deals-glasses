@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-04T08:36:13",
+ "generated_at": "2026-08-04T11:13:01",
  "count": 30,
  "deals": [
   {
@@ -127,7 +127,7 @@
    "yield": 7.72,
    "price": 185000,
    "sqm": 85.0,
-   "district": "Frankfurt (unspez.)",
+   "district": "Niederdorfelden",
    "source": "Kleinanzeigen (Mail)",
    "title": "Zwei gepflegte Büroeinheiten im Leerstand",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3475277048"
@@ -236,7 +236,7 @@
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
-   "sqm": 252,
+   "sqm": 252.0,
    "district": "Frankfurt am Main",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
