@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-05T16:18:15",
+ "generated_at": "2026-08-05T16:44:53",
  "count": 30,
  "deals": [
   {
@@ -263,6 +263,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTd9ADMAAAAAAKN4yLm3WLmXgcMTpwaYza7LPsPTjidZVaLnPsh-X5MEFYT-e73E_jOtHiAVXFnaw8yCWlX26XVKLyArfBN2SSQvw9ODZOkjN6keHqzMXcx118EW1w"
   },
   {
+   "eur_sqm": 2419,
+   "yield": 6.94,
+   "price": 329000,
+   "sqm": 136.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Sanierungsbedürftiges Haus in ruhiger Seitenstraße...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTl9ADMAAAAAAKdSScD5lzu7CxT9_dKiyYIp_AlzhmjZlRgjrhyuaEke9IiC36QwAzKV0RJ2zSxKc0kMoZOxA-lkaLW3DvKh0DffCXuOXV-u7RwiLKeOSSEHzQiwGw"
+  },
+  {
    "eur_sqm": 2426,
    "yield": 6.92,
    "price": 165000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "5-Familienhaus Rodgau: voll vermietet mit kurzfris...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJcAW6h3DNp4qD-iAkXqbZOvb_4YPQOAWjTiF5GXpEvt9SdeLbaOV-b6aqJBtXEOc9KTzTqLgZQEMOMbUpu28Kb-amvy-1E9ettfEriR1M2EeyfeXQ"
-  },
-  {
-   "eur_sqm": 2446,
-   "yield": 6.87,
-   "price": 159000,
-   "sqm": 65.0,
-   "district": "",
-   "source": "Immowelt (Mail)",
-   "title": "Licht, Ruhe und Komfort: Attraktive",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAKAuxNq4wXXdTNPF1C1Z_BnUKi_Xes_YUn3P0ShSIveUUb0r7Qrx2pbxAOc3x1qHjDqFvAfiTbtG4HvXxULZ1al5x3pGx9NCkhGvB4_azRr1-D9iAA"
   }
  ]
 }
