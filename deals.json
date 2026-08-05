@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-05T18:46:23",
+ "generated_at": "2026-08-05T18:59:08",
  "count": 30,
  "deals": [
   {
@@ -31,6 +31,16 @@
    "source": "Immowelt (Mail)",
    "title": "Haus mit Geschichte - Juwel im Ortskern mit große...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKUVlRmUqVlIGEF6xs9UthPwtl_ZrZJ0noApjJu2R-Lwro9u1ZL0b31-EZDysB-NlFIBixvVeifj1S06Azg26Bc5QUiHBiKHc-LyK9f5DuIg38VRHQ"
+  },
+  {
+   "eur_sqm": 1723,
+   "yield": 9.75,
+   "price": 1499000,
+   "sqm": 870.0,
+   "district": "Dietzenbach",
+   "source": "Immowelt (Mail)",
+   "title": "FAKTOR 13x RENDITE !! - A-Lage in Dietzenbach mit ...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTl9ADMAAAAAAKc5htutr9FX8Ox3zK__7pgAGobZ_xDfQuZsJvSbcaFvfhMNT_Z6phJETC_y5Kepx0JPxema4Z16kCDXnVwjGf145PCUt0zCU3VbADJNhOqHdmpE7A"
   },
   {
    "eur_sqm": 1724,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Zweifamilienhaus mit 2 Balkonen, Garten, Keller, G...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJzBWM9Gg2MTDa_nmRCha4ZMi8_uaG_xaOrKEFp5zPZxkvvNE4AqN_byrMHyNTbz321LoLVrgxc-_bt2xcKoN0yGTtAojU8SNNpSpN2Kp7gDPxBldw"
-  },
-  {
-   "eur_sqm": 2440,
-   "yield": 6.88,
-   "price": 959000,
-   "sqm": 393.0,
-   "district": "Rodgau",
-   "source": "Immowelt (Mail)",
-   "title": "5-Familienhaus Rodgau: voll vermietet mit kurzfris...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJcAW6h3DNp4qD-iAkXqbZOvb_4YPQOAWjTiF5GXpEvt9SdeLbaOV-b6aqJBtXEOc9KTzTqLgZQEMOMbUpu28Kb-amvy-1E9ettfEriR1M2EeyfeXQ"
   }
  ]
 }
