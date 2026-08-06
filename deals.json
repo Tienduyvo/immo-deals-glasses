@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-06T16:57:59",
+ "generated_at": "2026-08-06T17:12:00",
  "count": 30,
  "deals": [
   {
@@ -141,6 +141,16 @@
    "source": "Immowelt (Mail)",
    "title": "Top Kapitalanlage: 2 Häuser auf einem Grundstück m...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKVk7gEWmnzgJ2_HyGWx7YHXN6EFF5sW4ElSc_pQ7ehUXkvA63THi5hM0iNqIZ960MD6GmXYNmxFd1j1p_fM2Oiw5I7MfI3C9hVoMS_9FWkTrS3bkQ"
+  },
+  {
+   "eur_sqm": 2014,
+   "yield": 8.34,
+   "price": 445000,
+   "sqm": 221.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Erbpachtgrundstück - Freistehender Familientraum -...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKkJbWigawoi0R5stUl3OX0Ceyp85PXsctfa53pUhKr65NVD8dR3-idqLRKJ2V52cKvqn-D8LXMUwrZFHbxAPksM7dyjjgop82c1yY2JctfSAGsgZw"
   },
   {
    "eur_sqm": 2031,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Großzügige",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJZtgQKcE_ulfCjDJHPwOZN1NHWiiMq2LJl3-OPcRNsBK6MlP1ml8U8OOzoUcra2IQ3jETN1wD-pkHpPIum50ONn1BX-jnlpoeP7qF1LKAO4AuH_Lw"
-  },
-  {
-   "eur_sqm": 2375,
-   "yield": 7.07,
-   "price": 190000,
-   "sqm": 80.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Zentral gelegene",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKSVOoSxBTK87tldwICNZ7bMQV_HP3YtkBsIeqZeVVqk44F5j_qAzF73ABtyD7Ch_3nTV_tyGwLjphwNfRnTDFYcGqwGL0hwRFxQprXvM2JFKwcGng"
   }
  ]
 }
