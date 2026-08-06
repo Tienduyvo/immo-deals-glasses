@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-06T15:56:17",
+ "generated_at": "2026-08-06T16:24:17",
  "count": 30,
  "deals": [
   {
@@ -31,6 +31,16 @@
    "source": "Immowelt (Mail)",
    "title": "Sanierungsobjekt mit Potenzial in Offenbach: 3 Ein...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJxjZtQdLeBw7FcHKQq9AxKERleqWPU2Z9ppUPVziRaaocUH3FVnEvPSmKWd10pExIz4c3pegJqNHn_27ORsgx_BMWUpL0TEvp2u43RJ7BEkdalpPw"
+  },
+  {
+   "eur_sqm": 1601,
+   "yield": 10.49,
+   "price": 229000,
+   "sqm": 143.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Außergewöhnliche Wohnung im Herzen von Offenthal.",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKj1ySxz50s_bpxKydjrj1nnpcFhbxGSDXTXMjQrsnzc4vzfMkn6mQMqNQ-SJsTWQ04C1dEenOjbjH-t_nYYybnBsUd6DZf0lJB5Lqe014HsQ_7YAw"
   },
   {
    "eur_sqm": 1633,
@@ -183,6 +193,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJX2qM1Rx1pWRuhCJB45kKPKMUwSNBb_wS0w_VMr1LqoNg9N_qGT8GG583nghJMHlCiqQUKZumZqqhOvydSClN7eOt7iTRQYqYbLVPNHhd73Xbd7WA"
   },
   {
+   "eur_sqm": 2216,
+   "yield": 7.58,
+   "price": 565000,
+   "sqm": 255.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "3-Familienhaus in bevorzugter Wohnlage von Ilbenst...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKj1ySx5Xb2RQhb5xA_H-FQuKDk5MVzD1eNukpL0M5cp0g3xI0j1YY8FAuasuoIg09qIqSWOqp_w1BMRUNldjHd_MzZJV9TqlOQ9Hu9R-UWKTXBEIg"
+  },
+  {
    "eur_sqm": 2227,
    "yield": 7.55,
    "price": 570000,
@@ -281,26 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Zentral gelegene",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKSVOoSxBTK87tldwICNZ7bMQV_HP3YtkBsIeqZeVVqk44F5j_qAzF73ABtyD7Ch_3nTV_tyGwLjphwNfRnTDFYcGqwGL0hwRFxQprXvM2JFKwcGng"
-  },
-  {
-   "eur_sqm": 2401,
-   "yield": 7.0,
-   "price": 605000,
-   "sqm": 252.0,
-   "district": "Frankfurt am Main",
-   "source": "ZVG",
-   "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
-  },
-  {
-   "eur_sqm": 2402,
-   "yield": 6.99,
-   "price": 579000,
-   "sqm": 241.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Einfamilienhaus mit ELW + genehmigter Gewerbefläch...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTd9ADMAAAAAAKN4yLm3WLmXgcMTpwaYza7LPsPTjidZVaLnPsh-X5MEFYT-e73E_jOtHiAVXFnaw8yCWlX26XVKLyArfBN2SSQvw9ODZOkjN6keHqzMXcx118EW1w"
   }
  ]
 }
