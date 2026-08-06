@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-06T08:33:18",
+ "generated_at": "2026-08-06T11:14:27",
  "count": 30,
  "deals": [
   {
@@ -121,6 +121,16 @@
    "source": "Immowelt (Mail)",
    "title": "Top Kapitalanlage: 2 Häuser auf einem Grundstück m...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKVk7gEWmnzgJ2_HyGWx7YHXN6EFF5sW4ElSc_pQ7ehUXkvA63THi5hM0iNqIZ960MD6GmXYNmxFd1j1p_fM2Oiw5I7MfI3C9hVoMS_9FWkTrS3bkQ"
+  },
+  {
+   "eur_sqm": 2031,
+   "yield": 8.27,
+   "price": 798000,
+   "sqm": 393.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Vielseitige nutzbare Immobilie in Bestlage: Mehrfa...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKhijV79utRasr0A-Sjf1ZS3eMWLpgcwuqrK3jGnzGC9clcGKBWROR4kmgRM7Z21pl_qkNeocM1L3nbRfai4cLNAyGNQBJ_OhZOOER5hg94OHv9hdA"
   },
   {
    "eur_sqm": 2055,
@@ -266,7 +276,7 @@
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
-   "sqm": 252,
+   "sqm": 252.0,
    "district": "Frankfurt am Main",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Sanierungsbedürftiges Haus in ruhiger Seitenstraße...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTl9ADMAAAAAAKdSScD5lzu7CxT9_dKiyYIp_AlzhmjZlRgjrhyuaEke9IiC36QwAzKV0RJ2zSxKc0kMoZOxA-lkaLW3DvKh0DffCXuOXV-u7RwiLKeOSSEHzQiwGw"
-  },
-  {
-   "eur_sqm": 2426,
-   "yield": 6.92,
-   "price": 165000,
-   "sqm": 68.0,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Gepflegte 2-Zimmer-Wohnung mit Balkon in ansprechender Lage ",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3178989825"
   }
  ]
 }
