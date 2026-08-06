@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-06T18:25:18",
+ "generated_at": "2026-08-06T18:43:19",
  "count": 30,
  "deals": [
   {
@@ -183,6 +183,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKKX3S3vLUwajQuUUr1a1x4t2wyP-xHVsa24rEQehHoCpMeOxrUwHNlYO7OHaHniZ8XAuqzP3a1_3B9byuJvyGp2Kaf9lfDkQGxvF8tKnEAMGKHkJQ"
   },
   {
+   "eur_sqm": 2164,
+   "yield": 7.76,
+   "price": 119000,
+   "sqm": 55.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Charmante",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKlbgnkz8QzA3Y_mUo2D-bjHiEMvLiEagro8dhjtNKBFfVSVvgeVAwG4GKwZAy8uNeoSz6KwmsS08BpVQgypbcAvZhulps-01aJ-uXiPrE8HyQKYng"
+  },
+  {
    "eur_sqm": 2176,
    "yield": 7.72,
    "price": 185000,
@@ -291,16 +301,6 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "379.000 € VB",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3469388468"
-  },
-  {
-   "eur_sqm": 2371,
-   "yield": 7.08,
-   "price": 249000,
-   "sqm": 105.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Großzügige",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJZtgQKcE_ulfCjDJHPwOZN1NHWiiMq2LJl3-OPcRNsBK6MlP1ml8U8OOzoUcra2IQ3jETN1wD-pkHpPIum50ONn1BX-jnlpoeP7qF1LKAO4AuH_Lw"
   }
  ]
 }
