@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-06T14:22:03",
+ "generated_at": "2026-08-06T14:26:03",
  "count": 30,
  "deals": [
   {
@@ -41,6 +41,16 @@
    "source": "Immowelt (Mail)",
    "title": "Haus mit Geschichte - Juwel im Ortskern mit große...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKUVlRmUqVlIGEF6xs9UthPwtl_ZrZJ0noApjJu2R-Lwro9u1ZL0b31-EZDysB-NlFIBixvVeifj1S06Azg26Bc5QUiHBiKHc-LyK9f5DuIg38VRHQ"
+  },
+  {
+   "eur_sqm": 1685,
+   "yield": 9.97,
+   "price": 359000,
+   "sqm": 213.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Sanierungsbedürftiges 3 FH in OF-Bürgel mit Entwic...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKjSyGimflwZfUAoI9a08GozsY0sb-nhUb9T6cpj3QLa6-Knxe6eAx84Pf_Mv8L31SRWEC3tn5nDM820uj8VnfmW_TLnn23IZ_MzS9t-UEinSRcz6Q"
   },
   {
    "eur_sqm": 1723,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Einfamilienhaus mit ELW + genehmigter Gewerbefläch...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTd9ADMAAAAAAKN4yLm3WLmXgcMTpwaYza7LPsPTjidZVaLnPsh-X5MEFYT-e73E_jOtHiAVXFnaw8yCWlX26XVKLyArfBN2SSQvw9ODZOkjN6keHqzMXcx118EW1w"
-  },
-  {
-   "eur_sqm": 2419,
-   "yield": 6.94,
-   "price": 329000,
-   "sqm": 136.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Sanierungsbedürftiges Haus in ruhiger Seitenstraße...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTl9ADMAAAAAAKdSScD5lzu7CxT9_dKiyYIp_AlzhmjZlRgjrhyuaEke9IiC36QwAzKV0RJ2zSxKc0kMoZOxA-lkaLW3DvKh0DffCXuOXV-u7RwiLKeOSSEHzQiwGw"
   }
  ]
 }
