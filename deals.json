@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-06T10:57:42",
+ "generated_at": "2026-08-06T08:33:18",
  "count": 30,
  "deals": [
+  {
+   "eur_sqm": 932,
+   "yield": 18.02,
+   "price": 386020,
+   "sqm": 414.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "TRAUMHAUS AUF IHEM GRUNDSTÜCK, MODERNES WOHNHAUS MIT ELEGANT",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3267889146"
+  },
   {
    "eur_sqm": 1097,
    "yield": 15.32,
@@ -256,7 +266,7 @@
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
-   "sqm": 252.0,
+   "sqm": 252,
    "district": "Frankfurt am Main",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
@@ -291,16 +301,6 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "Gepflegte 2-Zimmer-Wohnung mit Balkon in ansprechender Lage ",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3178989825"
-  },
-  {
-   "eur_sqm": 2429,
-   "yield": 6.92,
-   "price": 459000,
-   "sqm": 189.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Zweifamilienhaus mit 2 Balkonen, Garten, Keller, G...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJzBWM9Gg2MTDa_nmRCha4ZMi8_uaG_xaOrKEFp5zPZxkvvNE4AqN_byrMHyNTbz321LoLVrgxc-_bt2xcKoN0yGTtAojU8SNNpSpN2Kp7gDPxBldw"
   }
  ]
 }
