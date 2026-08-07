@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-07T20:55:35",
+ "generated_at": "2026-08-07T21:55:26",
  "count": 30,
  "deals": [
   {
@@ -81,6 +81,16 @@
    "source": "Immowelt (Mail)",
    "title": "Top Kapitalanlage: Gut vermietete",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAKAuxNq-Y-pJHeQ4mny7INpaKOZ9ggOZiNmNqvZND8zuisVlVRjmO8mQc8uDlwAg8h0Cld3Klbl3tLp2LB3BX2HvihkICASDZUZgoxXokiiWoPy5UQ"
+  },
+  {
+   "eur_sqm": 1742,
+   "yield": 9.64,
+   "price": 115000,
+   "sqm": 66.0,
+   "district": "Langen",
+   "source": "Immowelt (Mail)",
+   "title": "Langen - Nur Zwangsversteigerung- keine Käuferprov...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjF9ADMAAAAAAKtV4wodX-8ochKeJ0JUhwhSICLlrJ-_vVKnIfMLzoX58IW_I9wylXEyqynWZyTpQzvlVl_JfaPj62EGGXYZXUZraOkraNRkKNDG0dWgD2_oOXs7Cw"
   },
   {
    "eur_sqm": 1805,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Zweifamilienhaus mit viel Platz und großem Potenzi...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTB9ADMAAAAAAJioT8r8T6jMHidaOk1yiujR5KOLvacQ-OA-Fg6dlnFb82XJd3JzwueZEWPMzIfMM3gLtWe0MEhXDfU2KKod-PesLOpATJdV1VKDCp_-4YSuF_AKJQ"
-  },
-  {
-   "eur_sqm": 2364,
-   "yield": 7.11,
-   "price": 139500,
-   "sqm": 59.0,
-   "district": "Hanau",
-   "source": "Immowelt (Mail)",
-   "title": "barrierefreie 2-Raum-Wohnung in Hanau, renoviert, ...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTB9ADMAAAAAAJlLT3yhzF_nBbap0YkZugAJ9R-mn-BJpwWeeaEvl515cLYF7MlHFEl1gfWikFThN4IfG5lnMX-8nKWA8wLOvjg-tbVebRF92w-qQyoIqhCN01PRrA"
   }
  ]
 }
