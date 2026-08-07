@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-07T15:14:13",
+ "generated_at": "2026-08-07T15:27:19",
  "count": 30,
  "deals": [
   {
@@ -41,6 +41,16 @@
    "source": "Immowelt (Mail)",
    "title": "Haus mit Geschichte - Juwel im Ortskern mit große...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKUVlRmUqVlIGEF6xs9UthPwtl_ZrZJ0noApjJu2R-Lwro9u1ZL0b31-EZDysB-NlFIBixvVeifj1S06Azg26Bc5QUiHBiKHc-LyK9f5DuIg38VRHQ"
+  },
+  {
+   "eur_sqm": 1683,
+   "yield": 9.98,
+   "price": 850000,
+   "sqm": 505.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Mehrfamilienhaus mit Baureserve - 3 Wohnungen + ca...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjF9ADMAAAAAAKrLiICwsUk6Ws0ac-gaG_zhNlOicVfdla-2BpDSLFSfR5Yy2_duz3UCjUZWuWfsT2ldHpvxJedh-q6MkcqyI8Ddtu1xSc27zVvP9klkoyln-Fo12g"
   },
   {
    "eur_sqm": 1685,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "barrierefreie 2-Raum-Wohnung in Hanau, renoviert, ...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTB9ADMAAAAAAJlLT3yhzF_nBbap0YkZugAJ9R-mn-BJpwWeeaEvl515cLYF7MlHFEl1gfWikFThN4IfG5lnMX-8nKWA8wLOvjg-tbVebRF92w-qQyoIqhCN01PRrA"
-  },
-  {
-   "eur_sqm": 2369,
-   "yield": 7.09,
-   "price": 379000,
-   "sqm": 160.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "379.000 € VB",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3469388468"
   }
  ]
 }
