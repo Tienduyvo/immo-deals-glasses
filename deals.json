@@ -1,17 +1,7 @@
 {
- "generated_at": "2026-08-07T10:57:46",
+ "generated_at": "2026-08-07T08:33:10",
  "count": 30,
  "deals": [
-  {
-   "eur_sqm": 932,
-   "yield": 18.02,
-   "price": 386020,
-   "sqm": 414.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "TRAUMHAUS AUF IHEM GRUNDSTÜCK, MODERNES WOHNHAUS MIT ELEGANT",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3267889146"
-  },
   {
    "eur_sqm": 1097,
    "yield": 15.32,
@@ -91,6 +81,16 @@
    "source": "Immowelt (Mail)",
    "title": "Stilvoll wohnen im Fachwerk: Einfamilienhaus mit W...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAJ7a2gUe0UvUU3KmRVDjNDf5KG2y3Wls4sl6jvui-ZDhlbeL7WhazdmrW0-_w4tmRcuWcsQvLN0oKDYAVz3xi3bzvSrKRx9hF6OUJnvGcMWZcEIBdg"
+  },
+  {
+   "eur_sqm": 1858,
+   "yield": 9.04,
+   "price": 406900,
+   "sqm": 219.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "TRAUMHAUS AUF IHREM GRUNDSTÜCK, SCHLUSSELFERTIGARCHITEKTUR M",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3212653013"
   },
   {
    "eur_sqm": 1864,
