@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-08T12:23:34",
+ "generated_at": "2026-08-08T12:32:05",
  "count": 30,
  "deals": [
   {
@@ -123,16 +123,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJtucJpXEKS9OztvT8GULfqQUAPO4HEbR7ObZUe_T_u0Hv8X-WeWE3ilEq7cRgsdbHE0MucRqjIjqBO0WMwXt6PYF9WkkzPnN1v_UJNaNMZCeKyFBA"
   },
   {
-   "eur_sqm": 1909,
-   "yield": 8.8,
-   "price": 147000,
-   "sqm": 77.0,
-   "district": "Mörfelden",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Gepflegte 1-Zimmer-Wohnung mit Balkon in Mörfelden-Walldorf",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3442962187"
-  },
-  {
    "eur_sqm": 1996,
    "yield": 8.42,
    "price": 459000,
@@ -157,7 +147,7 @@
    "yield": 8.37,
    "price": 115000,
    "sqm": 57.29,
-   "district": "Offenbach",
+   "district": "Hessen",
    "source": "Kleinanzeigen (Mail)",
    "title": "Exklusives Penthouse mit zwei Tiefgaragenstellplätzen - Offe",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3374911576"
@@ -277,7 +267,7 @@
    "yield": 7.4,
    "price": 227000,
    "sqm": 100.0,
-   "district": "Frankfurt (unspez.)",
+   "district": "Hessen",
    "source": "Kleinanzeigen (Mail)",
    "title": "Ein Architektenhaus Neubau von Streif - was will man mehr..",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3471654660"
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "+OF-Bieber+Mehrgenerationenwohnen:5 Whng.(2-3Zi),a...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTd9ADMAAAAAAKNy4Rqcbtr4CoPGVP7NmaxEksS_8Ws-pIxcTpgdLihjkJiqTwqAk14g37yBZzTWTFwDey6Uqrx28tS6lWz7RACJeYY4HOsZHWCWn1yEvlBuqKxXgg"
+  },
+  {
+   "eur_sqm": 2322,
+   "yield": 7.24,
+   "price": 599000,
+   "sqm": 258.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Ein- bis Zweifamilienhaus mit Scheune & Bauplatz -...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKvC6QMLTPu03wLtXWyEFQkpvHgrwIxj03NqycCdV8pIiC72bwpHgwOci8w0G-LNxeoYlICmjtJxy03VjcJdy6zTuNFmHjwy0hIE45Jx_5W03TcsZw"
   }
  ]
 }
