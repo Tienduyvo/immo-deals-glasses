@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-08T14:43:32",
+ "generated_at": "2026-08-08T14:55:18",
  "count": 30,
  "deals": [
   {
@@ -163,6 +163,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKkJbWigawoi0R5stUl3OX0Ceyp85PXsctfa53pUhKr65NVD8dR3-idqLRKJ2V52cKvqn-D8LXMUwrZFHbxAPksM7dyjjgop82c1yY2JctfSAGsgZw"
   },
   {
+   "eur_sqm": 2025,
+   "yield": 8.29,
+   "price": 160000,
+   "sqm": 79.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Attraktive Kapitalanlage: Vermietete Eigentumswohn...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKwJTauholltktq_41QI5x0hibOs9Ujp4NNZUkctf4If_ZW-bKIYcXjyZJ69VoEUDH3_K1iHSw5eT_fB3l70WDpadCwzjA3k8_QO52sGq6bpfSLCgw"
+  },
+  {
    "eur_sqm": 2031,
    "yield": 8.27,
    "price": 798000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "+OF-Bieber+Mehrgenerationenwohnen:5 Whng.(2-3Zi),a...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTd9ADMAAAAAAKNy4Rqcbtr4CoPGVP7NmaxEksS_8Ws-pIxcTpgdLihjkJiqTwqAk14g37yBZzTWTFwDey6Uqrx28tS6lWz7RACJeYY4HOsZHWCWn1yEvlBuqKxXgg"
-  },
-  {
-   "eur_sqm": 2322,
-   "yield": 7.24,
-   "price": 599000,
-   "sqm": 258.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Ein- bis Zweifamilienhaus mit Scheune & Bauplatz -...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKvC6QMLTPu03wLtXWyEFQkpvHgrwIxj03NqycCdV8pIiC72bwpHgwOci8w0G-LNxeoYlICmjtJxy03VjcJdy6zTuNFmHjwy0hIE45Jx_5W03TcsZw"
   }
  ]
 }
