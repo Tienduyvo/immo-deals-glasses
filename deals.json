@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-08T12:05:01",
+ "generated_at": "2026-08-08T12:16:07",
  "count": 30,
  "deals": [
   {
@@ -73,16 +73,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKjSyGimflwZfUAoI9a08GozsY0sb-nhUb9T6cpj3QLa6-Knxe6eAx84Pf_Mv8L31SRWEC3tn5nDM820uj8VnfmW_TLnn23IZ_MzS9t-UEinSRcz6Q"
   },
   {
-   "eur_sqm": 1716,
-   "yield": 9.79,
-   "price": 115000,
-   "sqm": 67.0,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Sofort einziehen oder vermieten ! Hübsche 2-Zimmer in Oberur",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3472124284"
-  },
-  {
    "eur_sqm": 1723,
    "yield": 9.75,
    "price": 1499000,
@@ -133,6 +123,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJtucJpXEKS9OztvT8GULfqQUAPO4HEbR7ObZUe_T_u0Hv8X-WeWE3ilEq7cRgsdbHE0MucRqjIjqBO0WMwXt6PYF9WkkzPnN1v_UJNaNMZCeKyFBA"
   },
   {
+   "eur_sqm": 1882,
+   "yield": 8.92,
+   "price": 160000,
+   "sqm": 85.0,
+   "district": "Nied",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Vermietete 1,5-Zimmerwohnung zur Kapitalanlage in Frankfurt-",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3464621185"
+  },
+  {
    "eur_sqm": 1909,
    "yield": 8.8,
    "price": 147000,
@@ -161,16 +161,6 @@
    "source": "Immowelt (Mail)",
    "title": "Top Kapitalanlage: 2 Häuser auf einem Grundstück m...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKVk7gEWmnzgJ2_HyGWx7YHXN6EFF5sW4ElSc_pQ7ehUXkvA63THi5hM0iNqIZ960MD6GmXYNmxFd1j1p_fM2Oiw5I7MfI3C9hVoMS_9FWkTrS3bkQ"
-  },
-  {
-   "eur_sqm": 2007,
-   "yield": 8.37,
-   "price": 115000,
-   "sqm": 57.29,
-   "district": "Offenbach",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Exklusives Penthouse mit zwei Tiefgaragenstellplätzen - Offe",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3374911576"
   },
   {
    "eur_sqm": 2014,
@@ -233,6 +223,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKlbgnkz8QzA3Y_mUo2D-bjHiEMvLiEagro8dhjtNKBFfVSVvgeVAwG4GKwZAy8uNeoSz6KwmsS08BpVQgypbcAvZhulps-01aJ-uXiPrE8HyQKYng"
   },
   {
+   "eur_sqm": 2176,
+   "yield": 7.72,
+   "price": 185000,
+   "sqm": 85.0,
+   "district": "Niederdorfelden",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Zwei gepflegte Büroeinheiten im Leerstand",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3475277048"
+  },
+  {
    "eur_sqm": 2203,
    "yield": 7.62,
    "price": 650000,
@@ -251,16 +251,6 @@
    "source": "Immowelt (Mail)",
    "title": "3-Familienhaus in bevorzugter Wohnlage von Ilbenst...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKj1ySx5Xb2RQhb5xA_H-FQuKDk5MVzD1eNukpL0M5cp0g3xI0j1YY8FAuasuoIg09qIqSWOqp_w1BMRUNldjHd_MzZJV9TqlOQ9Hu9R-UWKTXBEIg"
-  },
-  {
-   "eur_sqm": 2224,
-   "yield": 7.55,
-   "price": 129000,
-   "sqm": 58.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Provisionsfrei 2-Zimmer-Eigentumswohnung mit Balkon &Stellpl",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3464671454"
   },
   {
    "eur_sqm": 2227,
@@ -283,16 +273,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKWZxjmAIUyejtV1D5DpjPg0wznQgUkL3vSjrqFCKrDztdClNvsOiXCr6Wxu-_9uNf9BmJpgQOCZXoqfzKpwf84UILAEBOXUWfVltPWlyI5467lbig"
   },
   {
-   "eur_sqm": 2270,
-   "yield": 7.4,
-   "price": 227000,
-   "sqm": 100.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Ein Architektenhaus Neubau von Streif - was will man mehr..",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3471654660"
-  },
-  {
    "eur_sqm": 2297,
    "yield": 7.32,
    "price": 395000,
@@ -301,6 +281,26 @@
    "source": "Immowelt (Mail)",
    "title": "Moderner, individuell geplanter Bungalow in Bad Vi...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAKEG_CdXayscK-s4sRxTIomH9itluGp5Zm3t-LNldz6rGBtZaAboXrir5S-tuJVze-Q8ggkOF3lNjCje9YiFFv1Z0z6u1jK8uTMVy4y92HKe9tehcw"
+  },
+  {
+   "eur_sqm": 2300,
+   "yield": 7.31,
+   "price": 998000,
+   "sqm": 434.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "+OF-Bieber+Mehrgenerationenwohnen:5 Whng.(2-3Zi),a...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTd9ADMAAAAAAKNy4Rqcbtr4CoPGVP7NmaxEksS_8Ws-pIxcTpgdLihjkJiqTwqAk14g37yBZzTWTFwDey6Uqrx28tS6lWz7RACJeYY4HOsZHWCWn1yEvlBuqKxXgg"
+  },
+  {
+   "eur_sqm": 2322,
+   "yield": 7.24,
+   "price": 599000,
+   "sqm": 258.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Ein- bis Zweifamilienhaus mit Scheune & Bauplatz -...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKvC6QMLTPu03wLtXWyEFQkpvHgrwIxj03NqycCdV8pIiC72bwpHgwOci8w0G-LNxeoYlICmjtJxy03VjcJdy6zTuNFmHjwy0hIE45Jx_5W03TcsZw"
   }
  ]
 }
