@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-08T10:48:33",
+ "generated_at": "2026-08-08T08:33:06",
  "count": 30,
  "deals": [
   {
@@ -101,16 +101,6 @@
    "source": "Immowelt (Mail)",
    "title": "Stilvoll wohnen im Fachwerk: Einfamilienhaus mit W...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAJ7a2gUe0UvUU3KmRVDjNDf5KG2y3Wls4sl6jvui-ZDhlbeL7WhazdmrW0-_w4tmRcuWcsQvLN0oKDYAVz3xi3bzvSrKRx9hF6OUJnvGcMWZcEIBdg"
-  },
-  {
-   "eur_sqm": 1858,
-   "yield": 9.04,
-   "price": 406900,
-   "sqm": 219.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "TRAUMHAUS AUF IHREM GRUNDSTÜCK, SCHLUSSELFERTIGARCHITEKTUR M",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3212653013"
   },
   {
    "eur_sqm": 1864,
@@ -283,16 +273,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTd9ADMAAAAAAKNy4Rqcbtr4CoPGVP7NmaxEksS_8Ws-pIxcTpgdLihjkJiqTwqAk14g37yBZzTWTFwDey6Uqrx28tS6lWz7RACJeYY4HOsZHWCWn1yEvlBuqKxXgg"
   },
   {
-   "eur_sqm": 2322,
-   "yield": 7.24,
-   "price": 599000,
-   "sqm": 258.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Ein- bis Zweifamilienhaus mit Scheune & Bauplatz -...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKvC6QMLTPu03wLtXWyEFQkpvHgrwIxj03NqycCdV8pIiC72bwpHgwOci8w0G-LNxeoYlICmjtJxy03VjcJdy6zTuNFmHjwy0hIE45Jx_5W03TcsZw"
-  },
-  {
    "eur_sqm": 2338,
    "yield": 7.19,
    "price": 339000,
@@ -301,6 +281,26 @@
    "source": "Immowelt (Mail)",
    "title": "Historisches Denkmal mit großem Potenzial - Verwir...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJtbTRSb33TFT8U3Q-8j7U24zu-bKbXCB2o-4eCvkjT2-RfSLM6XVEXhDqCigbce0YFHSPQ8GDB7ZG_rI6-xC4TJSAyYfImBxeIwrvh8RYC-JZ1cuw"
+  },
+  {
+   "eur_sqm": 2360,
+   "yield": 7.12,
+   "price": 498000,
+   "sqm": 211.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Zweifamilienhaus mit viel Platz und großem Potenzi...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTB9ADMAAAAAAJioT8r8T6jMHidaOk1yiujR5KOLvacQ-OA-Fg6dlnFb82XJd3JzwueZEWPMzIfMM3gLtWe0MEhXDfU2KKod-PesLOpATJdV1VKDCp_-4YSuF_AKJQ"
+  },
+  {
+   "eur_sqm": 2364,
+   "yield": 7.11,
+   "price": 139500,
+   "sqm": 59.0,
+   "district": "Hanau",
+   "source": "Immowelt (Mail)",
+   "title": "barrierefreie 2-Raum-Wohnung in Hanau, renoviert, ...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTB9ADMAAAAAAJlLT3yhzF_nBbap0YkZugAJ9R-mn-BJpwWeeaEvl515cLYF7MlHFEl1gfWikFThN4IfG5lnMX-8nKWA8wLOvjg-tbVebRF92w-qQyoIqhCN01PRrA"
   }
  ]
 }
