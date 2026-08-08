@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-08T12:16:07",
+ "generated_at": "2026-08-08T12:18:59",
  "count": 30,
  "deals": [
   {
@@ -7,7 +7,7 @@
    "yield": 672.0,
    "price": 1500,
    "sqm": 60.0,
-   "district": "Frankfurt (unspez.)",
+   "district": "Hessen",
    "source": "Kleinanzeigen (Mail)",
    "title": "‼️Schöne, ruhige 2-Zimmerwhg mit TGPlatz Louisenstraße ‼️",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3470295359"
@@ -253,6 +253,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKj1ySx5Xb2RQhb5xA_H-FQuKDk5MVzD1eNukpL0M5cp0g3xI0j1YY8FAuasuoIg09qIqSWOqp_w1BMRUNldjHd_MzZJV9TqlOQ9Hu9R-UWKTXBEIg"
   },
   {
+   "eur_sqm": 2224,
+   "yield": 7.55,
+   "price": 129000,
+   "sqm": 58.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Provisionsfrei 2-Zimmer-Eigentumswohnung mit Balkon &Stellpl",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3464671454"
+  },
+  {
    "eur_sqm": 2227,
    "yield": 7.55,
    "price": 570000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "+OF-Bieber+Mehrgenerationenwohnen:5 Whng.(2-3Zi),a...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTd9ADMAAAAAAKNy4Rqcbtr4CoPGVP7NmaxEksS_8Ws-pIxcTpgdLihjkJiqTwqAk14g37yBZzTWTFwDey6Uqrx28tS6lWz7RACJeYY4HOsZHWCWn1yEvlBuqKxXgg"
-  },
-  {
-   "eur_sqm": 2322,
-   "yield": 7.24,
-   "price": 599000,
-   "sqm": 258.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Ein- bis Zweifamilienhaus mit Scheune & Bauplatz -...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKvC6QMLTPu03wLtXWyEFQkpvHgrwIxj03NqycCdV8pIiC72bwpHgwOci8w0G-LNxeoYlICmjtJxy03VjcJdy6zTuNFmHjwy0hIE45Jx_5W03TcsZw"
   }
  ]
 }
