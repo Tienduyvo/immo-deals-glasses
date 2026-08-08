@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-08T09:54:18",
+ "generated_at": "2026-08-08T10:23:04",
  "count": 30,
  "deals": [
   {
@@ -283,6 +283,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTd9ADMAAAAAAKNy4Rqcbtr4CoPGVP7NmaxEksS_8Ws-pIxcTpgdLihjkJiqTwqAk14g37yBZzTWTFwDey6Uqrx28tS6lWz7RACJeYY4HOsZHWCWn1yEvlBuqKxXgg"
   },
   {
+   "eur_sqm": 2322,
+   "yield": 7.24,
+   "price": 599000,
+   "sqm": 258.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Ein- bis Zweifamilienhaus mit Scheune & Bauplatz -...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKvC6QMLTPu03wLtXWyEFQkpvHgrwIxj03NqycCdV8pIiC72bwpHgwOci8w0G-LNxeoYlICmjtJxy03VjcJdy6zTuNFmHjwy0hIE45Jx_5W03TcsZw"
+  },
+  {
    "eur_sqm": 2338,
    "yield": 7.19,
    "price": 339000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Historisches Denkmal mit großem Potenzial - Verwir...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJtbTRSb33TFT8U3Q-8j7U24zu-bKbXCB2o-4eCvkjT2-RfSLM6XVEXhDqCigbce0YFHSPQ8GDB7ZG_rI6-xC4TJSAyYfImBxeIwrvh8RYC-JZ1cuw"
-  },
-  {
-   "eur_sqm": 2360,
-   "yield": 7.12,
-   "price": 498000,
-   "sqm": 211.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Zweifamilienhaus mit viel Platz und großem Potenzi...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTB9ADMAAAAAAJioT8r8T6jMHidaOk1yiujR5KOLvacQ-OA-Fg6dlnFb82XJd3JzwueZEWPMzIfMM3gLtWe0MEhXDfU2KKod-PesLOpATJdV1VKDCp_-4YSuF_AKJQ"
   }
  ]
 }
