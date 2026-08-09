@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-09T10:37:03",
+ "generated_at": "2026-08-09T08:33:15",
  "count": 30,
  "deals": [
   {
@@ -61,16 +61,6 @@
    "source": "Immowelt (Mail)",
    "title": "Sanierungsbedürftiges 3 FH in OF-Bürgel mit Entwic...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKjSyGimflwZfUAoI9a08GozsY0sb-nhUb9T6cpj3QLa6-Knxe6eAx84Pf_Mv8L31SRWEC3tn5nDM820uj8VnfmW_TLnn23IZ_MzS9t-UEinSRcz6Q"
-  },
-  {
-   "eur_sqm": 1716,
-   "yield": 9.79,
-   "price": 115000,
-   "sqm": 67.0,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Sofort einziehen oder vermieten ! Hübsche 2-Zimmer in Oberur",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3472124284"
   },
   {
    "eur_sqm": 1723,
@@ -141,16 +131,6 @@
    "source": "Immowelt (Mail)",
    "title": "Top Kapitalanlage: 2 Häuser auf einem Grundstück m...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKVk7gEWmnzgJ2_HyGWx7YHXN6EFF5sW4ElSc_pQ7ehUXkvA63THi5hM0iNqIZ960MD6GmXYNmxFd1j1p_fM2Oiw5I7MfI3C9hVoMS_9FWkTrS3bkQ"
-  },
-  {
-   "eur_sqm": 2007,
-   "yield": 8.37,
-   "price": 115000,
-   "sqm": 57.29,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Exklusives Penthouse mit zwei Tiefgaragenstellplätzen - Offe",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3374911576"
   },
   {
    "eur_sqm": 2014,
@@ -301,6 +281,26 @@
    "source": "Immowelt (Mail)",
    "title": "+OF-Bieber+Mehrgenerationenwohnen:5 Whng.(2-3Zi),a...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTd9ADMAAAAAAKNy4Rqcbtr4CoPGVP7NmaxEksS_8Ws-pIxcTpgdLihjkJiqTwqAk14g37yBZzTWTFwDey6Uqrx28tS6lWz7RACJeYY4HOsZHWCWn1yEvlBuqKxXgg"
+  },
+  {
+   "eur_sqm": 2322,
+   "yield": 7.24,
+   "price": 599000,
+   "sqm": 258.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Ein- bis Zweifamilienhaus mit Scheune & Bauplatz -...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKvC6QMLTPu03wLtXWyEFQkpvHgrwIxj03NqycCdV8pIiC72bwpHgwOci8w0G-LNxeoYlICmjtJxy03VjcJdy6zTuNFmHjwy0hIE45Jx_5W03TcsZw"
+  },
+  {
+   "eur_sqm": 2338,
+   "yield": 7.19,
+   "price": 339000,
+   "sqm": 145.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Historisches Denkmal mit großem Potenzial - Verwir...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJtbTRSb33TFT8U3Q-8j7U24zu-bKbXCB2o-4eCvkjT2-RfSLM6XVEXhDqCigbce0YFHSPQ8GDB7ZG_rI6-xC4TJSAyYfImBxeIwrvh8RYC-JZ1cuw"
   }
  ]
 }
