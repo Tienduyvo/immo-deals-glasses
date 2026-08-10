@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T11:04:37",
+ "generated_at": "2026-08-10T11:05:37",
  "count": 30,
  "deals": [
   {
@@ -143,26 +143,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJzBWM9Gg2MTDa_nmRCha4ZMi8_uaG_xaOrKEFp5zPZxkvvNE4AqN_byrMHyNTbz321LoLVrgxc-_bt2xcKoN0yGTtAojU8SNNpSpN2Kp7gDPxBldw"
   },
   {
-   "eur_sqm": 2440,
-   "yield": 6.88,
-   "price": 959000,
-   "sqm": 393.0,
-   "district": "Rodgau",
-   "source": "Immowelt (Mail)",
-   "title": "5-Familienhaus Rodgau: voll vermietet mit kurzfris...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJcAW6h3DNp4qD-iAkXqbZOvb_4YPQOAWjTiF5GXpEvt9SdeLbaOV-b6aqJBtXEOc9KTzTqLgZQEMOMbUpu28Kb-amvy-1E9ettfEriR1M2EeyfeXQ"
-  },
-  {
-   "eur_sqm": 2443,
-   "yield": 6.88,
-   "price": 645000,
-   "sqm": 264.0,
-   "district": "Hattersheim",
-   "source": "Immowelt (Mail)",
-   "title": "3FH in Hattersheim-Eddersheim",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKhoect_9AL-wf4uvFdgzZptx8Sbexi1mGQ4tvEOBHfYOlt_XSr7fDOF6VPf1Mur6IrjhzBiF4k3VoaFaBmzSSdh2z1-pYEGFNq3uxxajpQP6TtLnw"
-  },
-  {
    "eur_sqm": 2446,
    "yield": 6.87,
    "price": 159000,
@@ -171,26 +151,6 @@
    "source": "Immowelt (Mail)",
    "title": "Licht, Ruhe und Komfort: Attraktive",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAKAuxNq4wXXdTNPF1C1Z_BnUKi_Xes_YUn3P0ShSIveUUb0r7Qrx2pbxAOc3x1qHjDqFvAfiTbtG4HvXxULZ1al5x3pGx9NCkhGvB4_azRr1-D9iAA"
-  },
-  {
-   "eur_sqm": 2492,
-   "yield": 6.74,
-   "price": 1049000,
-   "sqm": 421.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Fünffamilienhaus ohne Mieter in Mainnähe",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJcRhmD-7bY5txRHc5IgTUDLvv0EUhu9L7wYW87qe9n3F3WiMcI-eqvWiFIpLB6-YtjeyxBxt7zFcnWzCAXyxaQy-CGw5Y4YijbLPs1N8xzRpLD67w"
-  },
-  {
-   "eur_sqm": 2500,
-   "yield": 6.72,
-   "price": 161950,
-   "sqm": 64.78,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Nähe Merianplatz - Drei-Zimmer-Wohnung mit Balkon und Lift",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3198244018"
   },
   {
    "eur_sqm": 2500,
@@ -301,6 +261,46 @@
    "source": "Immowelt (Mail)",
    "title": "Stilvolle Maisonettewohnung mit offenem Wohnbereic...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJP5U2_NePcxPzHUK7RJD_X5t4CZsjcPtCf6vHIVP-vdRxkIYYNe2ie-afJV9bVk_I2PRvUPsfL-cvOMR7y6_GxQbHHnUY0yPTGnkQxGwWD5wqH34g"
+  },
+  {
+   "eur_sqm": 2630,
+   "yield": 6.39,
+   "price": 405000,
+   "sqm": 154.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Zweifamilienhaus zur Kernsanierung mit Ausbaureser...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJzu9FKL7ETjkUizKcDo7eyYuu_7ZSUlYh4ghqymlF-9EQi05efMf1fU6eNfLDOWfKR7H5HSzlasySvn_kVrx_ZefSQbqhRNQX-h_YWUqhz5GMUAMA"
+  },
+  {
+   "eur_sqm": 2638,
+   "yield": 6.37,
+   "price": 699000,
+   "sqm": 265.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Wohnen mit Aussicht: Großzügiges Splitlevel-Haus m...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTN9ADMAAAAAAJ7k5KUy4R7nkue_iuOInfpnIl4wvwt1XA6RWoCopS0AZxpMdzaWksrDZaKmOw16gLDWDT_nVmOIWUBCdUkYTKJFF6C-Nl2TUjsiwf5XW8CHaFYmZw"
+  },
+  {
+   "eur_sqm": 2639,
+   "yield": 6.37,
+   "price": 710000,
+   "sqm": 269.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Kapitalanlage: 3-Familienhaus mit Einliegerwohnung...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJXdY_F-oE_0QSiT5L9aC1pJNLx2tZQmkm-V8JozH-az2B4sRYAqjTQr-lGgS6tiY4gyiV3N3yA4SJfMboevMIdQIy12yOaR8KaTmK7NqKw_Tdxcfg"
+  },
+  {
+   "eur_sqm": 2641,
+   "yield": 6.36,
+   "price": 169000,
+   "sqm": 64.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Kapitalanlage Schöne",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKwYhTVlWR9XyelwWQFwzx8gUB4X5M4OtOkgpUWJtQWeow4S4OsrTbI9MaflglW8jQGKiwDmFnJ9QpSmXrhSH7HBikcbhl5hsCvsdvTFaD_oyuFVcA"
   }
  ]
 }
