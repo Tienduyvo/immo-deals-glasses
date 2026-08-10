@@ -1,17 +1,7 @@
 {
- "generated_at": "2026-08-10T11:01:38",
+ "generated_at": "2026-08-10T11:02:37",
  "count": 30,
  "deals": [
-  {
-   "eur_sqm": 2031,
-   "yield": 8.27,
-   "price": 798000,
-   "sqm": 393.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Vielseitige nutzbare Immobilie in Bestlage: Mehrfa...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKhijV79utRasr0A-Sjf1ZS3eMWLpgcwuqrK3jGnzGC9clcGKBWROR4kmgRM7Z21pl_qkNeocM1L3nbRfai4cLNAyGNQBJ_OhZOOER5hg94OHv9hdA"
-  },
   {
    "eur_sqm": 2097,
    "yield": 8.01,
@@ -23,16 +13,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKKX3S3vLUwajQuUUr1a1x4t2wyP-xHVsa24rEQehHoCpMeOxrUwHNlYO7OHaHniZ8XAuqzP3a1_3B9byuJvyGp2Kaf9lfDkQGxvF8tKnEAMGKHkJQ"
   },
   {
-   "eur_sqm": 2109,
-   "yield": 7.97,
-   "price": 279000,
-   "sqm": 132.31,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "NB-Penthouse in Kronberg* 130m²* Fertigstellung Herbst 26",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3424765441"
-  },
-  {
    "eur_sqm": 2164,
    "yield": 7.76,
    "price": 119000,
@@ -41,16 +21,6 @@
    "source": "Immowelt (Mail)",
    "title": "Charmante",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKlbgnkz8QzA3Y_mUo2D-bjHiEMvLiEagro8dhjtNKBFfVSVvgeVAwG4GKwZAy8uNeoSz6KwmsS08BpVQgypbcAvZhulps-01aJ-uXiPrE8HyQKYng"
-  },
-  {
-   "eur_sqm": 2203,
-   "yield": 7.62,
-   "price": 650000,
-   "sqm": 295.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Eigennutzung und Mieteinnahmen perfekt kombiniert",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJX2qM1Rx1pWRuhCJB45kKPKMUwSNBb_wS0w_VMr1LqoNg9N_qGT8GG583nghJMHlCiqQUKZumZqqhOvydSClN7eOt7iTRQYqYbLVPNHhd73Xbd7WA"
   },
   {
    "eur_sqm": 2216,
@@ -301,6 +271,36 @@
    "source": "Immowelt (Mail)",
    "title": "Ein- | Zweifamilienhaus mit Traumgrundstück und Ga...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTl9ADMAAAAAAKdB2jZPIxFYZBmtXQBTGRGI2XIW5bEtcuIHpgOYctc05qvr28Wllla6BK-Wvc8yqNMgMoVRE1F5_avz2eGOwk-rBQ-Hll8FbcLiKWi2cUZ-iOIkBg"
+  },
+  {
+   "eur_sqm": 2516,
+   "yield": 6.68,
+   "price": 239000,
+   "sqm": 95.0,
+   "district": "Hessen",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "3 Zimmer - Erdgeschosswohnung im Europa-Viertel zu verkaufen",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3083722139"
+  },
+  {
+   "eur_sqm": 2527,
+   "yield": 6.65,
+   "price": 224900,
+   "sqm": 89.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Helle Etagenwohnung mit Loggia und Kellerraum in N...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjF9ADMAAAAAAKphKtRYSf1OZgzuCy-XBZF801BaEH2CL_iSsiXnRsrbYGVUu8tDAYNgxBMkJ5wcwB_vOQmaiUsQJnhj6NA_BSY_tzkozO9Ag6CoJ2gE3A3iWaqJUg"
+  },
+  {
+   "eur_sqm": 2542,
+   "yield": 6.61,
+   "price": 150000,
+   "sqm": 59.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Leerstehende",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjF9ADMAAAAAAKqC2GZOtIt0ZTcXEerVUaoYEhqkvEElzlVrrwt6DpP3DyLU0vutsw6s7dXTRlB6a3K7dv7yHQ8sLP59mrBSZp09Gmujqlapc7mC4EzjQO1xFJg51Q"
   }
  ]
 }
