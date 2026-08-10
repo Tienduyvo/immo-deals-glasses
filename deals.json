@@ -1,27 +1,7 @@
 {
- "generated_at": "2026-08-10T11:22:34",
+ "generated_at": "2026-08-10T11:23:34",
  "count": 30,
  "deals": [
-  {
-   "eur_sqm": 2371,
-   "yield": 7.08,
-   "price": 249000,
-   "sqm": 105.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Großzügige",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJZtgQKcE_ulfCjDJHPwOZN1NHWiiMq2LJl3-OPcRNsBK6MlP1ml8U8OOzoUcra2IQ3jETN1wD-pkHpPIum50ONn1BX-jnlpoeP7qF1LKAO4AuH_Lw"
-  },
-  {
-   "eur_sqm": 2375,
-   "yield": 7.07,
-   "price": 190000,
-   "sqm": 80.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Zentral gelegene",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKSVOoSxBTK87tldwICNZ7bMQV_HP3YtkBsIeqZeVVqk44F5j_qAzF73ABtyD7Ch_3nTV_tyGwLjphwNfRnTDFYcGqwGL0hwRFxQprXvM2JFKwcGng"
-  },
   {
    "eur_sqm": 2401,
    "yield": 7.0,
@@ -301,6 +281,26 @@
    "source": "Immowelt (Mail)",
    "title": "Charmantes Zweifamilienhaus mit großzügigem Platza...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKuytuh_1iRII8EH5bBJlAW5OPGIWZsvL7rvA6OI9cUFH_jN5mu62S8pSZIEBeSD0_wBd8x3gjHzSE7w-jM7PO808ew9bBm4Xnh7Vv4nBsiY8DB-PA"
+  },
+  {
+   "eur_sqm": 2733,
+   "yield": 6.15,
+   "price": 399000,
+   "sqm": 146.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Großzügiges Reihenmittelhaus mit Garage in schöner...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKvSbtbED8eTlLHzKuQkn292Di38VesX6plnXh8D2ynowKnzzCBoW_ByyyMNz11gyersP_yUvA-hE9WrjYODgn6bfWXzk8uisTQxwQncFZwirKo1Gg"
+  },
+  {
+   "eur_sqm": 2747,
+   "yield": 6.12,
+   "price": 999999,
+   "sqm": 364.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Provisionsfreies Denkmal-Investment mit 4 Einheite...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDl9ADMAAAAAAJgck1OOktbPjN2PlRHNCUODj3V8tP7NYWFCy51BXrWHOgo1HWBGIab-h0XP7wF1oFLxKU1VBRYtaK5RiLPnEvizRCogkgeah_oq-R7xYAYu5MKLOw"
   }
  ]
 }
