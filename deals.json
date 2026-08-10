@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T11:20:27",
+ "generated_at": "2026-08-10T11:21:27",
  "count": 30,
  "deals": [
   {
@@ -273,16 +273,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjF9ADMAAAAAAKq9LasvIPilAxTilA6dzF3iiVp1CgHDf9L87mcA1P2GsrROSky0PKLS-HqCwX2EppgkBjU05TFRhl8rxKSpIefEJ0YYw5LQGu5_cQdju0gsKLlT7w"
   },
   {
-   "eur_sqm": 2708,
-   "yield": 6.2,
-   "price": 1595000,
-   "sqm": 589.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Renditestarkes Wohnensemble mit 7 Wohneinheiten & ...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJzu9FKRpLh293YgUMemNELc1UfGcQ2t1TYsffSjIWz096k96H_C6LLh5w5VP-RZRoGW8C3t_jfbAvtibLUb0K0B68HyMpJrRwZyNBJNLv42oxLZ-g"
-  },
-  {
    "eur_sqm": 2719,
    "yield": 6.18,
    "price": 155000,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "Viel Raum für die Familie - Einfamilienhaus mit Bu...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKKkUPjEmdWRPBjdXMfNVVS1Rr-t-L22k5Fip6b1hbpqLWgv-ecMBfWqeGIuEB0M89VRdNrRSgLFntc0MBpQ0yEIJb8Vs9VcK2-3poqxKs8-kcZ7DQ"
+  },
+  {
+   "eur_sqm": 2726,
+   "yield": 6.16,
+   "price": 398000,
+   "sqm": 146.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Geräumiges Einfamilienhaus mit Garten, Werkstatt u...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKJgWbvC9ZfOfAzJrkiFU3HMfBrQWkh_9VkuWVZymFYbM830sOTkbbEeZmP2-EiqCjFKQ-_MkW_iqBIF3Oq2iwXKA20vv1xsS-fpSibSqKNZ7e9YnQ"
   }
  ]
 }
