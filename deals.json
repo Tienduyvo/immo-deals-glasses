@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T11:23:34",
+ "generated_at": "2026-08-10T11:24:40",
  "count": 30,
  "deals": [
   {
@@ -11,16 +11,6 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
-  },
-  {
-   "eur_sqm": 2402,
-   "yield": 6.99,
-   "price": 579000,
-   "sqm": 241.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Einfamilienhaus mit ELW + genehmigter Gewerbefläch...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTd9ADMAAAAAAKN4yLm3WLmXgcMTpwaYza7LPsPTjidZVaLnPsh-X5MEFYT-e73E_jOtHiAVXFnaw8yCWlX26XVKLyArfBN2SSQvw9ODZOkjN6keHqzMXcx118EW1w"
   },
   {
    "eur_sqm": 2446,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "Provisionsfreies Denkmal-Investment mit 4 Einheite...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDl9ADMAAAAAAJgck1OOktbPjN2PlRHNCUODj3V8tP7NYWFCy51BXrWHOgo1HWBGIab-h0XP7wF1oFLxKU1VBRYtaK5RiLPnEvizRCogkgeah_oq-R7xYAYu5MKLOw"
+  },
+  {
+   "eur_sqm": 2773,
+   "yield": 6.06,
+   "price": 208000,
+   "sqm": 75.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Einladende",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJbghFiT5ofSGRbQbtLvAYMxRA8_PFfrgPk8Nx8VmKVd-VqVvXITZ-c7mOT11RxDOqd9rEwHns0G16s5wyFzrbLmUlFakUVI_X96pVZlTEHIJ3YIpA"
   }
  ]
 }
