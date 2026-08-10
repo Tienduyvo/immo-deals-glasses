@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T20:14:22",
+ "generated_at": "2026-08-10T20:16:28",
  "count": 30,
  "deals": [
   {
@@ -11,6 +11,16 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "Ein Haus voller Möglichkeiten für die ganze Familie",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3481038819"
+  },
+  {
+   "eur_sqm": 2121,
+   "yield": 7.92,
+   "price": 210000,
+   "sqm": 99.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Ihr Glück beginnt genau hier - Licht durchflutete ...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjR9ADMAAAAAAK488FYAt4HdbIzDtvFX_DOxpqtM-97Ghr9p9IFELJSMMfcqYY-DRLXRhgJnqPCms90h_CRWC88lTJ178XLAr9MpZoDYZprEwEjtbE8yc2fg7Pc_rA"
   },
   {
    "eur_sqm": 2134,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Einladende",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJbghFiT5ofSGRbQbtLvAYMxRA8_PFfrgPk8Nx8VmKVd-VqVvXITZ-c7mOT11RxDOqd9rEwHns0G16s5wyFzrbLmUlFakUVI_X96pVZlTEHIJ3YIpA"
-  },
-  {
-   "eur_sqm": 2778,
-   "yield": 6.05,
-   "price": 150000,
-   "sqm": 54.0,
-   "district": "Offenbach",
-   "source": "ImmoScout24 (Mail)",
-   "title": "JETZT ODER NIE! Sanierungsbedürftige 2,5 ZI-Whg mit Balkon u",
-   "url": "https://push.search.is24.de/email/expose/169782391"
   }
  ]
 }
