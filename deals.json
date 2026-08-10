@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T11:05:37",
+ "generated_at": "2026-08-10T11:06:37",
  "count": 30,
  "deals": [
   {
@@ -123,16 +123,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTd9ADMAAAAAAKN4yLm3WLmXgcMTpwaYza7LPsPTjidZVaLnPsh-X5MEFYT-e73E_jOtHiAVXFnaw8yCWlX26XVKLyArfBN2SSQvw9ODZOkjN6keHqzMXcx118EW1w"
   },
   {
-   "eur_sqm": 2419,
-   "yield": 6.94,
-   "price": 329000,
-   "sqm": 136.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Sanierungsbedürftiges Haus in ruhiger Seitenstraße...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTl9ADMAAAAAAKdSScD5lzu7CxT9_dKiyYIp_AlzhmjZlRgjrhyuaEke9IiC36QwAzKV0RJ2zSxKc0kMoZOxA-lkaLW3DvKh0DffCXuOXV-u7RwiLKeOSSEHzQiwGw"
-  },
-  {
    "eur_sqm": 2429,
    "yield": 6.92,
    "price": 459000,
@@ -223,16 +213,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKwZB_mxQvjgTs3pqjgycs92Rf0C9_8PVoOoFZnsEZWCiADf4_G45LpiDvVp8UAhzR-GJtVY1ZWw1AmSpJpHgHdNYWHroeuz6YR35AD2-9NgEfU49Q"
   },
   {
-   "eur_sqm": 2582,
-   "yield": 6.51,
-   "price": 470000,
-   "sqm": 182.0,
-   "district": "Rodgau",
-   "source": "Immowelt (Mail)",
-   "title": "***Viel Platz in zentraler Lage von Rodgau Jügeshe...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKKM6xoyH1N3ZLWa-lsbv17vkfDG6aBrlAzwgnpr8kUInzpQNNvAZ7UkObDu1GHcDWeeB4oHUOB13vY26VJ6O9pIA_FYYd-YxnZcFiS-lMqtXxIqtw"
-  },
-  {
    "eur_sqm": 2584,
    "yield": 6.5,
    "price": 199000,
@@ -301,6 +281,26 @@
    "source": "Immowelt (Mail)",
    "title": "Kapitalanlage Schöne",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKwYhTVlWR9XyelwWQFwzx8gUB4X5M4OtOkgpUWJtQWeow4S4OsrTbI9MaflglW8jQGKiwDmFnJ9QpSmXrhSH7HBikcbhl5hsCvsdvTFaD_oyuFVcA"
+  },
+  {
+   "eur_sqm": 2643,
+   "yield": 6.36,
+   "price": 185000,
+   "sqm": 70.0,
+   "district": "Hessen",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Stillvoll wohnen in Bestlage - Moderne Eigentumswohnung",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3446597840"
+  },
+  {
+   "eur_sqm": 2649,
+   "yield": 6.34,
+   "price": 249000,
+   "sqm": 94.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Rarität: Traumhafte",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTl9ADMAAAAAAKdSScDzba1YCdc2qQJnuvI56o7B2CYVamSBFhGg4781pZM0ZH57oVasK_uhHXb4ojrK5znKFY4IDJg2S9TGn30Kh0zB_ZfMxz0-z2x4bx2qDsbJ3g"
   }
  ]
 }
