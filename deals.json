@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-10T14:25:56",
+ "generated_at": "2026-08-10T14:37:24",
  "count": 30,
  "deals": [
+  {
+   "eur_sqm": 1586,
+   "yield": 10.59,
+   "price": 379000,
+   "sqm": 239.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Ein Haus voller Möglichkeiten für die ganze Familie",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3481038819"
+  },
   {
    "eur_sqm": 2401,
    "yield": 7.0,
@@ -291,16 +301,6 @@
    "source": "ImmoScout24 (Mail)",
    "title": "JETZT ODER NIE! Sanierungsbedürftige 2,5 ZI-Whg mit Balkon u",
    "url": "https://push.search.is24.de/email/expose/169782391"
-  },
-  {
-   "eur_sqm": 2780,
-   "yield": 6.04,
-   "price": 570000,
-   "sqm": 205.0,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Solides Investment mit Weitblick – Gepflegtes 3-Familien-Hau",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3442231717"
   }
  ]
 }
