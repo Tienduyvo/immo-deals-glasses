@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T09:58:22",
+ "generated_at": "2026-08-10T10:42:41",
  "count": 30,
  "deals": [
   {
@@ -61,16 +61,6 @@
    "source": "Immowelt (Mail)",
    "title": "Sanierungsbedürftiges 3 FH in OF-Bürgel mit Entwic...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKjSyGimflwZfUAoI9a08GozsY0sb-nhUb9T6cpj3QLa6-Knxe6eAx84Pf_Mv8L31SRWEC3tn5nDM820uj8VnfmW_TLnn23IZ_MzS9t-UEinSRcz6Q"
-  },
-  {
-   "eur_sqm": 1723,
-   "yield": 9.75,
-   "price": 1499000,
-   "sqm": 870.0,
-   "district": "Dietzenbach",
-   "source": "Immowelt (Mail)",
-   "title": "FAKTOR 13x RENDITE !! - A-Lage in Dietzenbach mit ...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTl9ADMAAAAAAKc5htutr9FX8Ox3zK__7pgAGobZ_xDfQuZsJvSbcaFvfhMNT_Z6phJETC_y5Kepx0JPxema4Z16kCDXnVwjGf145PCUt0zCU3VbADJNhOqHdmpE7A"
   },
   {
    "eur_sqm": 1724,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "Historisches Denkmal mit großem Potenzial - Verwir...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJtbTRSb33TFT8U3Q-8j7U24zu-bKbXCB2o-4eCvkjT2-RfSLM6XVEXhDqCigbce0YFHSPQ8GDB7ZG_rI6-xC4TJSAyYfImBxeIwrvh8RYC-JZ1cuw"
+  },
+  {
+   "eur_sqm": 2360,
+   "yield": 7.12,
+   "price": 498000,
+   "sqm": 211.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Zweifamilienhaus mit viel Platz und großem Potenzi...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTB9ADMAAAAAAJioT8r8T6jMHidaOk1yiujR5KOLvacQ-OA-Fg6dlnFb82XJd3JzwueZEWPMzIfMM3gLtWe0MEhXDfU2KKod-PesLOpATJdV1VKDCp_-4YSuF_AKJQ"
   }
  ]
 }
