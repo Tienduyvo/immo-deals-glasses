@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T11:24:40",
+ "generated_at": "2026-08-10T11:25:40",
  "count": 30,
  "deals": [
   {
@@ -41,26 +41,6 @@
    "source": "Immowelt (Mail)",
    "title": "Helle Etagenwohnung mit Loggia und Kellerraum in N...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjF9ADMAAAAAAKphKtRYSf1OZgzuCy-XBZF801BaEH2CL_iSsiXnRsrbYGVUu8tDAYNgxBMkJ5wcwB_vOQmaiUsQJnhj6NA_BSY_tzkozO9Ag6CoJ2gE3A3iWaqJUg"
-  },
-  {
-   "eur_sqm": 2542,
-   "yield": 6.61,
-   "price": 150000,
-   "sqm": 59.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Leerstehende",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjF9ADMAAAAAAKqC2GZOtIt0ZTcXEerVUaoYEhqkvEElzlVrrwt6DpP3DyLU0vutsw6s7dXTRlB6a3K7dv7yHQ8sLP59mrBSZp09Gmujqlapc7mC4EzjQO1xFJg51Q"
-  },
-  {
-   "eur_sqm": 2545,
-   "yield": 6.6,
-   "price": 960000,
-   "sqm": 377.16,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "VIER EINZUGSFERTIGE WOHNEINHEITEN auf IHREM GRUNDSTÜCK",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3053477573"
   },
   {
    "eur_sqm": 2563,
@@ -301,6 +281,26 @@
    "source": "Immowelt (Mail)",
    "title": "Einladende",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJbghFiT5ofSGRbQbtLvAYMxRA8_PFfrgPk8Nx8VmKVd-VqVvXITZ-c7mOT11RxDOqd9rEwHns0G16s5wyFzrbLmUlFakUVI_X96pVZlTEHIJ3YIpA"
+  },
+  {
+   "eur_sqm": 2778,
+   "yield": 6.05,
+   "price": 150000,
+   "sqm": 54.0,
+   "district": "Offenbach",
+   "source": "ImmoScout24 (Mail)",
+   "title": "JETZT ODER NIE! Sanierungsbedürftige 2,5 ZI-Whg mit Balkon u",
+   "url": "https://push.search.is24.de/email/expose/169782391"
+  },
+  {
+   "eur_sqm": 2780,
+   "yield": 6.04,
+   "price": 570000,
+   "sqm": 205.0,
+   "district": "Hessen",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Dein Traumhaus wartet auf dich",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3442231717"
   }
  ]
 }
