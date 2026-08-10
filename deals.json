@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T11:14:59",
+ "generated_at": "2026-08-10T11:17:27",
  "count": 30,
  "deals": [
   {
@@ -131,16 +131,6 @@
    "source": "Immowelt (Mail)",
    "title": "Ein- | Zweifamilienhaus mit Traumgrundstück und Ga...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTl9ADMAAAAAAKdB2jZPIxFYZBmtXQBTGRGI2XIW5bEtcuIHpgOYctc05qvr28Wllla6BK-Wvc8yqNMgMoVRE1F5_avz2eGOwk-rBQ-Hll8FbcLiKWi2cUZ-iOIkBg"
-  },
-  {
-   "eur_sqm": 2516,
-   "yield": 6.68,
-   "price": 239000,
-   "sqm": 95.0,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "3 Zimmer - Erdgeschosswohnung im Europa-Viertel zu verkaufen",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3083722139"
   },
   {
    "eur_sqm": 2527,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "Top Lage Bruchköbel: Doppelhaushälfte und Hinterha...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjN9ADMAAAAAAK0iV7o578H7Kt3bqSpuQgillXEAv8GXYuSqbF97nb7nY1hfQ9cT8d3pxP6QKttmapAxisL2f7MNOfoZmM0ZwlTCK1P8FmBBDVLTE1vK5Ks9Hu1MCw"
+  },
+  {
+   "eur_sqm": 2672,
+   "yield": 6.29,
+   "price": 1590000,
+   "sqm": 595.0,
+   "district": "Hanau",
+   "source": "Immowelt (Mail)",
+   "title": "HANAU - representative Jugendstilvilla am Stadtkra...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJU5c7o1KxeHXJzhM9NEV0kwV3skqhrjs9rLUM6ZBtyTF1uoELrZOQUBSYxu0LFgcESDFeSgkS4wsXxMS-ofyqgPR07cZ7oos4FR3824kYTZiuQWFg"
   }
  ]
 }
