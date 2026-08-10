@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T11:02:37",
+ "generated_at": "2026-08-10T11:03:38",
  "count": 30,
  "deals": [
   {
@@ -23,26 +23,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKlbgnkz8QzA3Y_mUo2D-bjHiEMvLiEagro8dhjtNKBFfVSVvgeVAwG4GKwZAy8uNeoSz6KwmsS08BpVQgypbcAvZhulps-01aJ-uXiPrE8HyQKYng"
   },
   {
-   "eur_sqm": 2216,
-   "yield": 7.58,
-   "price": 565000,
-   "sqm": 255.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "3-Familienhaus in bevorzugter Wohnlage von Ilbenst...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKj1ySx5Xb2RQhb5xA_H-FQuKDk5MVzD1eNukpL0M5cp0g3xI0j1YY8FAuasuoIg09qIqSWOqp_w1BMRUNldjHd_MzZJV9TqlOQ9Hu9R-UWKTXBEIg"
-  },
-  {
-   "eur_sqm": 2224,
-   "yield": 7.55,
-   "price": 129000,
-   "sqm": 58.0,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Provisionsfrei 2-Zimmer-Eigentumswohnung mit Balkon &Stellpl",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3464671454"
-  },
-  {
    "eur_sqm": 2227,
    "yield": 7.55,
    "price": 570000,
@@ -51,26 +31,6 @@
    "source": "Immowelt (Mail)",
    "title": "Zentral & ruhig: Gepflegtes Wohn- und Geschäftshau...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTN9ADMAAAAAAJ5V-PkDiaH8rqPAHRE8S-nsGoe4rKAtYeOS9ulPf1H5d8PK4jzFrl_m3K8to3v4nm4A_tUEnKxYKkwKiT11H-Oh6Hg-i_JTSjHGT5fynvoGqRcOyg"
-  },
-  {
-   "eur_sqm": 2263,
-   "yield": 7.42,
-   "price": 799000,
-   "sqm": 353.0,
-   "district": "Offenbach",
-   "source": "Immowelt (Mail)",
-   "title": "Bebautes Grundstück in Offenbach-Rumpenheim mit Mi...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKWZxjmAIUyejtV1D5DpjPg0wznQgUkL3vSjrqFCKrDztdClNvsOiXCr6Wxu-_9uNf9BmJpgQOCZXoqfzKpwf84UILAEBOXUWfVltPWlyI5467lbig"
-  },
-  {
-   "eur_sqm": 2270,
-   "yield": 7.4,
-   "price": 227000,
-   "sqm": 100.0,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Ein Architektenhaus Neubau von Streif - was will man mehr..",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3471654660"
   },
   {
    "eur_sqm": 2297,
@@ -301,6 +261,46 @@
    "source": "Immowelt (Mail)",
    "title": "Leerstehende",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjF9ADMAAAAAAKqC2GZOtIt0ZTcXEerVUaoYEhqkvEElzlVrrwt6DpP3DyLU0vutsw6s7dXTRlB6a3K7dv7yHQ8sLP59mrBSZp09Gmujqlapc7mC4EzjQO1xFJg51Q"
+  },
+  {
+   "eur_sqm": 2545,
+   "yield": 6.6,
+   "price": 960000,
+   "sqm": 377.16,
+   "district": "Hessen",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "VIER EINZUGSFERTIGE WOHNEINHEITEN auf IHREM GRUNDSTÜCK",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3053477573"
+  },
+  {
+   "eur_sqm": 2563,
+   "yield": 6.55,
+   "price": 669000,
+   "sqm": 261.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Zweifamilienhaus mit großer Terrasse und Garten",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKwZB_mxQvjgTs3pqjgycs92Rf0C9_8PVoOoFZnsEZWCiADf4_G45LpiDvVp8UAhzR-GJtVY1ZWw1AmSpJpHgHdNYWHroeuz6YR35AD2-9NgEfU49Q"
+  },
+  {
+   "eur_sqm": 2582,
+   "yield": 6.51,
+   "price": 470000,
+   "sqm": 182.0,
+   "district": "Rodgau",
+   "source": "Immowelt (Mail)",
+   "title": "***Viel Platz in zentraler Lage von Rodgau Jügeshe...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKKM6xoyH1N3ZLWa-lsbv17vkfDG6aBrlAzwgnpr8kUInzpQNNvAZ7UkObDu1GHcDWeeB4oHUOB13vY26VJ6O9pIA_FYYd-YxnZcFiS-lMqtXxIqtw"
+  },
+  {
+   "eur_sqm": 2584,
+   "yield": 6.5,
+   "price": 199000,
+   "sqm": 77.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Terrassenwohnung mit 2 Parkplätzen",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJpnTy8FiiB_9xOTwjqStK7xVbkyO1gkStOhg_YLP1unn3N7EzigFil40_-CjshU9381A5E_awxZts3UYpuCcYGBT7eA5BE279qRLQzI4Qh2-5PB5w"
   }
  ]
 }
