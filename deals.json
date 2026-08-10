@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T20:07:41",
+ "generated_at": "2026-08-10T20:14:22",
  "count": 30,
  "deals": [
   {
@@ -21,6 +21,16 @@
    "source": "Immowelt (Mail)",
    "title": "3-Zimmer-Wohnung in Dietzenbach mit Tiefgaragenste...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjR9ADMAAAAAAK4qRQG1f0wW-zlO--WctP6flmWjIKFCDfwJ5WknDaD_lQO9W3I4bDsj7Z5F6Ij_VS_sohFxKmAszmXxE8Roz2V-MCYyMep69Liok36NnUcIEQHGpQ"
+  },
+  {
+   "eur_sqm": 2297,
+   "yield": 7.31,
+   "price": 425000,
+   "sqm": 185.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Leerstehende Doppelhaushälfte mit großem Grundstüc...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjR9ADMAAAAAAK484GDpXBWHhkavbC_OXUju1jUQE2UGCSyiRSV6OfOnKRJkuRPHxBqFUfrsSCklLKd-eIGnTPZyh271TZEddjYXxryN7ISb9UAxOpVlkqQVAl83QA"
   },
   {
    "eur_sqm": 2401,
@@ -291,16 +301,6 @@
    "source": "ImmoScout24 (Mail)",
    "title": "JETZT ODER NIE! Sanierungsbedürftige 2,5 ZI-Whg mit Balkon u",
    "url": "https://push.search.is24.de/email/expose/169782391"
-  },
-  {
-   "eur_sqm": 2780,
-   "yield": 6.04,
-   "price": 570000,
-   "sqm": 205.0,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Solides Investment mit Weitblick – Gepflegtes 3-Familien-Hau",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3442231717"
   }
  ]
 }
