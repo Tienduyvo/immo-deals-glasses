@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T16:58:21",
+ "generated_at": "2026-08-10T16:59:21",
  "count": 30,
  "deals": [
   {
@@ -21,26 +21,6 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
-  },
-  {
-   "eur_sqm": 2446,
-   "yield": 6.87,
-   "price": 159000,
-   "sqm": 65.0,
-   "district": "",
-   "source": "Immowelt (Mail)",
-   "title": "Licht, Ruhe und Komfort: Attraktive",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAKAuxNq4wXXdTNPF1C1Z_BnUKi_Xes_YUn3P0ShSIveUUb0r7Qrx2pbxAOc3x1qHjDqFvAfiTbtG4HvXxULZ1al5x3pGx9NCkhGvB4_azRr1-D9iAA"
-  },
-  {
-   "eur_sqm": 2500,
-   "yield": 6.72,
-   "price": 240000,
-   "sqm": 96.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Investieren mit Weitblick:",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTd9ADMAAAAAAKPX8enDFbgNDck1d84bMgYyRexpESQ9uyF9Gnj83I4Pf-uWkdlbGVKyyX05W5bFpNfE5V9siAM5UyeOW-MhfoEkE0rDUw1qWg6weHen5NNI_ax9Uw"
   },
   {
    "eur_sqm": 2500,
@@ -71,16 +51,6 @@
    "source": "Immowelt (Mail)",
    "title": "Zweifamilienhaus mit großer Terrasse und Garten",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKwZB_mxQvjgTs3pqjgycs92Rf0C9_8PVoOoFZnsEZWCiADf4_G45LpiDvVp8UAhzR-GJtVY1ZWw1AmSpJpHgHdNYWHroeuz6YR35AD2-9NgEfU49Q"
-  },
-  {
-   "eur_sqm": 2584,
-   "yield": 6.5,
-   "price": 199000,
-   "sqm": 77.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Terrassenwohnung mit 2 Parkplätzen",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJpnTy8FiiB_9xOTwjqStK7xVbkyO1gkStOhg_YLP1unn3N7EzigFil40_-CjshU9381A5E_awxZts3UYpuCcYGBT7eA5BE279qRLQzI4Qh2-5PB5w"
   },
   {
    "eur_sqm": 2600,
@@ -301,6 +271,36 @@
    "source": "Immowelt (Mail)",
    "title": "Einladende",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJbghFiT5ofSGRbQbtLvAYMxRA8_PFfrgPk8Nx8VmKVd-VqVvXITZ-c7mOT11RxDOqd9rEwHns0G16s5wyFzrbLmUlFakUVI_X96pVZlTEHIJ3YIpA"
+  },
+  {
+   "eur_sqm": 2778,
+   "yield": 6.05,
+   "price": 150000,
+   "sqm": 54.0,
+   "district": "Offenbach",
+   "source": "ImmoScout24 (Mail)",
+   "title": "JETZT ODER NIE! Sanierungsbedürftige 2,5 ZI-Whg mit Balkon u",
+   "url": "https://push.search.is24.de/email/expose/169782391"
+  },
+  {
+   "eur_sqm": 2780,
+   "yield": 6.04,
+   "price": 570000,
+   "sqm": 205.0,
+   "district": "Hessen",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Solides Investment mit Weitblick – Gepflegtes 3-Familien-Hau",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3442231717"
+  },
+  {
+   "eur_sqm": 2785,
+   "yield": 6.03,
+   "price": 699000,
+   "sqm": 251.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Historisches Kulturdenkmal mit Scheune und traumha...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTB9ADMAAAAAAJioT8sCJTtkpepkgZK7Tq1UTsuRjb0V748emk2gm6NO0pm75s8kUpFXXQ6bDDZjMbSHWaTY5MAsmgZL-3IqQ-qqdVxH_V2ClBGP5fTu8gmuYIrm-A"
   }
  ]
 }
