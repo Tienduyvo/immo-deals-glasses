@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T11:09:28",
+ "generated_at": "2026-08-10T11:13:59",
  "count": 30,
  "deals": [
   {
@@ -71,16 +71,6 @@
    "source": "Immowelt (Mail)",
    "title": "Zweifamilienhaus mit viel Platz und großem Potenzi...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTB9ADMAAAAAAJioT8r8T6jMHidaOk1yiujR5KOLvacQ-OA-Fg6dlnFb82XJd3JzwueZEWPMzIfMM3gLtWe0MEhXDfU2KKod-PesLOpATJdV1VKDCp_-4YSuF_AKJQ"
-  },
-  {
-   "eur_sqm": 2364,
-   "yield": 7.11,
-   "price": 139500,
-   "sqm": 59.0,
-   "district": "Hanau",
-   "source": "Immowelt (Mail)",
-   "title": "barrierefreie 2-Raum-Wohnung in Hanau, renoviert, ...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTB9ADMAAAAAAJlLT3yhzF_nBbap0YkZugAJ9R-mn-BJpwWeeaEvl515cLYF7MlHFEl1gfWikFThN4IfG5lnMX-8nKWA8wLOvjg-tbVebRF92w-qQyoIqhCN01PRrA"
   },
   {
    "eur_sqm": 2371,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "Rarität: Traumhafte",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTl9ADMAAAAAAKdSScDzba1YCdc2qQJnuvI56o7B2CYVamSBFhGg4781pZM0ZH57oVasK_uhHXb4ojrK5znKFY4IDJg2S9TGn30Kh0zB_ZfMxz0-z2x4bx2qDsbJ3g"
+  },
+  {
+   "eur_sqm": 2650,
+   "yield": 6.34,
+   "price": 599000,
+   "sqm": 226.0,
+   "district": "Offenbach",
+   "source": "Immowelt (Mail)",
+   "title": "Solide Kapitalanlage - 4 Familienhaus in Offenbach...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTV9ADMAAAAAAKHh6Do_u7Nc100Xl5zc-j8JHXeio7d3gaIktnHZV8RM-Y1nwxTXPthNlgm7jJPViOtVQIb9cbqFOy6MXfmrvirHC93D1w7rxlT7atr4OEVwHdOSsw"
   }
  ]
 }
