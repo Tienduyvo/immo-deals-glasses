@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T10:59:38",
+ "generated_at": "2026-08-10T11:00:38",
  "count": 30,
  "deals": [
   {
@@ -11,36 +11,6 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Donaustr. 21, 63322 Rödermark, Ober-Roden",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54911&land_abk=he"
-  },
-  {
-   "eur_sqm": 1346,
-   "yield": 12.48,
-   "price": 179000,
-   "sqm": 133.0,
-   "district": "Offenbach",
-   "source": "Immowelt (Mail)",
-   "title": "Sanierungsobjekt mit Potenzial in Offenbach: 3 Ein...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJxjZtQdLeBw7FcHKQq9AxKERleqWPU2Z9ppUPVziRaaocUH3FVnEvPSmKWd10pExIz4c3pegJqNHn_27ORsgx_BMWUpL0TEvp2u43RJ7BEkdalpPw"
-  },
-  {
-   "eur_sqm": 1805,
-   "yield": 9.31,
-   "price": 379000,
-   "sqm": 210.0,
-   "district": "",
-   "source": "Immowelt (Mail)",
-   "title": "Stilvoll wohnen im Fachwerk: Einfamilienhaus mit W...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAJ7a2gUe0UvUU3KmRVDjNDf5KG2y3Wls4sl6jvui-ZDhlbeL7WhazdmrW0-_w4tmRcuWcsQvLN0oKDYAVz3xi3bzvSrKRx9hF6OUJnvGcMWZcEIBdg"
-  },
-  {
-   "eur_sqm": 1864,
-   "yield": 9.01,
-   "price": 123000,
-   "sqm": 66.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Renditekracher: Gepflegte",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJtucJpXEKS9OztvT8GULfqQUAPO4HEbR7ObZUe_T_u0Hv8X-WeWE3ilEq7cRgsdbHE0MucRqjIjqBO0WMwXt6PYF9WkkzPnN1v_UJNaNMZCeKyFBA"
   },
   {
    "eur_sqm": 1996,
@@ -301,6 +271,36 @@
    "source": "Immowelt (Mail)",
    "title": "Zweifamilienhaus mit 2 Balkonen, Garten, Keller, G...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJzBWM9Gg2MTDa_nmRCha4ZMi8_uaG_xaOrKEFp5zPZxkvvNE4AqN_byrMHyNTbz321LoLVrgxc-_bt2xcKoN0yGTtAojU8SNNpSpN2Kp7gDPxBldw"
+  },
+  {
+   "eur_sqm": 2440,
+   "yield": 6.88,
+   "price": 959000,
+   "sqm": 393.0,
+   "district": "Rodgau",
+   "source": "Immowelt (Mail)",
+   "title": "5-Familienhaus Rodgau: voll vermietet mit kurzfris...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJcAW6h3DNp4qD-iAkXqbZOvb_4YPQOAWjTiF5GXpEvt9SdeLbaOV-b6aqJBtXEOc9KTzTqLgZQEMOMbUpu28Kb-amvy-1E9ettfEriR1M2EeyfeXQ"
+  },
+  {
+   "eur_sqm": 2443,
+   "yield": 6.88,
+   "price": 645000,
+   "sqm": 264.0,
+   "district": "Hattersheim",
+   "source": "Immowelt (Mail)",
+   "title": "3FH in Hattersheim-Eddersheim",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKhoect_9AL-wf4uvFdgzZptx8Sbexi1mGQ4tvEOBHfYOlt_XSr7fDOF6VPf1Mur6IrjhzBiF4k3VoaFaBmzSSdh2z1-pYEGFNq3uxxajpQP6TtLnw"
+  },
+  {
+   "eur_sqm": 2446,
+   "yield": 6.87,
+   "price": 159000,
+   "sqm": 65.0,
+   "district": "",
+   "source": "Immowelt (Mail)",
+   "title": "Licht, Ruhe und Komfort: Attraktive",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAKAuxNq4wXXdTNPF1C1Z_BnUKi_Xes_YUn3P0ShSIveUUb0r7Qrx2pbxAOc3x1qHjDqFvAfiTbtG4HvXxULZ1al5x3pGx9NCkhGvB4_azRr1-D9iAA"
   }
  ]
 }
