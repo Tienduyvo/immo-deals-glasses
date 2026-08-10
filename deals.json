@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T11:13:59",
+ "generated_at": "2026-08-10T11:14:59",
  "count": 30,
  "deals": [
   {
@@ -31,26 +31,6 @@
    "source": "Immowelt (Mail)",
    "title": "Zentral & ruhig: Gepflegtes Wohn- und Geschäftshau...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTN9ADMAAAAAAJ5V-PkDiaH8rqPAHRE8S-nsGoe4rKAtYeOS9ulPf1H5d8PK4jzFrl_m3K8to3v4nm4A_tUEnKxYKkwKiT11H-Oh6Hg-i_JTSjHGT5fynvoGqRcOyg"
-  },
-  {
-   "eur_sqm": 2297,
-   "yield": 7.32,
-   "price": 395000,
-   "sqm": 172.0,
-   "district": "",
-   "source": "Immowelt (Mail)",
-   "title": "Moderner, individuell geplanter Bungalow in Bad Vi...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAKEG_CdXayscK-s4sRxTIomH9itluGp5Zm3t-LNldz6rGBtZaAboXrir5S-tuJVze-Q8ggkOF3lNjCje9YiFFv1Z0z6u1jK8uTMVy4y92HKe9tehcw"
-  },
-  {
-   "eur_sqm": 2322,
-   "yield": 7.24,
-   "price": 599000,
-   "sqm": 258.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Ein- bis Zweifamilienhaus mit Scheune & Bauplatz -...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKvC6QMLTPu03wLtXWyEFQkpvHgrwIxj03NqycCdV8pIiC72bwpHgwOci8w0G-LNxeoYlICmjtJxy03VjcJdy6zTuNFmHjwy0hIE45Jx_5W03TcsZw"
   },
   {
    "eur_sqm": 2338,
@@ -301,6 +281,26 @@
    "source": "Immowelt (Mail)",
    "title": "Solide Kapitalanlage - 4 Familienhaus in Offenbach...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTV9ADMAAAAAAKHh6Do_u7Nc100Xl5zc-j8JHXeio7d3gaIktnHZV8RM-Y1nwxTXPthNlgm7jJPViOtVQIb9cbqFOy6MXfmrvirHC93D1w7rxlT7atr4OEVwHdOSsw"
+  },
+  {
+   "eur_sqm": 2659,
+   "yield": 6.32,
+   "price": 359000,
+   "sqm": 135.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Ihr Maisonette-Traum mit Galerie & 2 Duplex-Stellp...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjN9ADMAAAAAAKyv9VBP9UUL1X1kLg-OPpw_cIEI3aVzgLzDP2krjBwjfls8k-BJBgisLx1l_cG5-DxVD75-ygRcBuEIB2bSY4j9OqyYsCu6tuu9F9Thrx-Y_b3uXw"
+  },
+  {
+   "eur_sqm": 2663,
+   "yield": 6.31,
+   "price": 719000,
+   "sqm": 270.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Top Lage Bruchköbel: Doppelhaushälfte und Hinterha...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjN9ADMAAAAAAK0iV7o578H7Kt3bqSpuQgillXEAv8GXYuSqbF97nb7nY1hfQ9cT8d3pxP6QKttmapAxisL2f7MNOfoZmM0ZwlTCK1P8FmBBDVLTE1vK5Ks9Hu1MCw"
   }
  ]
 }
