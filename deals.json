@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T20:16:28",
+ "generated_at": "2026-08-10T20:47:34",
  "count": 30,
  "deals": [
   {
@@ -163,6 +163,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTV9ADMAAAAAAKHh6Do_u7Nc100Xl5zc-j8JHXeio7d3gaIktnHZV8RM-Y1nwxTXPthNlgm7jJPViOtVQIb9cbqFOy6MXfmrvirHC93D1w7rxlT7atr4OEVwHdOSsw"
   },
   {
+   "eur_sqm": 2657,
+   "yield": 6.32,
+   "price": 449000,
+   "sqm": 169.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Ein- bis Zweifamilienhaus in Hünfelden - Mensfelde...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjR9ADMAAAAAAK4-VGIpK0ejbZv8yP4ZFgJKmIyu88LaDZ40gqVO3HvbZgNBu5claRU7cdhce9V7BJjNALFD6kJ_NnArPkw_X7oBHHMn4pS0qiOKJFgtytDXAQI4ng"
+  },
+  {
    "eur_sqm": 2659,
    "yield": 6.32,
    "price": 359000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Provisionsfreies Denkmal-Investment mit 4 Einheite...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDl9ADMAAAAAAJgck1OOktbPjN2PlRHNCUODj3V8tP7NYWFCy51BXrWHOgo1HWBGIab-h0XP7wF1oFLxKU1VBRYtaK5RiLPnEvizRCogkgeah_oq-R7xYAYu5MKLOw"
-  },
-  {
-   "eur_sqm": 2773,
-   "yield": 6.06,
-   "price": 208000,
-   "sqm": 75.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Einladende",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJbghFiT5ofSGRbQbtLvAYMxRA8_PFfrgPk8Nx8VmKVd-VqVvXITZ-c7mOT11RxDOqd9rEwHns0G16s5wyFzrbLmUlFakUVI_X96pVZlTEHIJ3YIpA"
   }
  ]
 }
