@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T11:19:27",
+ "generated_at": "2026-08-10T11:20:27",
  "count": 30,
  "deals": [
   {
@@ -61,16 +61,6 @@
    "source": "Immowelt (Mail)",
    "title": "Investieren mit Weitblick:",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTd9ADMAAAAAAKPX8enDFbgNDck1d84bMgYyRexpESQ9uyF9Gnj83I4Pf-uWkdlbGVKyyX05W5bFpNfE5V9siAM5UyeOW-MhfoEkE0rDUw1qWg6weHen5NNI_ax9Uw"
-  },
-  {
-   "eur_sqm": 2503,
-   "yield": 6.71,
-   "price": 398000,
-   "sqm": 159.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Ein- | Zweifamilienhaus mit Traumgrundstück und Ga...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTl9ADMAAAAAAKdB2jZPIxFYZBmtXQBTGRGI2XIW5bEtcuIHpgOYctc05qvr28Wllla6BK-Wvc8yqNMgMoVRE1F5_avz2eGOwk-rBQ-Hll8FbcLiKWi2cUZ-iOIkBg"
   },
   {
    "eur_sqm": 2527,
@@ -233,16 +223,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjN9ADMAAAAAAK0iV7o578H7Kt3bqSpuQgillXEAv8GXYuSqbF97nb7nY1hfQ9cT8d3pxP6QKttmapAxisL2f7MNOfoZmM0ZwlTCK1P8FmBBDVLTE1vK5Ks9Hu1MCw"
   },
   {
-   "eur_sqm": 2672,
-   "yield": 6.29,
-   "price": 1590000,
-   "sqm": 595.0,
-   "district": "Hanau",
-   "source": "Immowelt (Mail)",
-   "title": "HANAU - representative Jugendstilvilla am Stadtkra...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJU5c7o1KxeHXJzhM9NEV0kwV3skqhrjs9rLUM6ZBtyTF1uoELrZOQUBSYxu0LFgcESDFeSgkS4wsXxMS-ofyqgPR07cZ7oos4FR3824kYTZiuQWFg"
-  },
-  {
    "eur_sqm": 2693,
    "yield": 6.24,
    "price": 579000,
@@ -301,6 +281,26 @@
    "source": "Immowelt (Mail)",
    "title": "Renditestarkes Wohnensemble mit 7 Wohneinheiten & ...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJzu9FKRpLh293YgUMemNELc1UfGcQ2t1TYsffSjIWz096k96H_C6LLh5w5VP-RZRoGW8C3t_jfbAvtibLUb0K0B68HyMpJrRwZyNBJNLv42oxLZ-g"
+  },
+  {
+   "eur_sqm": 2719,
+   "yield": 6.18,
+   "price": 155000,
+   "sqm": 57.0,
+   "district": "Hanau",
+   "source": "Immowelt (Mail)",
+   "title": "Solide Kapitalanlage in gefragter Lage von Hanau",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKidH8srfKF-OaqSF0Kt_JplVdePAFIK6vvL77-GB_0cgFWwNFDqboqUMFQ-vtgOt0ACyZFlXx8j5-gruZ2_hZQWahhdO5xD2M-tL0S4Zc3cYY1Czw"
+  },
+  {
+   "eur_sqm": 2723,
+   "yield": 6.17,
+   "price": 520000,
+   "sqm": 191.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Viel Raum für die Familie - Einfamilienhaus mit Bu...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKKkUPjEmdWRPBjdXMfNVVS1Rr-t-L22k5Fip6b1hbpqLWgv-ecMBfWqeGIuEB0M89VRdNrRSgLFntc0MBpQ0yEIJb8Vs9VcK2-3poqxKs8-kcZ7DQ"
   }
  ]
 }
