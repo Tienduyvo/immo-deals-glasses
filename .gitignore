@@ -7,3 +7,7 @@
 !README.md
 !.gitignore
 !.nojekyll
+# Deploy-Workflow zulassen (Verzeichnis muss erst freigegeben werden, dann die Datei)
+!.github/
+!.github/workflows/
+!.github/workflows/deploy-pages.yml
