@@ -1,17 +1,7 @@
 {
- "generated_at": "2026-08-10T11:18:28",
+ "generated_at": "2026-08-10T11:19:27",
  "count": 30,
  "deals": [
-  {
-   "eur_sqm": 2360,
-   "yield": 7.12,
-   "price": 498000,
-   "sqm": 211.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Zweifamilienhaus mit viel Platz und großem Potenzi...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTB9ADMAAAAAAJioT8r8T6jMHidaOk1yiujR5KOLvacQ-OA-Fg6dlnFb82XJd3JzwueZEWPMzIfMM3gLtWe0MEhXDfU2KKod-PesLOpATJdV1VKDCp_-4YSuF_AKJQ"
-  },
   {
    "eur_sqm": 2371,
    "yield": 7.08,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "Langfristig gedacht: Immobilieninvestment mit Sich...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjF9ADMAAAAAAKq9LasvIPilAxTilA6dzF3iiVp1CgHDf9L87mcA1P2GsrROSky0PKLS-HqCwX2EppgkBjU05TFRhl8rxKSpIefEJ0YYw5LQGu5_cQdju0gsKLlT7w"
+  },
+  {
+   "eur_sqm": 2708,
+   "yield": 6.2,
+   "price": 1595000,
+   "sqm": 589.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Renditestarkes Wohnensemble mit 7 Wohneinheiten & ...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJzu9FKRpLh293YgUMemNELc1UfGcQ2t1TYsffSjIWz096k96H_C6LLh5w5VP-RZRoGW8C3t_jfbAvtibLUb0K0B68HyMpJrRwZyNBJNLv42oxLZ-g"
   }
  ]
 }
