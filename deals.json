@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T10:54:58",
+ "generated_at": "2026-08-10T10:55:58",
  "count": 30,
  "deals": [
   {
@@ -21,16 +21,6 @@
    "source": "Immowelt (Mail)",
    "title": "Sanierungsobjekt mit Potenzial in Offenbach: 3 Ein...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJxjZtQdLeBw7FcHKQq9AxKERleqWPU2Z9ppUPVziRaaocUH3FVnEvPSmKWd10pExIz4c3pegJqNHn_27ORsgx_BMWUpL0TEvp2u43RJ7BEkdalpPw"
-  },
-  {
-   "eur_sqm": 1633,
-   "yield": 10.29,
-   "price": 209000,
-   "sqm": 128.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Haus mit Geschichte - Juwel im Ortskern mit große...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKUVlRmUqVlIGEF6xs9UthPwtl_ZrZJ0noApjJu2R-Lwro9u1ZL0b31-EZDysB-NlFIBixvVeifj1S06Azg26Bc5QUiHBiKHc-LyK9f5DuIg38VRHQ"
   },
   {
    "eur_sqm": 1805,
@@ -101,16 +91,6 @@
    "source": "Immowelt (Mail)",
    "title": "Vielseitige nutzbare Immobilie in Bestlage: Mehrfa...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKhijV79utRasr0A-Sjf1ZS3eMWLpgcwuqrK3jGnzGC9clcGKBWROR4kmgRM7Z21pl_qkNeocM1L3nbRfai4cLNAyGNQBJ_OhZOOER5hg94OHv9hdA"
-  },
-  {
-   "eur_sqm": 2055,
-   "yield": 8.18,
-   "price": 150000,
-   "sqm": 73.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Zuhause über den Dächern!",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKY1C_G_jFZOPw6S3zStvn7pq27QDZE5aCDLKHReuImEnWlqmr7vDixTyJ2UbPjHfMjclzxAz60g1R3R6cqe--fQTRa1LWUszKEznx-B_w8msXUeBQ"
   },
   {
    "eur_sqm": 2097,
@@ -301,6 +281,26 @@
    "source": "Immowelt (Mail)",
    "title": "Einfamilienhaus mit ELW + genehmigter Gewerbefläch...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTd9ADMAAAAAAKN4yLm3WLmXgcMTpwaYza7LPsPTjidZVaLnPsh-X5MEFYT-e73E_jOtHiAVXFnaw8yCWlX26XVKLyArfBN2SSQvw9ODZOkjN6keHqzMXcx118EW1w"
+  },
+  {
+   "eur_sqm": 2419,
+   "yield": 6.94,
+   "price": 329000,
+   "sqm": 136.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Sanierungsbedürftiges Haus in ruhiger Seitenstraße...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTl9ADMAAAAAAKdSScD5lzu7CxT9_dKiyYIp_AlzhmjZlRgjrhyuaEke9IiC36QwAzKV0RJ2zSxKc0kMoZOxA-lkaLW3DvKh0DffCXuOXV-u7RwiLKeOSSEHzQiwGw"
+  },
+  {
+   "eur_sqm": 2429,
+   "yield": 6.92,
+   "price": 459000,
+   "sqm": 189.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Zweifamilienhaus mit 2 Balkonen, Garten, Keller, G...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJzBWM9Gg2MTDa_nmRCha4ZMi8_uaG_xaOrKEFp5zPZxkvvNE4AqN_byrMHyNTbz321LoLVrgxc-_bt2xcKoN0yGTtAojU8SNNpSpN2Kp7gDPxBldw"
   }
  ]
 }
