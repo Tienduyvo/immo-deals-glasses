@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T16:27:38",
+ "generated_at": "2026-08-10T16:54:05",
  "count": 30,
  "deals": [
   {
@@ -41,6 +41,16 @@
    "source": "Immowelt (Mail)",
    "title": "Investieren mit Weitblick:",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTd9ADMAAAAAAKPX8enDFbgNDck1d84bMgYyRexpESQ9uyF9Gnj83I4Pf-uWkdlbGVKyyX05W5bFpNfE5V9siAM5UyeOW-MhfoEkE0rDUw1qWg6weHen5NNI_ax9Uw"
+  },
+  {
+   "eur_sqm": 2500,
+   "yield": 6.72,
+   "price": 425000,
+   "sqm": 170.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Wohnen auf einer Ebene. Klasse Bungalow in Heusens...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjR9ADMAAAAAAK36gwWJ6BQcTOE2oPJ2H-anqDhG1JlwxNeaLzkfc5pQbOJLG58TSqwcanLBpWRUtEYL44Or7w0ZS6vyhvwS9jkFe-aeHE8Ls4Q7nhnhJ8988VoJbg"
   },
   {
    "eur_sqm": 2527,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Einladende",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJbghFiT5ofSGRbQbtLvAYMxRA8_PFfrgPk8Nx8VmKVd-VqVvXITZ-c7mOT11RxDOqd9rEwHns0G16s5wyFzrbLmUlFakUVI_X96pVZlTEHIJ3YIpA"
-  },
-  {
-   "eur_sqm": 2778,
-   "yield": 6.05,
-   "price": 150000,
-   "sqm": 54.0,
-   "district": "Offenbach",
-   "source": "ImmoScout24 (Mail)",
-   "title": "JETZT ODER NIE! Sanierungsbedürftige 2,5 ZI-Whg mit Balkon u",
-   "url": "https://push.search.is24.de/email/expose/169782391"
   }
  ]
 }
