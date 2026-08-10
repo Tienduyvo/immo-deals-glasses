@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T18:10:21",
+ "generated_at": "2026-08-10T18:38:33",
  "count": 30,
  "deals": [
   {
@@ -11,6 +11,16 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "Ein Haus voller Möglichkeiten für die ganze Familie",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3481038819"
+  },
+  {
+   "eur_sqm": 2134,
+   "yield": 7.87,
+   "price": 175000,
+   "sqm": 82.0,
+   "district": "Dietzenbach",
+   "source": "Immowelt (Mail)",
+   "title": "3-Zimmer-Wohnung in Dietzenbach mit Tiefgaragenste...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjR9ADMAAAAAAK4qRQG1f0wW-zlO--WctP6flmWjIKFCDfwJ5WknDaD_lQO9W3I4bDsj7Z5F6Ij_VS_sohFxKmAszmXxE8Roz2V-MCYyMep69Liok36NnUcIEQHGpQ"
   },
   {
    "eur_sqm": 2401,
@@ -291,16 +301,6 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "Solides Investment mit Weitblick – Gepflegtes 3-Familien-Hau",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3442231717"
-  },
-  {
-   "eur_sqm": 2785,
-   "yield": 6.03,
-   "price": 699000,
-   "sqm": 251.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Historisches Kulturdenkmal mit Scheune und traumha...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTB9ADMAAAAAAJioT8sCJTtkpepkgZK7Tq1UTsuRjb0V748emk2gm6NO0pm75s8kUpFXXQ6bDDZjMbSHWaTY5MAsmgZL-3IqQ-qqdVxH_V2ClBGP5fTu8gmuYIrm-A"
   }
  ]
 }
