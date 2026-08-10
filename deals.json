@@ -1,57 +1,7 @@
 {
- "generated_at": "2026-08-10T11:00:38",
+ "generated_at": "2026-08-10T11:01:38",
  "count": 30,
  "deals": [
-  {
-   "eur_sqm": 1097,
-   "yield": 15.32,
-   "price": 590000,
-   "sqm": 538.0,
-   "district": "Rödermark",
-   "source": "ZVG",
-   "title": "Mehrfamilienhaus : Donaustr. 21, 63322 Rödermark, Ober-Roden",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54911&land_abk=he"
-  },
-  {
-   "eur_sqm": 1996,
-   "yield": 8.42,
-   "price": 459000,
-   "sqm": 230.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Viel Platz für Familie & Beruf: Fachwerkhaus mit E...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJzTSFCwLX7VCDj0pdNscngSTGxxLKA9RYIvPsso5mQWuKhR26qrIQKQa0Zas-hxXowImwco549Q-CXBV1Mq5LUbfwEa93H1Lrd5tf2AnsuuklzDjA"
-  },
-  {
-   "eur_sqm": 2000,
-   "yield": 8.4,
-   "price": 1500000,
-   "sqm": 750.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Top Kapitalanlage: 2 Häuser auf einem Grundstück m...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKVk7gEWmnzgJ2_HyGWx7YHXN6EFF5sW4ElSc_pQ7ehUXkvA63THi5hM0iNqIZ960MD6GmXYNmxFd1j1p_fM2Oiw5I7MfI3C9hVoMS_9FWkTrS3bkQ"
-  },
-  {
-   "eur_sqm": 2014,
-   "yield": 8.34,
-   "price": 445000,
-   "sqm": 221.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Erbpachtgrundstück - Freistehender Familientraum -...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKkJbWigawoi0R5stUl3OX0Ceyp85PXsctfa53pUhKr65NVD8dR3-idqLRKJ2V52cKvqn-D8LXMUwrZFHbxAPksM7dyjjgop82c1yY2JctfSAGsgZw"
-  },
-  {
-   "eur_sqm": 2025,
-   "yield": 8.29,
-   "price": 160000,
-   "sqm": 79.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Attraktive Kapitalanlage: Vermietete Eigentumswohn...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKwJTauholltktq_41QI5x0hibOs9Ujp4NNZUkctf4If_ZW-bKIYcXjyZJ69VoEUDH3_K1iHSw5eT_fB3l70WDpadCwzjA3k8_QO52sGq6bpfSLCgw"
-  },
   {
    "eur_sqm": 2031,
    "yield": 8.27,
@@ -301,6 +251,56 @@
    "source": "Immowelt (Mail)",
    "title": "Licht, Ruhe und Komfort: Attraktive",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAKAuxNq4wXXdTNPF1C1Z_BnUKi_Xes_YUn3P0ShSIveUUb0r7Qrx2pbxAOc3x1qHjDqFvAfiTbtG4HvXxULZ1al5x3pGx9NCkhGvB4_azRr1-D9iAA"
+  },
+  {
+   "eur_sqm": 2492,
+   "yield": 6.74,
+   "price": 386020,
+   "sqm": 154.89,
+   "district": "Hessen",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "145 m² Familienglück in Hanau!",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3108561120"
+  },
+  {
+   "eur_sqm": 2492,
+   "yield": 6.74,
+   "price": 1049000,
+   "sqm": 421.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Fünffamilienhaus ohne Mieter in Mainnähe",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJcRhmD-7bY5txRHc5IgTUDLvv0EUhu9L7wYW87qe9n3F3WiMcI-eqvWiFIpLB6-YtjeyxBxt7zFcnWzCAXyxaQy-CGw5Y4YijbLPs1N8xzRpLD67w"
+  },
+  {
+   "eur_sqm": 2500,
+   "yield": 6.72,
+   "price": 161950,
+   "sqm": 64.78,
+   "district": "Hessen",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Nähe Merianplatz - Drei-Zimmer-Wohnung mit Balkon und Lift",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3198244018"
+  },
+  {
+   "eur_sqm": 2500,
+   "yield": 6.72,
+   "price": 240000,
+   "sqm": 96.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Investieren mit Weitblick:",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTd9ADMAAAAAAKPX8enDFbgNDck1d84bMgYyRexpESQ9uyF9Gnj83I4Pf-uWkdlbGVKyyX05W5bFpNfE5V9siAM5UyeOW-MhfoEkE0rDUw1qWg6weHen5NNI_ax9Uw"
+  },
+  {
+   "eur_sqm": 2503,
+   "yield": 6.71,
+   "price": 398000,
+   "sqm": 159.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Ein- | Zweifamilienhaus mit Traumgrundstück und Ga...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTl9ADMAAAAAAKdB2jZPIxFYZBmtXQBTGRGI2XIW5bEtcuIHpgOYctc05qvr28Wllla6BK-Wvc8yqNMgMoVRE1F5_avz2eGOwk-rBQ-Hll8FbcLiKWi2cUZ-iOIkBg"
   }
  ]
 }
