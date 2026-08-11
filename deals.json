@@ -1,17 +1,7 @@
 {
- "generated_at": "2026-08-11T14:54:22",
+ "generated_at": "2026-08-11T14:55:18",
  "count": 30,
  "deals": [
-  {
-   "eur_sqm": 2112,
-   "yield": 7.95,
-   "price": 169000,
-   "sqm": 80.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Sehr schöne, gepflegte 3 ZKB-Wohnung mit Balkon un...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK8rKONDAfUiLC2LopiF2ixcfztLhMK8gJq8_vO_z1kTMy7luYiZNqDDXrGZi3VpDPGtkfl91DIhzghupoQxI1IY4D23awJjIr0Vb8ntIRo8bSgyqg"
-  },
   {
    "eur_sqm": 2297,
    "yield": 7.31,
@@ -301,6 +291,16 @@
    "source": "ImmoScout24 (Mail)",
    "title": "JETZT ODER NIE! Sanierungsbedürftige 2,5 ZI-Whg mit Balkon u",
    "url": "https://push.search.is24.de/email/expose/169782391"
+  },
+  {
+   "eur_sqm": 2780,
+   "yield": 6.04,
+   "price": 570000,
+   "sqm": 205.0,
+   "district": "Hessen",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Solides Investment mit Weitblick – Gepflegtes 3-Familien-Hau",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3442231717"
   }
  ]
 }
