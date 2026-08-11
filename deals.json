@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T17:33:18",
+ "generated_at": "2026-08-11T17:51:22",
  "count": 30,
  "deals": [
   {
@@ -21,6 +21,16 @@
    "source": "Immowelt (Mail)",
    "title": "Zweifamilienhaus mit großer Terrasse und Garten",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKwZB_mxQvjgTs3pqjgycs92Rf0C9_8PVoOoFZnsEZWCiADf4_G45LpiDvVp8UAhzR-GJtVY1ZWw1AmSpJpHgHdNYWHroeuz6YR35AD2-9NgEfU49Q"
+  },
+  {
+   "eur_sqm": 2590,
+   "yield": 6.49,
+   "price": 215000,
+   "sqm": 83.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Vermietete",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK-HsceY7niotX8uLuelaWrBncP4xmC8z8-5uojI3GtetH_3ppQYU69aBjkunvSI-nkA-6h3_SpODv7f54gp9JgngemPTwHB8cyrQW0QCO-zra_FsA"
   },
   {
    "eur_sqm": 2600,
@@ -163,6 +173,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJXTlbS2KRLr6JyM9YBW18qRgmMtx5nYSyiYPF8jYPXpVDs4CpfWDgxRZnx3GK-0joKQS8eMq3b6x3FbXmLvYTbLl6JVuxC3LaTlEz888c9VpFXQ9g"
   },
   {
+   "eur_sqm": 2704,
+   "yield": 6.21,
+   "price": 1590000,
+   "sqm": 588.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Umfangreich saniertes Mehrfamilienhaus mit 9 Top Wohnungen u",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3245230487"
+  },
+  {
    "eur_sqm": 2705,
    "yield": 6.21,
    "price": 595000,
@@ -281,26 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Historisches Kulturdenkmal mit Scheune und traumha...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTB9ADMAAAAAAJioT8sCJTtkpepkgZK7Tq1UTsuRjb0V748emk2gm6NO0pm75s8kUpFXXQ6bDDZjMbSHWaTY5MAsmgZL-3IqQ-qqdVxH_V2ClBGP5fTu8gmuYIrm-A"
-  },
-  {
-   "eur_sqm": 2812,
-   "yield": 5.97,
-   "price": 225000,
-   "sqm": 80.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Attraktive",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJQUnHwGfjU06PY0DqddndNTzafj-h0GXtXpQzUNvzVUfw1rg4ciGSSxAK3oj6_MiAcsDzrNfK7AxAKzw6BTM7bRBjaxvye5osH7nrW46tyvEQmoKw"
-  },
-  {
-   "eur_sqm": 2815,
-   "yield": 5.97,
-   "price": 1700000,
-   "sqm": 604.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Kapitalanleger aufgepasst: Gut vermietetes Mehrfam...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKVk7gEQHLWuq9kwVq633xdontJNVVWK7KDT_V3YQSKVCLskgtnWPzvtdPgCkj5uzk12iAPmaMRCmYOSoIaUXD13g5VdJdrrQhy99RU0dgMsmEQqmQ"
   }
  ]
 }
