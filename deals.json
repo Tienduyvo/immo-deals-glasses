@@ -1,17 +1,7 @@
 {
- "generated_at": "2026-08-11T14:55:18",
+ "generated_at": "2026-08-11T14:56:51",
  "count": 30,
  "deals": [
-  {
-   "eur_sqm": 2297,
-   "yield": 7.31,
-   "price": 425000,
-   "sqm": 185.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Leerstehende Doppelhaushälfte mit großem Grundstüc...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjR9ADMAAAAAAK484GDpXBWHhkavbC_OXUju1jUQE2UGCSyiRSV6OfOnKRJkuRPHxBqFUfrsSCklLKd-eIGnTPZyh271TZEddjYXxryN7ISb9UAxOpVlkqQVAl83QA"
-  },
   {
    "eur_sqm": 2401,
    "yield": 7.0,
@@ -301,6 +291,16 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "Solides Investment mit Weitblick – Gepflegtes 3-Familien-Hau",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3442231717"
+  },
+  {
+   "eur_sqm": 2785,
+   "yield": 6.03,
+   "price": 699000,
+   "sqm": 251.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Historisches Kulturdenkmal mit Scheune und traumha...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTB9ADMAAAAAAJioT8sCJTtkpepkgZK7Tq1UTsuRjb0V748emk2gm6NO0pm75s8kUpFXXQ6bDDZjMbSHWaTY5MAsmgZL-3IqQ-qqdVxH_V2ClBGP5fTu8gmuYIrm-A"
   }
  ]
 }
