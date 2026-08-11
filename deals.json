@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T14:18:16",
+ "generated_at": "2026-08-11T14:21:38",
  "count": 30,
  "deals": [
   {
@@ -81,16 +81,6 @@
    "source": "Immowelt (Mail)",
    "title": "Stilvolle Maisonettewohnung mit offenem Wohnbereic...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJP5U2_NePcxPzHUK7RJD_X5t4CZsjcPtCf6vHIVP-vdRxkIYYNe2ie-afJV9bVk_I2PRvUPsfL-cvOMR7y6_GxQbHHnUY0yPTGnkQxGwWD5wqH34g"
-  },
-  {
-   "eur_sqm": 2630,
-   "yield": 6.39,
-   "price": 405000,
-   "sqm": 154.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Zweifamilienhaus zur Kernsanierung mit Ausbaureser...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJzu9FKL7ETjkUizKcDo7eyYuu_7ZSUlYh4ghqymlF-9EQi05efMf1fU6eNfLDOWfKR7H5HSzlasySvn_kVrx_ZefSQbqhRNQX-h_YWUqhz5GMUAMA"
   },
   {
    "eur_sqm": 2638,
@@ -301,6 +291,16 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "Einfamilienhaus in Schmitten mit großem Grundstück",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3433273038"
+  },
+  {
+   "eur_sqm": 2773,
+   "yield": 6.06,
+   "price": 208000,
+   "sqm": 75.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Einladende",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJbghFiT5ofSGRbQbtLvAYMxRA8_PFfrgPk8Nx8VmKVd-VqVvXITZ-c7mOT11RxDOqd9rEwHns0G16s5wyFzrbLmUlFakUVI_X96pVZlTEHIJ3YIpA"
   }
  ]
 }
