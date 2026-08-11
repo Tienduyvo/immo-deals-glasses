@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T14:21:38",
+ "generated_at": "2026-08-11T14:22:39",
  "count": 30,
  "deals": [
   {
@@ -283,16 +283,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDl9ADMAAAAAAJgck1OOktbPjN2PlRHNCUODj3V8tP7NYWFCy51BXrWHOgo1HWBGIab-h0XP7wF1oFLxKU1VBRYtaK5RiLPnEvizRCogkgeah_oq-R7xYAYu5MKLOw"
   },
   {
-   "eur_sqm": 2772,
-   "yield": 6.06,
-   "price": 499000,
-   "sqm": 180.0,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Einfamilienhaus in Schmitten mit großem Grundstück",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3433273038"
-  },
-  {
    "eur_sqm": 2773,
    "yield": 6.06,
    "price": 208000,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "Einladende",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJbghFiT5ofSGRbQbtLvAYMxRA8_PFfrgPk8Nx8VmKVd-VqVvXITZ-c7mOT11RxDOqd9rEwHns0G16s5wyFzrbLmUlFakUVI_X96pVZlTEHIJ3YIpA"
+  },
+  {
+   "eur_sqm": 2778,
+   "yield": 6.05,
+   "price": 150000,
+   "sqm": 54.0,
+   "district": "Offenbach",
+   "source": "ImmoScout24 (Mail)",
+   "title": "JETZT ODER NIE! Sanierungsbedürftige 2,5 ZI-Whg mit Balkon u",
+   "url": "https://push.search.is24.de/email/expose/169782391"
   }
  ]
 }
