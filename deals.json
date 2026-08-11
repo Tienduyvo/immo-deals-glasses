@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T12:07:00",
+ "generated_at": "2026-08-11T12:20:08",
  "count": 30,
  "deals": [
   {
@@ -183,6 +183,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjN9ADMAAAAAAK0iV7o578H7Kt3bqSpuQgillXEAv8GXYuSqbF97nb7nY1hfQ9cT8d3pxP6QKttmapAxisL2f7MNOfoZmM0ZwlTCK1P8FmBBDVLTE1vK5Ks9Hu1MCw"
   },
   {
+   "eur_sqm": 2681,
+   "yield": 6.27,
+   "price": 185000,
+   "sqm": 69.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Für Eigennutzer und Anleger: perfekt aufgeteilte 3...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK7r4yREPWvqje1MtyymEmjDLeQw7xs5JJu8pmQ6KXYxlcGAknNtiabvwjoDrfu0cn1ENkhaC9mBdVHGsR1WeW2GhZJvylidH_BdIDIfUeZM_7zEDA"
+  },
+  {
    "eur_sqm": 2693,
    "yield": 6.24,
    "price": 579000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Provisionsfreies Denkmal-Investment mit 4 Einheite...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDl9ADMAAAAAAJgck1OOktbPjN2PlRHNCUODj3V8tP7NYWFCy51BXrWHOgo1HWBGIab-h0XP7wF1oFLxKU1VBRYtaK5RiLPnEvizRCogkgeah_oq-R7xYAYu5MKLOw"
-  },
-  {
-   "eur_sqm": 2773,
-   "yield": 6.06,
-   "price": 208000,
-   "sqm": 75.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Einladende",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJbghFiT5ofSGRbQbtLvAYMxRA8_PFfrgPk8Nx8VmKVd-VqVvXITZ-c7mOT11RxDOqd9rEwHns0G16s5wyFzrbLmUlFakUVI_X96pVZlTEHIJ3YIpA"
   }
  ]
 }
