@@ -1,17 +1,7 @@
 {
- "generated_at": "2026-08-12T10:35:11",
+ "generated_at": "2026-08-12T08:33:08",
  "count": 30,
  "deals": [
-  {
-   "eur_sqm": 1044,
-   "yield": 16.09,
-   "price": 94000,
-   "sqm": 90.0,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Ohne Makler 4 Zimmer - Wohnung mit Loggia",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3482324406"
-  },
   {
    "eur_sqm": 2106,
    "yield": 7.98,
@@ -26,7 +16,7 @@
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
-   "sqm": 252.0,
+   "sqm": 252,
    "district": "Frankfurt am Main",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
@@ -301,6 +291,16 @@
    "source": "ImmoScout24 (Mail)",
    "title": "JETZT ODER NIE! Sanierungsbedürftige 2,5 ZI-Whg mit Balkon u",
    "url": "https://push.search.is24.de/email/expose/169782391"
+  },
+  {
+   "eur_sqm": 2780,
+   "yield": 6.04,
+   "price": 570000,
+   "sqm": 205.0,
+   "district": "Hessen",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Solides Investment mit Weitblick – Gepflegtes 3-Familien-Hau",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3442231717"
   }
  ]
 }
