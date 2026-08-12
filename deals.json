@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T14:01:54",
+ "generated_at": "2026-08-12T14:02:54",
  "count": 30,
  "deals": [
   {
@@ -51,16 +51,6 @@
    "source": "Immowelt (Mail)",
    "title": "Kapitalanlage Schöne",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKwYhTVlWR9XyelwWQFwzx8gUB4X5M4OtOkgpUWJtQWeow4S4OsrTbI9MaflglW8jQGKiwDmFnJ9QpSmXrhSH7HBikcbhl5hsCvsdvTFaD_oyuFVcA"
-  },
-  {
-   "eur_sqm": 2643,
-   "yield": 6.36,
-   "price": 185000,
-   "sqm": 70.0,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "4 Zimmer - Wohnung mit Balkon Provisionsfrei - schnell sein!",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3446597840"
   },
   {
    "eur_sqm": 2649,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "3-Familienhaus mit freier Dachgeschosswohnung, Dop...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjZ9ADMAAAAAALAME4xG0FpVgxXgX0hyjaYVqLP1PTIy1QdGihccShr36fB9QcXJko7SvOj4wzzI6PU-p6nMXMmUVX1Qyubk91ce7WQ9c2us_qxRmeXw3JeJyKFgEw"
+  },
+  {
+   "eur_sqm": 2812,
+   "yield": 5.97,
+   "price": 225000,
+   "sqm": 80.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Attraktive",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJQUnHwGfjU06PY0DqddndNTzafj-h0GXtXpQzUNvzVUfw1rg4ciGSSxAK3oj6_MiAcsDzrNfK7AxAKzw6BTM7bRBjaxvye5osH7nrW46tyvEQmoKw"
   }
  ]
 }
