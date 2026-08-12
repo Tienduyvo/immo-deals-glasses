@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T13:59:28",
+ "generated_at": "2026-08-12T14:01:54",
  "count": 30,
  "deals": [
   {
@@ -31,16 +31,6 @@
    "source": "Immowelt (Mail)",
    "title": "Großes sonniges Grundstück 1710qm mit alten Baumbe...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTl9ADMAAAAAAKcDvz31l2Ef8FB21kPLeB0Pj8JcjAOy7DTNZnVfA7ulmE-2gsZYhu-xnaN2bexM1bxcMBxBc_hdBRLbsTnGuiAmnDb7l9emDGlyA2BNL6alb3zZLQ"
-  },
-  {
-   "eur_sqm": 2602,
-   "yield": 6.46,
-   "price": 320000,
-   "sqm": 123.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Stilvolle Maisonettewohnung mit offenem Wohnbereic...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJP5U2_NePcxPzHUK7RJD_X5t4CZsjcPtCf6vHIVP-vdRxkIYYNe2ie-afJV9bVk_I2PRvUPsfL-cvOMR7y6_GxQbHHnUY0yPTGnkQxGwWD5wqH34g"
   },
   {
    "eur_sqm": 2638,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "Teilvermietetes MFH mit seltener, parkähnlicher Ga...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK-HsceSeNjhBHoFlxMmkkAiKTgkpcTmTRFTDA8_p1j0z4f3-KC6kLKrDJWl79ogs0-Hswctym8FfrwaMmzDL6vernPSa8s6Ymm0lorA3i-ks85bIw"
+  },
+  {
+   "eur_sqm": 2807,
+   "yield": 5.99,
+   "price": 595000,
+   "sqm": 212.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "3-Familienhaus mit freier Dachgeschosswohnung, Dop...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjZ9ADMAAAAAALAME4xG0FpVgxXgX0hyjaYVqLP1PTIy1QdGihccShr36fB9QcXJko7SvOj4wzzI6PU-p6nMXMmUVX1Qyubk91ce7WQ9c2us_qxRmeXw3JeJyKFgEw"
   }
  ]
 }
