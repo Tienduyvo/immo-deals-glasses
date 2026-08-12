@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-12T15:43:28",
+ "generated_at": "2026-08-12T16:00:47",
  "count": 30,
  "deals": [
+  {
+   "eur_sqm": 1843,
+   "yield": 9.12,
+   "price": 199000,
+   "sqm": 108.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Einfamilienhaus mit Scheune in ruhiger Lage von Ka...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjZ9ADMAAAAAALCVurR4NU5X8boQp9OD-mC8edSrEg5fP-6KZLQyaJfwNEu7m6gfFSREMjdrF7c2nw_Qie2IvrE2lx4fYbMUvkpYeIqcv_MQSiSeEZzpUPyC9qqK2g"
+  },
   {
    "eur_sqm": 2401,
    "yield": 7.0,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "VOM GARTENFRÜHSTÜCK BIS ZUM KAMINABEND - modernisi...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK-8Za0BcKm3RdvKgCAW8PoudjQ2eyFw-RvcOoCaqFVQnI0YxJnOED0KF5nby_1jtm15k2DzR9TYWwv1kCF6qKH__uPOQ8F-WlmvKAz06lgV-8GPHQ"
-  },
-  {
-   "eur_sqm": 2883,
-   "yield": 5.83,
-   "price": 259500,
-   "sqm": 90.0,
-   "district": "Dietzenbach",
-   "source": "Immowelt (Mail)",
-   "title": "Dietzenbach Top-Lage: Lichtdurchflutete",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJdr6FcPu6dlf5y40-JFMCKqasikcBia6OP_0I1oNue2C4tVTTO7uzpU97SjO9JmcANUvMVnzYxoKCRBMmMOw5HwOwEkVc9GmEj8mKCi600oNBlQ8Q"
   }
  ]
 }
