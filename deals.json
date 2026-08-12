@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T11:46:57",
+ "generated_at": "2026-08-12T11:56:45",
  "count": 30,
  "deals": [
   {
@@ -11,6 +11,16 @@
    "source": "Immowelt (Mail)",
    "title": "Moderne Villa mit individuellem Gestaltungsspielra...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK_OWD7zNklw-X8lBu8y7H5dknTTOR8ZD-lGNzXpOZ_imaTLRtg6Rm7yBj-i6UrrGIkkzQ7Lq29jaOosQ0V59nRSfbHbgYgmTTfdfeMCwNCkRFYsNg"
+  },
+  {
+   "eur_sqm": 2385,
+   "yield": 7.05,
+   "price": 620000,
+   "sqm": 260.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Historisches 3-Familienhaus - Kapitalanlage, Mehrg...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjZ9ADMAAAAAALBIr196-UGhW2_g9AGaE7f3z2sUMZm3e-XaT18_lqH7u2L72rhvvUJvNR-fqFIAKHVbLbCWdUPTFVwAXNymuWoou1TO0GkjuKgHjvR_XVZpvHHcuQ"
   },
   {
    "eur_sqm": 2401,
@@ -291,16 +301,6 @@
    "source": "ImmoScout24 (Mail)",
    "title": "JETZT ODER NIE! Sanierungsbedürftige 2,5 ZI-Whg mit Balkon u",
    "url": "https://push.search.is24.de/email/expose/169782391"
-  },
-  {
-   "eur_sqm": 2780,
-   "yield": 6.04,
-   "price": 570000,
-   "sqm": 205.0,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Solides Investment mit Weitblick – Gepflegtes 3-Familien-Hau",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3442231717"
   }
  ]
 }
