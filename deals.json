@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T14:50:46",
+ "generated_at": "2026-08-12T14:56:26",
  "count": 30,
  "deals": [
   {
@@ -173,16 +173,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK-HsceSeNjhBHoFlxMmkkAiKTgkpcTmTRFTDA8_p1j0z4f3-KC6kLKrDJWl79ogs0-Hswctym8FfrwaMmzDL6vernPSa8s6Ymm0lorA3i-ks85bIw"
   },
   {
-   "eur_sqm": 2807,
-   "yield": 5.99,
-   "price": 595000,
-   "sqm": 212.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "3-Familienhaus mit freier Dachgeschosswohnung, Dop...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjZ9ADMAAAAAALAME4xG0FpVgxXgX0hyjaYVqLP1PTIy1QdGihccShr36fB9QcXJko7SvOj4wzzI6PU-p6nMXMmUVX1Qyubk91ce7WQ9c2us_qxRmeXw3JeJyKFgEw"
-  },
-  {
    "eur_sqm": 2812,
    "yield": 5.97,
    "price": 225000,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "Dietzenbach Top-Lage: Lichtdurchflutete",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJdr6FcPu6dlf5y40-JFMCKqasikcBia6OP_0I1oNue2C4tVTTO7uzpU97SjO9JmcANUvMVnzYxoKCRBMmMOw5HwOwEkVc9GmEj8mKCi600oNBlQ8Q"
+  },
+  {
+   "eur_sqm": 2886,
+   "yield": 5.82,
+   "price": 430000,
+   "sqm": 149.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Zweifamilienhaus gelegen an der Kleingartenanlage ...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJcAW6io_5uWTOTj1_SVc0b8CeB6URqOsTufh9c_XzLpGMkFI-Qh-tR2p0h4HdM_bMlmBFHtbPKUfmCpvdC6Xg8GDCQqXO-Vf_RBXggUSE0Edx1VnA"
   }
  ]
 }
