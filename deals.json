@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T15:05:01",
+ "generated_at": "2026-08-12T15:17:47",
  "count": 30,
  "deals": [
   {
@@ -11,6 +11,16 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
+  },
+  {
+   "eur_sqm": 2435,
+   "yield": 6.9,
+   "price": 599000,
+   "sqm": 246.0,
+   "district": "Mühlheim",
+   "source": "Immowelt (Mail)",
+   "title": "Attraktive Kapitalanlage in Mühlheim - Voll vermie...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjZ9ADMAAAAAALCJJTKvi0ScCj5PsgM_Upwm-rVgCL4-HR_JOupAVW5q58asV2MQqLja6g-dndH88ZGVF9lG8iU7wZA71-TSQU-58spdL2FT8UyN8ZPgNquMZLQTJQ"
   },
   {
    "eur_sqm": 2563,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Zweifamilienhaus gelegen an der Kleingartenanlage ...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJcAW6io_5uWTOTj1_SVc0b8CeB6URqOsTufh9c_XzLpGMkFI-Qh-tR2p0h4HdM_bMlmBFHtbPKUfmCpvdC6Xg8GDCQqXO-Vf_RBXggUSE0Edx1VnA"
-  },
-  {
-   "eur_sqm": 2892,
-   "yield": 5.81,
-   "price": 295000,
-   "sqm": 102.0,
-   "district": "Bonames",
-   "source": "Immowelt (Mail)",
-   "title": "Zweifamilienhaus in Alt-Bonames mit Potenzial zur ...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjF9ADMAAAAAAKsDUFdH0FQqZL8xHWTcsQBx6cBaVWspWu7tYdg_RMnR1sgJ9wPHM1aq8sFf-szNH_-kIrN1TGP0QXr_4J1W5mBp9YDUdXwu4cp7Kh1UH3pYimX5Xg"
   }
  ]
 }
