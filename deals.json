@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T14:02:54",
+ "generated_at": "2026-08-12T14:48:41",
  "count": 30,
  "deals": [
   {
@@ -121,16 +121,6 @@
    "source": "Immowelt (Mail)",
    "title": "Riesige 4 ZW sowie eine 2 ZW ( 1 OG + DG) in O...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKJT72pozfEKvLuw9e5PbsjkWoiI66vfFrgvq47yJ0TUwDgRfaOgJfs003sVJv2FZD7SXNJX9TNaQMOP5ks1jQ4VdHYzgV0emkngUXj_9WsRMkTbag"
-  },
-  {
-   "eur_sqm": 2698,
-   "yield": 6.23,
-   "price": 170000,
-   "sqm": 63.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Wohnung in zentraler Lage mit Weitblick für Kapita...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKvwBI6csIdcxjFsoztquz6icothR2LhyyqJwaCYFP1zStNX6tEdjYk0czCkmbTO91UKLKst7ke9QRBiHbu6FdFFfO01kqedWB9NjYihsDYvOJ_lvA"
   },
   {
    "eur_sqm": 2700,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "Attraktive",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJQUnHwGfjU06PY0DqddndNTzafj-h0GXtXpQzUNvzVUfw1rg4ciGSSxAK3oj6_MiAcsDzrNfK7AxAKzw6BTM7bRBjaxvye5osH7nrW46tyvEQmoKw"
+  },
+  {
+   "eur_sqm": 2815,
+   "yield": 5.97,
+   "price": 1700000,
+   "sqm": 604.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Kapitalanleger aufgepasst: Gut vermietetes Mehrfam...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKVk7gEQHLWuq9kwVq633xdontJNVVWK7KDT_V3YQSKVCLskgtnWPzvtdPgCkj5uzk12iAPmaMRCmYOSoIaUXD13g5VdJdrrQhy99RU0dgMsmEQqmQ"
   }
  ]
 }
