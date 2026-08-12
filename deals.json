@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T18:37:48",
+ "generated_at": "2026-08-12T18:39:54",
  "count": 30,
  "deals": [
   {
@@ -31,6 +31,16 @@
    "source": "Immowelt (Mail)",
    "title": "Attraktive Kapitalanlage in Mühlheim - Voll vermie...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjZ9ADMAAAAAALCJJTKvi0ScCj5PsgM_Upwm-rVgCL4-HR_JOupAVW5q58asV2MQqLja6g-dndH88ZGVF9lG8iU7wZA71-TSQU-58spdL2FT8UyN8ZPgNquMZLQTJQ"
+  },
+  {
+   "eur_sqm": 2500,
+   "yield": 6.72,
+   "price": 750000,
+   "sqm": 300.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Investitionschance: Unvermietetes Mehrfamilienhaus...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjZ9ADMAAAAAALDlmHLVarnWaf_Y8QbTLBu96F3hi_0DApWO7-Z8vgiVJfHeLg_V6dm5XqND1hd42aDtEsBKgdWl9Oh8wMkRY6XoOyvKb999WMtmsfAxIh4K0e2-vg"
   },
   {
    "eur_sqm": 2563,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Voll vermietetes Mehrfamilienhaus in Spitzen-Lage ...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJrTNRk1v9VmcWdW6bs0SsHV5mS3qKKI20dU52TafNy7T0smVAUiYHB-LbptIUw8lXVEAcFvPcpuKKtdlBpqGrT_mCxqPQ4rV_0hG5wHP1DQxN_1MQ"
-  },
-  {
-   "eur_sqm": 2875,
-   "yield": 5.84,
-   "price": 115000,
-   "sqm": 40.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Kapitalanleger aufgepasst! Ein-Zimmerwohnung im 3....",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKUVlRmavlAqvsa232lRMuOgr5oGhbzUt248DZnLnOhijPxmozM_LvhaAdVqTKl8nLrr5XfPK8rtYyPx9RQbZaKHMr4qqeZYJptirTUmJIrK0uQAfw"
   }
  ]
 }
