@@ -1,27 +1,7 @@
 {
- "generated_at": "2026-08-12T13:51:47",
+ "generated_at": "2026-08-12T13:52:47",
  "count": 30,
  "deals": [
-  {
-   "eur_sqm": 2106,
-   "yield": 7.98,
-   "price": 351700,
-   "sqm": 167.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Moderne Villa mit individuellem Gestaltungsspielra...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK_OWD7zNklw-X8lBu8y7H5dknTTOR8ZD-lGNzXpOZ_imaTLRtg6Rm7yBj-i6UrrGIkkzQ7Lq29jaOosQ0V59nRSfbHbgYgmTTfdfeMCwNCkRFYsNg"
-  },
-  {
-   "eur_sqm": 2385,
-   "yield": 7.05,
-   "price": 620000,
-   "sqm": 260.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Historisches 3-Familienhaus - Kapitalanlage, Mehrg...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjZ9ADMAAAAAALBIr196-UGhW2_g9AGaE7f3z2sUMZm3e-XaT18_lqH7u2L72rhvvUJvNR-fqFIAKHVbLbCWdUPTFVwAXNymuWoou1TO0GkjuKgHjvR_XVZpvHHcuQ"
-  },
   {
    "eur_sqm": 2401,
    "yield": 7.0,
@@ -41,16 +21,6 @@
    "source": "Immowelt (Mail)",
    "title": "Zweifamilienhaus mit großer Terrasse und Garten",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKwZB_mxQvjgTs3pqjgycs92Rf0C9_8PVoOoFZnsEZWCiADf4_G45LpiDvVp8UAhzR-GJtVY1ZWw1AmSpJpHgHdNYWHroeuz6YR35AD2-9NgEfU49Q"
-  },
-  {
-   "eur_sqm": 2590,
-   "yield": 6.49,
-   "price": 215000,
-   "sqm": 83.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Vermietete",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK-HsceY7niotX8uLuelaWrBncP4xmC8z8-5uojI3GtetH_3ppQYU69aBjkunvSI-nkA-6h3_SpODv7f54gp9JgngemPTwHB8cyrQW0QCO-zra_FsA"
   },
   {
    "eur_sqm": 2600,
@@ -301,6 +271,36 @@
    "source": "ImmoScout24 (Mail)",
    "title": "JETZT ODER NIE! Sanierungsbedürftige 2,5 ZI-Whg mit Balkon u",
    "url": "https://push.search.is24.de/email/expose/169782391"
+  },
+  {
+   "eur_sqm": 2780,
+   "yield": 6.04,
+   "price": 570000,
+   "sqm": 205.0,
+   "district": "Hessen",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Solides Investment mit Weitblick – Gepflegtes 3-Familien-Hau",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3442231717"
+  },
+  {
+   "eur_sqm": 2785,
+   "yield": 6.03,
+   "price": 699000,
+   "sqm": 251.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Historisches Kulturdenkmal mit Scheune und traumha...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTB9ADMAAAAAAJioT8sCJTtkpepkgZK7Tq1UTsuRjb0V748emk2gm6NO0pm75s8kUpFXXQ6bDDZjMbSHWaTY5MAsmgZL-3IqQ-qqdVxH_V2ClBGP5fTu8gmuYIrm-A"
+  },
+  {
+   "eur_sqm": 2800,
+   "yield": 6.0,
+   "price": 798000,
+   "sqm": 285.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Teilvermietetes MFH mit seltener, parkähnlicher Ga...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK-HsceSeNjhBHoFlxMmkkAiKTgkpcTmTRFTDA8_p1j0z4f3-KC6kLKrDJWl79ogs0-Hswctym8FfrwaMmzDL6vernPSa8s6Ymm0lorA3i-ks85bIw"
   }
  ]
 }
