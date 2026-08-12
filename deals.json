@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-12T07:46:11",
+ "generated_at": "2026-08-12T08:01:22",
  "count": 30,
  "deals": [
+  {
+   "eur_sqm": 1044,
+   "yield": 16.09,
+   "price": 94000,
+   "sqm": 90.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Ohne Makler 4 Zimmer - Wohnung mit Loggia",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3482324406"
+  },
   {
    "eur_sqm": 2106,
    "yield": 7.98,
@@ -291,16 +301,6 @@
    "source": "ImmoScout24 (Mail)",
    "title": "JETZT ODER NIE! Sanierungsbedürftige 2,5 ZI-Whg mit Balkon u",
    "url": "https://push.search.is24.de/email/expose/169782391"
-  },
-  {
-   "eur_sqm": 2780,
-   "yield": 6.04,
-   "price": 570000,
-   "sqm": 205.0,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Solides Investment mit Weitblick – Gepflegtes 3-Familien-Hau",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3442231717"
   }
  ]
 }
