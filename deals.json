@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T14:56:26",
+ "generated_at": "2026-08-12T15:00:21",
  "count": 30,
  "deals": [
   {
@@ -51,16 +51,6 @@
    "source": "Immowelt (Mail)",
    "title": "Ein Zuhause, viele Möglichkeiten: Großzügiges Wohn...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJXTlbS2KRLr6JyM9YBW18qRgmMtx5nYSyiYPF8jYPXpVDs4CpfWDgxRZnx3GK-0joKQS8eMq3b6x3FbXmLvYTbLl6JVuxC3LaTlEz888c9VpFXQ9g"
-  },
-  {
-   "eur_sqm": 2704,
-   "yield": 6.21,
-   "price": 1590000,
-   "sqm": 588.0,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Umfangreich saniertes Mehrfamilienhaus mit 9 Top Wohnungen u",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3245230487"
   },
   {
    "eur_sqm": 2705,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "Zweifamilienhaus gelegen an der Kleingartenanlage ...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJcAW6io_5uWTOTj1_SVc0b8CeB6URqOsTufh9c_XzLpGMkFI-Qh-tR2p0h4HdM_bMlmBFHtbPKUfmCpvdC6Xg8GDCQqXO-Vf_RBXggUSE0Edx1VnA"
+  },
+  {
+   "eur_sqm": 2892,
+   "yield": 5.81,
+   "price": 295000,
+   "sqm": 102.0,
+   "district": "Bonames",
+   "source": "Immowelt (Mail)",
+   "title": "Zweifamilienhaus in Alt-Bonames mit Potenzial zur ...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjF9ADMAAAAAAKsDUFdH0FQqZL8xHWTcsQBx6cBaVWspWu7tYdg_RMnR1sgJ9wPHM1aq8sFf-szNH_-kIrN1TGP0QXr_4J1W5mBp9YDUdXwu4cp7Kh1UH3pYimX5Xg"
   }
  ]
 }
