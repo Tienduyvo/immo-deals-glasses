@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T10:39:14",
+ "generated_at": "2026-08-13T10:40:14",
  "count": 30,
  "deals": [
   {
@@ -13,16 +13,6 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
   },
   {
-   "eur_sqm": 2563,
-   "yield": 6.55,
-   "price": 669000,
-   "sqm": 261.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Zweifamilienhaus mit großer Terrasse und Garten",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKwZB_mxQvjgTs3pqjgycs92Rf0C9_8PVoOoFZnsEZWCiADf4_G45LpiDvVp8UAhzR-GJtVY1ZWw1AmSpJpHgHdNYWHroeuz6YR35AD2-9NgEfU49Q"
-  },
-  {
    "eur_sqm": 2650,
    "yield": 6.34,
    "price": 599000,
@@ -31,16 +21,6 @@
    "source": "Immowelt (Mail)",
    "title": "Solide Kapitalanlage - 4 Familienhaus in Offenbach...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTV9ADMAAAAAAKHh6Do_u7Nc100Xl5zc-j8JHXeio7d3gaIktnHZV8RM-Y1nwxTXPthNlgm7jJPViOtVQIb9cbqFOy6MXfmrvirHC93D1w7rxlT7atr4OEVwHdOSsw"
-  },
-  {
-   "eur_sqm": 2668,
-   "yield": 6.3,
-   "price": 835000,
-   "sqm": 313.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Mehrfamilienhaus mit 3 Wohneinheiten in Dietzenbac...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjZ9ADMAAAAAALC3GQsqkCFQSbDEdaU3lgbVOlN4hoIC8QifBa6SPI7bCtR7AGzzULUMpBfZp_2BZ_X5duYV_n3ingGly9zUFFLlAF76q-Nyd2VPYwlGfzVnHy-sww"
   },
   {
    "eur_sqm": 2694,
@@ -301,6 +281,26 @@
    "source": "Immowelt (Mail)",
    "title": "Zweifamilienhaus in Alt-Bonames mit Potenzial zur ...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjF9ADMAAAAAAKsDUFdH0FQqZL8xHWTcsQBx6cBaVWspWu7tYdg_RMnR1sgJ9wPHM1aq8sFf-szNH_-kIrN1TGP0QXr_4J1W5mBp9YDUdXwu4cp7Kh1UH3pYimX5Xg"
+  },
+  {
+   "eur_sqm": 2897,
+   "yield": 5.8,
+   "price": 420000,
+   "sqm": 145.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "ALTBAU-VILLA an der Köpperner Allee, EL-Wg, Baugru...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKt3ghv8l5bgxYTaqCUGTKBj9FURWHOiMVT4Oh65Ez7fsN2HLWp6lzJBWiGhwmv5tAQIU0uxvz9ClYhaYEYAdTkjO8TM4kRBWZpdSWu0Jrel3_yhDw"
+  },
+  {
+   "eur_sqm": 2898,
+   "yield": 5.8,
+   "price": 255000,
+   "sqm": 88.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "** Großzügige 3 ZKB in Heusenstamm! **",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJWdnuSG64iHkC60u6QDZT1LWNEGO6DDIDC6Yq4JobCX3rotrv9iCfNDSQual-blMCrrOw09PmSa_dMHtuQ0JHIq8DTv82FDIY9UIfKfOe5OFaQY8Q"
   }
  ]
 }
