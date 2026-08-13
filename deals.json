@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T10:32:20",
+ "generated_at": "2026-08-13T10:33:22",
  "count": 30,
  "deals": [
   {
@@ -11,16 +11,6 @@
    "source": "Immowelt (Mail)",
    "title": "Einfamilienhaus mit Scheune in ruhiger Lage von Ka...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjZ9ADMAAAAAALCVurR4NU5X8boQp9OD-mC8edSrEg5fP-6KZLQyaJfwNEu7m6gfFSREMjdrF7c2nw_Qie2IvrE2lx4fYbMUvkpYeIqcv_MQSiSeEZzpUPyC9qqK2g"
-  },
-  {
-   "eur_sqm": 2078,
-   "yield": 8.09,
-   "price": 480000,
-   "sqm": 231.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "10526 - ATTRAKTIVES MEHRFAMILIENHAUS - IDEAL ZUR S...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njd9ADMAAAAAALGgc5Eqy34nTsGzhEL0MUNNvY-jTXkHBOI8O3EdQ16fzTtxJOosIm-uV8Wrz7RIBW0wUKx4kBgonpmyBu_r2T5X6-FWg7yZZ1P5FNOV-CcPogiVWQ"
   },
   {
    "eur_sqm": 2401,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "10528 - Einfamilienhaus mit Einliegerwohnung & vie...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njd9ADMAAAAAALGgc5EePJP6Hbfz8qyQJ61P3yBHF-00ene38QtnPi6WzYlD6n9sbpxNbJ5hp1o-zj3DYEeCFl_RU3ms2s70XHu_83VVYJvdITZF7qPDhH-HO7FXgg"
+  },
+  {
+   "eur_sqm": 2872,
+   "yield": 5.85,
+   "price": 698000,
+   "sqm": 243.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Fantastisches 2-Fam-Haus mit möglicher ELW in Erzh...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKLR-Y1ZCYeUf2CwTRwEO_euTjYmRue4wUXxJYYt_VkA10g1FHJDcZjflRwTsWZHBgECnHsiLFej_ypP5j8SqqLbF9upnS81MtDYaPBCBTYHsCB36g"
   }
  ]
 }
