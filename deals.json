@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T12:14:50",
+ "generated_at": "2026-08-13T12:35:04",
  "count": 30,
  "deals": [
   {
@@ -21,6 +21,16 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
+  },
+  {
+   "eur_sqm": 2443,
+   "yield": 6.88,
+   "price": 149000,
+   "sqm": 61.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Bezugsfrei:",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njd9ADMAAAAAALKEdoAP3a56zaTMVMXBZN731uuS3YfFzeX1yh6THYMPEQEoVYXMlMYfplcdbG_CjPiKlK5zkoIlJNMqwgBxNuGsbtXPZskxks2KKBfnaAt5dGVYZA"
   },
   {
    "eur_sqm": 2650,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Zweifamilienhaus in Alt-Bonames mit Potenzial zur ...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjF9ADMAAAAAAKsDUFdH0FQqZL8xHWTcsQBx6cBaVWspWu7tYdg_RMnR1sgJ9wPHM1aq8sFf-szNH_-kIrN1TGP0QXr_4J1W5mBp9YDUdXwu4cp7Kh1UH3pYimX5Xg"
-  },
-  {
-   "eur_sqm": 2897,
-   "yield": 5.8,
-   "price": 420000,
-   "sqm": 145.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "ALTBAU-VILLA an der Köpperner Allee, EL-Wg, Baugru...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKt3ghv8l5bgxYTaqCUGTKBj9FURWHOiMVT4Oh65Ez7fsN2HLWp6lzJBWiGhwmv5tAQIU0uxvz9ClYhaYEYAdTkjO8TM4kRBWZpdSWu0Jrel3_yhDw"
   }
  ]
 }
