@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T10:35:22",
+ "generated_at": "2026-08-13T10:36:22",
  "count": 30,
  "deals": [
   {
@@ -11,26 +11,6 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
-  },
-  {
-   "eur_sqm": 2435,
-   "yield": 6.9,
-   "price": 599000,
-   "sqm": 246.0,
-   "district": "Mühlheim",
-   "source": "Immowelt (Mail)",
-   "title": "Attraktive Kapitalanlage in Mühlheim - Voll vermie...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjZ9ADMAAAAAALCJJTKvi0ScCj5PsgM_Upwm-rVgCL4-HR_JOupAVW5q58asV2MQqLja6g-dndH88ZGVF9lG8iU7wZA71-TSQU-58spdL2FT8UyN8ZPgNquMZLQTJQ"
-  },
-  {
-   "eur_sqm": 2500,
-   "yield": 6.72,
-   "price": 750000,
-   "sqm": 300.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Investitionschance: Unvermietetes Mehrfamilienhaus...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjZ9ADMAAAAAALDlmHLVarnWaf_Y8QbTLBu96F3hi_0DApWO7-Z8vgiVJfHeLg_V6dm5XqND1hd42aDtEsBKgdWl9Oh8wMkRY6XoOyvKb999WMtmsfAxIh4K0e2-vg"
   },
   {
    "eur_sqm": 2563,
@@ -51,16 +31,6 @@
    "source": "Immowelt (Mail)",
    "title": "Solide Kapitalanlage - 4 Familienhaus in Offenbach...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTV9ADMAAAAAAKHh6Do_u7Nc100Xl5zc-j8JHXeio7d3gaIktnHZV8RM-Y1nwxTXPthNlgm7jJPViOtVQIb9cbqFOy6MXfmrvirHC93D1w7rxlT7atr4OEVwHdOSsw"
-  },
-  {
-   "eur_sqm": 2659,
-   "yield": 6.32,
-   "price": 359000,
-   "sqm": 135.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Ihr Maisonette-Traum mit Galerie & 2 Duplex-Stellp...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjN9ADMAAAAAAKyv9VBP9UUL1X1kLg-OPpw_cIEI3aVzgLzDP2krjBwjfls8k-BJBgisLx1l_cG5-DxVD75-ygRcBuEIB2bSY4j9OqyYsCu6tuu9F9Thrx-Y_b3uXw"
   },
   {
    "eur_sqm": 2668,
@@ -301,6 +271,36 @@
    "source": "Immowelt (Mail)",
    "title": "VOM GARTENFRÜHSTÜCK BIS ZUM KAMINABEND - modernisi...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK-8Za0BcKm3RdvKgCAW8PoudjQ2eyFw-RvcOoCaqFVQnI0YxJnOED0KF5nby_1jtm15k2DzR9TYWwv1kCF6qKH__uPOQ8F-WlmvKAz06lgV-8GPHQ"
+  },
+  {
+   "eur_sqm": 2883,
+   "yield": 5.83,
+   "price": 259500,
+   "sqm": 90.0,
+   "district": "Dietzenbach",
+   "source": "Immowelt (Mail)",
+   "title": "Dietzenbach Top-Lage: Lichtdurchflutete",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJdr6FcPu6dlf5y40-JFMCKqasikcBia6OP_0I1oNue2C4tVTTO7uzpU97SjO9JmcANUvMVnzYxoKCRBMmMOw5HwOwEkVc9GmEj8mKCi600oNBlQ8Q"
+  },
+  {
+   "eur_sqm": 2886,
+   "yield": 5.82,
+   "price": 430000,
+   "sqm": 149.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Zweifamilienhaus gelegen an der Kleingartenanlage ...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJcAW6io_5uWTOTj1_SVc0b8CeB6URqOsTufh9c_XzLpGMkFI-Qh-tR2p0h4HdM_bMlmBFHtbPKUfmCpvdC6Xg8GDCQqXO-Vf_RBXggUSE0Edx1VnA"
+  },
+  {
+   "eur_sqm": 2892,
+   "yield": 5.81,
+   "price": 295000,
+   "sqm": 102.0,
+   "district": "Bonames",
+   "source": "Immowelt (Mail)",
+   "title": "Zweifamilienhaus in Alt-Bonames mit Potenzial zur ...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjF9ADMAAAAAAKsDUFdH0FQqZL8xHWTcsQBx6cBaVWspWu7tYdg_RMnR1sgJ9wPHM1aq8sFf-szNH_-kIrN1TGP0QXr_4J1W5mBp9YDUdXwu4cp7Kh1UH3pYimX5Xg"
   }
  ]
 }
