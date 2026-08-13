@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T22:56:09",
+ "generated_at": "2026-08-13T08:55:25",
  "count": 30,
  "deals": [
   {
@@ -11,6 +11,16 @@
    "source": "Immowelt (Mail)",
    "title": "Einfamilienhaus mit Scheune in ruhiger Lage von Ka...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjZ9ADMAAAAAALCVurR4NU5X8boQp9OD-mC8edSrEg5fP-6KZLQyaJfwNEu7m6gfFSREMjdrF7c2nw_Qie2IvrE2lx4fYbMUvkpYeIqcv_MQSiSeEZzpUPyC9qqK2g"
+  },
+  {
+   "eur_sqm": 2078,
+   "yield": 8.09,
+   "price": 480000,
+   "sqm": 231.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "10526 - ATTRAKTIVES MEHRFAMILIENHAUS - IDEAL ZUR S...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njd9ADMAAAAAALGgc5Eqy34nTsGzhEL0MUNNvY-jTXkHBOI8O3EdQ16fzTtxJOosIm-uV8Wrz7RIBW0wUKx4kBgonpmyBu_r2T5X6-FWg7yZZ1P5FNOV-CcPogiVWQ"
   },
   {
    "eur_sqm": 2401,
@@ -283,24 +293,14 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjR9ADMAAAAAAK1Vj5m-GP709HQaL8kyTZHiiyv3tinCF3OG6krlnMnp4yKxaYr1YCGtjdEUu4v2_hUoASPft6098C3gd9fOSkV7oFZ9C3CrGe6-MPD4ltyAkSrmhQ"
   },
   {
-   "eur_sqm": 2872,
+   "eur_sqm": 2870,
    "yield": 5.85,
-   "price": 698000,
-   "sqm": 243.0,
+   "price": 310000,
+   "sqm": 108.0,
    "district": "Frankfurt (unspez.)",
    "source": "Immowelt (Mail)",
-   "title": "Fantastisches 2-Fam-Haus mit möglicher ELW in Erzh...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKLR-Y1ZCYeUf2CwTRwEO_euTjYmRue4wUXxJYYt_VkA10g1FHJDcZjflRwTsWZHBgECnHsiLFej_ypP5j8SqqLbF9upnS81MtDYaPBCBTYHsCB36g"
-  },
-  {
-   "eur_sqm": 2873,
-   "yield": 5.85,
-   "price": 1247000,
-   "sqm": 434.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Voll vermietetes Mehrfamilienhaus in Spitzen-Lage ...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJrTNRk1v9VmcWdW6bs0SsHV5mS3qKKI20dU52TafNy7T0smVAUiYHB-LbptIUw8lXVEAcFvPcpuKKtdlBpqGrT_mCxqPQ4rV_0hG5wHP1DQxN_1MQ"
+   "title": "10528 - Einfamilienhaus mit Einliegerwohnung & vie...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njd9ADMAAAAAALGgc5EePJP6Hbfz8qyQJ61P3yBHF-00ene38QtnPi6WzYlD6n9sbpxNbJ5hp1o-zj3DYEeCFl_RU3ms2s70XHu_83VVYJvdITZF7qPDhH-HO7FXgg"
   }
  ]
 }
