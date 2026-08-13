@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T14:52:44",
+ "generated_at": "2026-08-13T15:24:37",
  "count": 30,
  "deals": [
   {
@@ -7,7 +7,7 @@
    "yield": 7.17,
    "price": 360900,
    "sqm": 154.06,
-   "district": "Frankfurt (unspez.)",
+   "district": "Hessen",
    "source": "Kleinanzeigen (Mail)",
    "title": "WINTERAKTION DESIGN 10.2: EINZUGSFERTIGES EFH auf Ihrem Grun",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3264449294"
@@ -203,6 +203,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDV9ADMAAAAAAJMwpD1JLevzxFxc6hfkXgkUBhAXODT9evu8s5CFvfXbK1MHfLmiY6fH2eTp5bXHe4tA7m92ZIjKWnQaROqP8cWiWIXqioBKoOJ8FSRUhFNIlM0thw"
   },
   {
+   "eur_sqm": 2864,
+   "yield": 5.87,
+   "price": 295000,
+   "sqm": 103.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Eigentumswohnung Großzügige",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njd9ADMAAAAAALLWQfjBNURxILDFlBrySRrfaZQXDSJWQ7fsF02OdXvi4U7_Fw1WpCARBun8C0hyXYf9XfdLuXQmubqX9eB6GnP-noig9NE-UJ8Bjd0thhVrEaXe8Q"
+  },
+  {
    "eur_sqm": 2866,
    "yield": 5.86,
    "price": 384000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Zweifamilienhaus in Alt-Bonames mit Potenzial zur ...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjF9ADMAAAAAAKsDUFdH0FQqZL8xHWTcsQBx6cBaVWspWu7tYdg_RMnR1sgJ9wPHM1aq8sFf-szNH_-kIrN1TGP0QXr_4J1W5mBp9YDUdXwu4cp7Kh1UH3pYimX5Xg"
-  },
-  {
-   "eur_sqm": 2897,
-   "yield": 5.8,
-   "price": 420000,
-   "sqm": 145.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "ALTBAU-VILLA an der Köpperner Allee, EL-Wg, Baugru...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKt3ghv8l5bgxYTaqCUGTKBj9FURWHOiMVT4Oh65Ez7fsN2HLWp6lzJBWiGhwmv5tAQIU0uxvz9ClYhaYEYAdTkjO8TM4kRBWZpdSWu0Jrel3_yhDw"
   }
  ]
 }
