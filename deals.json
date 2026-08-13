@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-13T14:38:51",
+ "generated_at": "2026-08-13T14:52:44",
  "count": 30,
  "deals": [
+  {
+   "eur_sqm": 2343,
+   "yield": 7.17,
+   "price": 360900,
+   "sqm": 154.06,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "WINTERAKTION DESIGN 10.2: EINZUGSFERTIGES EFH auf Ihrem Grun",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3264449294"
+  },
   {
    "eur_sqm": 2401,
    "yield": 7.0,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "ALTBAU-VILLA an der Köpperner Allee, EL-Wg, Baugru...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKt3ghv8l5bgxYTaqCUGTKBj9FURWHOiMVT4Oh65Ez7fsN2HLWp6lzJBWiGhwmv5tAQIU0uxvz9ClYhaYEYAdTkjO8TM4kRBWZpdSWu0Jrel3_yhDw"
-  },
-  {
-   "eur_sqm": 2898,
-   "yield": 5.8,
-   "price": 255000,
-   "sqm": 88.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "** Großzügige 3 ZKB in Heusenstamm! **",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJWdnuSG64iHkC60u6QDZT1LWNEGO6DDIDC6Yq4JobCX3rotrv9iCfNDSQual-blMCrrOw09PmSa_dMHtuQ0JHIq8DTv82FDIY9UIfKfOe5OFaQY8Q"
   }
  ]
 }
