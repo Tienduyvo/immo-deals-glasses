@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-13T11:47:22",
+ "generated_at": "2026-08-13T11:57:38",
  "count": 30,
  "deals": [
+  {
+   "eur_sqm": 2255,
+   "yield": 7.45,
+   "price": 530000,
+   "sqm": 235.0,
+   "district": "Hanau",
+   "source": "Immowelt (Mail)",
+   "title": "Zweifamilienhaus mit großem Potenzial in Hanau Kle...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njd9ADMAAAAAALJikOAHx-0Tst1kPoqKVy67vwJ25E5oT12XeZvz9lY_IXhVkfjXqlQ0snFZO1WrcK2WjHBaImWrkDYvX-fpbUnN-uLm3U_WKGhll8YUlWLrzN363A"
+  },
   {
    "eur_sqm": 2401,
    "yield": 7.0,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "ALTBAU-VILLA an der Köpperner Allee, EL-Wg, Baugru...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKt3ghv8l5bgxYTaqCUGTKBj9FURWHOiMVT4Oh65Ez7fsN2HLWp6lzJBWiGhwmv5tAQIU0uxvz9ClYhaYEYAdTkjO8TM4kRBWZpdSWu0Jrel3_yhDw"
-  },
-  {
-   "eur_sqm": 2898,
-   "yield": 5.8,
-   "price": 255000,
-   "sqm": 88.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "** Großzügige 3 ZKB in Heusenstamm! **",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJWdnuSG64iHkC60u6QDZT1LWNEGO6DDIDC6Yq4JobCX3rotrv9iCfNDSQual-blMCrrOw09PmSa_dMHtuQ0JHIq8DTv82FDIY9UIfKfOe5OFaQY8Q"
   }
  ]
 }
