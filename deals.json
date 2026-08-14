@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T19:57:47",
+ "generated_at": "2026-08-14T20:26:32",
  "count": 30,
  "deals": [
   {
@@ -153,6 +153,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKVk7gEQHLWuq9kwVq633xdontJNVVWK7KDT_V3YQSKVCLskgtnWPzvtdPgCkj5uzk12iAPmaMRCmYOSoIaUXD13g5VdJdrrQhy99RU0dgMsmEQqmQ"
   },
   {
+   "eur_sqm": 2816,
+   "yield": 5.97,
+   "price": 490000,
+   "sqm": 174.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "2 Wohnungen,",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njh9ADMAAAAAALSvWQOZDbl6IXKaCK6lsAClNnXgtAK4NHtuHAK8LdtXCBJ2_VH9odvaMivMYmZszbE3xsdN_TDbLVvd37F_AVFlXJblaM4OMw1K6UE5IjBFV1CzBA"
+  },
+  {
    "eur_sqm": 2821,
    "yield": 5.95,
    "price": 158000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Zweifamilienhaus gelegen an der Kleingartenanlage ...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJcAW6io_5uWTOTj1_SVc0b8CeB6URqOsTufh9c_XzLpGMkFI-Qh-tR2p0h4HdM_bMlmBFHtbPKUfmCpvdC6Xg8GDCQqXO-Vf_RBXggUSE0Edx1VnA"
-  },
-  {
-   "eur_sqm": 2892,
-   "yield": 5.81,
-   "price": 295000,
-   "sqm": 102.0,
-   "district": "Bonames",
-   "source": "Immowelt (Mail)",
-   "title": "Zweifamilienhaus in Alt-Bonames mit Potenzial zur ...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjF9ADMAAAAAAKsDUFdH0FQqZL8xHWTcsQBx6cBaVWspWu7tYdg_RMnR1sgJ9wPHM1aq8sFf-szNH_-kIrN1TGP0QXr_4J1W5mBp9YDUdXwu4cp7Kh1UH3pYimX5Xg"
   }
  ]
 }
