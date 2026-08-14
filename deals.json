@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-14T23:22:16",
+ "generated_at": "2026-08-15T00:40:16",
  "count": 30,
  "deals": [
+  {
+   "eur_sqm": 2270,
+   "yield": 7.4,
+   "price": 320000,
+   "sqm": 141.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Großes Familienanwesen mit Innenhof und Garten",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3383535503"
+  },
   {
    "eur_sqm": 2401,
    "yield": 7.0,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Historischer Charme mit Entwicklungspotential *Ein...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njh9ADMAAAAAALPMSSI2eERmvg14w_Ztg4tu8XiF8bu-IgoRmpGyLj7s44Y119DvW-WtKN5EUR7IsiP0DYI3vDbTNaeKl_dqM3haZDZTd4FzAuwxr0NA5lee52Ds4w"
-  },
-  {
-   "eur_sqm": 2886,
-   "yield": 5.82,
-   "price": 430000,
-   "sqm": 149.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Zweifamilienhaus gelegen an der Kleingartenanlage ...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJcAW6io_5uWTOTj1_SVc0b8CeB6URqOsTufh9c_XzLpGMkFI-Qh-tR2p0h4HdM_bMlmBFHtbPKUfmCpvdC6Xg8GDCQqXO-Vf_RBXggUSE0Edx1VnA"
   }
  ]
 }
