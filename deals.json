@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T12:53:15",
+ "generated_at": "2026-08-14T13:30:31",
  "count": 30,
  "deals": [
   {
@@ -7,7 +7,7 @@
    "yield": 14.05,
    "price": 55000,
    "sqm": 46.0,
-   "district": "Berkersheim",
+   "district": "Frankfurt am Main",
    "source": "Kleinanzeigen (Mail)",
    "title": "Haus / Reihenhaus / Auslandsimmobilie",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3483644036"
@@ -31,6 +31,16 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
+  },
+  {
+   "eur_sqm": 2443,
+   "yield": 6.88,
+   "price": 456852,
+   "sqm": 187.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "TRAUMHAUS AUF IHREM GRUNSTÜCK, EINZUGSFERTIG.EIN HAUS, EIN R",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3138592133"
   },
   {
    "eur_sqm": 2650,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Kapitalanleger aufgepasst! Ein-Zimmerwohnung im 3....",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKUVlRmavlAqvsa232lRMuOgr5oGhbzUt248DZnLnOhijPxmozM_LvhaAdVqTKl8nLrr5XfPK8rtYyPx9RQbZaKHMr4qqeZYJptirTUmJIrK0uQAfw"
-  },
-  {
-   "eur_sqm": 2875,
-   "yield": 5.84,
-   "price": 460000,
-   "sqm": 160.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "VOM GARTENFRÜHSTÜCK BIS ZUM KAMINABEND - modernisi...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK-8Za0BcKm3RdvKgCAW8PoudjQ2eyFw-RvcOoCaqFVQnI0YxJnOED0KF5nby_1jtm15k2DzR9TYWwv1kCF6qKH__uPOQ8F-WlmvKAz06lgV-8GPHQ"
   }
  ]
 }
