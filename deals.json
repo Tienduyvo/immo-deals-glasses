@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T10:55:10",
+ "generated_at": "2026-08-14T08:34:18",
  "count": 30,
  "deals": [
   {
@@ -16,7 +16,7 @@
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
-   "sqm": 252.0,
+   "sqm": 252,
    "district": "Frankfurt am Main",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
@@ -193,16 +193,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJbRs6GPiQNGjxvqcmZeoGDcAkbQXO2Cp4zC8ETdxUH80l90K_15pOg70Dk06jjW78iImjp3BcaOcvA5caUV41b7obXOg5S6FBvHj5OAF0pWjVI3pg"
   },
   {
-   "eur_sqm": 2823,
-   "yield": 5.95,
-   "price": 223000,
-   "sqm": 79.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Provisionsfrei / Kapitalanlage in Bruchköbel - Sof...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njh9ADMAAAAAALOgu_VewNSwhwxrMTEI4SuR-B4vq7cEccX4N8f2Y5s963S0M_WfZjVUOw7SE5MdpPx5K9NTCCLjDtT62RTIYcMJjSUXG5GC3UyKiK8RlpTK1Ur8mQ"
-  },
-  {
    "eur_sqm": 2837,
    "yield": 5.92,
    "price": 139000,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "Dietzenbach Top-Lage: Lichtdurchflutete",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJdr6FcPu6dlf5y40-JFMCKqasikcBia6OP_0I1oNue2C4tVTTO7uzpU97SjO9JmcANUvMVnzYxoKCRBMmMOw5HwOwEkVc9GmEj8mKCi600oNBlQ8Q"
+  },
+  {
+   "eur_sqm": 2886,
+   "yield": 5.82,
+   "price": 430000,
+   "sqm": 149.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Zweifamilienhaus gelegen an der Kleingartenanlage ...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJcAW6io_5uWTOTj1_SVc0b8CeB6URqOsTufh9c_XzLpGMkFI-Qh-tR2p0h4HdM_bMlmBFHtbPKUfmCpvdC6Xg8GDCQqXO-Vf_RBXggUSE0Edx1VnA"
   }
  ]
 }
