@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-14T12:22:28",
+ "generated_at": "2026-08-14T12:53:15",
  "count": 30,
  "deals": [
+  {
+   "eur_sqm": 1196,
+   "yield": 14.05,
+   "price": 55000,
+   "sqm": 46.0,
+   "district": "Berkersheim",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Haus / Reihenhaus / Auslandsimmobilie",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3483644036"
+  },
   {
    "eur_sqm": 2343,
    "yield": 7.17,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "VOM GARTENFRÜHSTÜCK BIS ZUM KAMINABEND - modernisi...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK-8Za0BcKm3RdvKgCAW8PoudjQ2eyFw-RvcOoCaqFVQnI0YxJnOED0KF5nby_1jtm15k2DzR9TYWwv1kCF6qKH__uPOQ8F-WlmvKAz06lgV-8GPHQ"
-  },
-  {
-   "eur_sqm": 2883,
-   "yield": 5.83,
-   "price": 259500,
-   "sqm": 90.0,
-   "district": "Dietzenbach",
-   "source": "Immowelt (Mail)",
-   "title": "Dietzenbach Top-Lage: Lichtdurchflutete",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJdr6FcPu6dlf5y40-JFMCKqasikcBia6OP_0I1oNue2C4tVTTO7uzpU97SjO9JmcANUvMVnzYxoKCRBMmMOw5HwOwEkVc9GmEj8mKCi600oNBlQ8Q"
   }
  ]
 }
