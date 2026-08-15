@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-15T11:32:43",
+ "generated_at": "2026-08-15T11:39:11",
  "count": 30,
  "deals": [
+  {
+   "eur_sqm": 1773,
+   "yield": 9.47,
+   "price": 133000,
+   "sqm": 75.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Attraktive",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njl9ADMAAAAAALVL1mkl-cGOJaaMpweGd6-HZwwH0wXSJYeFBrF0X_BlLJbfGDjb5Z3N2oMZsRcwQWffjk6dKZc3cT9sXgpDSzTZ8vjlGwsBAs1q4pa49X0EVMIUcw"
+  },
   {
    "eur_sqm": 2116,
    "yield": 7.94,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Voll vermietetes Mehrfamilienhaus in Spitzen-Lage ...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJrTNRk1v9VmcWdW6bs0SsHV5mS3qKKI20dU52TafNy7T0smVAUiYHB-LbptIUw8lXVEAcFvPcpuKKtdlBpqGrT_mCxqPQ4rV_0hG5wHP1DQxN_1MQ"
-  },
-  {
-   "eur_sqm": 2875,
-   "yield": 5.84,
-   "price": 115000,
-   "sqm": 40.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Kapitalanleger aufgepasst! Ein-Zimmerwohnung im 3....",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKUVlRmavlAqvsa232lRMuOgr5oGhbzUt248DZnLnOhijPxmozM_LvhaAdVqTKl8nLrr5XfPK8rtYyPx9RQbZaKHMr4qqeZYJptirTUmJIrK0uQAfw"
   }
  ]
 }
