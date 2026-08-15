@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-15T22:14:01",
+ "generated_at": "2026-08-15T22:17:41",
  "count": 30,
  "deals": [
   {
@@ -183,6 +183,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njl9ADMAAAAAALUsWnAe3d7gJJrU5Dg74Qn2cC_M2VNHVcLtpM7zldSL11lOn8AzqJt1O4jwguHbitQ_FM1CuPk69zTbQPcO71i1dmwh7dQfsmqgTv8QDcwBG4vhlg"
   },
   {
+   "eur_sqm": 2799,
+   "yield": 6.0,
+   "price": 599000,
+   "sqm": 214.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "SUBSTANZ. LAGE. POTENZIAL! - Freistehendes Anwesen...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njl9ADMAAAAAALXD2PvYGbjlGzJ8ba0YCSfseCkz9tjj6tfS9h2nWMl1mK5_XlPidB0t9-PS8JdxEDYXQg18W2QsnRepcS3huKXMGbiJVQV2SnK8Ybj2L-akbDBJ7Q"
+  },
+  {
    "eur_sqm": 2800,
    "yield": 6.0,
    "price": 798000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "10528 - Einfamilienhaus mit Einliegerwohnung & vie...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njd9ADMAAAAAALGgc5EePJP6Hbfz8qyQJ61P3yBHF-00ene38QtnPi6WzYlD6n9sbpxNbJ5hp1o-zj3DYEeCFl_RU3ms2s70XHu_83VVYJvdITZF7qPDhH-HO7FXgg"
-  },
-  {
-   "eur_sqm": 2872,
-   "yield": 5.85,
-   "price": 698000,
-   "sqm": 243.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Fantastisches 2-Fam-Haus mit möglicher ELW in Erzh...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKLR-Y1ZCYeUf2CwTRwEO_euTjYmRue4wUXxJYYt_VkA10g1FHJDcZjflRwTsWZHBgECnHsiLFej_ypP5j8SqqLbF9upnS81MtDYaPBCBTYHsCB36g"
   }
  ]
 }
