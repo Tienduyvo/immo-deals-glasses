@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-15T09:20:03",
+ "generated_at": "2026-08-15T09:33:01",
  "count": 30,
  "deals": [
   {
@@ -61,6 +61,16 @@
    "source": "Immowelt (Mail)",
    "title": "Langfristig gedacht: Immobilieninvestment mit Sich...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjF9ADMAAAAAAKq9LasvIPilAxTilA6dzF3iiVp1CgHDf9L87mcA1P2GsrROSky0PKLS-HqCwX2EppgkBjU05TFRhl8rxKSpIefEJ0YYw5LQGu5_cQdju0gsKLlT7w"
+  },
+  {
+   "eur_sqm": 2717,
+   "yield": 6.18,
+   "price": 750000,
+   "sqm": 276.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Klassisch, elegant und trotzdem erschwinglich (Erb...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njl9ADMAAAAAALUdXht_R3CTAo2o72dW-9KAGi7LzisZSELy9rfZUxYifC9QosUGEq1NqH0gNtjN-T6XyKZUtyP1jzTDMial5nyMy_U5jO6VXh_5cOM9qpxcCTD0eA"
   },
   {
    "eur_sqm": 2723,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Dietzenbach Top-Lage: Lichtdurchflutete",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJdr6FcPu6dlf5y40-JFMCKqasikcBia6OP_0I1oNue2C4tVTTO7uzpU97SjO9JmcANUvMVnzYxoKCRBMmMOw5HwOwEkVc9GmEj8mKCi600oNBlQ8Q"
-  },
-  {
-   "eur_sqm": 2883,
-   "yield": 5.83,
-   "price": 369000,
-   "sqm": 128.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Historischer Charme mit Entwicklungspotential *Ein...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njh9ADMAAAAAALPMSSI2eERmvg14w_Ztg4tu8XiF8bu-IgoRmpGyLj7s44Y119DvW-WtKN5EUR7IsiP0DYI3vDbTNaeKl_dqM3haZDZTd4FzAuwxr0NA5lee52Ds4w"
   }
  ]
 }
