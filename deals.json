@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-15T16:14:46",
+ "generated_at": "2026-08-15T16:36:07",
  "count": 30,
  "deals": [
   {
@@ -131,6 +131,16 @@
    "source": "Immowelt (Mail)",
    "title": "Großzügiges Reihenmittelhaus mit Garage in schöner...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKvSbtbED8eTlLHzKuQkn292Di38VesX6plnXh8D2ynowKnzzCBoW_ByyyMNz11gyersP_yUvA-hE9WrjYODgn6bfWXzk8uisTQxwQncFZwirKo1Gg"
+  },
+  {
+   "eur_sqm": 2744,
+   "yield": 6.12,
+   "price": 749000,
+   "sqm": 273.0,
+   "district": "Karben",
+   "source": "Immowelt (Mail)",
+   "title": "Karben, Petterweil: Zweifamilienhaus mit großem Ga...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njl9ADMAAAAAALWKwvP2MgEtSC5WumwAsqGJrL7FItCU_gZrCLnFBLXK75055G0EZuX4ANNkvYwSHSODjE4CHC9qcIcK3-MjicsXlmSlIAPQ7uWI0D_os9wJ8xhExw"
   },
   {
    "eur_sqm": 2770,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Fantastisches 2-Fam-Haus mit möglicher ELW in Erzh...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKLR-Y1ZCYeUf2CwTRwEO_euTjYmRue4wUXxJYYt_VkA10g1FHJDcZjflRwTsWZHBgECnHsiLFej_ypP5j8SqqLbF9upnS81MtDYaPBCBTYHsCB36g"
-  },
-  {
-   "eur_sqm": 2873,
-   "yield": 5.85,
-   "price": 1247000,
-   "sqm": 434.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Voll vermietetes Mehrfamilienhaus in Spitzen-Lage ...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJrTNRk1v9VmcWdW6bs0SsHV5mS3qKKI20dU52TafNy7T0smVAUiYHB-LbptIUw8lXVEAcFvPcpuKKtdlBpqGrT_mCxqPQ4rV_0hG5wHP1DQxN_1MQ"
   }
  ]
 }
