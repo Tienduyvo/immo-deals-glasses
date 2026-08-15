@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-15T10:35:56",
+ "generated_at": "2026-08-15T10:42:02",
  "count": 30,
  "deals": [
   {
@@ -153,6 +153,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTB9ADMAAAAAAJioT8sCJTtkpepkgZK7Tq1UTsuRjb0V748emk2gm6NO0pm75s8kUpFXXQ6bDDZjMbSHWaTY5MAsmgZL-3IqQ-qqdVxH_V2ClBGP5fTu8gmuYIrm-A"
   },
   {
+   "eur_sqm": 2787,
+   "yield": 6.03,
+   "price": 150500,
+   "sqm": 54.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Moderne",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njl9ADMAAAAAALUsWnAe3d7gJJrU5Dg74Qn2cC_M2VNHVcLtpM7zldSL11lOn8AzqJt1O4jwguHbitQ_FM1CuPk69zTbQPcO71i1dmwh7dQfsmqgTv8QDcwBG4vhlg"
+  },
+  {
    "eur_sqm": 2800,
    "yield": 6.0,
    "price": 798000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Kapitalanleger aufgepasst! Ein-Zimmerwohnung im 3....",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKUVlRmavlAqvsa232lRMuOgr5oGhbzUt248DZnLnOhijPxmozM_LvhaAdVqTKl8nLrr5XfPK8rtYyPx9RQbZaKHMr4qqeZYJptirTUmJIrK0uQAfw"
-  },
-  {
-   "eur_sqm": 2875,
-   "yield": 5.84,
-   "price": 460000,
-   "sqm": 160.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "VOM GARTENFRÜHSTÜCK BIS ZUM KAMINABEND - modernisi...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK-8Za0BcKm3RdvKgCAW8PoudjQ2eyFw-RvcOoCaqFVQnI0YxJnOED0KF5nby_1jtm15k2DzR9TYWwv1kCF6qKH__uPOQ8F-WlmvKAz06lgV-8GPHQ"
   }
  ]
 }
