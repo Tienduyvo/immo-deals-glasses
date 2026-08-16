@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-16T16:31:53",
+ "generated_at": "2026-08-16T16:43:25",
  "count": 30,
  "deals": [
   {
@@ -141,6 +141,16 @@
    "source": "Immowelt (Mail)",
    "title": "Geräumiges Einfamilienhaus mit Garten, Werkstatt u...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKJgWbvC9ZfOfAzJrkiFU3HMfBrQWkh_9VkuWVZymFYbM830sOTkbbEeZmP2-EiqCjFKQ-_MkW_iqBIF3Oq2iwXKA20vv1xsS-fpSibSqKNZ7e9YnQ"
+  },
+  {
+   "eur_sqm": 2726,
+   "yield": 6.16,
+   "price": 229000,
+   "sqm": 84.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Attraktive",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzB9ADMAAAAAALZsMWktMpUiVaXpNHneIli8ULkcWWAmy35CUzsOltALeqIc1-v5jnH3Xma6V4HzR0q4CY9NseZ4TDQaNpGeWe39haHY1qQsczdo6liUCgTOIx4ZeQ"
   },
   {
    "eur_sqm": 2727,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Kelkheim: Vermietete",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJpGctuABHfaaUvsNPj-6KEt9qr9omiIFoj7yYRYnPIAgMvrDZ1mh1_qImDCupGMcVOoduGzMDU5vC_itBaT2qkeurATqoUs8DI4uxKH9tLvSJzFNw"
-  },
-  {
-   "eur_sqm": 2846,
-   "yield": 5.9,
-   "price": 185000,
-   "sqm": 65.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Helle",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDV9ADMAAAAAAJMwpD1JLevzxFxc6hfkXgkUBhAXODT9evu8s5CFvfXbK1MHfLmiY6fH2eTp5bXHe4tA7m92ZIjKWnQaROqP8cWiWIXqioBKoOJ8FSRUhFNIlM0thw"
   }
  ]
 }
