@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-16T16:21:01",
+ "generated_at": "2026-08-16T16:31:53",
  "count": 30,
  "deals": [
   {
@@ -11,6 +11,16 @@
    "source": "Immowelt (Mail)",
    "title": "Attraktive",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njl9ADMAAAAAALVL1mkl-cGOJaaMpweGd6-HZwwH0wXSJYeFBrF0X_BlLJbfGDjb5Z3N2oMZsRcwQWffjk6dKZc3cT9sXgpDSzTZ8vjlGwsBAs1q4pa49X0EVMIUcw"
+  },
+  {
+   "eur_sqm": 1999,
+   "yield": 8.4,
+   "price": 199900,
+   "sqm": 100.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Einfamilienhaus mit Herz und einem zauberhaften Ga...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzB9ADMAAAAAALZoLotL-XKkDD1oXzt-Czw6VBz0lkfjDHN3yI1btdaVSbkn-CGdPyEjZrVWm5uZyM8Tnj_Qmty_nSvH997lluBEIIPAD5y8GAmevUZOuuG1Wb25KA"
   },
   {
    "eur_sqm": 2116,
@@ -51,6 +61,16 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "1-2 Generationenhaus mit SONNEN-Garten in RUHIGER Seitenstra",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3460804880"
+  },
+  {
+   "eur_sqm": 2497,
+   "yield": 6.73,
+   "price": 749000,
+   "sqm": 300.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Charmante Hofreite in jung... besteht aus 2 Häuser...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzB9ADMAAAAAALZoLotRfQfAGM_DAjMsV91UhcQkOxR0RDMFqtcv-5tizrOPM35aVSK0c0iHnqhZPCQU93WU4jEE6-vrrNq_PVBLkUP6Z3qWdX6rUrNjDSQSGnCLSw"
   },
   {
    "eur_sqm": 2694,
@@ -281,26 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Helle",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDV9ADMAAAAAAJMwpD1JLevzxFxc6hfkXgkUBhAXODT9evu8s5CFvfXbK1MHfLmiY6fH2eTp5bXHe4tA7m92ZIjKWnQaROqP8cWiWIXqioBKoOJ8FSRUhFNIlM0thw"
-  },
-  {
-   "eur_sqm": 2864,
-   "yield": 5.87,
-   "price": 295000,
-   "sqm": 103.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Eigentumswohnung Großzügige",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njd9ADMAAAAAALLWQfjBNURxILDFlBrySRrfaZQXDSJWQ7fsF02OdXvi4U7_Fw1WpCARBun8C0hyXYf9XfdLuXQmubqX9eB6GnP-noig9NE-UJ8Bjd0thhVrEaXe8Q"
-  },
-  {
-   "eur_sqm": 2866,
-   "yield": 5.86,
-   "price": 384000,
-   "sqm": 134.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Eigentumswohnung in Urberach / Bienengarten",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjR9ADMAAAAAAK1Vj5m-GP709HQaL8kyTZHiiyv3tinCF3OG6krlnMnp4yKxaYr1YCGtjdEUu4v2_hUoASPft6098C3gd9fOSkV7oFZ9C3CrGe6-MPD4ltyAkSrmhQ"
   }
  ]
 }
