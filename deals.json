@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-16T10:40:16",
+ "generated_at": "2026-08-16T08:33:13",
  "count": 30,
  "deals": [
   {
@@ -36,21 +36,11 @@
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
-   "sqm": 252.0,
+   "sqm": 252,
    "district": "Frankfurt am Main",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
-  },
-  {
-   "eur_sqm": 2490,
-   "yield": 6.75,
-   "price": 471000,
-   "sqm": 189.19,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "1-2 Generationenhaus mit SONNEN-Garten in RUHIGER Seitenstra",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3460804880"
   },
   {
    "eur_sqm": 2694,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "Eigentumswohnung in Urberach / Bienengarten",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjR9ADMAAAAAAK1Vj5m-GP709HQaL8kyTZHiiyv3tinCF3OG6krlnMnp4yKxaYr1YCGtjdEUu4v2_hUoASPft6098C3gd9fOSkV7oFZ9C3CrGe6-MPD4ltyAkSrmhQ"
+  },
+  {
+   "eur_sqm": 2870,
+   "yield": 5.85,
+   "price": 310000,
+   "sqm": 108.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "10528 - Einfamilienhaus mit Einliegerwohnung & vie...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njd9ADMAAAAAALGgc5EePJP6Hbfz8qyQJ61P3yBHF-00ene38QtnPi6WzYlD6n9sbpxNbJ5hp1o-zj3DYEeCFl_RU3ms2s70XHu_83VVYJvdITZF7qPDhH-HO7FXgg"
   }
  ]
 }
