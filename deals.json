@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T15:14:14",
+ "generated_at": "2026-08-17T15:54:55",
  "count": 30,
  "deals": [
   {
@@ -51,6 +51,16 @@
    "source": "Immowelt (Mail)",
    "title": "Zwei verbundene Häuser-ein großes Grundstück! Viel...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzF9ADMAAAAAALcD7x70TDuveMSG4X1P5h17ZKFYjk8f3dsbhxdE3uGKi4VaARPmM7DsyScQEEtX2yewCaSThsOFQOPV3iHCDtmZKRBr-ZOgE7930BBkIX9Wp1iovg"
+  },
+  {
+   "eur_sqm": 2353,
+   "yield": 7.14,
+   "price": 160000,
+   "sqm": 68.0,
+   "district": "Langen",
+   "source": "Immowelt (Mail)",
+   "title": "1-Zimmer-Wohnung mit Weitblick in Langen",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzF9ADMAAAAAALdLcy-WchWMo2pdQY9a5nx-nhWlQYtQs9uQjtMSWrTT7r04Nn6CfBggFsk5Ylzh9whk48ZGKWe20p5YZU1vcaYdqmTmXDAGZfjHt8AMQm151RwO8A"
   },
   {
    "eur_sqm": 2401,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Helle 2-Zi.-Wohnung mit EBK, Aufzug & PKW-Stellpla...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTd9ADMAAAAAAKMgYXoTLK5y5cEsHhm1KMROOSuSw5zLgEpP8ECal7WbnWbH8HT0MRs1xO6Ku_Nn6KWgtkLkw5VXwylYSvPaJAn3WHvulMvxU8QJrKj3VxZhjqnVwQ"
-  },
-  {
-   "eur_sqm": 2823,
-   "yield": 5.95,
-   "price": 175000,
-   "sqm": 62.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Tolle Wohnung für Singles und Paare",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJbRs6GPiQNGjxvqcmZeoGDcAkbQXO2Cp4zC8ETdxUH80l90K_15pOg70Dk06jjW78iImjp3BcaOcvA5caUV41b7obXOg5S6FBvHj5OAF0pWjVI3pg"
   }
  ]
 }
