@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T19:55:51",
+ "generated_at": "2026-08-17T20:40:29",
  "count": 30,
  "deals": [
   {
@@ -31,6 +31,16 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "⭐Kapitalanlage⭐ ab 200 € monatlich eine Renditeimmobilie kau",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3484805342"
+  },
+  {
+   "eur_sqm": 2217,
+   "yield": 7.58,
+   "price": 920000,
+   "sqm": 415.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Ansprechendes Mehrfamilienhaus",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzF9ADMAAAAAALe9_5uXF9hWNCdEtjFrVlxqyjbmXWM8tXDCuVbK0Fhyrdcj8no_raJxruJl5UgRLN27Lb6suPiJXrmZsUC3EqYsmU3xSOaqRU6O98b0FyJkbG5NXw"
   },
   {
    "eur_sqm": 2270,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "2 Wohnungen,",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njh9ADMAAAAAALSvWQOZDbl6IXKaCK6lsAClNnXgtAK4NHtuHAK8LdtXCBJ2_VH9odvaMivMYmZszbE3xsdN_TDbLVvd37F_AVFlXJblaM4OMw1K6UE5IjBFV1CzBA"
-  },
-  {
-   "eur_sqm": 2821,
-   "yield": 5.95,
-   "price": 158000,
-   "sqm": 56.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Helle 2-Zi.-Wohnung mit EBK, Aufzug & PKW-Stellpla...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTd9ADMAAAAAAKMgYXoTLK5y5cEsHhm1KMROOSuSw5zLgEpP8ECal7WbnWbH8HT0MRs1xO6Ku_Nn6KWgtkLkw5VXwylYSvPaJAn3WHvulMvxU8QJrKj3VxZhjqnVwQ"
   }
  ]
 }
