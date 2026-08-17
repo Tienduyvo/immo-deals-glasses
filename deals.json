@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T11:50:41",
+ "generated_at": "2026-08-17T12:36:19",
  "count": 30,
  "deals": [
   {
@@ -41,6 +41,16 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "Großes Familienanwesen mit Innenhof und Garten",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3383535503"
+  },
+  {
+   "eur_sqm": 2346,
+   "yield": 7.16,
+   "price": 549000,
+   "sqm": 234.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Zwei verbundene Häuser-ein großes Grundstück! Viel...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzF9ADMAAAAAALcD7x70TDuveMSG4X1P5h17ZKFYjk8f3dsbhxdE3uGKi4VaARPmM7DsyScQEEtX2yewCaSThsOFQOPV3iHCDtmZKRBr-ZOgE7930BBkIX9Wp1iovg"
   },
   {
    "eur_sqm": 2401,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Tolle Wohnung für Singles und Paare",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJbRs6GPiQNGjxvqcmZeoGDcAkbQXO2Cp4zC8ETdxUH80l90K_15pOg70Dk06jjW78iImjp3BcaOcvA5caUV41b7obXOg5S6FBvHj5OAF0pWjVI3pg"
-  },
-  {
-   "eur_sqm": 2837,
-   "yield": 5.92,
-   "price": 139000,
-   "sqm": 49.0,
-   "district": "Kelkheim",
-   "source": "Immowelt (Mail)",
-   "title": "Kelkheim: Vermietete",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJpGctuABHfaaUvsNPj-6KEt9qr9omiIFoj7yYRYnPIAgMvrDZ1mh1_qImDCupGMcVOoduGzMDU5vC_itBaT2qkeurATqoUs8DI4uxKH9tLvSJzFNw"
   }
  ]
 }
