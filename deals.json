@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T10:37:20",
+ "generated_at": "2026-08-17T08:34:20",
  "count": 30,
  "deals": [
   {
@@ -46,7 +46,7 @@
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
-   "sqm": 252.0,
+   "sqm": 252,
    "district": "Frankfurt am Main",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
