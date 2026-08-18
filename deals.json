@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T14:34:11",
+ "generated_at": "2026-08-18T14:35:11",
  "count": 30,
  "deals": [
   {
@@ -21,16 +21,6 @@
    "source": "Immowelt (Mail)",
    "title": "Einfamilienhaus mit Herz und einem zauberhaften Ga...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzB9ADMAAAAAALZoLotL-XKkDD1oXzt-Czw6VBz0lkfjDHN3yI1btdaVSbkn-CGdPyEjZrVWm5uZyM8Tnj_Qmty_nSvH997lluBEIIPAD5y8GAmevUZOuuG1Wb25KA"
-  },
-  {
-   "eur_sqm": 2217,
-   "yield": 7.58,
-   "price": 920000,
-   "sqm": 415.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Ansprechendes Mehrfamilienhaus",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzF9ADMAAAAAALe9_5uXF9hWNCdEtjFrVlxqyjbmXWM8tXDCuVbK0Fhyrdcj8no_raJxruJl5UgRLN27Lb6suPiJXrmZsUC3EqYsmU3xSOaqRU6O98b0FyJkbG5NXw"
   },
   {
    "eur_sqm": 2270,
@@ -61,16 +51,6 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "1-2 Generationenhaus mit SONNEN-Garten in RUHIGER Seitenstra",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3460804880"
-  },
-  {
-   "eur_sqm": 2497,
-   "yield": 6.73,
-   "price": 749000,
-   "sqm": 300.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Charmante Hofreite in jung... besteht aus 2 Häuser...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzB9ADMAAAAAALZoLotRfQfAGM_DAjMsV91UhcQkOxR0RDMFqtcv-5tizrOPM35aVSK0c0iHnqhZPCQU93WU4jEE6-vrrNq_PVBLkUP6Z3qWdX6rUrNjDSQSGnCLSw"
   },
   {
    "eur_sqm": 2694,
@@ -301,6 +281,26 @@
    "source": "Immowelt (Mail)",
    "title": "Kelkheim: Vermietete",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJpGctuABHfaaUvsNPj-6KEt9qr9omiIFoj7yYRYnPIAgMvrDZ1mh1_qImDCupGMcVOoduGzMDU5vC_itBaT2qkeurATqoUs8DI4uxKH9tLvSJzFNw"
+  },
+  {
+   "eur_sqm": 2846,
+   "yield": 5.9,
+   "price": 185000,
+   "sqm": 65.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Helle",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDV9ADMAAAAAAJMwpD1JLevzxFxc6hfkXgkUBhAXODT9evu8s5CFvfXbK1MHfLmiY6fH2eTp5bXHe4tA7m92ZIjKWnQaROqP8cWiWIXqioBKoOJ8FSRUhFNIlM0thw"
+  },
+  {
+   "eur_sqm": 2864,
+   "yield": 5.87,
+   "price": 295000,
+   "sqm": 103.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Eigentumswohnung Großzügige",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njd9ADMAAAAAALLWQfjBNURxILDFlBrySRrfaZQXDSJWQ7fsF02OdXvi4U7_Fw1WpCARBun8C0hyXYf9XfdLuXQmubqX9eB6GnP-noig9NE-UJ8Bjd0thhVrEaXe8Q"
   }
  ]
 }
