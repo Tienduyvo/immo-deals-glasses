@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T15:45:55",
+ "generated_at": "2026-08-18T15:47:32",
  "count": 30,
  "deals": [
   {
@@ -11,16 +11,6 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
-  },
-  {
-   "eur_sqm": 2733,
-   "yield": 6.15,
-   "price": 399000,
-   "sqm": 146.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Großzügiges Reihenmittelhaus mit Garage in schöner...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKvSbtbED8eTlLHzKuQkn292Di38VesX6plnXh8D2ynowKnzzCBoW_ByyyMNz11gyersP_yUvA-hE9WrjYODgn6bfWXzk8uisTQxwQncFZwirKo1Gg"
   },
   {
    "eur_sqm": 2744,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "** Großzügige 3 ZKB in Heusenstamm! **",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJWdnuSG64iHkC60u6QDZT1LWNEGO6DDIDC6Yq4JobCX3rotrv9iCfNDSQual-blMCrrOw09PmSa_dMHtuQ0JHIq8DTv82FDIY9UIfKfOe5OFaQY8Q"
+  },
+  {
+   "eur_sqm": 2902,
+   "yield": 5.79,
+   "price": 798000,
+   "sqm": 275.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Vermietetes 3 Familienhaus im Herzen von Ober-Rode...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTN9ADMAAAAAAJ6Y80UFv3Jp-6bZ1LqoH2FHtjAfaoLd9k8p7V03_kMVrqCKVd2GRh1p13V-Ewp_99lYTXKAOr6jjAqT1bO3LUYN9BORLQsl6xV2UVenCVQKvKJ5mQ"
   }
  ]
 }
