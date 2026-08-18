@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T15:43:20",
+ "generated_at": "2026-08-18T15:45:55",
  "count": 30,
  "deals": [
   {
@@ -11,16 +11,6 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
-  },
-  {
-   "eur_sqm": 2727,
-   "yield": 6.16,
-   "price": 619000,
-   "sqm": 227.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Charmantes Zweifamilienhaus mit großzügigem Platza...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKuytuh_1iRII8EH5bBJlAW5OPGIWZsvL7rvA6OI9cUFH_jN5mu62S8pSZIEBeSD0_wBd8x3gjHzSE7w-jM7PO808ew9bBm4Xnh7Vv4nBsiY8DB-PA"
   },
   {
    "eur_sqm": 2733,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "ALTBAU-VILLA an der Köpperner Allee, EL-Wg, Baugru...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKt3ghv8l5bgxYTaqCUGTKBj9FURWHOiMVT4Oh65Ez7fsN2HLWp6lzJBWiGhwmv5tAQIU0uxvz9ClYhaYEYAdTkjO8TM4kRBWZpdSWu0Jrel3_yhDw"
+  },
+  {
+   "eur_sqm": 2898,
+   "yield": 5.8,
+   "price": 255000,
+   "sqm": 88.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "** Großzügige 3 ZKB in Heusenstamm! **",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJWdnuSG64iHkC60u6QDZT1LWNEGO6DDIDC6Yq4JobCX3rotrv9iCfNDSQual-blMCrrOw09PmSa_dMHtuQ0JHIq8DTv82FDIY9UIfKfOe5OFaQY8Q"
   }
  ]
 }
