@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T15:47:32",
+ "generated_at": "2026-08-18T15:48:21",
  "count": 30,
  "deals": [
   {
@@ -11,26 +11,6 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
-  },
-  {
-   "eur_sqm": 2744,
-   "yield": 6.12,
-   "price": 749000,
-   "sqm": 273.0,
-   "district": "Karben",
-   "source": "Immowelt (Mail)",
-   "title": "Karben, Petterweil: Zweifamilienhaus mit großem Ga...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njl9ADMAAAAAALWKwvP2MgEtSC5WumwAsqGJrL7FItCU_gZrCLnFBLXK75055G0EZuX4ANNkvYwSHSODjE4CHC9qcIcK3-MjicsXlmSlIAPQ7uWI0D_os9wJ8xhExw"
-  },
-  {
-   "eur_sqm": 2770,
-   "yield": 6.06,
-   "price": 169000,
-   "sqm": 61.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "2-ZIMMER-WOHNUNG MIT BALKON & STELLPLATZ - VERMIET...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njd9ADMAAAAAALLnNzbkBxpRkf9VA841JHfdPgkPBpccP1s2a-iFthGgr2HTuVh_3FPfyG5Vjs7s_fcp2DAwq7ViGNgCGJQ-UQS1szjQDl7c5qe_UXJ4pd7ZTUMu2w"
   },
   {
    "eur_sqm": 2773,
@@ -103,26 +83,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKVk7gEQHLWuq9kwVq633xdontJNVVWK7KDT_V3YQSKVCLskgtnWPzvtdPgCkj5uzk12iAPmaMRCmYOSoIaUXD13g5VdJdrrQhy99RU0dgMsmEQqmQ"
   },
   {
-   "eur_sqm": 2816,
-   "yield": 5.97,
-   "price": 490000,
-   "sqm": 174.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "2 Wohnungen,",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njh9ADMAAAAAALSvWQOZDbl6IXKaCK6lsAClNnXgtAK4NHtuHAK8LdtXCBJ2_VH9odvaMivMYmZszbE3xsdN_TDbLVvd37F_AVFlXJblaM4OMw1K6UE5IjBFV1CzBA"
-  },
-  {
-   "eur_sqm": 2821,
-   "yield": 5.95,
-   "price": 158000,
-   "sqm": 56.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Helle 2-Zi.-Wohnung mit EBK, Aufzug & PKW-Stellpla...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTd9ADMAAAAAAKMgYXoTLK5y5cEsHhm1KMROOSuSw5zLgEpP8ECal7WbnWbH8HT0MRs1xO6Ku_Nn6KWgtkLkw5VXwylYSvPaJAn3WHvulMvxU8QJrKj3VxZhjqnVwQ"
-  },
-  {
    "eur_sqm": 2823,
    "yield": 5.95,
    "price": 175000,
@@ -131,16 +91,6 @@
    "source": "Immowelt (Mail)",
    "title": "Tolle Wohnung für Singles und Paare",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJbRs6GPiQNGjxvqcmZeoGDcAkbQXO2Cp4zC8ETdxUH80l90K_15pOg70Dk06jjW78iImjp3BcaOcvA5caUV41b7obXOg5S6FBvHj5OAF0pWjVI3pg"
-  },
-  {
-   "eur_sqm": 2837,
-   "yield": 5.92,
-   "price": 139000,
-   "sqm": 49.0,
-   "district": "Kelkheim",
-   "source": "Immowelt (Mail)",
-   "title": "Kelkheim: Vermietete",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJpGctuABHfaaUvsNPj-6KEt9qr9omiIFoj7yYRYnPIAgMvrDZ1mh1_qImDCupGMcVOoduGzMDU5vC_itBaT2qkeurATqoUs8DI4uxKH9tLvSJzFNw"
   },
   {
    "eur_sqm": 2846,
@@ -161,16 +111,6 @@
    "source": "Immowelt (Mail)",
    "title": "Eigentumswohnung Großzügige",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njd9ADMAAAAAALLWQfjBNURxILDFlBrySRrfaZQXDSJWQ7fsF02OdXvi4U7_Fw1WpCARBun8C0hyXYf9XfdLuXQmubqX9eB6GnP-noig9NE-UJ8Bjd0thhVrEaXe8Q"
-  },
-  {
-   "eur_sqm": 2866,
-   "yield": 5.86,
-   "price": 384000,
-   "sqm": 134.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Eigentumswohnung in Urberach / Bienengarten",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjR9ADMAAAAAAK1Vj5m-GP709HQaL8kyTZHiiyv3tinCF3OG6krlnMnp4yKxaYr1YCGtjdEUu4v2_hUoASPft6098C3gd9fOSkV7oFZ9C3CrGe6-MPD4ltyAkSrmhQ"
   },
   {
    "eur_sqm": 2870,
@@ -301,6 +241,66 @@
    "source": "Immowelt (Mail)",
    "title": "Vermietetes 3 Familienhaus im Herzen von Ober-Rode...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTN9ADMAAAAAAJ6Y80UFv3Jp-6bZ1LqoH2FHtjAfaoLd9k8p7V03_kMVrqCKVd2GRh1p13V-Ewp_99lYTXKAOr6jjAqT1bO3LUYN9BORLQsl6xV2UVenCVQKvKJ5mQ"
+  },
+  {
+   "eur_sqm": 2903,
+   "yield": 5.79,
+   "price": 450000,
+   "sqm": 155.0,
+   "district": "Dreieich",
+   "source": "Immowelt (Mail)",
+   "title": "1-2 Familienhaus in ruhiger Wohnlage von Dreieich...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjZ9ADMAAAAAALBwfrXOWS5eKro72n6xtD-sjx1deWief-YEcnrUybb4DHndwt-oy1-nqdk4g3wVXYAPNMEqJ4il6j6mM1K99rIWnjdO2HfyKhQaHVaTRACKy0e74Q"
+  },
+  {
+   "eur_sqm": 2907,
+   "yield": 5.78,
+   "price": 250000,
+   "sqm": 86.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Attraktive Kapitalanlage mit Balkon und Skylinebli...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzF9ADMAAAAAALfXSDeK-00YQAz_WYczf8MIFML6to3okSRPpgRJMJvCeMmjQGxa3okhjDcD5wjVhWGIGml6YwrVeKK_dvgeU0JNiX4QA43vAGK6COGKTwXm1an7EA"
+  },
+  {
+   "eur_sqm": 2908,
+   "yield": 5.78,
+   "price": 189000,
+   "sqm": 65.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Ruhig und doch zentral: Schöne Maisonette-Wohnung ...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjZ9ADMAAAAAALEYYiagZgL0KIthwQ1UFWetyDOc_CKYkJDbTvbiddS3eDPzTnQvk4ILPKyS120tALJW_aqZ_2sNAOM-IOpoj8Q4t57Bjg5aZ1CvtSmXCkEEtqjyzw"
+  },
+  {
+   "eur_sqm": 2914,
+   "yield": 5.77,
+   "price": 387500,
+   "sqm": 133.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Zuhause zwischen Main und Natur - charmantes Reihe...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTV9ADMAAAAAAKIJwEVBdDXCvONkIqC3snE-4BBjAxJn_ZJITuCOf74fsVOt4P7LtGULhwZIO_yVWNl2erEdCMQ_1E20jqIfYsQ9o1TJ3qcOgfcrJ0IKD211y_P4Bw"
+  },
+  {
+   "eur_sqm": 2921,
+   "yield": 5.75,
+   "price": 590000,
+   "sqm": 202.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Familienfreundliche Doppelhaushälfte in zentraler ...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKKmHeCz1pT1iam5N3z6BhZVtQXG8vMvCKcCP23H1qWBx4k6jbQy6ij5PpEUms84KGnk7M8nDNJ0e_5YTqx3Y1Qc9OVVnLj-VOZaK34zLYc15wuz2A"
+  },
+  {
+   "eur_sqm": 2921,
+   "yield": 5.75,
+   "price": 797500,
+   "sqm": 272.98,
+   "district": "Hessen",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Hofheim-Wallau! Wohnen auf 270 m² - top-saniert! 7 Zimmer, 2",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3166145257"
   }
  ]
 }
