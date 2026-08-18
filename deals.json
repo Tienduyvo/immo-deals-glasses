@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T18:55:18",
+ "generated_at": "2026-08-18T19:02:57",
  "count": 30,
  "deals": [
   {
@@ -11,6 +11,16 @@
    "source": "Immowelt (Mail)",
    "title": "9-Familienhaus in exklusiver Lage!",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzJ9ADMAAAAAALkFzGwOoLWKcUa13vLAsYD39TUaqMt3BrEuPq4I_9dWZih7fSArNMs6pXI7RBurNmpyxE_EQLSLkBcOGWNctnFf-FcyzKsScf1ehqbnWUOej4DlyA"
+  },
+  {
+   "eur_sqm": 2322,
+   "yield": 7.23,
+   "price": 490000,
+   "sqm": 211.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "VON POLL - FRIEDRICHSDORF: Ein Haus mit Perspektiv...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzJ9ADMAAAAAALkGruT81EejrzOSn5Q_3usEz-2lbjHOoFrV4fEdEQgAxggWEqd4y52PRsubC9b_5QXQlTz4aGntCyMicnRZLusoCDirYCByHBJpYajysAWvfh1HBw"
   },
   {
    "eur_sqm": 2401,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Familienfreundliche Doppelhaushälfte in zentraler ...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKKmHeCz1pT1iam5N3z6BhZVtQXG8vMvCKcCP23H1qWBx4k6jbQy6ij5PpEUms84KGnk7M8nDNJ0e_5YTqx3Y1Qc9OVVnLj-VOZaK34zLYc15wuz2A"
-  },
-  {
-   "eur_sqm": 2921,
-   "yield": 5.75,
-   "price": 797500,
-   "sqm": 272.98,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Hofheim-Wallau! Wohnen auf 270 m² - top-saniert! 7 Zimmer, 2",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3166145257"
   }
  ]
 }
