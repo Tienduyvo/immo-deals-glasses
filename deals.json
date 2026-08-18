@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-18T18:47:30",
+ "generated_at": "2026-08-18T18:55:18",
  "count": 30,
  "deals": [
+  {
+   "eur_sqm": 2181,
+   "yield": 7.7,
+   "price": 1350000,
+   "sqm": 619.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "9-Familienhaus in exklusiver Lage!",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzJ9ADMAAAAAALkFzGwOoLWKcUa13vLAsYD39TUaqMt3BrEuPq4I_9dWZih7fSArNMs6pXI7RBurNmpyxE_EQLSLkBcOGWNctnFf-FcyzKsScf1ehqbnWUOej4DlyA"
+  },
   {
    "eur_sqm": 2401,
    "yield": 7.0,
@@ -291,16 +301,6 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "Hofheim-Wallau! Wohnen auf 270 m² - top-saniert! 7 Zimmer, 2",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3166145257"
-  },
-  {
-   "eur_sqm": 2927,
-   "yield": 5.74,
-   "price": 1490000,
-   "sqm": 509.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Lukrative Kapitalanlage in sehr guter Lage von Kel...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKvwBI6imwhXQ6IpA4PT5caeyjgVidMTIO4z6e2d5rWif955KBalJQ-Qz0cda72pO8qfiaQuvB1ABim5fDMbuCCGuKTpDLYQ7ns61c4famcvNYMAPA"
   }
  ]
 }
