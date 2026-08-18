@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T15:39:23",
+ "generated_at": "2026-08-18T15:40:21",
  "count": 30,
  "deals": [
   {
@@ -11,36 +11,6 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
-  },
-  {
-   "eur_sqm": 2490,
-   "yield": 6.75,
-   "price": 471000,
-   "sqm": 189.19,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "1-2 Generationenhaus mit SONNEN-Garten in RUHIGER Seitenstra",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3460804880"
-  },
-  {
-   "eur_sqm": 2694,
-   "yield": 6.24,
-   "price": 749000,
-   "sqm": 278.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Vermietetes Mehrfamilienhaus in begehrter Lage von...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjZ9ADMAAAAAALCPh6BHNlRO9Hoi4bSNdjTBVx6YHCo85Cxms3sI0_Pb0WCgFYC6sZH2K6VjtZs-_Yq453zZ9c7OksbqBWe4SORMY6oim66SwqQfP_mEtwFxVbv61A"
-  },
-  {
-   "eur_sqm": 2700,
-   "yield": 6.22,
-   "price": 540000,
-   "sqm": 200.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Ein Zuhause, viele Möglichkeiten: Großzügiges Wohn...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJXTlbS2KRLr6JyM9YBW18qRgmMtx5nYSyiYPF8jYPXpVDs4CpfWDgxRZnx3GK-0joKQS8eMq3b6x3FbXmLvYTbLl6JVuxC3LaTlEz888c9VpFXQ9g"
   },
   {
    "eur_sqm": 2705,
@@ -301,6 +271,36 @@
    "source": "Immowelt (Mail)",
    "title": "Fantastisches 2-Fam-Haus mit möglicher ELW in Erzh...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKLR-Y1ZCYeUf2CwTRwEO_euTjYmRue4wUXxJYYt_VkA10g1FHJDcZjflRwTsWZHBgECnHsiLFej_ypP5j8SqqLbF9upnS81MtDYaPBCBTYHsCB36g"
+  },
+  {
+   "eur_sqm": 2873,
+   "yield": 5.85,
+   "price": 1247000,
+   "sqm": 434.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Voll vermietetes Mehrfamilienhaus in Spitzen-Lage ...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJrTNRk1v9VmcWdW6bs0SsHV5mS3qKKI20dU52TafNy7T0smVAUiYHB-LbptIUw8lXVEAcFvPcpuKKtdlBpqGrT_mCxqPQ4rV_0hG5wHP1DQxN_1MQ"
+  },
+  {
+   "eur_sqm": 2875,
+   "yield": 5.84,
+   "price": 115000,
+   "sqm": 40.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Kapitalanleger aufgepasst! Ein-Zimmerwohnung im 3....",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKUVlRmavlAqvsa232lRMuOgr5oGhbzUt248DZnLnOhijPxmozM_LvhaAdVqTKl8nLrr5XfPK8rtYyPx9RQbZaKHMr4qqeZYJptirTUmJIrK0uQAfw"
+  },
+  {
+   "eur_sqm": 2875,
+   "yield": 5.84,
+   "price": 460000,
+   "sqm": 160.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "VOM GARTENFRÜHSTÜCK BIS ZUM KAMINABEND - modernisi...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK-8Za0BcKm3RdvKgCAW8PoudjQ2eyFw-RvcOoCaqFVQnI0YxJnOED0KF5nby_1jtm15k2DzR9TYWwv1kCF6qKH__uPOQ8F-WlmvKAz06lgV-8GPHQ"
   }
  ]
 }
