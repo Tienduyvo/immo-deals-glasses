@@ -1,27 +1,7 @@
 {
- "generated_at": "2026-08-18T15:38:28",
+ "generated_at": "2026-08-18T15:39:23",
  "count": 30,
  "deals": [
-  {
-   "eur_sqm": 1999,
-   "yield": 8.4,
-   "price": 199900,
-   "sqm": 100.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Einfamilienhaus mit Herz und einem zauberhaften Ga...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzB9ADMAAAAAALZoLotL-XKkDD1oXzt-Czw6VBz0lkfjDHN3yI1btdaVSbkn-CGdPyEjZrVWm5uZyM8Tnj_Qmty_nSvH997lluBEIIPAD5y8GAmevUZOuuG1Wb25KA"
-  },
-  {
-   "eur_sqm": 2270,
-   "yield": 7.4,
-   "price": 320000,
-   "sqm": 141.0,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Großes Familienanwesen mit Innenhof und Garten",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3383535503"
-  },
   {
    "eur_sqm": 2401,
    "yield": 7.0,
@@ -301,6 +281,26 @@
    "source": "Immowelt (Mail)",
    "title": "Eigentumswohnung in Urberach / Bienengarten",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjR9ADMAAAAAAK1Vj5m-GP709HQaL8kyTZHiiyv3tinCF3OG6krlnMnp4yKxaYr1YCGtjdEUu4v2_hUoASPft6098C3gd9fOSkV7oFZ9C3CrGe6-MPD4ltyAkSrmhQ"
+  },
+  {
+   "eur_sqm": 2870,
+   "yield": 5.85,
+   "price": 310000,
+   "sqm": 108.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "10528 - Einfamilienhaus mit Einliegerwohnung & vie...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njd9ADMAAAAAALGgc5EePJP6Hbfz8qyQJ61P3yBHF-00ene38QtnPi6WzYlD6n9sbpxNbJ5hp1o-zj3DYEeCFl_RU3ms2s70XHu_83VVYJvdITZF7qPDhH-HO7FXgg"
+  },
+  {
+   "eur_sqm": 2872,
+   "yield": 5.85,
+   "price": 698000,
+   "sqm": 243.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Fantastisches 2-Fam-Haus mit möglicher ELW in Erzh...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKLR-Y1ZCYeUf2CwTRwEO_euTjYmRue4wUXxJYYt_VkA10g1FHJDcZjflRwTsWZHBgECnHsiLFej_ypP5j8SqqLbF9upnS81MtDYaPBCBTYHsCB36g"
   }
  ]
 }
