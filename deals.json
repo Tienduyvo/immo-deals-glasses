@@ -1,17 +1,7 @@
 {
- "generated_at": "2026-08-18T14:32:13",
+ "generated_at": "2026-08-18T14:33:11",
  "count": 30,
  "deals": [
-  {
-   "eur_sqm": 1333,
-   "yield": 12.6,
-   "price": 84000,
-   "sqm": 63.0,
-   "district": "Erlensee",
-   "source": "ZVG",
-   "title": "Teileigentumseinheit (Büro) : Rosenstr. 1b, 63526 Erlensee, ",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55062&land_abk=he"
-  },
   {
    "eur_sqm": 1773,
    "yield": 9.47,
@@ -33,16 +23,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzB9ADMAAAAAALZoLotL-XKkDD1oXzt-Czw6VBz0lkfjDHN3yI1btdaVSbkn-CGdPyEjZrVWm5uZyM8Tnj_Qmty_nSvH997lluBEIIPAD5y8GAmevUZOuuG1Wb25KA"
   },
   {
-   "eur_sqm": 2116,
-   "yield": 7.94,
-   "price": 146000,
-   "sqm": 69.0,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "⭐Kapitalanlage⭐ ab 200 € monatlich eine Renditeimmobilie kau",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3484805342"
-  },
-  {
    "eur_sqm": 2217,
    "yield": 7.58,
    "price": 920000,
@@ -51,26 +31,6 @@
    "source": "Immowelt (Mail)",
    "title": "Ansprechendes Mehrfamilienhaus",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzF9ADMAAAAAALe9_5uXF9hWNCdEtjFrVlxqyjbmXWM8tXDCuVbK0Fhyrdcj8no_raJxruJl5UgRLN27Lb6suPiJXrmZsUC3EqYsmU3xSOaqRU6O98b0FyJkbG5NXw"
-  },
-  {
-   "eur_sqm": 2235,
-   "yield": 7.52,
-   "price": 447000,
-   "sqm": 200.0,
-   "district": "Rödermark",
-   "source": "ZVG",
-   "title": "Einfamilienhaus : An der Hühnerhecke 11, 63322 Rödermark, Ob",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54943&land_abk=he"
-  },
-  {
-   "eur_sqm": 2269,
-   "yield": 7.4,
-   "price": 363000,
-   "sqm": 160.0,
-   "district": "Biebesheim Hessen",
-   "source": "ZVG",
-   "title": "Einfamilienhaus : Königsberger Straße 4, 64584 Biebesheim",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54844&land_abk=he"
   },
   {
    "eur_sqm": 2270,
@@ -301,6 +261,46 @@
    "source": "Immowelt (Mail)",
    "title": "Teilvermietetes MFH mit seltener, parkähnlicher Ga...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK-HsceSeNjhBHoFlxMmkkAiKTgkpcTmTRFTDA8_p1j0z4f3-KC6kLKrDJWl79ogs0-Hswctym8FfrwaMmzDL6vernPSa8s6Ymm0lorA3i-ks85bIw"
+  },
+  {
+   "eur_sqm": 2812,
+   "yield": 5.97,
+   "price": 225000,
+   "sqm": 80.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Attraktive",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJQUnHwGfjU06PY0DqddndNTzafj-h0GXtXpQzUNvzVUfw1rg4ciGSSxAK3oj6_MiAcsDzrNfK7AxAKzw6BTM7bRBjaxvye5osH7nrW46tyvEQmoKw"
+  },
+  {
+   "eur_sqm": 2815,
+   "yield": 5.97,
+   "price": 1700000,
+   "sqm": 604.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Kapitalanleger aufgepasst: Gut vermietetes Mehrfam...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKVk7gEQHLWuq9kwVq633xdontJNVVWK7KDT_V3YQSKVCLskgtnWPzvtdPgCkj5uzk12iAPmaMRCmYOSoIaUXD13g5VdJdrrQhy99RU0dgMsmEQqmQ"
+  },
+  {
+   "eur_sqm": 2816,
+   "yield": 5.97,
+   "price": 490000,
+   "sqm": 174.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "2 Wohnungen,",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njh9ADMAAAAAALSvWQOZDbl6IXKaCK6lsAClNnXgtAK4NHtuHAK8LdtXCBJ2_VH9odvaMivMYmZszbE3xsdN_TDbLVvd37F_AVFlXJblaM4OMw1K6UE5IjBFV1CzBA"
+  },
+  {
+   "eur_sqm": 2821,
+   "yield": 5.95,
+   "price": 158000,
+   "sqm": 56.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Helle 2-Zi.-Wohnung mit EBK, Aufzug & PKW-Stellpla...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTd9ADMAAAAAAKMgYXoTLK5y5cEsHhm1KMROOSuSw5zLgEpP8ECal7WbnWbH8HT0MRs1xO6Ku_Nn6KWgtkLkw5VXwylYSvPaJAn3WHvulMvxU8QJrKj3VxZhjqnVwQ"
   }
  ]
 }
