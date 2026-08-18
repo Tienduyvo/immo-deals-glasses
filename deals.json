@@ -1,17 +1,7 @@
 {
- "generated_at": "2026-08-18T15:37:47",
+ "generated_at": "2026-08-18T15:38:28",
  "count": 30,
  "deals": [
-  {
-   "eur_sqm": 1773,
-   "yield": 9.47,
-   "price": 133000,
-   "sqm": 75.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Attraktive",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njl9ADMAAAAAALVL1mkl-cGOJaaMpweGd6-HZwwH0wXSJYeFBrF0X_BlLJbfGDjb5Z3N2oMZsRcwQWffjk6dKZc3cT9sXgpDSzTZ8vjlGwsBAs1q4pa49X0EVMIUcw"
-  },
   {
    "eur_sqm": 1999,
    "yield": 8.4,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "Eigentumswohnung Großzügige",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njd9ADMAAAAAALLWQfjBNURxILDFlBrySRrfaZQXDSJWQ7fsF02OdXvi4U7_Fw1WpCARBun8C0hyXYf9XfdLuXQmubqX9eB6GnP-noig9NE-UJ8Bjd0thhVrEaXe8Q"
+  },
+  {
+   "eur_sqm": 2866,
+   "yield": 5.86,
+   "price": 384000,
+   "sqm": 134.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Eigentumswohnung in Urberach / Bienengarten",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjR9ADMAAAAAAK1Vj5m-GP709HQaL8kyTZHiiyv3tinCF3OG6krlnMnp4yKxaYr1YCGtjdEUu4v2_hUoASPft6098C3gd9fOSkV7oFZ9C3CrGe6-MPD4ltyAkSrmhQ"
   }
  ]
 }
