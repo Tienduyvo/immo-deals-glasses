@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T15:50:52",
+ "generated_at": "2026-08-19T15:51:52",
  "count": 30,
  "deals": [
   {
@@ -13,16 +13,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzN9ADMAAAAAALmO0QnLiJKXhW0O0HSxTmhFGexHrSctVdvk7GVD2zg3-p6nU1q_q9qMU0u1Fx-racu_9LT8Vf7WyFphOvDQQI7iWSstxBtAtkjihdzNCEc8x5incQ"
   },
   {
-   "eur_sqm": 2322,
-   "yield": 7.23,
-   "price": 490000,
-   "sqm": 211.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "VON POLL - FRIEDRICHSDORF: Ein Haus mit Perspektiv...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzJ9ADMAAAAAALkGruT81EejrzOSn5Q_3usEz-2lbjHOoFrV4fEdEQgAxggWEqd4y52PRsubC9b_5QXQlTz4aGntCyMicnRZLusoCDirYCByHBJpYajysAWvfh1HBw"
-  },
-  {
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
@@ -31,36 +21,6 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
-  },
-  {
-   "eur_sqm": 2477,
-   "yield": 6.78,
-   "price": 649000,
-   "sqm": 262.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Für Individualisten! Wohnen und Arbeiten unter ein...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzN9ADMAAAAAALmJcmqsn9MO05tzeydyj4NfqTOMRAjxeaejLO7kUH3zOxOB34ocyy62ujnoDZQ7MiTyZoYstpSWhER28ZbUJ7TC8EUH1V4rhLvwRZALhs5nqRxsMw"
-  },
-  {
-   "eur_sqm": 2773,
-   "yield": 6.06,
-   "price": 208000,
-   "sqm": 75.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Einladende",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJbghFiT5ofSGRbQbtLvAYMxRA8_PFfrgPk8Nx8VmKVd-VqVvXITZ-c7mOT11RxDOqd9rEwHns0G16s5wyFzrbLmUlFakUVI_X96pVZlTEHIJ3YIpA"
-  },
-  {
-   "eur_sqm": 2785,
-   "yield": 6.03,
-   "price": 699000,
-   "sqm": 251.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Historisches Kulturdenkmal mit Scheune und traumha...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTB9ADMAAAAAAJioT8sCJTtkpepkgZK7Tq1UTsuRjb0V748emk2gm6NO0pm75s8kUpFXXQ6bDDZjMbSHWaTY5MAsmgZL-3IqQ-qqdVxH_V2ClBGP5fTu8gmuYIrm-A"
   },
   {
    "eur_sqm": 2787,
@@ -301,6 +261,46 @@
    "source": "Immowelt (Mail)",
    "title": "Ruhig und doch zentral: Schöne Maisonette-Wohnung ...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjZ9ADMAAAAAALEYYiagZgL0KIthwQ1UFWetyDOc_CKYkJDbTvbiddS3eDPzTnQvk4ILPKyS120tALJW_aqZ_2sNAOM-IOpoj8Q4t57Bjg5aZ1CvtSmXCkEEtqjyzw"
+  },
+  {
+   "eur_sqm": 2914,
+   "yield": 5.77,
+   "price": 387500,
+   "sqm": 133.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Zuhause zwischen Main und Natur - charmantes Reihe...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTV9ADMAAAAAAKIJwEVBdDXCvONkIqC3snE-4BBjAxJn_ZJITuCOf74fsVOt4P7LtGULhwZIO_yVWNl2erEdCMQ_1E20jqIfYsQ9o1TJ3qcOgfcrJ0IKD211y_P4Bw"
+  },
+  {
+   "eur_sqm": 2915,
+   "yield": 5.76,
+   "price": 239000,
+   "sqm": 82.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Attraktive",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzJ9ADMAAAAAALkPIns3tRGFkRXsC0G6Lzpf8k7CQqrLldrLToi-elIixcAxqwqVqV8JutyUmfkAcXCl0FQoA9ZFfcHHkYFJJISJFSfuOcMxkx-Q9FHfmnXTSksxfw"
+  },
+  {
+   "eur_sqm": 2921,
+   "yield": 5.75,
+   "price": 590000,
+   "sqm": 202.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Familienfreundliche Doppelhaushälfte in zentraler ...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKKmHeCz1pT1iam5N3z6BhZVtQXG8vMvCKcCP23H1qWBx4k6jbQy6ij5PpEUms84KGnk7M8nDNJ0e_5YTqx3Y1Qc9OVVnLj-VOZaK34zLYc15wuz2A"
+  },
+  {
+   "eur_sqm": 2921,
+   "yield": 5.75,
+   "price": 797500,
+   "sqm": 272.98,
+   "district": "Hessen",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Hofheim-Wallau! Wohnen auf 270 m² - top-saniert! 7 Zimmer, 2",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3166145257"
   }
  ]
 }
