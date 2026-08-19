@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T15:37:40",
+ "generated_at": "2026-08-19T15:50:52",
  "count": 30,
  "deals": [
   {
@@ -11,16 +11,6 @@
    "source": "Immowelt (Mail)",
    "title": "Erbbaurechtsgrundstück mit zwei Wohnhäusern und vi...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzN9ADMAAAAAALmO0QnLiJKXhW0O0HSxTmhFGexHrSctVdvk7GVD2zg3-p6nU1q_q9qMU0u1Fx-racu_9LT8Vf7WyFphOvDQQI7iWSstxBtAtkjihdzNCEc8x5incQ"
-  },
-  {
-   "eur_sqm": 2181,
-   "yield": 7.7,
-   "price": 1350000,
-   "sqm": 619.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "9-Familienhaus in exklusiver Lage!",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzJ9ADMAAAAAALkFzGwOoLWKcUa13vLAsYD39TUaqMt3BrEuPq4I_9dWZih7fSArNMs6pXI7RBurNmpyxE_EQLSLkBcOGWNctnFf-FcyzKsScf1ehqbnWUOej4DlyA"
   },
   {
    "eur_sqm": 2322,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "Attraktive Kapitalanlage mit Balkon und Skylinebli...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzF9ADMAAAAAALfXSDeK-00YQAz_WYczf8MIFML6to3okSRPpgRJMJvCeMmjQGxa3okhjDcD5wjVhWGIGml6YwrVeKK_dvgeU0JNiX4QA43vAGK6COGKTwXm1an7EA"
+  },
+  {
+   "eur_sqm": 2908,
+   "yield": 5.78,
+   "price": 189000,
+   "sqm": 65.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Ruhig und doch zentral: Schöne Maisonette-Wohnung ...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjZ9ADMAAAAAALEYYiagZgL0KIthwQ1UFWetyDOc_CKYkJDbTvbiddS3eDPzTnQvk4ILPKyS120tALJW_aqZ_2sNAOM-IOpoj8Q4t57Bjg5aZ1CvtSmXCkEEtqjyzw"
   }
  ]
 }
