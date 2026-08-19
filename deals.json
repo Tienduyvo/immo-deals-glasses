@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T15:58:21",
+ "generated_at": "2026-08-19T15:59:23",
  "count": 30,
  "deals": [
   {
@@ -21,16 +21,6 @@
    "source": "Immowelt (Mail)",
    "title": "10528 - Einfamilienhaus mit Einliegerwohnung & vie...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njd9ADMAAAAAALGgc5EePJP6Hbfz8qyQJ61P3yBHF-00ene38QtnPi6WzYlD6n9sbpxNbJ5hp1o-zj3DYEeCFl_RU3ms2s70XHu_83VVYJvdITZF7qPDhH-HO7FXgg"
-  },
-  {
-   "eur_sqm": 2872,
-   "yield": 5.85,
-   "price": 698000,
-   "sqm": 243.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Fantastisches 2-Fam-Haus mit möglicher ELW in Erzh...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKLR-Y1ZCYeUf2CwTRwEO_euTjYmRue4wUXxJYYt_VkA10g1FHJDcZjflRwTsWZHBgECnHsiLFej_ypP5j8SqqLbF9upnS81MtDYaPBCBTYHsCB36g"
   },
   {
    "eur_sqm": 2873,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "Großzügiges Mehrgenerationenhaus in begehrter Lage...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAJ_lKwJCTpI6RIgzDEnz-k6ABj5m3qgSoL_H8vRvwntrfFL1pczk7KOMSMc-Ss56cUFlBUb7SejBAVe-I_4VqwK6421vOWW0FUfR4dKIysrdgEZD1g"
+  },
+  {
+   "eur_sqm": 2996,
+   "yield": 5.61,
+   "price": 668000,
+   "sqm": 223.0,
+   "district": "Maintal",
+   "source": "Immowelt (Mail)",
+   "title": "Gepflegtes Haus mit herrlichem Garten in Maintal",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTB9ADMAAAAAAJlrC1a6EFdFno5cEWveFCEAQV9cNvi-gg0kYTs8qgSAPhPCHZPVOaSoCdEemgLzcGb-OTQwRR-JnMalMDlmPvgX1edYODDjkVKlo-jgg8XRbQkNww"
   }
  ]
 }
