@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T15:57:21",
+ "generated_at": "2026-08-19T15:58:21",
  "count": 30,
  "deals": [
   {
@@ -11,16 +11,6 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
-  },
-  {
-   "eur_sqm": 2864,
-   "yield": 5.87,
-   "price": 295000,
-   "sqm": 103.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Eigentumswohnung Großzügige",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njd9ADMAAAAAALLWQfjBNURxILDFlBrySRrfaZQXDSJWQ7fsF02OdXvi4U7_Fw1WpCARBun8C0hyXYf9XfdLuXQmubqX9eB6GnP-noig9NE-UJ8Bjd0thhVrEaXe8Q"
   },
   {
    "eur_sqm": 2870,
@@ -71,16 +61,6 @@
    "source": "Immowelt (Mail)",
    "title": "VOM GARTENFRÜHSTÜCK BIS ZUM KAMINABEND - modernisi...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK-8Za0BcKm3RdvKgCAW8PoudjQ2eyFw-RvcOoCaqFVQnI0YxJnOED0KF5nby_1jtm15k2DzR9TYWwv1kCF6qKH__uPOQ8F-WlmvKAz06lgV-8GPHQ"
-  },
-  {
-   "eur_sqm": 2882,
-   "yield": 5.83,
-   "price": 219000,
-   "sqm": 76.0,
-   "district": "Karben",
-   "source": "Immowelt (Mail)",
-   "title": "VON POLL - KARBEN: Kapitalanleger aufgepasst: Gut ...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzF9ADMAAAAAALeiAsaPZhCz1MnOwiGzyGm8QiJfAHfbj5ZtZfPLu03n5PHM9sQkHTjmLkwqcexnjGRUdDNHqxPMLRGIyEBSAYsaXcwcwmM3e_WNQDXxnbJYduAceg"
   },
   {
    "eur_sqm": 2883,
@@ -301,6 +281,26 @@
    "source": "Immowelt (Mail)",
    "title": "Wundervolles Einfamilienhaus in Waldrand- bzw. Sac...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKLxO7zuM-iZy642rUIisbvuNVmPFbjlr-dZHotjX_51SRZEh3shvw5z7KnByWH2OiJOYpb9c2A3FCX9dgXHWSxjTPMW7GjAs8T2bN7qvBgzU94P0A"
+  },
+  {
+   "eur_sqm": 2967,
+   "yield": 5.66,
+   "price": 89000,
+   "sqm": 30.0,
+   "district": "Hessen",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Behagliche Etagenwohnung mit Balkon in gefragter Lage - Erbp",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3324308630"
+  },
+  {
+   "eur_sqm": 2978,
+   "yield": 5.64,
+   "price": 670000,
+   "sqm": 225.0,
+   "district": "",
+   "source": "Immowelt (Mail)",
+   "title": "Großzügiges Mehrgenerationenhaus in begehrter Lage...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAJ_lKwJCTpI6RIgzDEnz-k6ABj5m3qgSoL_H8vRvwntrfFL1pczk7KOMSMc-Ss56cUFlBUb7SejBAVe-I_4VqwK6421vOWW0FUfR4dKIysrdgEZD1g"
   }
  ]
 }
