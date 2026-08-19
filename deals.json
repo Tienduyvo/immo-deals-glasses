@@ -1,306 +1,306 @@
 {
- "generated_at": "2026-08-19T16:25:35",
+ "generated_at": "2026-08-19T16:45:28",
  "count": 30,
  "deals": [
   {
-   "eur_sqm": 2401,
-   "yield": 7.0,
-   "price": 605000,
-   "sqm": 252.0,
-   "district": "Frankfurt am Main",
+   "eur_sqm": 1097,
+   "yield": 15.32,
+   "price": 590000,
+   "sqm": 538.0,
+   "district": "Rödermark",
    "source": "ZVG",
-   "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
+   "title": "Mehrfamilienhaus : Donaustr. 21, 63322 Rödermark, Ober-Roden",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54911&land_abk=he"
   },
   {
-   "eur_sqm": 2870,
-   "yield": 5.85,
-   "price": 310000,
-   "sqm": 108.0,
+   "eur_sqm": 1333,
+   "yield": 12.6,
+   "price": 84000,
+   "sqm": 63.0,
+   "district": "Erlensee",
+   "source": "ZVG",
+   "title": "Teileigentumseinheit (Büro) : Rosenstr. 1b, 63526 Erlensee, ",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55062&land_abk=he"
+  },
+  {
+   "eur_sqm": 1346,
+   "yield": 12.48,
+   "price": 179000,
+   "sqm": 133.0,
+   "district": "Offenbach",
+   "source": "Immowelt (Mail)",
+   "title": "Sanierungsobjekt mit Potenzial in Offenbach: 3 Ein...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJxjZtQdLeBw7FcHKQq9AxKERleqWPU2Z9ppUPVziRaaocUH3FVnEvPSmKWd10pExIz4c3pegJqNHn_27ORsgx_BMWUpL0TEvp2u43RJ7BEkdalpPw"
+  },
+  {
+   "eur_sqm": 1601,
+   "yield": 10.49,
+   "price": 229000,
+   "sqm": 143.0,
    "district": "Frankfurt (unspez.)",
    "source": "Immowelt (Mail)",
-   "title": "10528 - Einfamilienhaus mit Einliegerwohnung & vie...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njd9ADMAAAAAALGgc5EePJP6Hbfz8qyQJ61P3yBHF-00ene38QtnPi6WzYlD6n9sbpxNbJ5hp1o-zj3DYEeCFl_RU3ms2s70XHu_83VVYJvdITZF7qPDhH-HO7FXgg"
+   "title": "Außergewöhnliche Wohnung im Herzen von Offenthal.",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKj1ySxz50s_bpxKydjrj1nnpcFhbxGSDXTXMjQrsnzc4vzfMkn6mQMqNQ-SJsTWQ04C1dEenOjbjH-t_nYYybnBsUd6DZf0lJB5Lqe014HsQ_7YAw"
   },
   {
-   "eur_sqm": 2873,
-   "yield": 5.85,
-   "price": 1247000,
-   "sqm": 434.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Voll vermietetes Mehrfamilienhaus in Spitzen-Lage ...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJrTNRk1v9VmcWdW6bs0SsHV5mS3qKKI20dU52TafNy7T0smVAUiYHB-LbptIUw8lXVEAcFvPcpuKKtdlBpqGrT_mCxqPQ4rV_0hG5wHP1DQxN_1MQ"
-  },
-  {
-   "eur_sqm": 2875,
-   "yield": 5.84,
-   "price": 115000,
-   "sqm": 40.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Kapitalanleger aufgepasst! Ein-Zimmerwohnung im 3....",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKUVlRmavlAqvsa232lRMuOgr5oGhbzUt248DZnLnOhijPxmozM_LvhaAdVqTKl8nLrr5XfPK8rtYyPx9RQbZaKHMr4qqeZYJptirTUmJIrK0uQAfw"
-  },
-  {
-   "eur_sqm": 2875,
-   "yield": 5.84,
-   "price": 460000,
-   "sqm": 160.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "VOM GARTENFRÜHSTÜCK BIS ZUM KAMINABEND - modernisi...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK-8Za0BcKm3RdvKgCAW8PoudjQ2eyFw-RvcOoCaqFVQnI0YxJnOED0KF5nby_1jtm15k2DzR9TYWwv1kCF6qKH__uPOQ8F-WlmvKAz06lgV-8GPHQ"
-  },
-  {
-   "eur_sqm": 2883,
-   "yield": 5.83,
-   "price": 259500,
-   "sqm": 90.0,
-   "district": "Dietzenbach",
-   "source": "Immowelt (Mail)",
-   "title": "Dietzenbach Top-Lage: Lichtdurchflutete",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJdr6FcPu6dlf5y40-JFMCKqasikcBia6OP_0I1oNue2C4tVTTO7uzpU97SjO9JmcANUvMVnzYxoKCRBMmMOw5HwOwEkVc9GmEj8mKCi600oNBlQ8Q"
-  },
-  {
-   "eur_sqm": 2883,
-   "yield": 5.83,
-   "price": 369000,
+   "eur_sqm": 1633,
+   "yield": 10.29,
+   "price": 209000,
    "sqm": 128.0,
    "district": "Frankfurt (unspez.)",
    "source": "Immowelt (Mail)",
-   "title": "Historischer Charme mit Entwicklungspotential *Ein...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njh9ADMAAAAAALPMSSI2eERmvg14w_Ztg4tu8XiF8bu-IgoRmpGyLj7s44Y119DvW-WtKN5EUR7IsiP0DYI3vDbTNaeKl_dqM3haZDZTd4FzAuwxr0NA5lee52Ds4w"
+   "title": "Haus mit Geschichte - Juwel im Ortskern mit große...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKUVlRmUqVlIGEF6xs9UthPwtl_ZrZJ0noApjJu2R-Lwro9u1ZL0b31-EZDysB-NlFIBixvVeifj1S06Azg26Bc5QUiHBiKHc-LyK9f5DuIg38VRHQ"
   },
   {
-   "eur_sqm": 2886,
-   "yield": 5.82,
-   "price": 430000,
-   "sqm": 149.0,
+   "eur_sqm": 1683,
+   "yield": 9.98,
+   "price": 850000,
+   "sqm": 505.0,
    "district": "Frankfurt (unspez.)",
    "source": "Immowelt (Mail)",
-   "title": "Zweifamilienhaus gelegen an der Kleingartenanlage ...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJcAW6io_5uWTOTj1_SVc0b8CeB6URqOsTufh9c_XzLpGMkFI-Qh-tR2p0h4HdM_bMlmBFHtbPKUfmCpvdC6Xg8GDCQqXO-Vf_RBXggUSE0Edx1VnA"
+   "title": "Mehrfamilienhaus mit Baureserve - 3 Wohnungen + ca...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjF9ADMAAAAAAKrLiICwsUk6Ws0ac-gaG_zhNlOicVfdla-2BpDSLFSfR5Yy2_duz3UCjUZWuWfsT2ldHpvxJedh-q6MkcqyI8Ddtu1xSc27zVvP9klkoyln-Fo12g"
   },
   {
-   "eur_sqm": 2897,
-   "yield": 5.8,
-   "price": 420000,
-   "sqm": 145.0,
+   "eur_sqm": 1685,
+   "yield": 9.97,
+   "price": 359000,
+   "sqm": 213.0,
    "district": "Frankfurt (unspez.)",
    "source": "Immowelt (Mail)",
-   "title": "ALTBAU-VILLA an der Köpperner Allee, EL-Wg, Baugru...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKt3ghv8l5bgxYTaqCUGTKBj9FURWHOiMVT4Oh65Ez7fsN2HLWp6lzJBWiGhwmv5tAQIU0uxvz9ClYhaYEYAdTkjO8TM4kRBWZpdSWu0Jrel3_yhDw"
+   "title": "Sanierungsbedürftiges 3 FH in OF-Bürgel mit Entwic...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKjSyGimflwZfUAoI9a08GozsY0sb-nhUb9T6cpj3QLa6-Knxe6eAx84Pf_Mv8L31SRWEC3tn5nDM820uj8VnfmW_TLnn23IZ_MzS9t-UEinSRcz6Q"
   },
   {
-   "eur_sqm": 2898,
-   "yield": 5.8,
-   "price": 255000,
-   "sqm": 88.0,
-   "district": "Frankfurt (unspez.)",
+   "eur_sqm": 1723,
+   "yield": 9.75,
+   "price": 1499000,
+   "sqm": 870.0,
+   "district": "Dietzenbach",
    "source": "Immowelt (Mail)",
-   "title": "** Großzügige 3 ZKB in Heusenstamm! **",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJWdnuSG64iHkC60u6QDZT1LWNEGO6DDIDC6Yq4JobCX3rotrv9iCfNDSQual-blMCrrOw09PmSa_dMHtuQ0JHIq8DTv82FDIY9UIfKfOe5OFaQY8Q"
+   "title": "FAKTOR 13x RENDITE !! - A-Lage in Dietzenbach mit ...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTl9ADMAAAAAAKc5htutr9FX8Ox3zK__7pgAGobZ_xDfQuZsJvSbcaFvfhMNT_Z6phJETC_y5Kepx0JPxema4Z16kCDXnVwjGf145PCUt0zCU3VbADJNhOqHdmpE7A"
   },
   {
-   "eur_sqm": 2902,
-   "yield": 5.79,
-   "price": 798000,
-   "sqm": 275.0,
-   "district": "Frankfurt (unspez.)",
+   "eur_sqm": 1724,
+   "yield": 9.74,
+   "price": 100000,
+   "sqm": 58.0,
+   "district": "",
    "source": "Immowelt (Mail)",
-   "title": "Vermietetes 3 Familienhaus im Herzen von Ober-Rode...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTN9ADMAAAAAAJ6Y80UFv3Jp-6bZ1LqoH2FHtjAfaoLd9k8p7V03_kMVrqCKVd2GRh1p13V-Ewp_99lYTXKAOr6jjAqT1bO3LUYN9BORLQsl6xV2UVenCVQKvKJ5mQ"
+   "title": "Top Kapitalanlage: Gut vermietete",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAKAuxNq-Y-pJHeQ4mny7INpaKOZ9ggOZiNmNqvZND8zuisVlVRjmO8mQc8uDlwAg8h0Cld3Klbl3tLp2LB3BX2HvihkICASDZUZgoxXokiiWoPy5UQ"
   },
   {
-   "eur_sqm": 2903,
-   "yield": 5.79,
-   "price": 450000,
-   "sqm": 155.0,
-   "district": "Dreieich",
+   "eur_sqm": 1742,
+   "yield": 9.64,
+   "price": 115000,
+   "sqm": 66.0,
+   "district": "Langen",
    "source": "Immowelt (Mail)",
-   "title": "1-2 Familienhaus in ruhiger Wohnlage von Dreieich...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjZ9ADMAAAAAALBwfrXOWS5eKro72n6xtD-sjx1deWief-YEcnrUybb4DHndwt-oy1-nqdk4g3wVXYAPNMEqJ4il6j6mM1K99rIWnjdO2HfyKhQaHVaTRACKy0e74Q"
+   "title": "Langen - Nur Zwangsversteigerung- keine Käuferprov...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjF9ADMAAAAAAKtV4wodX-8ochKeJ0JUhwhSICLlrJ-_vVKnIfMLzoX58IW_I9wylXEyqynWZyTpQzvlVl_JfaPj62EGGXYZXUZraOkraNRkKNDG0dWgD2_oOXs7Cw"
   },
   {
-   "eur_sqm": 2907,
-   "yield": 5.78,
-   "price": 250000,
-   "sqm": 86.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Attraktive Kapitalanlage mit Balkon und Skylinebli...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzF9ADMAAAAAALfXSDeK-00YQAz_WYczf8MIFML6to3okSRPpgRJMJvCeMmjQGxa3okhjDcD5wjVhWGIGml6YwrVeKK_dvgeU0JNiX4QA43vAGK6COGKTwXm1an7EA"
-  },
-  {
-   "eur_sqm": 2908,
-   "yield": 5.78,
-   "price": 189000,
-   "sqm": 65.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Ruhig und doch zentral: Schöne Maisonette-Wohnung ...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjZ9ADMAAAAAALEYYiagZgL0KIthwQ1UFWetyDOc_CKYkJDbTvbiddS3eDPzTnQvk4ILPKyS120tALJW_aqZ_2sNAOM-IOpoj8Q4t57Bjg5aZ1CvtSmXCkEEtqjyzw"
-  },
-  {
-   "eur_sqm": 2914,
-   "yield": 5.77,
-   "price": 387500,
-   "sqm": 133.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Zuhause zwischen Main und Natur - charmantes Reihe...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTV9ADMAAAAAAKIJwEVBdDXCvONkIqC3snE-4BBjAxJn_ZJITuCOf74fsVOt4P7LtGULhwZIO_yVWNl2erEdCMQ_1E20jqIfYsQ9o1TJ3qcOgfcrJ0IKD211y_P4Bw"
-  },
-  {
-   "eur_sqm": 2915,
-   "yield": 5.76,
-   "price": 239000,
-   "sqm": 82.0,
+   "eur_sqm": 1773,
+   "yield": 9.47,
+   "price": 133000,
+   "sqm": 75.0,
    "district": "Frankfurt (unspez.)",
    "source": "Immowelt (Mail)",
    "title": "Attraktive",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzJ9ADMAAAAAALkPIns3tRGFkRXsC0G6Lzpf8k7CQqrLldrLToi-elIixcAxqwqVqV8JutyUmfkAcXCl0FQoA9ZFfcHHkYFJJISJFSfuOcMxkx-Q9FHfmnXTSksxfw"
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njl9ADMAAAAAALVL1mkl-cGOJaaMpweGd6-HZwwH0wXSJYeFBrF0X_BlLJbfGDjb5Z3N2oMZsRcwQWffjk6dKZc3cT9sXgpDSzTZ8vjlGwsBAs1q4pa49X0EVMIUcw"
   },
   {
-   "eur_sqm": 2921,
-   "yield": 5.75,
-   "price": 590000,
-   "sqm": 202.0,
+   "eur_sqm": 1786,
+   "yield": 9.41,
+   "price": 175000,
+   "sqm": 98.0,
    "district": "Frankfurt (unspez.)",
    "source": "Immowelt (Mail)",
-   "title": "Familienfreundliche Doppelhaushälfte in zentraler ...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKKmHeCz1pT1iam5N3z6BhZVtQXG8vMvCKcCP23H1qWBx4k6jbQy6ij5PpEUms84KGnk7M8nDNJ0e_5YTqx3Y1Qc9OVVnLj-VOZaK34zLYc15wuz2A"
+   "title": "Erbbaurechtsgrundstück mit zwei Wohnhäusern und vi...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzN9ADMAAAAAALmO0QnLiJKXhW0O0HSxTmhFGexHrSctVdvk7GVD2zg3-p6nU1q_q9qMU0u1Fx-racu_9LT8Vf7WyFphOvDQQI7iWSstxBtAtkjihdzNCEc8x5incQ"
   },
   {
-   "eur_sqm": 2921,
-   "yield": 5.75,
-   "price": 797500,
-   "sqm": 272.98,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Hofheim-Wallau! Wohnen auf 270 m² - top-saniert! 7 Zimmer, 2",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3166145257"
-  },
-  {
-   "eur_sqm": 2927,
-   "yield": 5.74,
-   "price": 1490000,
-   "sqm": 509.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Lukrative Kapitalanlage in sehr guter Lage von Kel...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKvwBI6imwhXQ6IpA4PT5caeyjgVidMTIO4z6e2d5rWif955KBalJQ-Qz0cda72pO8qfiaQuvB1ABim5fDMbuCCGuKTpDLYQ7ns61c4famcvNYMAPA"
-  },
-  {
-   "eur_sqm": 2940,
-   "yield": 5.71,
-   "price": 935000,
-   "sqm": 318.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Energieeffizientes Dreifamilienhaus in gefragter W...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTN9ADMAAAAAAJ708vgwNIRkYGiO-E3yv-f0r0Rd9ljUOmh9auF-kPzabJU9vrImAwTv5Bcip2Ggyv5u-1k3jz9ZU4EBL7ba69Vv6umILQRqZ2gZmoqn2ZgUN1JhEw"
-  },
-  {
-   "eur_sqm": 2941,
-   "yield": 5.71,
-   "price": 99999,
-   "sqm": 34.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Modernisiertes",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTN9ADMAAAAAAJ7Cpd-_iHBmovKEzpWJwe_mrmHobwKrk0lpFpZ-TOrZVRTPUm4QTc_7_J8XokCe0snJ-e7d12cxKzQbX_37PpviAwHwsQ4-szlDumKdvwKrWC0wQQ"
-  },
-  {
-   "eur_sqm": 2942,
-   "yield": 5.71,
-   "price": 460000,
-   "sqm": 156.37,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Reihenhaus in Rodgau",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3479596287"
-  },
-  {
-   "eur_sqm": 2948,
-   "yield": 5.7,
-   "price": 395000,
-   "sqm": 134.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Wohnen mit Charakter Gemütliches Einfamilienhaus m...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjN9ADMAAAAAAKzmY5PF1Xvmi9oHjoDnZGVsDggnkUElnLgpt3bilvpuRSmonAM9tY6ySin3-ZJgb9D88McwW7P1uwe-9tnlH-ma8M_0gMkP0spYVHvakoJyMrSveQ"
-  },
-  {
-   "eur_sqm": 2956,
-   "yield": 5.68,
-   "price": 269000,
-   "sqm": 91.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Bezugsfreie",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKKZD-90lT0Unxb7J7ydP37l3Zfyt4Bzl9oaD08HpkDctmUnQgBVMWJRj0JPY2_v1JXd35ZLoPExJFguuIDiPjG23Som6BBgbtPosZtW3C2BDq5HMw"
-  },
-  {
-   "eur_sqm": 2958,
-   "yield": 5.68,
-   "price": 349000,
-   "sqm": 118.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Außergewöhnliche Doppelhaushälfte mit Garten und G...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKjSyGisV4byAvac4bo8nkwEv13cOdif7cOkL4I26gXifbptdU0XwaGqZacFA6DXnyUcxDi29yG1x5ydmgFIu1V5y2idV_KRyfNWK0KQBbEDBK2fdA"
-  },
-  {
-   "eur_sqm": 2960,
-   "yield": 5.67,
-   "price": 299000,
-   "sqm": 101.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Modernes Wohnen mit Loft-Charakter - Helle 3-Zimme...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJZumHHWegI_dh5ghp34jXwS7GHEp3nV-3FuX8tk3e7AP2tyZk5YBMirR00qw0vrea5XwZHUXkrKmbxMDHp8CuUfKcy78JGI0R0EfOEkCkLgVNzVjw"
-  },
-  {
-   "eur_sqm": 2967,
-   "yield": 5.66,
-   "price": 798000,
-   "sqm": 269.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Wundervolles Einfamilienhaus in Waldrand- bzw. Sac...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKLxO7zuM-iZy642rUIisbvuNVmPFbjlr-dZHotjX_51SRZEh3shvw5z7KnByWH2OiJOYpb9c2A3FCX9dgXHWSxjTPMW7GjAs8T2bN7qvBgzU94P0A"
-  },
-  {
-   "eur_sqm": 2967,
-   "yield": 5.66,
-   "price": 89000,
-   "sqm": 30.0,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Behagliche Etagenwohnung mit Balkon in gefragter Lage - Erbp",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3324308630"
-  },
-  {
-   "eur_sqm": 2978,
-   "yield": 5.64,
-   "price": 670000,
-   "sqm": 225.0,
+   "eur_sqm": 1805,
+   "yield": 9.31,
+   "price": 379000,
+   "sqm": 210.0,
    "district": "",
    "source": "Immowelt (Mail)",
-   "title": "Großzügiges Mehrgenerationenhaus in begehrter Lage...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAJ_lKwJCTpI6RIgzDEnz-k6ABj5m3qgSoL_H8vRvwntrfFL1pczk7KOMSMc-Ss56cUFlBUb7SejBAVe-I_4VqwK6421vOWW0FUfR4dKIysrdgEZD1g"
+   "title": "Stilvoll wohnen im Fachwerk: Einfamilienhaus mit W...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAJ7a2gUe0UvUU3KmRVDjNDf5KG2y3Wls4sl6jvui-ZDhlbeL7WhazdmrW0-_w4tmRcuWcsQvLN0oKDYAVz3xi3bzvSrKRx9hF6OUJnvGcMWZcEIBdg"
   },
   {
-   "eur_sqm": 2996,
-   "yield": 5.61,
-   "price": 668000,
-   "sqm": 223.0,
-   "district": "Maintal",
+   "eur_sqm": 1843,
+   "yield": 9.12,
+   "price": 199000,
+   "sqm": 108.0,
+   "district": "Frankfurt (unspez.)",
    "source": "Immowelt (Mail)",
-   "title": "Gepflegtes Haus mit herrlichem Garten in Maintal",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTB9ADMAAAAAAJlrC1a6EFdFno5cEWveFCEAQV9cNvi-gg0kYTs8qgSAPhPCHZPVOaSoCdEemgLzcGb-OTQwRR-JnMalMDlmPvgX1edYODDjkVKlo-jgg8XRbQkNww"
+   "title": "Einfamilienhaus mit Scheune in ruhiger Lage von Ka...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjZ9ADMAAAAAALCVurR4NU5X8boQp9OD-mC8edSrEg5fP-6KZLQyaJfwNEu7m6gfFSREMjdrF7c2nw_Qie2IvrE2lx4fYbMUvkpYeIqcv_MQSiSeEZzpUPyC9qqK2g"
+  },
+  {
+   "eur_sqm": 1864,
+   "yield": 9.01,
+   "price": 123000,
+   "sqm": 66.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Renditekracher: Gepflegte",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJtucJpXEKS9OztvT8GULfqQUAPO4HEbR7ObZUe_T_u0Hv8X-WeWE3ilEq7cRgsdbHE0MucRqjIjqBO0WMwXt6PYF9WkkzPnN1v_UJNaNMZCeKyFBA"
+  },
+  {
+   "eur_sqm": 1871,
+   "yield": 8.98,
+   "price": 159000,
+   "sqm": 85.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Gepflegte",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK6SM0wFjVtR8rzuOJc6_7cOKGB93gdDyfuj9Yj-Yhjvd3jBlHyrrg-EHjiHxVj1GBvS8WrPHwevgnY88Ibo8fCgLBVz4mJXQzTz6XG3TvcpjjegIA"
+  },
+  {
+   "eur_sqm": 1999,
+   "yield": 8.4,
+   "price": 199900,
+   "sqm": 100.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Einfamilienhaus mit Herz und einem zauberhaften Ga...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzB9ADMAAAAAALZoLotL-XKkDD1oXzt-Czw6VBz0lkfjDHN3yI1btdaVSbkn-CGdPyEjZrVWm5uZyM8Tnj_Qmty_nSvH997lluBEIIPAD5y8GAmevUZOuuG1Wb25KA"
+  },
+  {
+   "eur_sqm": 2000,
+   "yield": 8.4,
+   "price": 1500000,
+   "sqm": 750.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Top Kapitalanlage: 2 Häuser auf einem Grundstück m...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKVk7gEWmnzgJ2_HyGWx7YHXN6EFF5sW4ElSc_pQ7ehUXkvA63THi5hM0iNqIZ960MD6GmXYNmxFd1j1p_fM2Oiw5I7MfI3C9hVoMS_9FWkTrS3bkQ"
+  },
+  {
+   "eur_sqm": 2014,
+   "yield": 8.34,
+   "price": 445000,
+   "sqm": 221.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Erbpachtgrundstück - Freistehender Familientraum -...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKkJbWigawoi0R5stUl3OX0Ceyp85PXsctfa53pUhKr65NVD8dR3-idqLRKJ2V52cKvqn-D8LXMUwrZFHbxAPksM7dyjjgop82c1yY2JctfSAGsgZw"
+  },
+  {
+   "eur_sqm": 2025,
+   "yield": 8.29,
+   "price": 160000,
+   "sqm": 79.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Attraktive Kapitalanlage: Vermietete Eigentumswohn...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKwJTauholltktq_41QI5x0hibOs9Ujp4NNZUkctf4If_ZW-bKIYcXjyZJ69VoEUDH3_K1iHSw5eT_fB3l70WDpadCwzjA3k8_QO52sGq6bpfSLCgw"
+  },
+  {
+   "eur_sqm": 2031,
+   "yield": 8.27,
+   "price": 798000,
+   "sqm": 393.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Vielseitige nutzbare Immobilie in Bestlage: Mehrfa...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKhijV79utRasr0A-Sjf1ZS3eMWLpgcwuqrK3jGnzGC9clcGKBWROR4kmgRM7Z21pl_qkNeocM1L3nbRfai4cLNAyGNQBJ_OhZOOER5hg94OHv9hdA"
+  },
+  {
+   "eur_sqm": 2055,
+   "yield": 8.18,
+   "price": 150000,
+   "sqm": 73.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Zuhause über den Dächern!",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKY1C_G_jFZOPw6S3zStvn7pq27QDZE5aCDLKHReuImEnWlqmr7vDixTyJ2UbPjHfMjclzxAz60g1R3R6cqe--fQTRa1LWUszKEznx-B_w8msXUeBQ"
+  },
+  {
+   "eur_sqm": 2078,
+   "yield": 8.09,
+   "price": 480000,
+   "sqm": 231.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "10526 - ATTRAKTIVES MEHRFAMILIENHAUS - IDEAL ZUR S...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njd9ADMAAAAAALGgc5Eqy34nTsGzhEL0MUNNvY-jTXkHBOI8O3EdQ16fzTtxJOosIm-uV8Wrz7RIBW0wUKx4kBgonpmyBu_r2T5X6-FWg7yZZ1P5FNOV-CcPogiVWQ"
+  },
+  {
+   "eur_sqm": 2097,
+   "yield": 8.01,
+   "price": 130000,
+   "sqm": 62.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Mehr als nur Beton und Ziegel - Ihre Geldanlage mi...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKKX3S3vLUwajQuUUr1a1x4t2wyP-xHVsa24rEQehHoCpMeOxrUwHNlYO7OHaHniZ8XAuqzP3a1_3B9byuJvyGp2Kaf9lfDkQGxvF8tKnEAMGKHkJQ"
+  },
+  {
+   "eur_sqm": 2106,
+   "yield": 7.98,
+   "price": 351700,
+   "sqm": 167.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Moderne Villa mit individuellem Gestaltungsspielra...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK_OWD7zNklw-X8lBu8y7H5dknTTOR8ZD-lGNzXpOZ_imaTLRtg6Rm7yBj-i6UrrGIkkzQ7Lq29jaOosQ0V59nRSfbHbgYgmTTfdfeMCwNCkRFYsNg"
+  },
+  {
+   "eur_sqm": 2109,
+   "yield": 7.97,
+   "price": 279000,
+   "sqm": 132.31,
+   "district": "Hessen",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Attraktive 4-Zimmer-Maisonette-Wohnung in Rodgau",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3424765441"
+  },
+  {
+   "eur_sqm": 2112,
+   "yield": 7.95,
+   "price": 169000,
+   "sqm": 80.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Sehr schöne, gepflegte 3 ZKB-Wohnung mit Balkon un...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK8rKONDAfUiLC2LopiF2ixcfztLhMK8gJq8_vO_z1kTMy7luYiZNqDDXrGZi3VpDPGtkfl91DIhzghupoQxI1IY4D23awJjIr0Vb8ntIRo8bSgyqg"
+  },
+  {
+   "eur_sqm": 2116,
+   "yield": 7.94,
+   "price": 146000,
+   "sqm": 69.0,
+   "district": "Hessen",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "⭐Kapitalanlage⭐ ab 200 € monatlich eine Renditeimmobilie kau",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3484805342"
+  },
+  {
+   "eur_sqm": 2121,
+   "yield": 7.92,
+   "price": 210000,
+   "sqm": 99.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Ihr Glück beginnt genau hier - Licht durchflutete ...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjR9ADMAAAAAAK488FYAt4HdbIzDtvFX_DOxpqtM-97Ghr9p9IFELJSMMfcqYY-DRLXRhgJnqPCms90h_CRWC88lTJ178XLAr9MpZoDYZprEwEjtbE8yc2fg7Pc_rA"
+  },
+  {
+   "eur_sqm": 2134,
+   "yield": 7.87,
+   "price": 175000,
+   "sqm": 82.0,
+   "district": "Dietzenbach",
+   "source": "Immowelt (Mail)",
+   "title": "3-Zimmer-Wohnung in Dietzenbach mit Tiefgaragenste...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjR9ADMAAAAAAK4qRQG1f0wW-zlO--WctP6flmWjIKFCDfwJ5WknDaD_lQO9W3I4bDsj7Z5F6Ij_VS_sohFxKmAszmXxE8Roz2V-MCYyMep69Liok36NnUcIEQHGpQ"
   }
  ]
 }
