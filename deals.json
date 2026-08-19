@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T18:06:28",
+ "generated_at": "2026-08-19T18:54:12",
  "count": 30,
  "deals": [
   {
@@ -111,6 +111,16 @@
    "source": "Immowelt (Mail)",
    "title": "Attraktive",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njl9ADMAAAAAALVL1mkl-cGOJaaMpweGd6-HZwwH0wXSJYeFBrF0X_BlLJbfGDjb5Z3N2oMZsRcwQWffjk6dKZc3cT9sXgpDSzTZ8vjlGwsBAs1q4pa49X0EVMIUcw"
+  },
+  {
+   "eur_sqm": 1780,
+   "yield": 9.44,
+   "price": 299000,
+   "sqm": 168.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Zweifamilienhaus in familienfreundlicher Lage",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzN9ADMAAAAAALqKSTqLkWKsQ3mGP6KIs4uxMyaWqiFRxtj13S5iH9w2TEK8xKCgTveg7XbD8I4Yal6_CkhefsZVvnGfVbtlDSOfm_7ZoPPBzuh_2sK_CkkS6ickgQ"
   },
   {
    "eur_sqm": 1786,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Ihr Glück beginnt genau hier - Licht durchflutete ...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjR9ADMAAAAAAK488FYAt4HdbIzDtvFX_DOxpqtM-97Ghr9p9IFELJSMMfcqYY-DRLXRhgJnqPCms90h_CRWC88lTJ178XLAr9MpZoDYZprEwEjtbE8yc2fg7Pc_rA"
-  },
-  {
-   "eur_sqm": 2134,
-   "yield": 7.87,
-   "price": 175000,
-   "sqm": 82.0,
-   "district": "Dietzenbach",
-   "source": "Immowelt (Mail)",
-   "title": "3-Zimmer-Wohnung in Dietzenbach mit Tiefgaragenste...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjR9ADMAAAAAAK4qRQG1f0wW-zlO--WctP6flmWjIKFCDfwJ5WknDaD_lQO9W3I4bDsj7Z5F6Ij_VS_sohFxKmAszmXxE8Roz2V-MCYyMep69Liok36NnUcIEQHGpQ"
   }
  ]
 }
