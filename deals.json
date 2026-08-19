@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T15:56:24",
+ "generated_at": "2026-08-19T15:57:21",
  "count": 30,
  "deals": [
   {
@@ -11,36 +11,6 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
-  },
-  {
-   "eur_sqm": 2812,
-   "yield": 5.97,
-   "price": 225000,
-   "sqm": 80.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Attraktive",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDZ9ADMAAAAAAJQUnHwGfjU06PY0DqddndNTzafj-h0GXtXpQzUNvzVUfw1rg4ciGSSxAK3oj6_MiAcsDzrNfK7AxAKzw6BTM7bRBjaxvye5osH7nrW46tyvEQmoKw"
-  },
-  {
-   "eur_sqm": 2815,
-   "yield": 5.97,
-   "price": 1700000,
-   "sqm": 604.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Kapitalanleger aufgepasst: Gut vermietetes Mehrfam...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKVk7gEQHLWuq9kwVq633xdontJNVVWK7KDT_V3YQSKVCLskgtnWPzvtdPgCkj5uzk12iAPmaMRCmYOSoIaUXD13g5VdJdrrQhy99RU0dgMsmEQqmQ"
-  },
-  {
-   "eur_sqm": 2846,
-   "yield": 5.9,
-   "price": 185000,
-   "sqm": 65.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Helle",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDV9ADMAAAAAAJMwpD1JLevzxFxc6hfkXgkUBhAXODT9evu8s5CFvfXbK1MHfLmiY6fH2eTp5bXHe4tA7m92ZIjKWnQaROqP8cWiWIXqioBKoOJ8FSRUhFNIlM0thw"
   },
   {
    "eur_sqm": 2864,
@@ -301,6 +271,36 @@
    "source": "Immowelt (Mail)",
    "title": "Bezugsfreie",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKKZD-90lT0Unxb7J7ydP37l3Zfyt4Bzl9oaD08HpkDctmUnQgBVMWJRj0JPY2_v1JXd35ZLoPExJFguuIDiPjG23Som6BBgbtPosZtW3C2BDq5HMw"
+  },
+  {
+   "eur_sqm": 2958,
+   "yield": 5.68,
+   "price": 349000,
+   "sqm": 118.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Außergewöhnliche Doppelhaushälfte mit Garten und G...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKjSyGisV4byAvac4bo8nkwEv13cOdif7cOkL4I26gXifbptdU0XwaGqZacFA6DXnyUcxDi29yG1x5ydmgFIu1V5y2idV_KRyfNWK0KQBbEDBK2fdA"
+  },
+  {
+   "eur_sqm": 2960,
+   "yield": 5.67,
+   "price": 299000,
+   "sqm": 101.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Modernes Wohnen mit Loft-Charakter - Helle 3-Zimme...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJZumHHWegI_dh5ghp34jXwS7GHEp3nV-3FuX8tk3e7AP2tyZk5YBMirR00qw0vrea5XwZHUXkrKmbxMDHp8CuUfKcy78JGI0R0EfOEkCkLgVNzVjw"
+  },
+  {
+   "eur_sqm": 2967,
+   "yield": 5.66,
+   "price": 798000,
+   "sqm": 269.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Wundervolles Einfamilienhaus in Waldrand- bzw. Sac...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTZ9ADMAAAAAAKLxO7zuM-iZy642rUIisbvuNVmPFbjlr-dZHotjX_51SRZEh3shvw5z7KnByWH2OiJOYpb9c2A3FCX9dgXHWSxjTPMW7GjAs8T2bN7qvBgzU94P0A"
   }
  ]
 }
