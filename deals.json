@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T15:53:38",
+ "generated_at": "2026-08-19T15:55:21",
  "count": 30,
  "deals": [
   {
@@ -71,16 +71,6 @@
    "source": "Immowelt (Mail)",
    "title": "Kapitalanleger aufgepasst: Gut vermietetes Mehrfam...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKVk7gEQHLWuq9kwVq633xdontJNVVWK7KDT_V3YQSKVCLskgtnWPzvtdPgCkj5uzk12iAPmaMRCmYOSoIaUXD13g5VdJdrrQhy99RU0dgMsmEQqmQ"
-  },
-  {
-   "eur_sqm": 2821,
-   "yield": 5.96,
-   "price": 299000,
-   "sqm": 106.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "***Gestalten Sie IHR Domizil nach IHREN Wünschen**...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzN9ADMAAAAAALoNocDxKzNTtgoAow9DzwKaFyx1Hot08lx9P_t7CBPCjKYfDKg8oEdVf-Yhfkb93I0U_wjeoKtVhDwQLH6Vgu4PoEzVjyqud5EYUwxICAQO-SfXBw"
   },
   {
    "eur_sqm": 2823,
@@ -301,6 +291,16 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "Hofheim-Wallau! Wohnen auf 270 m² - top-saniert! 7 Zimmer, 2",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3166145257"
+  },
+  {
+   "eur_sqm": 2927,
+   "yield": 5.74,
+   "price": 1490000,
+   "sqm": 509.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Lukrative Kapitalanlage in sehr guter Lage von Kel...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjJ9ADMAAAAAAKvwBI6imwhXQ6IpA4PT5caeyjgVidMTIO4z6e2d5rWif955KBalJQ-Qz0cda72pO8qfiaQuvB1ABim5fDMbuCCGuKTpDLYQ7ns61c4famcvNYMAPA"
   }
  ]
 }
