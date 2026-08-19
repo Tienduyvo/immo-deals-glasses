@@ -1,17 +1,7 @@
 {
- "generated_at": "2026-08-19T10:52:49",
+ "generated_at": "2026-08-19T08:33:58",
  "count": 30,
  "deals": [
-  {
-   "eur_sqm": 1786,
-   "yield": 9.41,
-   "price": 175000,
-   "sqm": 98.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Erbbaurechtsgrundstück mit zwei Wohnhäusern und vi...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzN9ADMAAAAAALmO0QnLiJKXhW0O0HSxTmhFGexHrSctVdvk7GVD2zg3-p6nU1q_q9qMU0u1Fx-racu_9LT8Vf7WyFphOvDQQI7iWSstxBtAtkjihdzNCEc8x5incQ"
-  },
   {
    "eur_sqm": 2181,
    "yield": 7.7,
@@ -36,21 +26,11 @@
    "eur_sqm": 2401,
    "yield": 7.0,
    "price": 605000,
-   "sqm": 252.0,
+   "sqm": 252,
    "district": "Frankfurt am Main",
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Willibrachtstraße 3, 60431 Frankfurt am M",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54998&land_abk=he"
-  },
-  {
-   "eur_sqm": 2477,
-   "yield": 6.78,
-   "price": 649000,
-   "sqm": 262.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Für Individualisten! Wohnen und Arbeiten unter ein...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzN9ADMAAAAAALmJcmqsn9MO05tzeydyj4NfqTOMRAjxeaejLO7kUH3zOxOB34ocyy62ujnoDZQ7MiTyZoYstpSWhER28ZbUJ7TC8EUH1V4rhLvwRZALhs5nqRxsMw"
   },
   {
    "eur_sqm": 2773,
@@ -129,8 +109,8 @@
    "sqm": 62.0,
    "district": "Frankfurt (unspez.)",
    "source": "Immowelt (Mail)",
-   "title": "Helles Refugium mit Charmantem Keller",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzN9ADMAAAAAALmO4_e3kAuQ_9M0LffrTF39V5nq8LjFnkAdQu2HJxOhrlDhuMxhAYJLiUjYFzga4uCKwkj_zjEut76NaKactZp9U7EZYjS_QPp8MQm2Y_42kgJvOQ"
+   "title": "Tolle Wohnung für Singles und Paare",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDh9ADMAAAAAAJbRs6GPiQNGjxvqcmZeoGDcAkbQXO2Cp4zC8ETdxUH80l90K_15pOg70Dk06jjW78iImjp3BcaOcvA5caUV41b7obXOg5S6FBvHj5OAF0pWjVI3pg"
   },
   {
    "eur_sqm": 2846,
@@ -301,6 +281,26 @@
    "source": "Immowelt (Mail)",
    "title": "Ruhig und doch zentral: Schöne Maisonette-Wohnung ...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjZ9ADMAAAAAALEYYiagZgL0KIthwQ1UFWetyDOc_CKYkJDbTvbiddS3eDPzTnQvk4ILPKyS120tALJW_aqZ_2sNAOM-IOpoj8Q4t57Bjg5aZ1CvtSmXCkEEtqjyzw"
+  },
+  {
+   "eur_sqm": 2914,
+   "yield": 5.77,
+   "price": 387500,
+   "sqm": 133.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Zuhause zwischen Main und Natur - charmantes Reihe...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTV9ADMAAAAAAKIJwEVBdDXCvONkIqC3snE-4BBjAxJn_ZJITuCOf74fsVOt4P7LtGULhwZIO_yVWNl2erEdCMQ_1E20jqIfYsQ9o1TJ3qcOgfcrJ0IKD211y_P4Bw"
+  },
+  {
+   "eur_sqm": 2915,
+   "yield": 5.76,
+   "price": 239000,
+   "sqm": 82.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Attraktive",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzJ9ADMAAAAAALkPIns3tRGFkRXsC0G6Lzpf8k7CQqrLldrLToi-elIixcAxqwqVqV8JutyUmfkAcXCl0FQoA9ZFfcHHkYFJJISJFSfuOcMxkx-Q9FHfmnXTSksxfw"
   }
  ]
 }
