@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T11:06:34",
+ "generated_at": "2026-08-21T11:09:32",
  "count": 30,
  "deals": [
   {
@@ -183,16 +183,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK_OWD7zNklw-X8lBu8y7H5dknTTOR8ZD-lGNzXpOZ_imaTLRtg6Rm7yBj-i6UrrGIkkzQ7Lq29jaOosQ0V59nRSfbHbgYgmTTfdfeMCwNCkRFYsNg"
   },
   {
-   "eur_sqm": 2109,
-   "yield": 7.97,
-   "price": 279000,
-   "sqm": 132.31,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Attraktive 4-Zimmer-Maisonette-Wohnung in Rodgau",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3424765441"
-  },
-  {
    "eur_sqm": 2112,
    "yield": 7.95,
    "price": 169000,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "Zentral & ruhig: Gepflegtes Wohn- und Geschäftshau...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTN9ADMAAAAAAJ5V-PkDiaH8rqPAHRE8S-nsGoe4rKAtYeOS9ulPf1H5d8PK4jzFrl_m3K8to3v4nm4A_tUEnKxYKkwKiT11H-Oh6Hg-i_JTSjHGT5fynvoGqRcOyg"
+  },
+  {
+   "eur_sqm": 2235,
+   "yield": 7.52,
+   "price": 447000,
+   "sqm": 200.0,
+   "district": "Rödermark",
+   "source": "ZVG",
+   "title": "Einfamilienhaus : An der Hühnerhecke 11, 63322 Rödermark, Ob",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54943&land_abk=he"
   }
  ]
 }
