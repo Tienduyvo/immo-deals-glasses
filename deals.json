@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T11:04:33",
+ "generated_at": "2026-08-21T11:05:35",
  "count": 30,
  "deals": [
   {
@@ -11,16 +11,6 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Donaustr. 21, 63322 Rödermark, Ober-Roden",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54911&land_abk=he"
-  },
-  {
-   "eur_sqm": 1685,
-   "yield": 9.97,
-   "price": 359000,
-   "sqm": 213.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Sanierungsbedürftiges 3 FH in OF-Bürgel mit Entwic...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKjSyGimflwZfUAoI9a08GozsY0sb-nhUb9T6cpj3QLa6-Knxe6eAx84Pf_Mv8L31SRWEC3tn5nDM820uj8VnfmW_TLnn23IZ_MzS9t-UEinSRcz6Q"
   },
   {
    "eur_sqm": 1723,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "3-Familienhaus in bevorzugter Wohnlage von Ilbenst...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKj1ySx5Xb2RQhb5xA_H-FQuKDk5MVzD1eNukpL0M5cp0g3xI0j1YY8FAuasuoIg09qIqSWOqp_w1BMRUNldjHd_MzZJV9TqlOQ9Hu9R-UWKTXBEIg"
+  },
+  {
+   "eur_sqm": 2217,
+   "yield": 7.58,
+   "price": 920000,
+   "sqm": 415.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Ansprechendes Mehrfamilienhaus",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzF9ADMAAAAAALe9_5uXF9hWNCdEtjFrVlxqyjbmXWM8tXDCuVbK0Fhyrdcj8no_raJxruJl5UgRLN27Lb6suPiJXrmZsUC3EqYsmU3xSOaqRU6O98b0FyJkbG5NXw"
   }
  ]
 }
