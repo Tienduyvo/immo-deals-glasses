@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T11:03:34",
+ "generated_at": "2026-08-21T11:04:33",
  "count": 30,
  "deals": [
   {
@@ -11,56 +11,6 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Donaustr. 21, 63322 Rödermark, Ober-Roden",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54911&land_abk=he"
-  },
-  {
-   "eur_sqm": 1333,
-   "yield": 12.6,
-   "price": 84000,
-   "sqm": 63.0,
-   "district": "Erlensee",
-   "source": "ZVG",
-   "title": "Teileigentumseinheit (Büro) : Rosenstr. 1b, 63526 Erlensee, ",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55062&land_abk=he"
-  },
-  {
-   "eur_sqm": 1346,
-   "yield": 12.48,
-   "price": 179000,
-   "sqm": 133.0,
-   "district": "Offenbach",
-   "source": "Immowelt (Mail)",
-   "title": "Sanierungsobjekt mit Potenzial in Offenbach: 3 Ein...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJxjZtQdLeBw7FcHKQq9AxKERleqWPU2Z9ppUPVziRaaocUH3FVnEvPSmKWd10pExIz4c3pegJqNHn_27ORsgx_BMWUpL0TEvp2u43RJ7BEkdalpPw"
-  },
-  {
-   "eur_sqm": 1601,
-   "yield": 10.49,
-   "price": 229000,
-   "sqm": 143.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Außergewöhnliche Wohnung im Herzen von Offenthal.",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKj1ySxz50s_bpxKydjrj1nnpcFhbxGSDXTXMjQrsnzc4vzfMkn6mQMqNQ-SJsTWQ04C1dEenOjbjH-t_nYYybnBsUd6DZf0lJB5Lqe014HsQ_7YAw"
-  },
-  {
-   "eur_sqm": 1633,
-   "yield": 10.29,
-   "price": 209000,
-   "sqm": 128.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Haus mit Geschichte - Juwel im Ortskern mit große...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKUVlRmUqVlIGEF6xs9UthPwtl_ZrZJ0noApjJu2R-Lwro9u1ZL0b31-EZDysB-NlFIBixvVeifj1S06Azg26Bc5QUiHBiKHc-LyK9f5DuIg38VRHQ"
-  },
-  {
-   "eur_sqm": 1683,
-   "yield": 9.98,
-   "price": 850000,
-   "sqm": 505.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Mehrfamilienhaus mit Baureserve - 3 Wohnungen + ca...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjF9ADMAAAAAAKrLiICwsUk6Ws0ac-gaG_zhNlOicVfdla-2BpDSLFSfR5Yy2_duz3UCjUZWuWfsT2ldHpvxJedh-q6MkcqyI8Ddtu1xSc27zVvP9klkoyln-Fo12g"
   },
   {
    "eur_sqm": 1685,
@@ -301,6 +251,56 @@
    "source": "Immowelt (Mail)",
    "title": "Ihr Glück beginnt genau hier - Licht durchflutete ...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjR9ADMAAAAAAK488FYAt4HdbIzDtvFX_DOxpqtM-97Ghr9p9IFELJSMMfcqYY-DRLXRhgJnqPCms90h_CRWC88lTJ178XLAr9MpZoDYZprEwEjtbE8yc2fg7Pc_rA"
+  },
+  {
+   "eur_sqm": 2134,
+   "yield": 7.87,
+   "price": 175000,
+   "sqm": 82.0,
+   "district": "Dietzenbach",
+   "source": "Immowelt (Mail)",
+   "title": "3-Zimmer-Wohnung in Dietzenbach mit Tiefgaragenste...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjR9ADMAAAAAAK4qRQG1f0wW-zlO--WctP6flmWjIKFCDfwJ5WknDaD_lQO9W3I4bDsj7Z5F6Ij_VS_sohFxKmAszmXxE8Roz2V-MCYyMep69Liok36NnUcIEQHGpQ"
+  },
+  {
+   "eur_sqm": 2164,
+   "yield": 7.76,
+   "price": 119000,
+   "sqm": 55.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Charmante",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKlbgnkz8QzA3Y_mUo2D-bjHiEMvLiEagro8dhjtNKBFfVSVvgeVAwG4GKwZAy8uNeoSz6KwmsS08BpVQgypbcAvZhulps-01aJ-uXiPrE8HyQKYng"
+  },
+  {
+   "eur_sqm": 2181,
+   "yield": 7.7,
+   "price": 1350000,
+   "sqm": 619.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "9-Familienhaus in exklusiver Lage!",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzJ9ADMAAAAAALkFzGwOoLWKcUa13vLAsYD39TUaqMt3BrEuPq4I_9dWZih7fSArNMs6pXI7RBurNmpyxE_EQLSLkBcOGWNctnFf-FcyzKsScf1ehqbnWUOej4DlyA"
+  },
+  {
+   "eur_sqm": 2203,
+   "yield": 7.62,
+   "price": 650000,
+   "sqm": 295.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Eigennutzung und Mieteinnahmen perfekt kombiniert",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJX2qM1Rx1pWRuhCJB45kKPKMUwSNBb_wS0w_VMr1LqoNg9N_qGT8GG583nghJMHlCiqQUKZumZqqhOvydSClN7eOt7iTRQYqYbLVPNHhd73Xbd7WA"
+  },
+  {
+   "eur_sqm": 2216,
+   "yield": 7.58,
+   "price": 565000,
+   "sqm": 255.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "3-Familienhaus in bevorzugter Wohnlage von Ilbenst...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKj1ySx5Xb2RQhb5xA_H-FQuKDk5MVzD1eNukpL0M5cp0g3xI0j1YY8FAuasuoIg09qIqSWOqp_w1BMRUNldjHd_MzZJV9TqlOQ9Hu9R-UWKTXBEIg"
   }
  ]
 }
