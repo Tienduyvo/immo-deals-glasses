@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T11:14:06",
+ "generated_at": "2026-08-21T08:36:59",
  "count": 30,
  "deals": [
   {
@@ -13,6 +13,76 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54911&land_abk=he"
   },
   {
+   "eur_sqm": 1333,
+   "yield": 12.6,
+   "price": 84000,
+   "sqm": 63.0,
+   "district": "Erlensee",
+   "source": "ZVG",
+   "title": "Teileigentumseinheit (Büro) : Rosenstr. 1b, 63526 Erlensee, ",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55062&land_abk=he"
+  },
+  {
+   "eur_sqm": 1346,
+   "yield": 12.48,
+   "price": 179000,
+   "sqm": 133.0,
+   "district": "Offenbach",
+   "source": "Immowelt (Mail)",
+   "title": "Sanierungsobjekt mit Potenzial in Offenbach: 3 Ein...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTJ9ADMAAAAAAJxjZtQdLeBw7FcHKQq9AxKERleqWPU2Z9ppUPVziRaaocUH3FVnEvPSmKWd10pExIz4c3pegJqNHn_27ORsgx_BMWUpL0TEvp2u43RJ7BEkdalpPw"
+  },
+  {
+   "eur_sqm": 1601,
+   "yield": 10.49,
+   "price": 229000,
+   "sqm": 143.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Außergewöhnliche Wohnung im Herzen von Offenthal.",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKj1ySxz50s_bpxKydjrj1nnpcFhbxGSDXTXMjQrsnzc4vzfMkn6mQMqNQ-SJsTWQ04C1dEenOjbjH-t_nYYybnBsUd6DZf0lJB5Lqe014HsQ_7YAw"
+  },
+  {
+   "eur_sqm": 1633,
+   "yield": 10.29,
+   "price": 209000,
+   "sqm": 128.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Haus mit Geschichte - Juwel im Ortskern mit große...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKUVlRmUqVlIGEF6xs9UthPwtl_ZrZJ0noApjJu2R-Lwro9u1ZL0b31-EZDysB-NlFIBixvVeifj1S06Azg26Bc5QUiHBiKHc-LyK9f5DuIg38VRHQ"
+  },
+  {
+   "eur_sqm": 1683,
+   "yield": 9.98,
+   "price": 850000,
+   "sqm": 505.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Mehrfamilienhaus mit Baureserve - 3 Wohnungen + ca...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjF9ADMAAAAAAKrLiICwsUk6Ws0ac-gaG_zhNlOicVfdla-2BpDSLFSfR5Yy2_duz3UCjUZWuWfsT2ldHpvxJedh-q6MkcqyI8Ddtu1xSc27zVvP9klkoyln-Fo12g"
+  },
+  {
+   "eur_sqm": 1685,
+   "yield": 9.97,
+   "price": 359000,
+   "sqm": 213.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Sanierungsbedürftiges 3 FH in OF-Bürgel mit Entwic...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKjSyGimflwZfUAoI9a08GozsY0sb-nhUb9T6cpj3QLa6-Knxe6eAx84Pf_Mv8L31SRWEC3tn5nDM820uj8VnfmW_TLnn23IZ_MzS9t-UEinSRcz6Q"
+  },
+  {
+   "eur_sqm": 1723,
+   "yield": 9.75,
+   "price": 1499000,
+   "sqm": 870.0,
+   "district": "Dietzenbach",
+   "source": "Immowelt (Mail)",
+   "title": "FAKTOR 13x RENDITE !! - A-Lage in Dietzenbach mit ...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTl9ADMAAAAAAKc5htutr9FX8Ox3zK__7pgAGobZ_xDfQuZsJvSbcaFvfhMNT_Z6phJETC_y5Kepx0JPxema4Z16kCDXnVwjGf145PCUt0zCU3VbADJNhOqHdmpE7A"
+  },
+  {
    "eur_sqm": 1724,
    "yield": 9.74,
    "price": 100000,
@@ -21,6 +91,16 @@
    "source": "Immowelt (Mail)",
    "title": "Top Kapitalanlage: Gut vermietete",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAKAuxNq-Y-pJHeQ4mny7INpaKOZ9ggOZiNmNqvZND8zuisVlVRjmO8mQc8uDlwAg8h0Cld3Klbl3tLp2LB3BX2HvihkICASDZUZgoxXokiiWoPy5UQ"
+  },
+  {
+   "eur_sqm": 1742,
+   "yield": 9.64,
+   "price": 115000,
+   "sqm": 66.0,
+   "district": "Langen",
+   "source": "Immowelt (Mail)",
+   "title": "Langen - Nur Zwangsversteigerung- keine Käuferprov...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjF9ADMAAAAAAKtV4wodX-8ochKeJ0JUhwhSICLlrJ-_vVKnIfMLzoX58IW_I9wylXEyqynWZyTpQzvlVl_JfaPj62EGGXYZXUZraOkraNRkKNDG0dWgD2_oOXs7Cw"
   },
   {
    "eur_sqm": 1773,
@@ -183,6 +263,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK_OWD7zNklw-X8lBu8y7H5dknTTOR8ZD-lGNzXpOZ_imaTLRtg6Rm7yBj-i6UrrGIkkzQ7Lq29jaOosQ0V59nRSfbHbgYgmTTfdfeMCwNCkRFYsNg"
   },
   {
+   "eur_sqm": 2109,
+   "yield": 7.97,
+   "price": 279000,
+   "sqm": 132.31,
+   "district": "Hessen",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Attraktive 4-Zimmer-Maisonette-Wohnung in Rodgau",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3424765441"
+  },
+  {
    "eur_sqm": 2112,
    "yield": 7.95,
    "price": 169000,
@@ -211,96 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Ihr Glück beginnt genau hier - Licht durchflutete ...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjR9ADMAAAAAAK488FYAt4HdbIzDtvFX_DOxpqtM-97Ghr9p9IFELJSMMfcqYY-DRLXRhgJnqPCms90h_CRWC88lTJ178XLAr9MpZoDYZprEwEjtbE8yc2fg7Pc_rA"
-  },
-  {
-   "eur_sqm": 2134,
-   "yield": 7.87,
-   "price": 175000,
-   "sqm": 82.0,
-   "district": "Dietzenbach",
-   "source": "Immowelt (Mail)",
-   "title": "3-Zimmer-Wohnung in Dietzenbach mit Tiefgaragenste...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjR9ADMAAAAAAK4qRQG1f0wW-zlO--WctP6flmWjIKFCDfwJ5WknDaD_lQO9W3I4bDsj7Z5F6Ij_VS_sohFxKmAszmXxE8Roz2V-MCYyMep69Liok36NnUcIEQHGpQ"
-  },
-  {
-   "eur_sqm": 2164,
-   "yield": 7.76,
-   "price": 119000,
-   "sqm": 55.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Charmante",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKlbgnkz8QzA3Y_mUo2D-bjHiEMvLiEagro8dhjtNKBFfVSVvgeVAwG4GKwZAy8uNeoSz6KwmsS08BpVQgypbcAvZhulps-01aJ-uXiPrE8HyQKYng"
-  },
-  {
-   "eur_sqm": 2181,
-   "yield": 7.7,
-   "price": 1350000,
-   "sqm": 619.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "9-Familienhaus in exklusiver Lage!",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzJ9ADMAAAAAALkFzGwOoLWKcUa13vLAsYD39TUaqMt3BrEuPq4I_9dWZih7fSArNMs6pXI7RBurNmpyxE_EQLSLkBcOGWNctnFf-FcyzKsScf1ehqbnWUOej4DlyA"
-  },
-  {
-   "eur_sqm": 2203,
-   "yield": 7.62,
-   "price": 650000,
-   "sqm": 295.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Eigennutzung und Mieteinnahmen perfekt kombiniert",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJX2qM1Rx1pWRuhCJB45kKPKMUwSNBb_wS0w_VMr1LqoNg9N_qGT8GG583nghJMHlCiqQUKZumZqqhOvydSClN7eOt7iTRQYqYbLVPNHhd73Xbd7WA"
-  },
-  {
-   "eur_sqm": 2216,
-   "yield": 7.58,
-   "price": 565000,
-   "sqm": 255.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "3-Familienhaus in bevorzugter Wohnlage von Ilbenst...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKj1ySx5Xb2RQhb5xA_H-FQuKDk5MVzD1eNukpL0M5cp0g3xI0j1YY8FAuasuoIg09qIqSWOqp_w1BMRUNldjHd_MzZJV9TqlOQ9Hu9R-UWKTXBEIg"
-  },
-  {
-   "eur_sqm": 2217,
-   "yield": 7.58,
-   "price": 920000,
-   "sqm": 415.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Ansprechendes Mehrfamilienhaus",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzF9ADMAAAAAALe9_5uXF9hWNCdEtjFrVlxqyjbmXWM8tXDCuVbK0Fhyrdcj8no_raJxruJl5UgRLN27Lb6suPiJXrmZsUC3EqYsmU3xSOaqRU6O98b0FyJkbG5NXw"
-  },
-  {
-   "eur_sqm": 2224,
-   "yield": 7.55,
-   "price": 129000,
-   "sqm": 58.0,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "2-Zimmer-Eigentumswohnung | Balkon | Stellplatz | 58 m² | Ha",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3464671454"
-  },
-  {
-   "eur_sqm": 2227,
-   "yield": 7.55,
-   "price": 570000,
-   "sqm": 256.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Zentral & ruhig: Gepflegtes Wohn- und Geschäftshau...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTN9ADMAAAAAAJ5V-PkDiaH8rqPAHRE8S-nsGoe4rKAtYeOS9ulPf1H5d8PK4jzFrl_m3K8to3v4nm4A_tUEnKxYKkwKiT11H-Oh6Hg-i_JTSjHGT5fynvoGqRcOyg"
-  },
-  {
-   "eur_sqm": 2235,
-   "yield": 7.52,
-   "price": 447000,
-   "sqm": 200.0,
-   "district": "Rödermark",
-   "source": "ZVG",
-   "title": "Einfamilienhaus : An der Hühnerhecke 11, 63322 Rödermark, Ob",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54943&land_abk=he"
   }
  ]
 }
