@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T11:05:35",
+ "generated_at": "2026-08-21T11:06:34",
  "count": 30,
  "deals": [
   {
@@ -13,16 +13,6 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54911&land_abk=he"
   },
   {
-   "eur_sqm": 1723,
-   "yield": 9.75,
-   "price": 1499000,
-   "sqm": 870.0,
-   "district": "Dietzenbach",
-   "source": "Immowelt (Mail)",
-   "title": "FAKTOR 13x RENDITE !! - A-Lage in Dietzenbach mit ...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTl9ADMAAAAAAKc5htutr9FX8Ox3zK__7pgAGobZ_xDfQuZsJvSbcaFvfhMNT_Z6phJETC_y5Kepx0JPxema4Z16kCDXnVwjGf145PCUt0zCU3VbADJNhOqHdmpE7A"
-  },
-  {
    "eur_sqm": 1724,
    "yield": 9.74,
    "price": 100000,
@@ -31,16 +21,6 @@
    "source": "Immowelt (Mail)",
    "title": "Top Kapitalanlage: Gut vermietete",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAKAuxNq-Y-pJHeQ4mny7INpaKOZ9ggOZiNmNqvZND8zuisVlVRjmO8mQc8uDlwAg8h0Cld3Klbl3tLp2LB3BX2HvihkICASDZUZgoxXokiiWoPy5UQ"
-  },
-  {
-   "eur_sqm": 1742,
-   "yield": 9.64,
-   "price": 115000,
-   "sqm": 66.0,
-   "district": "Langen",
-   "source": "Immowelt (Mail)",
-   "title": "Langen - Nur Zwangsversteigerung- keine Käuferprov...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjF9ADMAAAAAAKtV4wodX-8ochKeJ0JUhwhSICLlrJ-_vVKnIfMLzoX58IW_I9wylXEyqynWZyTpQzvlVl_JfaPj62EGGXYZXUZraOkraNRkKNDG0dWgD2_oOXs7Cw"
   },
   {
    "eur_sqm": 1773,
@@ -301,6 +281,26 @@
    "source": "Immowelt (Mail)",
    "title": "Ansprechendes Mehrfamilienhaus",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzF9ADMAAAAAALe9_5uXF9hWNCdEtjFrVlxqyjbmXWM8tXDCuVbK0Fhyrdcj8no_raJxruJl5UgRLN27Lb6suPiJXrmZsUC3EqYsmU3xSOaqRU6O98b0FyJkbG5NXw"
+  },
+  {
+   "eur_sqm": 2224,
+   "yield": 7.55,
+   "price": 129000,
+   "sqm": 58.0,
+   "district": "Hessen",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "2-Zimmer-Eigentumswohnung | Balkon | Stellplatz | 58 m² | Ha",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3464671454"
+  },
+  {
+   "eur_sqm": 2227,
+   "yield": 7.55,
+   "price": 570000,
+   "sqm": 256.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Zentral & ruhig: Gepflegtes Wohn- und Geschäftshau...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTN9ADMAAAAAAJ5V-PkDiaH8rqPAHRE8S-nsGoe4rKAtYeOS9ulPf1H5d8PK4jzFrl_m3K8to3v4nm4A_tUEnKxYKkwKiT11H-Oh6Hg-i_JTSjHGT5fynvoGqRcOyg"
   }
  ]
 }
