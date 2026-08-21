@@ -1,7 +1,17 @@
 {
- "generated_at": "2026-08-22T01:24:59",
+ "generated_at": "2026-08-22T01:52:16",
  "count": 30,
  "deals": [
+  {
+   "eur_sqm": 969,
+   "yield": 17.34,
+   "price": 310000,
+   "sqm": 320.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Historische Villa auf ca. 795 m² Grundstück – lang...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzV9ADMAAAAAAL3WEDrjCn4_7d52wLgwwrafHW4txb6tJufkhJ4X6mgYrxSZj3F57nZGzpMLl7LPVCyhH6rZOJwd8XG7xqlwLC87PZh6KIJ5el1_9ymZlG4w51ezkA"
+  },
   {
    "eur_sqm": 1097,
    "yield": 15.32,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Zentral & ruhig: Gepflegtes Wohn- und Geschäftshau...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTN9ADMAAAAAAJ5V-PkDiaH8rqPAHRE8S-nsGoe4rKAtYeOS9ulPf1H5d8PK4jzFrl_m3K8to3v4nm4A_tUEnKxYKkwKiT11H-Oh6Hg-i_JTSjHGT5fynvoGqRcOyg"
-  },
-  {
-   "eur_sqm": 2235,
-   "yield": 7.52,
-   "price": 447000,
-   "sqm": 200.0,
-   "district": "Rödermark",
-   "source": "ZVG",
-   "title": "Einfamilienhaus : An der Hühnerhecke 11, 63322 Rödermark, Ob",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54943&land_abk=he"
   }
  ]
 }
