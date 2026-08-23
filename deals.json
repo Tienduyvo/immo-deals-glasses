@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-23T02:06:56",
+ "generated_at": "2026-08-23T02:58:20",
  "count": 30,
  "deals": [
   {
@@ -21,6 +21,16 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Donaustr. 21, 63322 Rödermark, Ober-Roden",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54911&land_abk=he"
+  },
+  {
+   "eur_sqm": 1667,
+   "yield": 10.08,
+   "price": 120000,
+   "sqm": 72.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Top gepflegte",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Nzd9ADMAAAAAAL6nEGq0a4srHbFKpBFBO-GYdEI-fcu1oYJNBSEF5c9NGl-uWLxdrBw2qoDmmQJNKrhTknmUcHM5c8_bq3mWEHTU9GSeiDxL8bFXRGL0p0z3a064Gg"
   },
   {
    "eur_sqm": 1724,
@@ -101,6 +111,16 @@
    "source": "Immowelt (Mail)",
    "title": "Gepflegte",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK6SM0wFjVtR8rzuOJc6_7cOKGB93gdDyfuj9Yj-Yhjvd3jBlHyrrg-EHjiHxVj1GBvS8WrPHwevgnY88Ibo8fCgLBVz4mJXQzTz6XG3TvcpjjegIA"
+  },
+  {
+   "eur_sqm": 1943,
+   "yield": 8.65,
+   "price": 68000,
+   "sqm": 35.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Sanierte",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Nzd9ADMAAAAAAL69aT4eIvPdL_IRRT7obZWib3yCj4nf8nS005IQPUXNM6yvLwOmVzoscFvpqstIpbYJwAYb1P9k3kwPeipIFisYUmDziuqgJ814CiPtUV38DokfYg"
   },
   {
    "eur_sqm": 1999,
@@ -281,26 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Ansprechendes Mehrfamilienhaus",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzF9ADMAAAAAALe9_5uXF9hWNCdEtjFrVlxqyjbmXWM8tXDCuVbK0Fhyrdcj8no_raJxruJl5UgRLN27Lb6suPiJXrmZsUC3EqYsmU3xSOaqRU6O98b0FyJkbG5NXw"
-  },
-  {
-   "eur_sqm": 2224,
-   "yield": 7.55,
-   "price": 129000,
-   "sqm": 58.0,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "2-Zimmer-Eigentumswohnung | Balkon | Stellplatz | 58 m² | Ha",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3464671454"
-  },
-  {
-   "eur_sqm": 2227,
-   "yield": 7.55,
-   "price": 570000,
-   "sqm": 256.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Zentral & ruhig: Gepflegtes Wohn- und Geschäftshau...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTN9ADMAAAAAAJ5V-PkDiaH8rqPAHRE8S-nsGoe4rKAtYeOS9ulPf1H5d8PK4jzFrl_m3K8to3v4nm4A_tUEnKxYKkwKiT11H-Oh6Hg-i_JTSjHGT5fynvoGqRcOyg"
   }
  ]
 }
