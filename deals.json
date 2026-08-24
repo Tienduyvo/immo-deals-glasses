@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T15:41:05",
+ "generated_at": "2026-08-24T16:06:43",
  "count": 30,
  "deals": [
   {
@@ -91,6 +91,16 @@
    "source": "Immowelt (Mail)",
    "title": "Gepflegte",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK6SM0wFjVtR8rzuOJc6_7cOKGB93gdDyfuj9Yj-Yhjvd3jBlHyrrg-EHjiHxVj1GBvS8WrPHwevgnY88Ibo8fCgLBVz4mJXQzTz6XG3TvcpjjegIA"
+  },
+  {
+   "eur_sqm": 1876,
+   "yield": 8.95,
+   "price": 349000,
+   "sqm": 186.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Historisches Fachwerkhaus im Zentrum von Flörsheim...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Nzh9ADMAAAAAAMBp-xbwv7vvRkluNN-k9i2gzlj_sDszgvFA-5NBIkIGdkngbejJ7hKiQ2VMkhCvgIz_FuYt3uVw2xQzAw70-i7jpIcs9XGs_NlVfomGIb7vvhX9YA"
   },
   {
    "eur_sqm": 1999,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Zentral & ruhig: Gepflegtes Wohn- und Geschäftshau...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTN9ADMAAAAAAJ5V-PkDiaH8rqPAHRE8S-nsGoe4rKAtYeOS9ulPf1H5d8PK4jzFrl_m3K8to3v4nm4A_tUEnKxYKkwKiT11H-Oh6Hg-i_JTSjHGT5fynvoGqRcOyg"
-  },
-  {
-   "eur_sqm": 2235,
-   "yield": 7.52,
-   "price": 447000,
-   "sqm": 200.0,
-   "district": "Rödermark",
-   "source": "ZVG",
-   "title": "Einfamilienhaus : An der Hühnerhecke 11, 63322 Rödermark, Ob",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54943&land_abk=he"
   }
  ]
 }
