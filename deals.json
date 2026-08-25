@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T09:30:44",
+ "generated_at": "2026-08-25T08:39:27",
  "count": 30,
  "deals": [
   {
@@ -11,6 +11,26 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Donaustr. 21, 63322 Rödermark, Ober-Roden",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54911&land_abk=he"
+  },
+  {
+   "eur_sqm": 1350,
+   "yield": 12.44,
+   "price": 320000,
+   "sqm": 237.0,
+   "district": "Schmitten",
+   "source": "ZVG",
+   "title": "Mehrfamilienhaus : Ringstraße 1, 61389 Schmitten, Dorfweil",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55116&land_abk=he"
+  },
+  {
+   "eur_sqm": 1436,
+   "yield": 11.7,
+   "price": 145000,
+   "sqm": 101.0,
+   "district": "",
+   "source": "ZVG",
+   "title": "Sonstiges, ursprünglich als Einfamilien-Wohnhaus errichteten",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55059&land_abk=he"
   },
   {
    "eur_sqm": 1724,
@@ -281,26 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Ansprechendes Mehrfamilienhaus",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzF9ADMAAAAAALe9_5uXF9hWNCdEtjFrVlxqyjbmXWM8tXDCuVbK0Fhyrdcj8no_raJxruJl5UgRLN27Lb6suPiJXrmZsUC3EqYsmU3xSOaqRU6O98b0FyJkbG5NXw"
-  },
-  {
-   "eur_sqm": 2224,
-   "yield": 7.55,
-   "price": 129000,
-   "sqm": 58.0,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "2-Zimmer-Eigentumswohnung | Balkon | Stellplatz | 58 m² | Ha",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3464671454"
-  },
-  {
-   "eur_sqm": 2227,
-   "yield": 7.55,
-   "price": 570000,
-   "sqm": 256.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Zentral & ruhig: Gepflegtes Wohn- und Geschäftshau...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTN9ADMAAAAAAJ5V-PkDiaH8rqPAHRE8S-nsGoe4rKAtYeOS9ulPf1H5d8PK4jzFrl_m3K8to3v4nm4A_tUEnKxYKkwKiT11H-Oh6Hg-i_JTSjHGT5fynvoGqRcOyg"
   }
  ]
 }
