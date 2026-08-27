@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-27T17:35:39",
+ "generated_at": "2026-08-27T15:19:20",
  "count": 30,
  "deals": [
   {
@@ -31,6 +31,26 @@
    "source": "ZVG",
    "title": "Sonstiges, ursprünglich als Einfamilien-Wohnhaus errichteten",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55059&land_abk=he"
+  },
+  {
+   "eur_sqm": 1542,
+   "yield": 10.9,
+   "price": 329900,
+   "sqm": 214.0,
+   "district": "Rodgau",
+   "source": "immobilienanzeigen24",
+   "title": "*Ein Objekt - viele Möglichkeiten!*... Etagenwohnung 63110 R",
+   "url": "https://www.immobilienanzeigen24.com/deutschland/hessen/63110-rodgau/Etagenwohnung-kaufen/290438:22886098278:0:mr2.html"
+  },
+  {
+   "eur_sqm": 1635,
+   "yield": 10.27,
+   "price": 349900,
+   "sqm": 214.0,
+   "district": "Rodgau",
+   "source": "immobilienanzeigen24",
+   "title": "*Herrliche Wohnung mit vielen Möglichkeiten!*... Etagenwohnu",
+   "url": "https://www.immobilienanzeigen24.com/deutschland/hessen/63110-rodgau/Etagenwohnung-kaufen/290439:83360937500:0:mr2.html"
   },
   {
    "eur_sqm": 1724,
@@ -71,6 +91,16 @@
    "source": "Immowelt (Mail)",
    "title": "Erbbaurechtsgrundstück mit zwei Wohnhäusern und vi...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzN9ADMAAAAAALmO0QnLiJKXhW0O0HSxTmhFGexHrSctVdvk7GVD2zg3-p6nU1q_q9qMU0u1Fx-racu_9LT8Vf7WyFphOvDQQI7iWSstxBtAtkjihdzNCEc8x5incQ"
+  },
+  {
+   "eur_sqm": 1792,
+   "yield": 9.37,
+   "price": 690000,
+   "sqm": 385.0,
+   "district": "Idstein Hessen",
+   "source": "ohne-makler",
+   "title": "Provisionsfrei: Wohnen mit Weitblick – Einfamilienhaus mit E",
+   "url": "https://www.ohne-makler.net/immobilie/488210/"
   },
   {
    "eur_sqm": 1805,
@@ -271,36 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "9-Familienhaus in exklusiver Lage!",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzJ9ADMAAAAAALkFzGwOoLWKcUa13vLAsYD39TUaqMt3BrEuPq4I_9dWZih7fSArNMs6pXI7RBurNmpyxE_EQLSLkBcOGWNctnFf-FcyzKsScf1ehqbnWUOej4DlyA"
-  },
-  {
-   "eur_sqm": 2203,
-   "yield": 7.62,
-   "price": 650000,
-   "sqm": 295.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Eigennutzung und Mieteinnahmen perfekt kombiniert",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NDd9ADMAAAAAAJX2qM1Rx1pWRuhCJB45kKPKMUwSNBb_wS0w_VMr1LqoNg9N_qGT8GG583nghJMHlCiqQUKZumZqqhOvydSClN7eOt7iTRQYqYbLVPNHhd73Xbd7WA"
-  },
-  {
-   "eur_sqm": 2216,
-   "yield": 7.58,
-   "price": 565000,
-   "sqm": 255.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "3-Familienhaus in bevorzugter Wohnlage von Ilbenst...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjB9ADMAAAAAAKj1ySx5Xb2RQhb5xA_H-FQuKDk5MVzD1eNukpL0M5cp0g3xI0j1YY8FAuasuoIg09qIqSWOqp_w1BMRUNldjHd_MzZJV9TqlOQ9Hu9R-UWKTXBEIg"
-  },
-  {
-   "eur_sqm": 2217,
-   "yield": 7.58,
-   "price": 920000,
-   "sqm": 415.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Ansprechendes Mehrfamilienhaus",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzF9ADMAAAAAALe9_5uXF9hWNCdEtjFrVlxqyjbmXWM8tXDCuVbK0Fhyrdcj8no_raJxruJl5UgRLN27Lb6suPiJXrmZsUC3EqYsmU3xSOaqRU6O98b0FyJkbG5NXw"
   }
  ]
 }
