@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-28T08:56:46",
+ "generated_at": "2026-08-28T10:44:48",
  "count": 30,
  "deals": [
   {
@@ -163,6 +163,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAKAuxNq-Y-pJHeQ4mny7INpaKOZ9ggOZiNmNqvZND8zuisVlVRjmO8mQc8uDlwAg8h0Cld3Klbl3tLp2LB3BX2HvihkICASDZUZgoxXokiiWoPy5UQ"
   },
   {
+   "eur_sqm": 1763,
+   "yield": 9.53,
+   "price": 104000,
+   "sqm": 59.0,
+   "district": "Schöneck",
+   "source": "ZVG",
+   "title": "Eigentumswohnung (1 bis 2 Zimmer) : Hessenstraße 7, 61137 Sc",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55122&land_abk=he"
+  },
+  {
    "eur_sqm": 1773,
    "yield": 9.47,
    "price": 133000,
@@ -263,6 +273,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Nzh9ADMAAAAAAMBp-xbwv7vvRkluNN-k9i2gzlj_sDszgvFA-5NBIkIGdkngbejJ7hKiQ2VMkhCvgIz_FuYt3uVw2xQzAw70-i7jpIcs9XGs_NlVfomGIb7vvhX9YA"
   },
   {
+   "eur_sqm": 1908,
+   "yield": 8.81,
+   "price": 173600,
+   "sqm": 91.0,
+   "district": "Bad Camberg",
+   "source": "ZVG",
+   "title": "Einfamilienhaus : Steinweg 6, 65520 Bad Camberg, Würges",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55198&land_abk=he"
+  },
+  {
    "eur_sqm": 1957,
    "yield": 8.58,
    "price": 92000,
@@ -281,26 +301,6 @@
    "source": "ZVG",
    "title": "Eigentumswohnung (1 bis 2 Zimmer) : Südliche Ringstr. 195, 6",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55027&land_abk=he"
-  },
-  {
-   "eur_sqm": 1999,
-   "yield": 8.4,
-   "price": 199900,
-   "sqm": 100.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Einfamilienhaus mit Herz und einem zauberhaften Ga...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzB9ADMAAAAAALZoLotL-XKkDD1oXzt-Czw6VBz0lkfjDHN3yI1btdaVSbkn-CGdPyEjZrVWm5uZyM8Tnj_Qmty_nSvH997lluBEIIPAD5y8GAmevUZOuuG1Wb25KA"
-  },
-  {
-   "eur_sqm": 2000,
-   "yield": 8.4,
-   "price": 1500000,
-   "sqm": 750.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Top Kapitalanlage: 2 Häuser auf einem Grundstück m...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKVk7gEWmnzgJ2_HyGWx7YHXN6EFF5sW4ElSc_pQ7ehUXkvA63THi5hM0iNqIZ960MD6GmXYNmxFd1j1p_fM2Oiw5I7MfI3C9hVoMS_9FWkTrS3bkQ"
   }
  ]
 }
