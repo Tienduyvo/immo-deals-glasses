@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T08:10:57",
+ "generated_at": "2026-09-01T09:28:27",
  "count": 30,
  "deals": [
   {
@@ -121,16 +121,6 @@
    "source": "ZVG",
    "title": "Sonstiges, ursprünglich als Einfamilien-Wohnhaus errichteten",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55059&land_abk=he"
-  },
-  {
-   "eur_sqm": 1622,
-   "yield": 10.35,
-   "price": 550000,
-   "sqm": 339.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "Freistehendes Mehrfamilienhaus mit 3 Wohneinheiten in Glaubu",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3500357309"
   },
   {
    "eur_sqm": 1697,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "Einfamilienhaus mit Herz und einem zauberhaften Ga...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzB9ADMAAAAAALZoLotL-XKkDD1oXzt-Czw6VBz0lkfjDHN3yI1btdaVSbkn-CGdPyEjZrVWm5uZyM8Tnj_Qmty_nSvH997lluBEIIPAD5y8GAmevUZOuuG1Wb25KA"
+  },
+  {
+   "eur_sqm": 2000,
+   "yield": 8.4,
+   "price": 1500000,
+   "sqm": 750.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Top Kapitalanlage: 2 Häuser auf einem Grundstück m...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKVk7gEWmnzgJ2_HyGWx7YHXN6EFF5sW4ElSc_pQ7ehUXkvA63THi5hM0iNqIZ960MD6GmXYNmxFd1j1p_fM2Oiw5I7MfI3C9hVoMS_9FWkTrS3bkQ"
   }
  ]
 }
