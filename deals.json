@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T08:56:43",
+ "generated_at": "2026-09-01T13:53:44",
  "count": 30,
  "deals": [
   {
@@ -193,16 +193,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njl9ADMAAAAAALVL1mkl-cGOJaaMpweGd6-HZwwH0wXSJYeFBrF0X_BlLJbfGDjb5Z3N2oMZsRcwQWffjk6dKZc3cT9sXgpDSzTZ8vjlGwsBAs1q4pa49X0EVMIUcw"
   },
   {
-   "eur_sqm": 1780,
-   "yield": 9.44,
-   "price": 299000,
-   "sqm": 168.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Zweifamilienhaus in familienfreundlicher Lage",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzN9ADMAAAAAALqKSTqLkWKsQ3mGP6KIs4uxMyaWqiFRxtj13S5iH9w2TEK8xKCgTveg7XbD8I4Yal6_CkhefsZVvnGfVbtlDSOfm_7ZoPPBzuh_2sK_CkkS6ickgQ"
-  },
-  {
    "eur_sqm": 1786,
    "yield": 9.41,
    "price": 175000,
@@ -301,6 +291,16 @@
    "source": "ZVG",
    "title": "Eigentumswohnung (1 bis 2 Zimmer) : Kurt-Schumacher-Ring 16,",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55015&land_abk=he"
+  },
+  {
+   "eur_sqm": 1971,
+   "yield": 8.52,
+   "price": 69000,
+   "sqm": 35.0,
+   "district": "Langen",
+   "source": "ZVG",
+   "title": "Eigentumswohnung (1 bis 2 Zimmer) : Südliche Ringstr. 195, 6",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55027&land_abk=he"
   }
  ]
 }
