@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T11:31:48",
+ "generated_at": "2026-09-01T08:56:43",
  "count": 30,
  "deals": [
   {
@@ -123,6 +123,26 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55059&land_abk=he"
   },
   {
+   "eur_sqm": 1542,
+   "yield": 10.9,
+   "price": 329900,
+   "sqm": 214.0,
+   "district": "Rodgau",
+   "source": "immobilienanzeigen24",
+   "title": "*Ein Objekt - viele Möglichkeiten!*... Etagenwohnung 63110 R",
+   "url": "https://www.immobilienanzeigen24.com/deutschland/hessen/63110-rodgau/Etagenwohnung-kaufen/290438:22886098278:0:mr2.html"
+  },
+  {
+   "eur_sqm": 1635,
+   "yield": 10.27,
+   "price": 349900,
+   "sqm": 214.0,
+   "district": "Rodgau",
+   "source": "immobilienanzeigen24",
+   "title": "*Herrliche Wohnung mit vielen Möglichkeiten!*... Etagenwohnu",
+   "url": "https://www.immobilienanzeigen24.com/deutschland/hessen/63110-rodgau/Etagenwohnung-kaufen/290439:83360937500:0:mr2.html"
+  },
+  {
    "eur_sqm": 1697,
    "yield": 9.9,
    "price": 543000,
@@ -131,6 +151,16 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Schafgasse 26, 64546 Mörfelden-Walldorf, ",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55016&land_abk=he"
+  },
+  {
+   "eur_sqm": 1704,
+   "yield": 9.86,
+   "price": 230000,
+   "sqm": 135.0,
+   "district": "",
+   "source": "ZVG",
+   "title": "Eigentumswohnung (3 bis 4 Zimmer), Wohn-/Geschäftshaus, sons",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55328&land_abk=he"
   },
   {
    "eur_sqm": 1724,
@@ -161,6 +191,16 @@
    "source": "Immowelt (Mail)",
    "title": "Attraktive",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njl9ADMAAAAAALVL1mkl-cGOJaaMpweGd6-HZwwH0wXSJYeFBrF0X_BlLJbfGDjb5Z3N2oMZsRcwQWffjk6dKZc3cT9sXgpDSzTZ8vjlGwsBAs1q4pa49X0EVMIUcw"
+  },
+  {
+   "eur_sqm": 1780,
+   "yield": 9.44,
+   "price": 299000,
+   "sqm": 168.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Zweifamilienhaus in familienfreundlicher Lage",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzN9ADMAAAAAALqKSTqLkWKsQ3mGP6KIs4uxMyaWqiFRxtj13S5iH9w2TEK8xKCgTveg7XbD8I4Yal6_CkhefsZVvnGfVbtlDSOfm_7ZoPPBzuh_2sK_CkkS6ickgQ"
   },
   {
    "eur_sqm": 1786,
@@ -261,46 +301,6 @@
    "source": "ZVG",
    "title": "Eigentumswohnung (1 bis 2 Zimmer) : Kurt-Schumacher-Ring 16,",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55015&land_abk=he"
-  },
-  {
-   "eur_sqm": 1971,
-   "yield": 8.52,
-   "price": 69000,
-   "sqm": 35.0,
-   "district": "Langen",
-   "source": "ZVG",
-   "title": "Eigentumswohnung (1 bis 2 Zimmer) : Südliche Ringstr. 195, 6",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55027&land_abk=he"
-  },
-  {
-   "eur_sqm": 1999,
-   "yield": 8.4,
-   "price": 199900,
-   "sqm": 100.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Einfamilienhaus mit Herz und einem zauberhaften Ga...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzB9ADMAAAAAALZoLotL-XKkDD1oXzt-Czw6VBz0lkfjDHN3yI1btdaVSbkn-CGdPyEjZrVWm5uZyM8Tnj_Qmty_nSvH997lluBEIIPAD5y8GAmevUZOuuG1Wb25KA"
-  },
-  {
-   "eur_sqm": 2000,
-   "yield": 8.4,
-   "price": 1500000,
-   "sqm": 750.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Top Kapitalanlage: 2 Häuser auf einem Grundstück m...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKVk7gEWmnzgJ2_HyGWx7YHXN6EFF5sW4ElSc_pQ7ehUXkvA63THi5hM0iNqIZ960MD6GmXYNmxFd1j1p_fM2Oiw5I7MfI3C9hVoMS_9FWkTrS3bkQ"
-  },
-  {
-   "eur_sqm": 2002,
-   "yield": 8.39,
-   "price": 263000,
-   "sqm": 131.36,
-   "district": "Rodgau",
-   "source": "ZVG",
-   "title": "Eigentumswohnung (3 bis 4 Zimmer) : Wiesbadener Str. 2-4, 63",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55011&land_abk=he"
   }
  ]
 }
