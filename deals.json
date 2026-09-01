@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T09:28:27",
+ "generated_at": "2026-09-01T10:25:59",
  "count": 30,
  "deals": [
   {
@@ -163,16 +163,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njl9ADMAAAAAALVL1mkl-cGOJaaMpweGd6-HZwwH0wXSJYeFBrF0X_BlLJbfGDjb5Z3N2oMZsRcwQWffjk6dKZc3cT9sXgpDSzTZ8vjlGwsBAs1q4pa49X0EVMIUcw"
   },
   {
-   "eur_sqm": 1780,
-   "yield": 9.44,
-   "price": 299000,
-   "sqm": 168.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Zweifamilienhaus in familienfreundlicher Lage",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzN9ADMAAAAAALqKSTqLkWKsQ3mGP6KIs4uxMyaWqiFRxtj13S5iH9w2TEK8xKCgTveg7XbD8I4Yal6_CkhefsZVvnGfVbtlDSOfm_7ZoPPBzuh_2sK_CkkS6ickgQ"
-  },
-  {
    "eur_sqm": 1786,
    "yield": 9.41,
    "price": 175000,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "Top Kapitalanlage: 2 Häuser auf einem Grundstück m...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTh9ADMAAAAAAKVk7gEWmnzgJ2_HyGWx7YHXN6EFF5sW4ElSc_pQ7ehUXkvA63THi5hM0iNqIZ960MD6GmXYNmxFd1j1p_fM2Oiw5I7MfI3C9hVoMS_9FWkTrS3bkQ"
+  },
+  {
+   "eur_sqm": 2002,
+   "yield": 8.39,
+   "price": 263000,
+   "sqm": 131.36,
+   "district": "Rodgau",
+   "source": "ZVG",
+   "title": "Eigentumswohnung (3 bis 4 Zimmer) : Wiesbadener Str. 2-4, 63",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55011&land_abk=he"
   }
  ]
 }
