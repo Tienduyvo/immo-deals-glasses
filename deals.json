@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T10:07:28",
+ "generated_at": "2026-09-02T08:57:01",
  "count": 30,
  "deals": [
   {
@@ -203,16 +203,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzN9ADMAAAAAALmO0QnLiJKXhW0O0HSxTmhFGexHrSctVdvk7GVD2zg3-p6nU1q_q9qMU0u1Fx-racu_9LT8Vf7WyFphOvDQQI7iWSstxBtAtkjihdzNCEc8x5incQ"
   },
   {
-   "eur_sqm": 1792,
-   "yield": 9.37,
-   "price": 690000,
-   "sqm": 385.0,
-   "district": "Idstein Hessen",
-   "source": "ohne-makler",
-   "title": "Provisionsfrei: Wohnen mit Weitblick – Einfamilienhaus mit E",
-   "url": "https://www.ohne-makler.net/immobilie/488210/"
-  },
-  {
    "eur_sqm": 1805,
    "yield": 9.31,
    "price": 677000,
@@ -301,6 +291,16 @@
    "source": "ZVG",
    "title": "Eigentumswohnung (1 bis 2 Zimmer) : Südliche Ringstr. 195, 6",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55027&land_abk=he"
+  },
+  {
+   "eur_sqm": 1999,
+   "yield": 8.4,
+   "price": 199900,
+   "sqm": 100.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Einfamilienhaus mit Herz und einem zauberhaften Ga...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzB9ADMAAAAAALZoLotL-XKkDD1oXzt-Czw6VBz0lkfjDHN3yI1btdaVSbkn-CGdPyEjZrVWm5uZyM8Tnj_Qmty_nSvH997lluBEIIPAD5y8GAmevUZOuuG1Wb25KA"
   }
  ]
 }
