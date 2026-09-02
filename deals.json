@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T22:13:36",
+ "generated_at": "2026-09-02T07:44:38",
  "count": 30,
  "deals": [
   {
@@ -273,6 +273,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Nzh9ADMAAAAAAMBp-xbwv7vvRkluNN-k9i2gzlj_sDszgvFA-5NBIkIGdkngbejJ7hKiQ2VMkhCvgIz_FuYt3uVw2xQzAw70-i7jpIcs9XGs_NlVfomGIb7vvhX9YA"
   },
   {
+   "eur_sqm": 1889,
+   "yield": 8.89,
+   "price": 529000,
+   "sqm": 280.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Einfamilienhaus mit Einliegerwohnung",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3473604585"
+  },
+  {
    "eur_sqm": 1908,
    "yield": 8.81,
    "price": 173600,
@@ -291,16 +301,6 @@
    "source": "ZVG",
    "title": "Eigentumswohnung (1 bis 2 Zimmer) : Kurt-Schumacher-Ring 16,",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55015&land_abk=he"
-  },
-  {
-   "eur_sqm": 1971,
-   "yield": 8.52,
-   "price": 69000,
-   "sqm": 35.0,
-   "district": "Langen",
-   "source": "ZVG",
-   "title": "Eigentumswohnung (1 bis 2 Zimmer) : Südliche Ringstr. 195, 6",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55027&land_abk=he"
   }
  ]
 }
