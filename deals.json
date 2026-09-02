@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T17:13:10",
+ "generated_at": "2026-09-02T18:35:44",
  "count": 30,
  "deals": [
   {
@@ -121,16 +121,6 @@
    "source": "ZVG",
    "title": "Sonstiges, ursprünglich als Einfamilien-Wohnhaus errichteten",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55059&land_abk=he"
-  },
-  {
-   "eur_sqm": 1534,
-   "yield": 10.95,
-   "price": 319000,
-   "sqm": 208.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "!!Provisionsfrei!! Willkommen in diesem geräumigen und gepfl",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3388697381"
   },
   {
    "eur_sqm": 1542,
@@ -301,6 +291,16 @@
    "source": "ZVG",
    "title": "Eigentumswohnung (1 bis 2 Zimmer) : Südliche Ringstr. 195, 6",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55027&land_abk=he"
+  },
+  {
+   "eur_sqm": 1999,
+   "yield": 8.4,
+   "price": 199900,
+   "sqm": 100.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Einfamilienhaus mit Herz und einem zauberhaften Ga...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzB9ADMAAAAAALZoLotL-XKkDD1oXzt-Czw6VBz0lkfjDHN3yI1btdaVSbkn-CGdPyEjZrVWm5uZyM8Tnj_Qmty_nSvH997lluBEIIPAD5y8GAmevUZOuuG1Wb25KA"
   }
  ]
 }
