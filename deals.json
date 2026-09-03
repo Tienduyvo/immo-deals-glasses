@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T09:52:43",
+ "generated_at": "2026-09-03T08:55:10",
  "count": 30,
  "deals": [
   {
@@ -141,6 +141,16 @@
    "source": "immobilienanzeigen24",
    "title": "*Herrliche Wohnung mit vielen Möglichkeiten!*... Etagenwohnu",
    "url": "https://www.immobilienanzeigen24.com/deutschland/hessen/63110-rodgau/Etagenwohnung-kaufen/290439:83360937500:0:mr2.html"
+  },
+  {
+   "eur_sqm": 1675,
+   "yield": 10.03,
+   "price": 100500,
+   "sqm": 60.0,
+   "district": "Darmstadt",
+   "source": "ohne-makler",
+   "title": "Ludwigshöfe - 2-Zimmer - 60 qm (LH) 64285 Darmstadt-Bessunge",
+   "url": "https://www.ohne-makler.net/immobilie/489910/"
   },
   {
    "eur_sqm": 1697,
@@ -291,16 +301,6 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "außergewöhnliches EFH in Neuberg provisionsfrei",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3486580925"
-  },
-  {
-   "eur_sqm": 1971,
-   "yield": 8.52,
-   "price": 69000,
-   "sqm": 35.0,
-   "district": "Langen",
-   "source": "ZVG",
-   "title": "Eigentumswohnung (1 bis 2 Zimmer) : Südliche Ringstr. 195, 6",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55027&land_abk=he"
   }
  ]
 }
