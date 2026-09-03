@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T20:58:35",
+ "generated_at": "2026-09-03T23:23:15",
  "count": 30,
  "deals": [
   {
@@ -101,6 +101,16 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Donaustr. 21, 63322 Rödermark, Ober-Roden",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54911&land_abk=he"
+  },
+  {
+   "eur_sqm": 1203,
+   "yield": 13.97,
+   "price": 950000,
+   "sqm": 790.0,
+   "district": "Wiesbaden",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "- Exclusives Bauträger- oder Investorenobjekt - Rohbau im hi",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3502859357"
   },
   {
    "eur_sqm": 1350,
@@ -291,16 +301,6 @@
    "source": "ZVG",
    "title": "Eigentumswohnung (1 bis 2 Zimmer) : Kurt-Schumacher-Ring 16,",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55015&land_abk=he"
-  },
-  {
-   "eur_sqm": 1970,
-   "yield": 8.53,
-   "price": 325000,
-   "sqm": 165.0,
-   "district": "Hessen",
-   "source": "Kleinanzeigen (Mail)",
-   "title": "außergewöhnliches EFH in Neuberg provisionsfrei",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3486580925"
   }
  ]
 }
