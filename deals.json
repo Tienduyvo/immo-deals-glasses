@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T11:32:43",
+ "generated_at": "2026-09-04T09:08:47",
  "count": 30,
  "deals": [
   {
@@ -243,6 +243,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAJ7a2gUe0UvUU3KmRVDjNDf5KG2y3Wls4sl6jvui-ZDhlbeL7WhazdmrW0-_w4tmRcuWcsQvLN0oKDYAVz3xi3bzvSrKRx9hF6OUJnvGcMWZcEIBdg"
   },
   {
+   "eur_sqm": 1807,
+   "yield": 9.3,
+   "price": 159000,
+   "sqm": 88.0,
+   "district": "Langen",
+   "source": "ohne-makler",
+   "title": "4 Zi-Wohnung mit Balkon und toller Aussicht+++Provisionsfrei",
+   "url": "https://www.ohne-makler.net/immobilie/491200/"
+  },
+  {
    "eur_sqm": 1843,
    "yield": 9.12,
    "price": 199000,
@@ -291,16 +301,6 @@
    "source": "ZVG",
    "title": "Einfamilienhaus : Steinweg 6, 65520 Bad Camberg, Würges",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55198&land_abk=he"
-  },
-  {
-   "eur_sqm": 1957,
-   "yield": 8.58,
-   "price": 92000,
-   "sqm": 47.0,
-   "district": "Egelsbach Hessen",
-   "source": "ZVG",
-   "title": "Eigentumswohnung (1 bis 2 Zimmer) : Kurt-Schumacher-Ring 16,",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55015&land_abk=he"
   }
  ]
 }
