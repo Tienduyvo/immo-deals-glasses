@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T11:21:44",
+ "generated_at": "2026-09-08T10:35:19",
  "count": 30,
  "deals": [
   {
@@ -83,6 +83,16 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55323&land_abk=he"
   },
   {
+   "eur_sqm": 879,
+   "yield": 19.11,
+   "price": 690000,
+   "sqm": 785.0,
+   "district": "Niedernhausen",
+   "source": "ZVG",
+   "title": "Mehrfamilienhaus, Garage : Fichtenweg 36, 65527 Niedernhause",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55352&land_abk=he"
+  },
+  {
    "eur_sqm": 1049,
    "yield": 16.02,
    "price": 94000,
@@ -153,16 +163,6 @@
    "url": "https://www.immobilienanzeigen24.com/deutschland/hessen/63110-rodgau/Etagenwohnung-kaufen/290439:83360937500:0:mr2.html"
   },
   {
-   "eur_sqm": 1675,
-   "yield": 10.03,
-   "price": 100500,
-   "sqm": 60.0,
-   "district": "Darmstadt",
-   "source": "ohne-makler",
-   "title": "Ludwigshöfe - 2-Zimmer - 60 qm (LH) 64285 Darmstadt-Bessunge",
-   "url": "https://www.ohne-makler.net/immobilie/489910/"
-  },
-  {
    "eur_sqm": 1697,
    "yield": 9.9,
    "price": 543000,
@@ -211,6 +211,16 @@
    "source": "Immowelt (Mail)",
    "title": "Attraktive",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njl9ADMAAAAAALVL1mkl-cGOJaaMpweGd6-HZwwH0wXSJYeFBrF0X_BlLJbfGDjb5Z3N2oMZsRcwQWffjk6dKZc3cT9sXgpDSzTZ8vjlGwsBAs1q4pa49X0EVMIUcw"
+  },
+  {
+   "eur_sqm": 1776,
+   "yield": 9.46,
+   "price": 190000,
+   "sqm": 107.0,
+   "district": "Rodgau",
+   "source": "ZVG",
+   "title": "Eigentumswohnung (3 bis 4 Zimmer) : Spessartring 37-51, 6311",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55348&land_abk=he"
   },
   {
    "eur_sqm": 1786,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Historisches Fachwerkhaus im Zentrum von Flörsheim...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Nzh9ADMAAAAAAMBp-xbwv7vvRkluNN-k9i2gzlj_sDszgvFA-5NBIkIGdkngbejJ7hKiQ2VMkhCvgIz_FuYt3uVw2xQzAw70-i7jpIcs9XGs_NlVfomGIb7vvhX9YA"
-  },
-  {
-   "eur_sqm": 1908,
-   "yield": 8.81,
-   "price": 173600,
-   "sqm": 91.0,
-   "district": "Bad Camberg",
-   "source": "ZVG",
-   "title": "Einfamilienhaus : Steinweg 6, 65520 Bad Camberg, Würges",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55198&land_abk=he"
   }
  ]
 }
