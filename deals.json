@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T19:41:03",
+ "generated_at": "2026-09-09T00:19:46",
  "count": 30,
  "deals": [
   {
@@ -263,6 +263,16 @@
    "url": "https://www.ohne-makler.net/immobilie/491200/"
   },
   {
+   "eur_sqm": 1818,
+   "yield": 9.24,
+   "price": 200000,
+   "sqm": 110.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Top Reihenendhaus mit Balkon, Terrasse, 2 Garagen und sonnig",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3323030372"
+  },
+  {
    "eur_sqm": 1843,
    "yield": 9.12,
    "price": 199000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Gepflegte",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK6SM0wFjVtR8rzuOJc6_7cOKGB93gdDyfuj9Yj-Yhjvd3jBlHyrrg-EHjiHxVj1GBvS8WrPHwevgnY88Ibo8fCgLBVz4mJXQzTz6XG3TvcpjjegIA"
-  },
-  {
-   "eur_sqm": 1876,
-   "yield": 8.95,
-   "price": 349000,
-   "sqm": 186.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Historisches Fachwerkhaus im Zentrum von Flörsheim...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Nzh9ADMAAAAAAMBp-xbwv7vvRkluNN-k9i2gzlj_sDszgvFA-5NBIkIGdkngbejJ7hKiQ2VMkhCvgIz_FuYt3uVw2xQzAw70-i7jpIcs9XGs_NlVfomGIb7vvhX9YA"
   }
  ]
 }
