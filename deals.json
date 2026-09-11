@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T09:31:06",
+ "generated_at": "2026-09-11T10:04:15",
  "count": 30,
  "deals": [
   {
@@ -21,6 +21,16 @@
    "source": "ZVG",
    "title": "Einfamilienhaus : Oberdorf 10, 65599 Dornburg, Thalheim",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55317&land_abk=he"
+  },
+  {
+   "eur_sqm": 180,
+   "yield": 93.39,
+   "price": 68000,
+   "sqm": 378.0,
+   "district": "Idstein",
+   "source": "ZVG",
+   "title": "unbebautes Grundstück : Kilbachweg 19, 65510 Idstein, Heftri",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55372&land_abk=he"
   },
   {
    "eur_sqm": 395,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Renditekracher: Gepflegte",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJtucJpXEKS9OztvT8GULfqQUAPO4HEbR7ObZUe_T_u0Hv8X-WeWE3ilEq7cRgsdbHE0MucRqjIjqBO0WMwXt6PYF9WkkzPnN1v_UJNaNMZCeKyFBA"
-  },
-  {
-   "eur_sqm": 1871,
-   "yield": 8.98,
-   "price": 159000,
-   "sqm": 85.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Gepflegte",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK6SM0wFjVtR8rzuOJc6_7cOKGB93gdDyfuj9Yj-Yhjvd3jBlHyrrg-EHjiHxVj1GBvS8WrPHwevgnY88Ibo8fCgLBVz4mJXQzTz6XG3TvcpjjegIA"
   }
  ]
 }
