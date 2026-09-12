@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T10:16:23",
+ "generated_at": "2026-09-12T08:56:52",
  "count": 30,
  "deals": [
   {
@@ -263,16 +263,6 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAJ7a2gUe0UvUU3KmRVDjNDf5KG2y3Wls4sl6jvui-ZDhlbeL7WhazdmrW0-_w4tmRcuWcsQvLN0oKDYAVz3xi3bzvSrKRx9hF6OUJnvGcMWZcEIBdg"
   },
   {
-   "eur_sqm": 1807,
-   "yield": 9.3,
-   "price": 159000,
-   "sqm": 88.0,
-   "district": "Langen",
-   "source": "ohne-makler",
-   "title": "4 Zi-Wohnung mit Balkon und toller Aussicht+++Provisionsfrei",
-   "url": "https://www.ohne-makler.net/immobilie/491200/"
-  },
-  {
    "eur_sqm": 1818,
    "yield": 9.24,
    "price": 200000,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "Renditekracher: Gepflegte",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJtucJpXEKS9OztvT8GULfqQUAPO4HEbR7ObZUe_T_u0Hv8X-WeWE3ilEq7cRgsdbHE0MucRqjIjqBO0WMwXt6PYF9WkkzPnN1v_UJNaNMZCeKyFBA"
+  },
+  {
+   "eur_sqm": 1871,
+   "yield": 8.98,
+   "price": 159000,
+   "sqm": 85.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Gepflegte",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK6SM0wFjVtR8rzuOJc6_7cOKGB93gdDyfuj9Yj-Yhjvd3jBlHyrrg-EHjiHxVj1GBvS8WrPHwevgnY88Ibo8fCgLBVz4mJXQzTz6XG3TvcpjjegIA"
   }
  ]
 }
