@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T08:46:17",
+ "generated_at": "2026-09-15T08:48:56",
  "count": 30,
  "deals": [
   {
@@ -173,6 +173,16 @@
    "url": "https://www.immobilienanzeigen24.com/deutschland/hessen/63110-rodgau/Etagenwohnung-kaufen/290439:83360937500:0:mr2.html"
   },
   {
+   "eur_sqm": 1651,
+   "yield": 10.18,
+   "price": 345000,
+   "sqm": 209.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Großes EFH mit vielen Freisitzen und grandioser Au...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMDB9ADMAAAAAAOBoLDRM5O66SdyxazbBppubBdcZICf5JBT6GhLhHrbS0gHfaWhaRu5KtUp4iOYLgvXg9Z0RByDyses-P310wcnmXBsdaNodNvv8X8v7axsSsdh2"
+  },
+  {
    "eur_sqm": 1697,
    "yield": 9.9,
    "price": 543000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Renditekracher: Gepflegte",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJtucJpXEKS9OztvT8GULfqQUAPO4HEbR7ObZUe_T_u0Hv8X-WeWE3ilEq7cRgsdbHE0MucRqjIjqBO0WMwXt6PYF9WkkzPnN1v_UJNaNMZCeKyFBA"
-  },
-  {
-   "eur_sqm": 1871,
-   "yield": 8.98,
-   "price": 159000,
-   "sqm": 85.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Gepflegte",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjV9ADMAAAAAAK6SM0wFjVtR8rzuOJc6_7cOKGB93gdDyfuj9Yj-Yhjvd3jBlHyrrg-EHjiHxVj1GBvS8WrPHwevgnY88Ibo8fCgLBVz4mJXQzTz6XG3TvcpjjegIA"
   }
  ]
 }
