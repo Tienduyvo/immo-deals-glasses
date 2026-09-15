@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T09:16:19",
+ "generated_at": "2026-09-15T09:26:02",
  "count": 30,
  "deals": [
   {
@@ -153,6 +153,16 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55059&land_abk=he"
   },
   {
+   "eur_sqm": 1447,
+   "yield": 11.61,
+   "price": 450000,
+   "sqm": 311.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "3-Familienhaus in ruhiger Lage von Ober-Mörlen",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMDB9ADMAAAAAAOCXZpyt6K3OhOIMfvb8p5gitkguYUs9AdFLFzi5gt3BnCkbSGs1mycmXEKo_6OCXM8idfhfmPGPK7g1A2OKJFAu6DZeVsfg3alr04LRCZvqD3a_"
+  },
+  {
    "eur_sqm": 1542,
    "yield": 10.9,
    "price": 329900,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Einfamilienhaus mit Scheune in ruhiger Lage von Ka...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjZ9ADMAAAAAALCVurR4NU5X8boQp9OD-mC8edSrEg5fP-6KZLQyaJfwNEu7m6gfFSREMjdrF7c2nw_Qie2IvrE2lx4fYbMUvkpYeIqcv_MQSiSeEZzpUPyC9qqK2g"
-  },
-  {
-   "eur_sqm": 1864,
-   "yield": 9.01,
-   "price": 123000,
-   "sqm": 66.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Renditekracher: Gepflegte",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTF9ADMAAAAAAJtucJpXEKS9OztvT8GULfqQUAPO4HEbR7ObZUe_T_u0Hv8X-WeWE3ilEq7cRgsdbHE0MucRqjIjqBO0WMwXt6PYF9WkkzPnN1v_UJNaNMZCeKyFBA"
   }
  ]
 }
