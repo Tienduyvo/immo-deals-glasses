@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T04:59:55",
+ "generated_at": "2026-09-16T05:36:10",
  "count": 30,
  "deals": [
   {
@@ -101,6 +101,16 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus, Garage : Fichtenweg 36, 65527 Niedernhause",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55352&land_abk=he"
+  },
+  {
+   "eur_sqm": 969,
+   "yield": 17.34,
+   "price": 309950,
+   "sqm": 320.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Immobilieninvestment (langfristig): Historische St...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMDF9ADMAAAAAAOIk19_HWDtQoLm8bCIHWyLH9HhvkoD6GRII1_ii9q2MTF8y505ASFdG7j9MDc9i61nPd_2ZOSuJ_ntWx0qRyVgUEoYbd9pfB9TAdBnJtnTFkJSH"
   },
   {
    "eur_sqm": 1049,
@@ -291,16 +301,6 @@
    "source": "Kleinanzeigen (Mail)",
    "title": "Top Reihenendhaus mit Balkon, Terrasse, 2 Garagen und sonnig",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3323030372"
-  },
-  {
-   "eur_sqm": 1843,
-   "yield": 9.12,
-   "price": 199000,
-   "sqm": 108.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Einfamilienhaus mit Scheune in ruhiger Lage von Ka...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NjZ9ADMAAAAAALCVurR4NU5X8boQp9OD-mC8edSrEg5fP-6KZLQyaJfwNEu7m6gfFSREMjdrF7c2nw_Qie2IvrE2lx4fYbMUvkpYeIqcv_MQSiSeEZzpUPyC9qqK2g"
   }
  ]
 }
