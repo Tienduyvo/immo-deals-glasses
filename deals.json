@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T10:27:11",
+ "generated_at": "2026-09-17T08:58:45",
  "count": 30,
  "deals": [
   {
@@ -173,6 +173,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMDB9ADMAAAAAAOCXZpyt6K3OhOIMfvb8p5gitkguYUs9AdFLFzi5gt3BnCkbSGs1mycmXEKo_6OCXM8idfhfmPGPK7g1A2OKJFAu6DZeVsfg3alr04LRCZvqD3a_"
   },
   {
+   "eur_sqm": 1467,
+   "yield": 11.45,
+   "price": 1100000,
+   "sqm": 750.0,
+   "district": "",
+   "source": "ohne-makler",
+   "title": "Provisionsfreies KFW55 Ausbauhaus: Architekten 2FH trifft au",
+   "url": "https://www.ohne-makler.net/immobilie/431093/"
+  },
+  {
    "eur_sqm": 1542,
    "yield": 10.9,
    "price": 329900,
@@ -291,16 +301,6 @@
    "source": "ZVG",
    "title": "Einfamilienhaus, Garage : Im Hinterlenzen 10, 65510 Idstein",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55218&land_abk=he"
-  },
-  {
-   "eur_sqm": 1805,
-   "yield": 9.31,
-   "price": 379000,
-   "sqm": 210.0,
-   "district": "",
-   "source": "Immowelt (Mail)",
-   "title": "Stilvoll wohnen im Fachwerk: Einfamilienhaus mit W...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAJ7a2gUe0UvUU3KmRVDjNDf5KG2y3Wls4sl6jvui-ZDhlbeL7WhazdmrW0-_w4tmRcuWcsQvLN0oKDYAVz3xi3bzvSrKRx9hF6OUJnvGcMWZcEIBdg"
   }
  ]
 }
