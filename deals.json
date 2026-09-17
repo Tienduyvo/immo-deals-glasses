@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T00:42:09",
+ "generated_at": "2026-09-18T01:14:23",
  "count": 30,
  "deals": [
   {
@@ -121,6 +121,16 @@
    "source": "ZVG",
    "title": "Eigentumswohnung (3 bis 4 Zimmer) : Lohrer Weg 2-4, Mespelbr",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55101&land_abk=he"
+  },
+  {
+   "eur_sqm": 1070,
+   "yield": 15.7,
+   "price": 199000,
+   "sqm": 186.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Sanierung oder Abriss: Grundstück mit Vorder- und ...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMDJ9ADMAAAAAAOVMG7eEgQPOz9KSTeLXZa4pEQpHV0TLB0_lV9KbbqwxdfB9subwds9okpcKm53VjEVRpT56U7svlgQ7S2-X4lrJ3-LYbfYOBg6Em0YMQ7pHtB8"
   },
   {
    "eur_sqm": 1097,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Erbbaurechtsgrundstück mit zwei Wohnhäusern und vi...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzN9ADMAAAAAALmO0QnLiJKXhW0O0HSxTmhFGexHrSctVdvk7GVD2zg3-p6nU1q_q9qMU0u1Fx-racu_9LT8Vf7WyFphOvDQQI7iWSstxBtAtkjihdzNCEc8x5incQ"
-  },
-  {
-   "eur_sqm": 1805,
-   "yield": 9.31,
-   "price": 677000,
-   "sqm": 375.0,
-   "district": "Idstein Hessen",
-   "source": "ZVG",
-   "title": "Einfamilienhaus, Garage : Im Hinterlenzen 10, 65510 Idstein",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55218&land_abk=he"
   }
  ]
 }
