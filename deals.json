@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T09:31:11",
+ "generated_at": "2026-09-18T09:45:32",
  "count": 30,
  "deals": [
   {
@@ -111,6 +111,16 @@
    "source": "Immowelt (Mail)",
    "title": "Immobilieninvestment (langfristig): Historische St...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMDF9ADMAAAAAAOIk19_HWDtQoLm8bCIHWyLH9HhvkoD6GRII1_ii9q2MTF8y505ASFdG7j9MDc9i61nPd_2ZOSuJ_ntWx0qRyVgUEoYbd9pfB9TAdBnJtnTFkJSH"
+  },
+  {
+   "eur_sqm": 1021,
+   "yield": 16.45,
+   "price": 335000,
+   "sqm": 328.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Kleinanzeigen (Mail)",
+   "title": "Das ideale Objekt für die handwerklich begabte Großfamilie",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3359531058"
   },
   {
    "eur_sqm": 1049,
@@ -291,16 +301,6 @@
    "source": "ZVG",
    "title": "Eigentumswohnung (3 bis 4 Zimmer) : Spessartring 37-51, 6311",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55348&land_abk=he"
-  },
-  {
-   "eur_sqm": 1786,
-   "yield": 9.41,
-   "price": 175000,
-   "sqm": 98.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Erbbaurechtsgrundstück mit zwei Wohnhäusern und vi...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzN9ADMAAAAAALmO0QnLiJKXhW0O0HSxTmhFGexHrSctVdvk7GVD2zg3-p6nU1q_q9qMU0u1Fx-racu_9LT8Vf7WyFphOvDQQI7iWSstxBtAtkjihdzNCEc8x5incQ"
   }
  ]
 }
