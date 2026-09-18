@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T11:24:14",
+ "generated_at": "2026-09-18T11:39:01",
  "count": 30,
  "deals": [
   {
@@ -203,6 +203,16 @@
    "url": "https://www.immobilienanzeigen24.com/deutschland/hessen/63110-rodgau/Etagenwohnung-kaufen/290438:22886098278:0:mr2.html"
   },
   {
+   "eur_sqm": 1556,
+   "yield": 10.8,
+   "price": 1089000,
+   "sqm": 700.0,
+   "district": "Dreieich",
+   "source": "ohne-makler",
+   "title": ">700 m² in „Schöner-geht’s-nicht-Lage!“ mit großem Haus zum ",
+   "url": "https://www.ohne-makler.net/immobilie/495175/"
+  },
+  {
    "eur_sqm": 1635,
    "yield": 10.27,
    "price": 349900,
@@ -291,16 +301,6 @@
    "source": "ZVG",
    "title": "Eigentumswohnung (3 bis 4 Zimmer) : Spessartring 37-51, 6311",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55348&land_abk=he"
-  },
-  {
-   "eur_sqm": 1786,
-   "yield": 9.41,
-   "price": 175000,
-   "sqm": 98.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Erbbaurechtsgrundstück mit zwei Wohnhäusern und vi...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NzN9ADMAAAAAALmO0QnLiJKXhW0O0HSxTmhFGexHrSctVdvk7GVD2zg3-p6nU1q_q9qMU0u1Fx-racu_9LT8Vf7WyFphOvDQQI7iWSstxBtAtkjihdzNCEc8x5incQ"
   }
  ]
 }
