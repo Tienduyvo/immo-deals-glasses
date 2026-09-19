@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T21:42:01",
+ "generated_at": "2026-09-19T22:59:25",
  "count": 30,
  "deals": [
   {
@@ -227,17 +227,7 @@
    "yield": 10.18,
    "price": 345000,
    "sqm": 209.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Großes EFH mit vielen Freisitzen und grandioser Au...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMDB9ADMAAAAAAOBoLDRM5O66SdyxazbBppubBdcZICf5JBT6GhLhHrbS0gHfaWhaRu5KtUp4iOYLgvXg9Z0RByDyses-P310wcnmXBsdaNodNvv8X8v7axsSsdh2"
-  },
-  {
-   "eur_sqm": 1651,
-   "yield": 10.18,
-   "price": 345000,
-   "sqm": 209.0,
-   "district": "Frankfurt (unspez.)",
+   "district": "Hessen",
    "source": "Kleinanzeigen (Mail)",
    "title": "Großes EFH mit vielen Freisitzen und grandioser Aussicht. Kä",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3517267023"
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "Attraktive",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njl9ADMAAAAAALVL1mkl-cGOJaaMpweGd6-HZwwH0wXSJYeFBrF0X_BlLJbfGDjb5Z3N2oMZsRcwQWffjk6dKZc3cT9sXgpDSzTZ8vjlGwsBAs1q4pa49X0EVMIUcw"
+  },
+  {
+   "eur_sqm": 1776,
+   "yield": 9.46,
+   "price": 190000,
+   "sqm": 107.0,
+   "district": "Rodgau",
+   "source": "ZVG",
+   "title": "Eigentumswohnung (3 bis 4 Zimmer) : Spessartring 37-51, 6311",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55348&land_abk=he"
   }
  ]
 }
