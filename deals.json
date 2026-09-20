@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20T10:13:07",
+ "generated_at": "2026-09-20T10:15:19",
  "count": 30,
  "deals": [
   {
@@ -283,6 +283,16 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55122&land_abk=he"
   },
   {
+   "eur_sqm": 1765,
+   "yield": 9.52,
+   "price": 697000,
+   "sqm": 395.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Exklusive liebevoll restaurierte Hofreite im Altst...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMDV9ADMAAAAAAOgiHLsDelmfI30MlTHC2uP7GanmGtBmaLGEUiLL08BSrpr_YFAQua10iYawTt2WLUhtUDp4H7UCGfBDsYo2trWJK7IZssrdug5EI-visVjC1iks"
+  },
+  {
    "eur_sqm": 1773,
    "yield": 9.47,
    "price": 133000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Attraktive",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njl9ADMAAAAAALVL1mkl-cGOJaaMpweGd6-HZwwH0wXSJYeFBrF0X_BlLJbfGDjb5Z3N2oMZsRcwQWffjk6dKZc3cT9sXgpDSzTZ8vjlGwsBAs1q4pa49X0EVMIUcw"
-  },
-  {
-   "eur_sqm": 1776,
-   "yield": 9.46,
-   "price": 190000,
-   "sqm": 107.0,
-   "district": "Rodgau",
-   "source": "ZVG",
-   "title": "Eigentumswohnung (3 bis 4 Zimmer) : Spessartring 37-51, 6311",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55348&land_abk=he"
   }
  ]
 }
