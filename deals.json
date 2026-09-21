@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21T10:59:58",
+ "generated_at": "2026-09-21T08:56:03",
  "count": 30,
  "deals": [
   {
@@ -193,16 +193,6 @@
    "url": "https://www.ohne-makler.net/immobilie/431093/"
   },
   {
-   "eur_sqm": 1468,
-   "yield": 11.44,
-   "price": 345000,
-   "sqm": 235.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "TOP-Aussichtslage: Gr. EFH mit ELW-Option, Doppel...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMDZ9ADMAAAAAAOlcy4PA8C4UzNI0rUmm8qztqIJIWDnH_3YJEE7gcs3EC6PnYAOJiydN7brj7jj0E6UmIpPOqKyO6JWQUXNUnoXcQv1EyQr2GEiduHEfUuBUG_6x"
-  },
-  {
    "eur_sqm": 1542,
    "yield": 10.9,
    "price": 329900,
@@ -301,6 +291,16 @@
    "source": "Immowelt (Mail)",
    "title": "Exklusive liebevoll restaurierte Hofreite im Altst...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMDV9ADMAAAAAAOgiHLsDelmfI30MlTHC2uP7GanmGtBmaLGEUiLL08BSrpr_YFAQua10iYawTt2WLUhtUDp4H7UCGfBDsYo2trWJK7IZssrdug5EI-visVjC1iks"
+  },
+  {
+   "eur_sqm": 1773,
+   "yield": 9.47,
+   "price": 133000,
+   "sqm": 75.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Attraktive",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5Njl9ADMAAAAAALVL1mkl-cGOJaaMpweGd6-HZwwH0wXSJYeFBrF0X_BlLJbfGDjb5Z3N2oMZsRcwQWffjk6dKZc3cT9sXgpDSzTZ8vjlGwsBAs1q4pa49X0EVMIUcw"
   }
  ]
 }
