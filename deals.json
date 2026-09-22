@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T19:05:01",
+ "generated_at": "2026-09-22T19:06:57",
  "count": 30,
  "deals": [
   {
@@ -141,6 +141,16 @@
    "source": "ZVG",
    "title": "Mehrfamilienhaus : Donaustr. 21, 63322 Rödermark, Ober-Roden",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54911&land_abk=he"
+  },
+  {
+   "eur_sqm": 1103,
+   "yield": 15.22,
+   "price": 320000,
+   "sqm": 290.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Gepflegtes Ensemble mit viel Potenzial in guter La...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMDd9ADMAAAAAAOwALI1msC7azWmirpZwG8vLSLf4qkXUaGV5JWhjpOR-30rYJRq0pi2v_pilzM9PglEWy1vpA5XK8Ai0J33FSHeusVwgTQt3gyW0xinBV-AvQjH1"
   },
   {
    "eur_sqm": 1203,
@@ -291,16 +301,6 @@
    "source": "ZVG",
    "title": "Eigentumswohnung (1 bis 2 Zimmer) : Hessenstraße 7, 61137 Sc",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55122&land_abk=he"
-  },
-  {
-   "eur_sqm": 1765,
-   "yield": 9.52,
-   "price": 697000,
-   "sqm": 395.0,
-   "district": "Frankfurt (unspez.)",
-   "source": "Immowelt (Mail)",
-   "title": "Exklusive liebevoll restaurierte Hofreite im Altst...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMDV9ADMAAAAAAOgiHLsDelmfI30MlTHC2uP7GanmGtBmaLGEUiLL08BSrpr_YFAQua10iYawTt2WLUhtUDp4H7UCGfBDsYo2trWJK7IZssrdug5EI-visVjC1iks"
   }
  ]
 }
