@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T19:37:26",
+ "generated_at": "2026-09-22T19:40:18",
  "count": 30,
  "deals": [
   {
@@ -81,6 +81,16 @@
    "source": "ZVG",
    "title": "Parkplatz : Stresemannstr., 63477 Maintal, Dörnigheim",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55172&land_abk=he"
+  },
+  {
+   "eur_sqm": 809,
+   "yield": 20.76,
+   "price": 89000,
+   "sqm": 110.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Charmantes Fachwerkhaus mit Geschichte - Ihr indiv...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMDd9ADMAAAAAAOwHAGmVGfCeaEWvbLhO060Ex3VUBxN7ZFNwAWaeqtmHq1TCewkj4ff1nfPNV_3ujxJCoXMCGPtKa0Qkxbvqa0NAeOdY7YDP91_79Br-UkGJwIHR"
   },
   {
    "eur_sqm": 856,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Top Kapitalanlage: Gut vermietete",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAKAuxNq-Y-pJHeQ4mny7INpaKOZ9ggOZiNmNqvZND8zuisVlVRjmO8mQc8uDlwAg8h0Cld3Klbl3tLp2LB3BX2HvihkICASDZUZgoxXokiiWoPy5UQ"
-  },
-  {
-   "eur_sqm": 1763,
-   "yield": 9.53,
-   "price": 104000,
-   "sqm": 59.0,
-   "district": "Schöneck",
-   "source": "ZVG",
-   "title": "Eigentumswohnung (1 bis 2 Zimmer) : Hessenstraße 7, 61137 Sc",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55122&land_abk=he"
   }
  ]
 }
