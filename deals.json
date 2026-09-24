@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T06:21:22",
+ "generated_at": "2026-09-24T08:03:42",
  "count": 30,
  "deals": [
   {
@@ -163,6 +163,16 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMDd9ADMAAAAAAOwALI1msC7azWmirpZwG8vLSLf4qkXUaGV5JWhjpOR-30rYJRq0pi2v_pilzM9PglEWy1vpA5XK8Ai0J33FSHeusVwgTQt3gyW0xinBV-AvQjH1"
   },
   {
+   "eur_sqm": 1198,
+   "yield": 14.02,
+   "price": 399000,
+   "sqm": 333.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Raum für Generationen, Ideen und Perspektiven",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMDl9ADMAAAAAAO30lia-mjXV-FIHv0O8JrJS8Nw3qa4yzpfM3eMCL8uNWUJnNL7PFHzGuwvWaIjhapnkW2szEwObZLbllxBRUTyA1kpyjved9dJaPSfs0q1nFsaB"
+  },
+  {
    "eur_sqm": 1203,
    "yield": 13.97,
    "price": 950000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Top Kapitalanlage: Gut vermietete",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAKAuxNq-Y-pJHeQ4mny7INpaKOZ9ggOZiNmNqvZND8zuisVlVRjmO8mQc8uDlwAg8h0Cld3Klbl3tLp2LB3BX2HvihkICASDZUZgoxXokiiWoPy5UQ"
-  },
-  {
-   "eur_sqm": 1763,
-   "yield": 9.53,
-   "price": 104000,
-   "sqm": 59.0,
-   "district": "Schöneck",
-   "source": "ZVG",
-   "title": "Eigentumswohnung (1 bis 2 Zimmer) : Hessenstraße 7, 61137 Sc",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55122&land_abk=he"
   }
  ]
 }
