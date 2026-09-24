@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T13:01:14",
+ "generated_at": "2026-09-24T13:27:00",
  "count": 30,
  "deals": [
   {
@@ -183,6 +183,16 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/3502859357"
   },
   {
+   "eur_sqm": 1310,
+   "yield": 12.83,
+   "price": 279000,
+   "sqm": 213.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "Immowelt (Mail)",
+   "title": "Historische Hofreite mit viel Platz, Charakter und...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMDl9ADMAAAAAAO7CoLrHbDwrcfM-cCdIBpfs-0ipHZjNFEG1lkNFEPdVP-U5KD-Hb6IHYGpZ9arGaz3M48wkpaumGQOxkx3K3MdXXWXqBuRLHoNLRm6uW0KIDN_4"
+  },
+  {
    "eur_sqm": 1350,
    "yield": 12.44,
    "price": 320000,
@@ -291,16 +301,6 @@
    "source": "Immowelt (Mail)",
    "title": "Top Kapitalanlage: Gut vermietete",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAKAuxNq-Y-pJHeQ4mny7INpaKOZ9ggOZiNmNqvZND8zuisVlVRjmO8mQc8uDlwAg8h0Cld3Klbl3tLp2LB3BX2HvihkICASDZUZgoxXokiiWoPy5UQ"
-  },
-  {
-   "eur_sqm": 1763,
-   "yield": 9.53,
-   "price": 104000,
-   "sqm": 59.0,
-   "district": "Schöneck",
-   "source": "ZVG",
-   "title": "Eigentumswohnung (1 bis 2 Zimmer) : Hessenstraße 7, 61137 Sc",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55122&land_abk=he"
   }
  ]
 }
