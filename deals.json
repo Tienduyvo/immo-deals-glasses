@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-26T11:03:12",
+ "generated_at": "2026-09-26T08:59:39",
  "count": 30,
  "deals": [
   {
@@ -51,6 +51,16 @@
    "source": "ZVG",
    "title": "Doppelhaushälfte, älteres Baujahr, steht leer, nur teilweise",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55063&land_abk=he"
+  },
+  {
+   "eur_sqm": 553,
+   "yield": 30.4,
+   "price": 320000,
+   "sqm": 579.0,
+   "district": "Niddatal",
+   "source": "ZVG",
+   "title": "Zweifamilienhaus : Friedensstraße 3, 61194 Niddatal, Bönstad",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55434&land_abk=he"
   },
   {
    "eur_sqm": 737,
@@ -291,16 +301,6 @@
    "source": "ZVG",
    "title": "Eigentumswohnung (3 bis 4 Zimmer), Wohn-/Geschäftshaus, sons",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55328&land_abk=he"
-  },
-  {
-   "eur_sqm": 1724,
-   "yield": 9.74,
-   "price": 100000,
-   "sqm": 58.0,
-   "district": "",
-   "source": "Immowelt (Mail)",
-   "title": "Top Kapitalanlage: Gut vermietete",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAKAuxNq-Y-pJHeQ4mny7INpaKOZ9ggOZiNmNqvZND8zuisVlVRjmO8mQc8uDlwAg8h0Cld3Klbl3tLp2LB3BX2HvihkICASDZUZgoxXokiiWoPy5UQ"
   }
  ]
 }
