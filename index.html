@@ -154,6 +154,8 @@ function renderDetail(){
   var dv = document.getElementById("detailView"); dv.style.display="flex";
   document.getElementById("hint").textContent = ISGLASS ? "◀ Liste · ▲▼ wechseln" : "Detail";
   var o = deals[focus], em = eurm2(o), cc = colorClass(em), url = safeUrl(o.url);
+  var PREISART_LABEL = {bieterverfahren:"Bieterverfahren", gegen_gebot:"Gegen Gebot",
+    mindestgebot:"Mindestgebot", angebotsverfahren:"Angebotsverfahren", zvg:"Zwangsversteigerung"};
   var html = "";
   if(!ISGLASS) html += '<button class="backbtn" type="button">‹ Zurück zur Liste</button>';
   html += '<div class="big '+cc+'">'+fmtEurM2(em)+'</div>'
@@ -161,8 +163,13 @@ function renderDetail(){
         + '<div class="grid">'
         +   '<div><div class="lbl">Preis</div><div class="val">'+fmtEuro(o.price)+'</div></div>'
         +   '<div><div class="lbl">Fläche</div><div class="val">'+fmtSqm(o.sqm)+'</div></div>'
+        +   '<div><div class="lbl">Rendite</div><div class="val">'+(o.yield==null?"–":o.yield+" %")+'</div></div>'
         +   '<div><div class="lbl">Stadtteil</div><div class="val">'+esc(o.district||"–")+'</div></div>'
+        +   (o.baujahr ? '<div><div class="lbl">Baujahr</div><div class="val">'+o.baujahr+'</div></div>' : '')
         + '</div>'
+        + (PREISART_LABEL[o.preisart] ? '<div class="src">⚠ '+PREISART_LABEL[o.preisart]+' – Preis ist ein Startgebot, kein Festpreis</div>' : '')
+        + (o.zustand ? '<div class="src">Zustand: '+esc(o.zustand)+'</div>' : '')
+        + (o.kurzbeschreibung ? '<div class="src">'+esc(o.kurzbeschreibung)+'</div>' : '')
         + '<div class="src">Quelle: '+esc(o.source||"–")+'</div>';
   if(!ISGLASS && url) html += '<a class="link" href="'+esc(url)+'" target="_blank" rel="noopener noreferrer">Zum Inserat ↗</a>';
   dv.innerHTML = html;
