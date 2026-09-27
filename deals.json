@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-27T14:12:16",
+ "generated_at": "2026-09-27T14:16:49",
  "count": 30,
  "deals": [
   {
@@ -102,7 +102,7 @@
   },
   {
    "eur_sqm": 748,
-   "yield": 22.47,
+   "yield": 14.44,
    "price": 9720,
    "sqm": 13.0,
    "district": "Maintal",
@@ -116,7 +116,7 @@
   },
   {
    "eur_sqm": 761,
-   "yield": 22.08,
+   "yield": 14.19,
    "price": 8370,
    "sqm": 11.0,
    "district": "Maintal",
@@ -130,7 +130,7 @@
   },
   {
    "eur_sqm": 809,
-   "yield": 20.76,
+   "yield": 19.28,
    "price": 89000,
    "sqm": 110.0,
    "district": "Frankfurt (unspez.)",
@@ -144,7 +144,7 @@
   },
   {
    "eur_sqm": 856,
-   "yield": 19.62,
+   "yield": 14.01,
    "price": 12700,
    "sqm": 14.83,
    "district": "Offenbach",
@@ -158,7 +158,7 @@
   },
   {
    "eur_sqm": 879,
-   "yield": 19.11,
+   "yield": 12.29,
    "price": 690000,
    "sqm": 785.0,
    "district": "Niedernhausen",
@@ -172,7 +172,7 @@
   },
   {
    "eur_sqm": 969,
-   "yield": 17.34,
+   "yield": 16.11,
    "price": 309950,
    "sqm": 320.0,
    "district": "Frankfurt (unspez.)",
@@ -200,7 +200,7 @@
   },
   {
    "eur_sqm": 1070,
-   "yield": 15.7,
+   "yield": 14.58,
    "price": 199000,
    "sqm": 186.0,
    "district": "Frankfurt (unspez.)",
@@ -214,7 +214,7 @@
   },
   {
    "eur_sqm": 1097,
-   "yield": 15.32,
+   "yield": 9.85,
    "price": 590000,
    "sqm": 538.0,
    "district": "Rödermark",
@@ -228,7 +228,7 @@
   },
   {
    "eur_sqm": 1103,
-   "yield": 15.22,
+   "yield": 14.14,
    "price": 320000,
    "sqm": 290.0,
    "district": "Frankfurt (unspez.)",
@@ -242,7 +242,7 @@
   },
   {
    "eur_sqm": 1198,
-   "yield": 14.02,
+   "yield": 13.02,
    "price": 399000,
    "sqm": 333.0,
    "district": "Frankfurt (unspez.)",
@@ -270,7 +270,7 @@
   },
   {
    "eur_sqm": 1310,
-   "yield": 12.83,
+   "yield": 11.91,
    "price": 279000,
    "sqm": 213.0,
    "district": "Frankfurt (unspez.)",
@@ -312,7 +312,7 @@
   },
   {
    "eur_sqm": 1447,
-   "yield": 11.61,
+   "yield": 10.78,
    "price": 450000,
    "sqm": 311.0,
    "district": "Frankfurt (unspez.)",
@@ -326,7 +326,7 @@
   },
   {
    "eur_sqm": 1468,
-   "yield": 11.44,
+   "yield": 10.63,
    "price": 345000,
    "sqm": 235.0,
    "district": "Frankfurt (unspez.)",
@@ -340,7 +340,7 @@
   },
   {
    "eur_sqm": 1542,
-   "yield": 10.9,
+   "yield": 7.01,
    "price": 329900,
    "sqm": 214.0,
    "district": "Rodgau",
@@ -354,7 +354,7 @@
   },
   {
    "eur_sqm": 1635,
-   "yield": 10.27,
+   "yield": 6.61,
    "price": 349900,
    "sqm": 214.0,
    "district": "Rodgau",
@@ -382,7 +382,7 @@
   },
   {
    "eur_sqm": 1656,
-   "yield": 10.15,
+   "yield": 6.52,
    "price": 101000,
    "sqm": 61.0,
    "district": "Mörfelden",
@@ -396,7 +396,7 @@
   },
   {
    "eur_sqm": 1697,
-   "yield": 9.9,
+   "yield": 6.36,
    "price": 543000,
    "sqm": 320.0,
    "district": "Mörfelden",
