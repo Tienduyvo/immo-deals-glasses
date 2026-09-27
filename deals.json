@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-27T17:56:37",
+ "generated_at": "2026-09-27T18:20:48",
  "count": 30,
  "deals": [
   {
@@ -85,20 +85,6 @@
    "kurzbeschreibung": "[ZV] Zweifamilienhaus : Friedensstraße 3, 61194 Niddatal, Bönstadt",
    "title": "Zweifamilienhaus : Friedensstraße 3, 61194 Niddatal, Bönstad",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55434&land_abk=he"
-  },
-  {
-   "eur_sqm": 737,
-   "yield": 22.8,
-   "price": 420000,
-   "sqm": 570.0,
-   "district": "Idstein",
-   "source": "ZVG",
-   "preisart": "zvg",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
-   "title": "Doppelhaushälfte : Mollweg 3, 65510 Idstein, Wörsdorf",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55197&land_abk=he"
   },
   {
    "eur_sqm": 748,
@@ -421,6 +407,20 @@
    "kurzbeschreibung": null,
    "title": "Eigentumswohnung (3 bis 4 Zimmer), Wohn-/Geschäftshaus, sons",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55328&land_abk=he"
+  },
+  {
+   "eur_sqm": 1724,
+   "yield": 9.74,
+   "price": 100000,
+   "sqm": 58.0,
+   "district": "",
+   "source": "Immowelt (Mail)",
+   "preisart": "festpreis",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "Top Kapitalanlage: Gut vermietete",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjQ5NTR9ADMAAAAAAKAuxNq-Y-pJHeQ4mny7INpaKOZ9ggOZiNmNqvZND8zuisVlVRjmO8mQc8uDlwAg8h0Cld3Klbl3tLp2LB3BX2HvihkICASDZUZgoxXokiiWoPy5UQ"
   }
  ]
 }
