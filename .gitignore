@@ -1,5 +1,6 @@
-# Nur index.html, deals.json, dashboard.html und README gehören ins öffentliche Repo.
-# Alles andere ausschließen (Sicherheit gegen versehentliche Secrets).
+# Nur index.html, deals.json, dashboard.html, README und die ZV-Gutachten-PDFs, auf die
+# dashboard.html verlinkt, gehören ins öffentliche Repo. Alles andere ausschließen
+# (Sicherheit gegen versehentliche Secrets).
 *
 !index.html
 !deals.json
@@ -7,6 +8,11 @@
 !README.md
 !.gitignore
 !.nojekyll
+# Gutachten-PDFs der aktuell gezeigten ZV-Objekte (siehe scan.py write_dashboard) --
+# dashboard.html verlinkt sie unter demselben relativen Pfad wie lokal (scraper/gutachten/…).
+!scraper/
+!scraper/gutachten/
+!scraper/gutachten/*.pdf
 # Deploy-Workflow zulassen (Verzeichnis muss erst freigegeben werden, dann die Datei)
 !.github/
 !.github/workflows/
