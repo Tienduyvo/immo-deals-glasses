@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T09:35:03",
+ "generated_at": "2026-09-29T10:29:34",
  "count": 30,
  "deals": [
   {
@@ -297,6 +297,20 @@
    "url": "https://www.immobilienscout24.de/expose/167106046"
   },
   {
+   "eur_sqm": 1124,
+   "yield": 14.95,
+   "price": 245000,
+   "sqm": 218.0,
+   "district": "",
+   "source": "ImmoScout24 (Mail)",
+   "preisart": "festpreis",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "Dreifamilienhaus nebst Terrasse und Doppelgarage",
+   "url": "https://www.immobilienscout24.de/expose/171300025"
+  },
+  {
    "eur_sqm": 1152,
    "yield": 10.42,
    "price": 325000,
@@ -407,20 +421,6 @@
    "kurzbeschreibung": null,
    "title": "Mehrfamilienhaus : Ringstraße 1, 61389 Schmitten, Dorfweil",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55116&land_abk=he"
-  },
-  {
-   "eur_sqm": 1378,
-   "yield": 12.19,
-   "price": 390000,
-   "sqm": 283.0,
-   "district": "",
-   "source": "ImmoScout24 (Mail)",
-   "preisart": "festpreis",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
-   "title": "Großzügiges Mehrgenerationenhaus in ruhiger Feldrandlage",
-   "url": "https://www.immobilienscout24.de/expose/167129686"
   }
  ]
 }
