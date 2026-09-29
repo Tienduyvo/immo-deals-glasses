@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T19:25:27",
+ "generated_at": "2026-09-29T21:33:18",
  "count": 30,
  "deals": [
   {
@@ -339,6 +339,20 @@
    "url": "https://www.immobilienscout24.de/expose/170387775"
   },
   {
+   "eur_sqm": 1278,
+   "yield": 9.39,
+   "price": 170000,
+   "sqm": 133.0,
+   "district": "Offenbach",
+   "source": "ImmoScout24 (Mail)",
+   "preisart": "festpreis",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "Sanierungsobjekt mit Potenzial in Offenbach: 3 Einheiten",
+   "url": "https://www.immobilienscout24.de/expose/171329144"
+  },
+  {
    "eur_sqm": 1309,
    "yield": 9.17,
    "price": 190000,
@@ -407,20 +421,6 @@
    "kurzbeschreibung": null,
    "title": "½ Anteil - Freistehendes Wohnhaus",
    "url": "https://www.immobilienscout24.de/expose/170661457"
-  },
-  {
-   "eur_sqm": 1350,
-   "yield": 12.44,
-   "price": 320000,
-   "sqm": 237.0,
-   "district": "Schmitten",
-   "source": "ZVG",
-   "preisart": "zvg",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
-   "title": "Mehrfamilienhaus : Ringstraße 1, 61389 Schmitten, Dorfweil",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55116&land_abk=he"
   }
  ]
 }
