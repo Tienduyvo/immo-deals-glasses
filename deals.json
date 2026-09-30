@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T12:33:45",
+ "generated_at": "2026-09-30T12:59:34",
  "count": 30,
  "deals": [
   {
@@ -213,6 +213,20 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMDF9ADMAAAAAAOIk19_HWDtQoLm8bCIHWyLH9HhvkoD6GRII1_ii9q2MTF8y505ASFdG7j9MDc9i61nPd_2ZOSuJ_ntWx0qRyVgUEoYbd9pfB9TAdBnJtnTFkJSH"
   },
   {
+   "eur_sqm": 1010,
+   "yield": 13.07,
+   "price": 599000,
+   "sqm": 593.0,
+   "district": "Darmstadt",
+   "source": "ImmoScout24 (Mail)",
+   "preisart": "festpreis",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "Attraktives Baugrundstück – mehrere Bebauungsvarianten berei",
+   "url": "https://www.immobilienscout24.de/expose/171330539"
+  },
+  {
    "eur_sqm": 1049,
    "yield": 16.02,
    "price": 94000,
@@ -407,20 +421,6 @@
    "kurzbeschreibung": null,
    "title": "Wohnhaus mit 2 Apartments & großzügiger Lagerfläche - Käufer",
    "url": "https://www.immobilienscout24.de/expose/170725502"
-  },
-  {
-   "eur_sqm": 1347,
-   "yield": 12.47,
-   "price": 242500,
-   "sqm": 180.0,
-   "district": "",
-   "source": "ImmoScout24 (Mail)",
-   "preisart": "festpreis",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
-   "title": "½ Anteil - Freistehendes Wohnhaus",
-   "url": "https://www.immobilienscout24.de/expose/170661457"
   }
  ]
 }
