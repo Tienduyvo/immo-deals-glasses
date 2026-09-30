@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T10:57:36",
+ "generated_at": "2026-09-30T11:21:47",
  "count": 30,
  "deals": [
   {
@@ -85,20 +85,6 @@
    "kurzbeschreibung": "[ZV] Zweifamilienhaus : Friedensstraße 3, 61194 Niddatal, Bönstadt",
    "title": "Zweifamilienhaus : Friedensstraße 3, 61194 Niddatal, Bönstad",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55434&land_abk=he"
-  },
-  {
-   "eur_sqm": 737,
-   "yield": 22.8,
-   "price": 420000,
-   "sqm": 570.0,
-   "district": "Idstein",
-   "source": "ZVG",
-   "preisart": "zvg",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
-   "title": "Doppelhaushälfte : Mollweg 3, 65510 Idstein, Wörsdorf",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55197&land_abk=he"
   },
   {
    "eur_sqm": 748,
@@ -421,6 +407,20 @@
    "kurzbeschreibung": null,
    "title": "Wohnhaus mit 2 Apartments & großzügiger Lagerfläche - Käufer",
    "url": "https://www.immobilienscout24.de/expose/170725502"
+  },
+  {
+   "eur_sqm": 1347,
+   "yield": 12.47,
+   "price": 242500,
+   "sqm": 180.0,
+   "district": "",
+   "source": "ImmoScout24 (Mail)",
+   "preisart": "festpreis",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "½ Anteil - Freistehendes Wohnhaus",
+   "url": "https://www.immobilienscout24.de/expose/170661457"
   }
  ]
 }
