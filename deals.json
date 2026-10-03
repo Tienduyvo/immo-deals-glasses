@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T16:37:37",
+ "generated_at": "2026-10-03T16:41:27",
  "count": 30,
  "deals": [
   {
@@ -200,10 +200,10 @@
   },
   {
    "eur_sqm": 969,
-   "yield": 16.11,
+   "yield": 17.34,
    "price": 309950,
    "sqm": 320.0,
-   "district": "Frankfurt (unspez.)",
+   "district": "Hainburg",
    "source": "Immowelt (Mail)",
    "preisart": "festpreis",
    "baujahr": null,
@@ -284,10 +284,10 @@
   },
   {
    "eur_sqm": 1103,
-   "yield": 14.14,
+   "yield": 15.22,
    "price": 320000,
    "sqm": 290.0,
-   "district": "Frankfurt (unspez.)",
+   "district": "Niddatal",
    "source": "Immowelt (Mail)",
    "preisart": "festpreis",
    "baujahr": null,
@@ -396,10 +396,10 @@
   },
   {
    "eur_sqm": 1312,
-   "yield": 9.14,
+   "yield": 12.8,
    "price": 399000,
    "sqm": 304.0,
-   "district": "Schwanheim",
+   "district": "Frankfurt am Main",
    "source": "ImmoScout24 (Mail)",
    "preisart": "festpreis",
    "baujahr": null,
