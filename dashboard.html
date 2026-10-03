@@ -3,55 +3,103 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Immo-Deal-Scanner Frankfurt – Dashboard</title>
 <style>
-  :root{--bg:#f4f6f9;--card:#fff;--ink:#1f2937;--mut:#6b7280;--line:#e5e7eb;--accent:#1F4E79;--good:#0a7d33;--warn:#b45309;}
+  :root{--bg:#f9fafb;--card:#fff;--ink:#111827;--mut:#6b7280;--line:#e5e7eb;--accent:#0f766e;--good:#15803d;--warn:#b45309;--bad:#dc2626;}
   *{box-sizing:border-box}
   body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.45 system-ui,Segoe UI,Roboto,sans-serif}
-  header{background:var(--accent);color:#fff;padding:16px 22px}
-  header h1{margin:0;font-size:18px}
-  header .sub{opacity:.8;font-size:12px;margin-top:3px}
+  header{background:#fff;border-bottom:1px solid var(--line);padding:14px 22px}
+  header h1{margin:0;font-size:17px;font-weight:600}
+  header .sub{color:var(--mut);font-size:12px;margin-top:2px}
   .wrap{padding:18px 22px}
   .kpis{display:flex;flex-wrap:wrap;gap:12px;margin-bottom:14px}
-  .kpi{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 16px;min-width:140px}
-  .kpi .v{font-size:22px;font-weight:700}
+  .kpi{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:10px 14px;min-width:130px}
+  .kpi .v{font-size:20px;font-weight:600}
   .kpi .l{font-size:12px;color:var(--mut)}
-  .filters{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 16px;display:flex;flex-wrap:wrap;gap:14px;align-items:end;margin-bottom:14px}
+  .filters{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:12px 16px;display:none;flex-wrap:wrap;gap:14px;align-items:end;margin-bottom:14px}
   .filters label{display:flex;flex-direction:column;font-size:12px;color:var(--mut);gap:4px}
-  .filters input,.filters select{font-size:14px;padding:6px 8px;border:1px solid var(--line);border-radius:7px;background:#fff}
+  .filters input,.filters select{font-size:14px;padding:6px 8px;border:1px solid var(--line);border-radius:6px;background:#fff}
+  body.showf .filters{display:flex}
   .filters button{padding:7px 12px;border:1px solid var(--line);background:#fff;border-radius:7px;cursor:pointer}
-  .tablewrap{background:var(--card);border:1px solid var(--line);border-radius:10px;overflow:auto}
+  .tcard{background:var(--card);border:1px solid var(--line);border-radius:8px}
+  .tablewrap{border-radius:8px 8px 0 0;overflow:auto}
   table{border-collapse:collapse;width:100%;font-size:13px}
-  th,td{padding:8px 10px;text-align:left;border-bottom:1px solid var(--line);white-space:nowrap}
-  th{position:sticky;top:0;background:#eef2f7;cursor:pointer;user-select:none}
-  th.sorted::after{content:" \25B2";font-size:10px}
+  th,td{padding:10px 12px;text-align:left;border-bottom:1px solid #f0f1f3;white-space:nowrap}
+  tbody tr:last-child td{border-bottom:0}
+  th{position:sticky;top:0;background:#fff;color:var(--mut);font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.04em;border-bottom:1px solid var(--line);cursor:pointer;user-select:none}
+  th::after{content:" \21C5";font-size:10px;opacity:.35}
+  th:empty::after{content:none}
+  th.sorted{color:var(--ink)}
+  th.sorted::after{content:" \25B2";font-size:10px;opacity:1;color:var(--accent)}
   th.sorted.desc::after{content:" \25BC"}
   td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
-  tr.neu td{background:#fff8e1}
   tr.weg td{opacity:.5;text-decoration:line-through}
   tr.weg td:last-child,tr.weg td:nth-last-child(2){text-decoration:none}
   .wgpill{background:#dcfce7;color:#166534}
-  tr:hover td{background:#f0f6ff}
-  .pill{display:inline-block;font-size:11px;padding:1px 6px;border-radius:20px;margin-right:3px}
+  tbody tr:hover td{background:#f9fafb}
+  .pill{display:inline-block;font-size:11px;padding:1px 8px;border-radius:20px;margin:1px 3px 1px 0}
+  .st{background:#fff;color:var(--ink);border:1px solid var(--line);border-radius:6px;padding:2px 8px;font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.03em}
+  .st::before{content:"";display:inline-block;width:6px;height:6px;border-radius:50%;background:var(--dot,#9ca3af);margin-right:5px;vertical-align:1px}
+  .tag{display:inline-block;font-size:11px;padding:2px 8px;border-radius:6px;font-weight:600;text-transform:uppercase;letter-spacing:.02em;white-space:nowrap;max-width:100%;overflow:hidden;text-overflow:ellipsis;vertical-align:bottom}
   .zv{background:#ede9fe;color:#5b21b6}
   .erb{background:#fef3c7;color:#92400e}
   .alt{background:#e0f2fe;color:#075985}
   .gew{background:#e2e8f0;color:#334155}
   .neuflag{background:#dcfce7;color:#166534}
   .bieter{background:#fee2e2;color:#991b1b}
-  .desc{white-space:normal;display:block;max-width:420px;margin-top:2px}
+  .desc{white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin-top:2px}
+  td.c-objekt{white-space:normal;max-width:320px}
+  td.c-objekt>a{display:inline-block;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;vertical-align:bottom}
+  td.c-objekt .ocell{display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+  td.c-flags{white-space:normal;max-width:230px}
+  td.c-anbindung{white-space:normal;max-width:170px}
+  td.c-quelle,td.c-stadtteil{max-width:150px;overflow:hidden;text-overflow:ellipsis}
   .rendite{font-weight:700;color:var(--good)}
-  .hidebtn{border:1px solid #d0d7de;background:#f6f8fa;color:#57606a;border-radius:6px;padding:2px 8px;cursor:pointer;font-size:12px;white-space:nowrap}
-  .hidebtn:hover{background:#ffebe9;color:#cf222e;border-color:#ffcfcb}
+  .hidebtn{border:1px solid var(--line);background:#fff;color:var(--mut);border-radius:6px;padding:3px 10px;cursor:pointer;font-size:12px;white-space:nowrap}
+  .hidebtn:hover{background:#fef2f2;color:var(--bad);border-color:#fecaca}
   #hiddeninfo a{cursor:pointer}
   a{color:var(--accent);text-decoration:none}
   a:hover{text-decoration:underline}
   .muted{color:var(--mut);font-size:12px}
   .count{color:var(--mut);font-size:12px;margin:8px 2px}
-  .tabs{display:flex;gap:8px;margin-bottom:14px}
-  .tabs button{flex:1;max-width:220px;padding:10px 14px;font-size:15px;border:1px solid var(--line);background:#fff;border-radius:9px;cursor:pointer;min-height:44px}
-  .tabs button.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+  .bar{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px 12px;border-bottom:1px solid var(--line);margin-bottom:14px}
+  .tabs{display:flex;gap:4px}
+  .tools{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding-bottom:6px;position:relative}
+  .tools input[type=search]{font-size:14px;padding:7px 10px;border:1px solid var(--line);border-radius:6px;background:#fff;width:200px;min-height:36px}
+  .obtn{font-size:13px;padding:7px 12px;border:1px solid var(--line);background:#fff;color:var(--ink);border-radius:6px;cursor:pointer;min-height:36px}
+  .obtn:hover{background:#f3f4f6}
+  .obtn.on{border-color:var(--accent);color:var(--accent)}
+  .cnt{display:inline-block;min-width:18px;padding:0 5px;margin-left:4px;border-radius:9px;background:var(--accent);color:#fff;font-size:11px;text-align:center}
+  .colmenu{position:absolute;right:0;top:100%;z-index:1000;background:#fff;border:1px solid var(--line);border-radius:8px;box-shadow:0 6px 20px rgba(0,0,0,.08);padding:8px 12px;display:none;flex-direction:column;gap:4px}
+  .colmenu.open{display:flex}
+  .colmenu label{display:flex;gap:8px;align-items:center;font-size:13px;white-space:nowrap;min-height:28px}
+  .chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px}
+  .chips:empty{display:none}
+  .chip{position:relative;display:inline-flex;align-items:center;gap:7px;font-size:13px;padding:4px 5px 4px 12px;border:1px solid var(--line);border-radius:8px;background:#fff;min-height:36px}
+  .chip .cl{color:var(--mut)}
+  .chip .cv{background:#e6f2f0;color:var(--accent);border-radius:5px;padding:1px 7px;font-weight:600;font-size:12px;max-width:170px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .chip button{border:0;background:none;color:var(--mut);border-radius:5px;width:24px;height:24px;padding:0;cursor:pointer;font-size:13px;line-height:1}
+  .chip button:hover{background:#f3f4f6;color:var(--ink)}
+  .chip .cx:hover{background:#fee2e2;color:var(--bad)}
+  .chipmenu{position:absolute;left:0;top:calc(100% + 4px);z-index:1000;background:#fff;border:1px solid var(--line);border-radius:8px;box-shadow:0 8px 24px rgba(0,0,0,.1);padding:6px;display:flex;flex-direction:column;max-height:260px;overflow:auto;min-width:100%}
+  .chipmenu label{display:flex;gap:8px;align-items:center;padding:5px 8px;border-radius:6px;font-size:13px;white-space:nowrap;cursor:pointer;min-height:32px}
+  .chipmenu label:hover{background:#f3f4f6}
+  .clrall{border:0;background:none;color:var(--mut);font-size:13px;cursor:pointer;text-decoration:underline;padding:0 8px;min-height:36px}
+  .clrall:hover{color:var(--ink)}
+  .pager[hidden],.cnt[hidden]{display:none}
+  .pager{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;justify-content:space-between;border-top:1px solid var(--line);padding:9px 14px;font-size:13px;color:var(--mut)}
+  .pager .count{margin:0}
+  .prgt{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center}
+  .pager select{font-size:13px;padding:4px 6px;border:1px solid var(--line);border-radius:6px;background:#fff}
+  .pages{display:flex;gap:4px}
+  .pages button{min-width:32px;height:32px;border:1px solid transparent;background:none;border-radius:50%;cursor:pointer;color:var(--ink);font-size:13px}
+  .pages button:hover:not(:disabled){background:#f3f4f6}
+  .pages button.on{background:var(--ink);border-color:var(--ink);color:#fff;font-weight:600}
+  .pages button:disabled{color:#d1d5db;cursor:default}
+  .tabs button{padding:10px 16px;font-size:14px;border:0;border-bottom:2px solid transparent;background:none;color:var(--mut);cursor:pointer;min-height:44px;margin-bottom:-1px}
+  .tabs button.on{color:var(--accent);border-bottom-color:var(--accent);font-weight:600}
+  body.tabmap #colbtn{display:none}
   .mapbar{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;margin-bottom:8px;font-size:13px}
   .mapbar label{display:flex;align-items:center;gap:5px;min-height:32px}
-  .mapbar button{padding:7px 12px;border:1px solid var(--line);background:#fff;border-radius:7px;cursor:pointer;min-height:36px;display:none}
+  .mapbar button{padding:7px 12px;border:1px solid var(--line);background:#fff;border-radius:6px;cursor:pointer;min-height:36px;display:none}
   #map{height:72vh;min-height:460px;border:1px solid var(--line);border-radius:10px;background:#dfe5ea}
   .lg{display:inline-flex;align-items:center;gap:4px;margin-right:10px}
   .dot{width:12px;height:12px;border-radius:50%;display:inline-block;border:1.5px solid #fff;box-shadow:0 0 0 1px #9ca3af}
@@ -63,9 +111,45 @@
     .wrap{padding:12px 10px} header{padding:12px 14px}
     #map{height:calc(100vh - 230px);height:calc(100dvh - 230px);min-height:340px}
     .mapbar button{display:inline-block}
-    body.tabmap:not(.showf) .filters{display:none}
+    .tools input[type=search]{flex:1;min-width:0;width:auto}
+    .tcard{border:0;background:none}
+    #colbtn{display:none}
+    .pager{border-top:1px solid var(--line);padding:10px 0}
+    td.c-objekt,td.c-flags,td.c-anbindung,td.c-quelle,td.c-stadtteil{max-width:none}
+    td.c-objekt .ocell{display:block}
+    .tools{width:100%}
+    .kpis{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+    .kpi{padding:8px 12px;min-width:0}
+    .kpi .v{font-size:17px}
     body.tabmap .kpis{display:none}
     .leaflet-control-zoom a{width:36px!important;height:36px!important;line-height:36px!important}
+    /* Karten-Ansicht: Tabelle bleibt im DOM, wird per CSS in Karten umgeklappt */
+    .tablewrap{background:none;border:0;overflow:visible}
+    table,tbody{display:block}
+    thead,thead tr{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px}
+    th{position:static;text-transform:none;letter-spacing:0;border:1px solid var(--line);border-radius:16px;padding:6px 12px;min-height:32px;box-sizing:border-box;display:flex;align-items:center;background:#fff;font-size:12px}
+    th:empty,th:nth-child(11),th:nth-child(12){display:none}
+    th.sorted{background:var(--accent);color:#fff;border-color:var(--accent)}
+    th.sorted::after{color:#fff}
+    tbody tr:hover td{background:none!important}
+    tbody tr{display:grid;grid-template-columns:repeat(3,1fr);gap:4px 8px;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin-bottom:10px}
+    tbody tr td{border:0}
+    tbody td{display:block;border:0;padding:0;white-space:normal;text-align:left;font-size:13px;grid-column:1/-1;order:20;background:none!important;min-width:0;overflow-wrap:anywhere}
+    tbody td.num{text-align:left}
+    td:empty{display:none}
+    td::before{content:attr(data-label);display:block;font-size:10px;color:var(--mut);text-transform:uppercase;letter-spacing:.03em}
+    td.c-rendite,td.c-preis,td.c-eur_sqm{grid-column:auto;font-size:16px;font-weight:700;order:1}
+    td.c-preis{order:2} td.c-eur_sqm{order:3}
+    td.c-stadtteil{grid-column:span 2;order:4;font-size:15px;font-weight:600}
+    td.c-lage{grid-column:span 1;order:5}
+    td.c-abschlag,td.c-sqm,td.c-tage{grid-column:auto;order:6}
+    td.c-flags{order:7;margin-top:4px} td.c-flags::before,td.c-objekt::before,td.c-hide::before{display:none}
+    td.c-anbindung{order:8} td.c-quelle{order:9} td.c-objekt{order:10;margin-top:4px}
+    td.c-hide{order:11} td.c-hide .hidebtn{min-height:44px;width:100%;font-size:14px;border-radius:9px}
+    .desc{max-width:none}
+    tr.weg td{text-decoration:none}
+    tr.neu{border-left:3px solid var(--good)}
+    tr.weg{opacity:.55}
   }
 </style>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
@@ -73,12 +157,21 @@
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css"></head>
 <body>
 <header>
-  <h1>🏠 Immo-Deal-Scanner Frankfurt – Dashboard</h1>
+  <h1>Immo-Deal-Scanner Frankfurt – Dashboard</h1>
   <div class="sub" id="stand"></div>
 </header>
 <div class="wrap">
-  <div class="tabs"><button id="tabList" class="on">📋 Liste</button><button id="tabMap">🗺️ Karte</button></div>
   <div class="kpis" id="kpis"></div>
+  <div class="bar">
+    <div class="tabs"><button id="tabList" class="on">Liste</button><button id="tabMap">Karte</button></div>
+    <div class="tools">
+      <input type="search" id="fQ" placeholder="Suche (Titel, Ort, Adresse)">
+      <button class="obtn" id="colbtn">Spalten</button>
+      <button class="obtn" id="filtbtn">Filter<span class="cnt" id="fcnt" hidden></span></button>
+      <div class="colmenu" id="colmenu"></div>
+    </div>
+  </div>
+  <div class="chips" id="chips"></div>
   <div class="filters">
     <label>Max €/m²<input type="number" id="fEurM2" step="250" min="0" placeholder="z. B. 3500"></label>
     <label style="flex-direction:row;align-items:center;gap:6px"><input type="checkbox" id="fNoM2" checked> ohne €/m² auch zeigen</label>
@@ -94,10 +187,12 @@
     <button id="reset">Filter zurücksetzen</button>
   </div>
   <div id="listview">
-  <div class="count" id="count"></div>
   <div class="count" id="hiddeninfo"></div>
   <div class="count" id="syncnote"></div>
-  <div class="tablewrap"><table id="tbl"><thead><tr id="head"></tr></thead><tbody id="body"></tbody></table></div>
+  <div class="tcard">
+    <div class="tablewrap"><table id="tbl"><thead><tr id="head"></tr></thead><tbody id="body"></tbody></table></div>
+    <div class="pager" id="pager"><span class="count" id="count"></span><span id="pagerctl"></span></div>
+  </div>
   </div>
   <div id="mapview" hidden>
     <div class="mapbar">
@@ -132,30 +227,32 @@ const COLS = [
   {k:"preis", t:"Preis", num:true, fmt:v=>v==null?"–":v.toLocaleString('de-DE')+' €'},
   {k:"sqm", t:"m²", num:true, fmt:v=>v==null?"–":v.toLocaleString('de-DE')},
   {k:"quelle", t:"Quelle", num:false, fmt:v=>v||""},
-  {k:"stadtteil", t:"Stadtteil/Ort", num:false, fmt:v=>v||""},
+  {k:"stadtteil", t:"Stadtteil/Ort", num:false, fmt:v=>tagHtml(v)},
   {k:"lage", t:"Lage", num:true, fmt:v=>v==null?"–":('★'.repeat(v)+' '+v+'/5')},
   {k:"anbindung", t:"Anbindung", num:false, fmt:v=>v||""},
   {k:"tage", t:"Tage", num:true, fmt:v=>v==null?"–":v.toLocaleString('de-DE')},
   {k:"flags", t:"Flags", num:false, fmt:(_,r)=>flagsHtml(r)},
-  {k:"objekt", t:"Objekt / Link", num:false, fmt:(_,r)=>objektHtml(r)},
+  {k:"objekt", t:"Objekt / Link", num:false, fmt:(_,r)=>'<div class="ocell">'+objektHtml(r)+'</div>'},
   {k:"hide", t:"", num:false, fmt:(_,r)=>'<button class="hidebtn" data-url="'+encodeURIComponent(r.link||"")+'" title="Ausblenden – bereits gesehen">✕ gesehen</button>'},
 ];
 let sortK="rank", sortDesc=true;
 const PREISART_LABEL = {bieterverfahren:"🔨 Bieterverfahren", gegen_gebot:"🔨 Gegen Gebot",
   mindestgebot:"🔨 Mindestgebot", angebotsverfahren:"🔨 Angebotsverfahren"};
 
+const TAGS=[["#e0f2fe","#075985"],["#dcfce7","#166534"],["#fef3c7","#92400e"],["#ede9fe","#5b21b6"],["#fce7f3","#9d174d"],["#e2e8f0","#334155"]];
+function tagHtml(v){ if(!v) return ""; let h=0; for(const ch of v) h=(h*31+ch.charCodeAt(0))>>>0; const c=TAGS[h%TAGS.length]; return '<span class="tag" style="background:'+c[0]+';color:'+c[1]+'">'+esc(v)+'</span>'; }
 function flagsHtml(r){
   let s="";
-  if(r.weg) s+='<span class="pill zv" title="'+esc(r.weg_grund)+'">🚫 weg</span>';
+  if(r.weg) s+='<span class="pill st" style="--dot:var(--bad)" title="'+esc(r.weg_grund)+'">Weg</span>';
   if(r.wg&&r.wg.oepnv){const o=r.wg.oepnv; s+='<span class="pill wgpill" title="'+esc(o.basis+' · WG-Angebote im Ort: '+o.nachfrage_n+' · Cashflow/Monat 10 % EK: '+o.cf10+' €, 20 % EK: '+o.cf20+' €')+'">🚆 '+esc(o.station)+' '+o.fussweg_min+' Min'+(o.ok?'':' ⚠ nicht belegt')+'</span>';}
   if(r.wg) s+='<span class="pill wgpill" title="'+esc(r.wg.notiz||'')+'">🏠 WG '+(r.wg.zimmer!=null?r.wg.zimmer+' Zi · ':'')+(r.wg.rendite!=null?r.wg.rendite+'% WG-Rendite':'')+(r.wg.jev&&r.wg.jev.length?' · ⚠ '+esc(r.wg.jev.join(', ')):'')+'</span>';
   if(r.typ==='Gewerbe'){ s+='<span class="pill gew">🏢 Gewerbe/Gastro</span>'; if(r.faktor!=null) s+='<span class="pill gew">Faktor '+r.faktor+'×</span>'; }
   if(r.interessant) s+='<span class="pill neuflag" title="'+esc(r.grund)+'">⭐ interessant</span>';
   if(r.zv) s+='<span class="pill zv">⚖️ ZV</span>';
-  if(PREISART_LABEL[r.preisart]) s+='<span class="pill bieter" title="Angebotspreis ist ein Startgebot, kein Festpreis — im Ranking abgewertet">'+PREISART_LABEL[r.preisart]+'</span>';
-  if(r.erbbau) s+='<span class="pill erb">⚠️ Erbpacht</span>';
-  if(r.tage!=null && r.tage>=KPI.age_thr) s+='<span class="pill alt">🕰️ lange online</span>';
-  if(r.neu) s+='<span class="pill neuflag">🆕 neu</span>';
+  if(PREISART_LABEL[r.preisart]) s+='<span class="pill st" style="--dot:var(--bad)" title="Angebotspreis ist ein Startgebot, kein Festpreis — im Ranking abgewertet">'+PREISART_LABEL[r.preisart]+'</span>';
+  if(r.erbbau) s+='<span class="pill st" style="--dot:var(--warn)">Erbpacht</span>';
+  if(r.tage!=null && r.tage>=KPI.age_thr) s+='<span class="pill st">Lange online</span>';
+  if(r.neu) s+='<span class="pill st" style="--dot:var(--good)">Neu</span>';
   if(r.rendite_kalk && r.rendite!=null) s+='<span class="pill alt" title="'+esc(r.rendite_basis||'')+'">≈ '+r.rendite+'% kalk.</span>';
   return s||'<span class="muted">–</span>';
 }
@@ -170,16 +267,58 @@ function objektHtml(r){
   const sub = meta.length ? '<br><span class="muted">'+meta.join(' · ')+'</span>' : '';
   const desc = r.kurzbeschreibung ? '<br><span class="muted desc">'+esc(r.kurzbeschreibung)+'</span>' : '';
   if(r.zv){
-    let s='<b>'+(r.objektart_zv?esc(r.objektart_zv):t)+'</b>';
+    let s='<a href="'+ZVG_SEARCH+'" target="_blank" rel="noopener" title="ZVG-Portal öffnen – Amtsgericht + Az. dort eintragen">'+
+          (r.objektart_zv?esc(r.objektart_zv):t)+' ↗</a>';
     if(r.adresse) s+='<br>'+esc(r.adresse);
     s+='<br><span class="muted">'+esc(r.ag||'Amtsgericht unbekannt')+' · Az '+esc(r.az||'?')+
        (r.termin?(' · Termin '+esc(r.termin)):'')+'</span>';
-    s+='<br><a href="'+ZVG_SEARCH+'" target="_blank" rel="noopener">ZVG-Portal Suche↗</a>'+
-       '<span class="muted"> (Amtsgericht + Az. oben eintragen)</span>';
-    if(r.gutachten) s+=' · <a href="'+r.gutachten+'" target="_blank">Gutachten-PDF</a>';
+    if(r.gutachten) s+='<br><a href="'+r.gutachten+'" target="_blank">Gutachten-PDF</a>';
     return s+sub+desc;
   }
   return '<a href="'+r.link+'" target="_blank" rel="noopener">'+t+' ↗</a>'+sub+desc;
+}
+let page=0, pageSize=25;
+const rerender=()=>{page=0;render();};
+const FDEFS=[["fEurM2","Max €/m²"],["fLage","Min-Lage"],["fQuelle","Quelle"],["fZV","ZV"],["fTyp","Typ"],["fOrt","Ort"],["fPreis","Max-Preis €"]];
+const CDEFS=[["fNoM2","ohne €/m² ausgeblendet",false],["fWeg","„weg“ sichtbar",true],["fWg","nur WG-Häuser",true],["fWgO","WG + ÖPNV",true]];
+function chipsList(){
+  const out=[], q=document.getElementById('fQ').value.trim();
+  if(q) out.push({id:"fQ",l:"Suche",v:q});
+  FDEFS.forEach(([id,l])=>{const e=document.getElementById(id);
+    if(e.value!=="") out.push({id:id,l:l,v:(e.tagName==='SELECT'?e.options[e.selectedIndex].textContent.trim():e.value),sel:e.tagName==='SELECT'});});
+  CDEFS.forEach(([id,l,on])=>{ if(document.getElementById(id).checked===on) out.push({id:id,l:l,v:"an"}); });
+  return out;
+}
+function drawChips(){
+  const cs=chipsList();
+  document.getElementById('chips').innerHTML = cs.map(c=>'<span class="chip">'+
+      '<span class="cl">'+esc(c.l)+'</span><span class="cv">'+esc(c.v)+'</span>'+
+      (c.sel?'<button class="cdd" data-dd="'+c.id+'" aria-label="Auswahl öffnen">⌄</button>':'')+
+      '<button class="cx" data-f="'+c.id+'" title="Entfernen" aria-label="Filter entfernen">×</button></span>').join('')
+    + (cs.length>1?'<button class="clrall" id="clrall">Alle zurücksetzen</button>':'');
+  const n=document.getElementById('fcnt'); n.hidden=!cs.length; n.textContent=cs.length;
+}
+function openChipMenu(btn){
+  const chip=btn.closest('.chip'), sel=document.getElementById(btn.dataset.dd), had=chip.querySelector('.chipmenu');
+  document.querySelectorAll('.chipmenu').forEach(m=>m.remove());
+  if(had) return;
+  const m=document.createElement('div'); m.className='chipmenu';
+  m.innerHTML=[...sel.options].map(o=>'<label><input type="radio" name="chipopt" value="'+esc(o.value)+'"'+
+    (o.value===sel.value?' checked':'')+'> '+esc(o.textContent.trim())+'</label>').join('');
+  m.addEventListener('change',ev=>{ sel.value=ev.target.value; rerender(); });
+  chip.appendChild(m);
+}
+function pagesList(p,n){ const s=new Set([0,n-1,p-1,p,p+1]); const a=[...s].filter(i=>i>=0&&i<n).sort((x,y)=>x-y); const o=[]; a.forEach((i,k)=>{ if(k&&i-a[k-1]>1) o.push('…'); o.push(i); }); return o; }
+function drawPager(total){
+  const el=document.getElementById('pagerctl');
+  if(total<=15){ el.innerHTML=''; return; }
+  const n=Math.ceil(total/pageSize), from=page*pageSize+1, to=Math.min(total,(page+1)*pageSize);
+  el.className='prgt';
+  el.innerHTML='<span>Zeilen pro Seite <select id="psize">'+[15,25,50,100].map(v=>'<option'+(v===pageSize?' selected':'')+'>'+v+'</option>').join('')+'</select></span>'+
+    '<span>'+from.toLocaleString('de-DE')+'–'+to.toLocaleString('de-DE')+' von '+total.toLocaleString('de-DE')+'</span>'+
+    '<span class="pages"><button data-p="'+(page-1)+'"'+(page?'':' disabled')+' aria-label="Zurück">‹</button>'+
+    pagesList(page,n).map(i=>i==='…'?'<button disabled>…</button>':'<button data-p="'+i+'"'+(i===page?' class="on"':'')+'>'+(i+1)+'</button>').join('')+
+    '<button data-p="'+(page+1)+'"'+(page<n-1?'':' disabled')+' aria-label="Weiter">›</button></span>';
 }
 function activeFilters(){
   const mr=parseFloat(document.getElementById('fEurM2').value);
@@ -190,8 +329,10 @@ function activeFilters(){
   const ort=document.getElementById('fOrt').value;
   const mp=parseFloat(document.getElementById('fPreis').value);
   const showNo=document.getElementById('fNoM2').checked;
+  const qs=document.getElementById('fQ').value.trim().toLowerCase();
   return DATA.filter(r=>{
     if(hidden.has(r.link)) return false;
+    if(qs && !((r.titel||"")+" "+(r.stadtteil||"")+" "+(r.ort||"")+" "+(r.adresse||"")+" "+(r.quelle||"")).toLowerCase().includes(qs)) return false;
     if(r.weg && !document.getElementById('fWeg').checked) return false;
     if(!r.wg && document.getElementById('fWg').checked) return false;
     if(!(r.wg && r.wg.oepnv) && document.getElementById('fWgO').checked) return false;
@@ -213,10 +354,10 @@ function activeFilters(){
 function render(){
   const head=document.getElementById('head'); head.innerHTML="";
   COLS.forEach(c=>{
-    const th=document.createElement('th'); th.textContent=c.t;
+    const th=document.createElement('th'); th.textContent=c.t; th.classList.add('c-'+c.k);
     if(c.num) th.classList.add('num');
     if(c.k===sortK){th.classList.add('sorted'); if(sortDesc) th.classList.add('desc');}
-    if(c.k!=="flags"&&c.k!=="objekt") th.onclick=()=>{ if(sortK===c.k) sortDesc=!sortDesc; else {sortK=c.k; sortDesc=c.num;} render(); };
+    if(c.k!=="flags"&&c.k!=="objekt") th.onclick=()=>{ if(sortK===c.k) sortDesc=!sortDesc; else {sortK=c.k; sortDesc=c.num;} rerender(); };
     head.appendChild(th);
   });
   let rows=activeFilters();
@@ -227,18 +368,21 @@ function render(){
     return sortDesc? String(y).localeCompare(String(x)) : String(x).localeCompare(String(y));
   });
   const body=document.getElementById('body'); body.innerHTML="";
+  const total=rows.length; if(total>15){ page=Math.min(page,Math.ceil(total/pageSize)-1); rows=rows.slice(page*pageSize,(page+1)*pageSize); } else page=0;
   rows.forEach(r=>{
     const tr=document.createElement('tr'); tr.className=r.weg?"weg":(r.neu?"neu":"");
     COLS.forEach(c=>{
       const td=document.createElement('td'); if(c.num) td.classList.add('num');
+      td.classList.add('c-'+c.k); td.dataset.label=c.t;
       td.innerHTML = c.k==="flags"||c.k==="objekt" ? c.fmt(null,r) : c.fmt(r[c.k],r);
       tr.appendChild(td);
     });
     body.appendChild(tr);
   });
+  drawChips(); drawPager(total);
   const noM2=DATA.filter(r=>r.eur_sqm==null).length;
   const showNo2=document.getElementById('fNoM2').checked;
-  document.getElementById('count').textContent = rows.length+" von "+DATA.length+" Objekten"+((!showNo2&&noM2)?(" · "+noM2+" ohne €/m² ausgeblendet"):"");
+  document.getElementById('count').textContent = total+" von "+DATA.length+" Objekten"+((!showNo2&&noM2)?(" · "+noM2+" ohne €/m² ausgeblendet"):"");
   mapDirty=true; if(document.body.classList.contains('tabmap')) drawMap();
   document.getElementById('hiddeninfo').innerHTML = hidden.size ? (hidden.size+' als gesehen ausgeblendet · <a id="unhideall">alle wieder einblenden</a>') : '';
 }
@@ -260,9 +404,39 @@ function initKPIs(){
   [...new Set(DATA.map(r=>r.ort).filter(o=>o && o!=="Frankfurt" && o!=="unbekannt"))].sort()
     .forEach(o=>{const el=document.createElement('option');el.value=o;el.textContent="  "+o;selO.appendChild(el);});
 }
-["fEurM2","fLage","fQuelle","fZV","fTyp","fOrt","fPreis"].forEach(id=>document.getElementById(id).addEventListener('input',render));
-["fNoM2","fWeg","fWg","fWgO"].forEach(id=>document.getElementById(id).addEventListener('change',render));
-document.getElementById('reset').onclick=()=>{["fEurM2","fLage","fQuelle","fZV","fTyp","fOrt","fPreis"].forEach(id=>document.getElementById(id).value="");["fNoM2","fWeg","fWg","fWgO"].forEach(id=>document.getElementById(id).checked=false);render();};
+["fQ","fEurM2","fLage","fQuelle","fZV","fTyp","fOrt","fPreis"].forEach(id=>document.getElementById(id).addEventListener('input',rerender));
+["fNoM2","fWeg","fWg","fWgO"].forEach(id=>document.getElementById(id).addEventListener('change',rerender));
+document.getElementById('reset').onclick=()=>{["fQ","fEurM2","fLage","fQuelle","fZV","fTyp","fOrt","fPreis"].forEach(id=>document.getElementById(id).value="");CDEFS.forEach(([id,,on])=>document.getElementById(id).checked=!on);rerender();};
+document.getElementById('chips').addEventListener('click',e=>{
+  if(e.target.id==='clrall'){ document.getElementById('reset').click(); return; }
+  const dd=e.target.closest('.cdd'); if(dd){ e.stopPropagation(); openChipMenu(dd); return; }
+  const x=e.target.closest('.cx'); if(!x) return;
+  const el=document.getElementById(x.dataset.f);
+  if(el.type==='checkbox') el.checked=!CDEFS.find(c=>c[0]===x.dataset.f)[2]; else el.value="";
+  rerender();
+});
+document.getElementById('pager').addEventListener('click',e=>{
+  const b=e.target.closest('button[data-p]'); if(!b||b.disabled) return;
+  page=+b.dataset.p; render(); document.getElementById('tbl').scrollIntoView({block:'start'});
+});
+document.getElementById('pager').addEventListener('change',e=>{ if(e.target.id==='psize'){ pageSize=+e.target.value; rerender(); } });
+document.getElementById('filtbtn').onclick=()=>{ document.body.classList.toggle('showf'); document.getElementById('filtbtn').classList.toggle('on',document.body.classList.contains('showf')); setTimeout(()=>map&&map.invalidateSize(),50); };
+// Spalten ein-/ausblenden (gemerkt in localStorage)
+const COLKEY="immo_hidden_cols";
+const COLDEFAULT=["abschlag","sqm","anbindung","tage"];
+let hiddenCols; try{ const st=localStorage.getItem(COLKEY); hiddenCols=new Set(st?JSON.parse(st):COLDEFAULT); }catch(e){ hiddenCols=new Set(COLDEFAULT); }
+function applyCols(){
+  let st=document.getElementById('colstyle'); if(!st){ st=document.createElement('style'); st.id='colstyle'; document.head.appendChild(st); }
+  st.textContent=hiddenCols.size?('@media (min-width:701px){'+[...hiddenCols].map(k=>'.c-'+k+'{display:none!important}').join('')+'}'):'';
+  try{ localStorage.setItem(COLKEY,JSON.stringify([...hiddenCols])); }catch(e){}
+}
+const cm=document.getElementById('colmenu');
+cm.innerHTML=COLS.filter(c=>c.t).map(c=>'<label><input type="checkbox" data-k="'+c.k+'"'+(hiddenCols.has(c.k)?'':' checked')+'> '+esc(c.t)+'</label>').join('');
+cm.addEventListener('change',e=>{ const k=e.target.dataset.k; e.target.checked?hiddenCols.delete(k):hiddenCols.add(k); applyCols(); });
+document.getElementById('colbtn').onclick=e=>{ e.stopPropagation(); cm.classList.toggle('open'); };
+document.addEventListener('click',e=>{ if(!cm.contains(e.target)) cm.classList.remove('open');
+  if(!e.target.closest('.chip')) document.querySelectorAll('.chipmenu').forEach(m=>m.remove()); });
+applyCols();
 // "gesehen" wirkt IMMER lokal (localStorage). Der Sync mit der zentralen DB läuft über
 // den Hub (localhost:8377) — von unterwegs nicht erreichbar (bzw. Mixed-Content auf https).
 // Deshalb: Warteschlange in localStorage, die im Heimnetz automatisch nachsynchronisiert.
@@ -379,7 +553,7 @@ function setTab(t){
 }
 document.getElementById('tabList').onclick=()=>setTab('list');
 document.getElementById('tabMap').onclick=()=>setTab('map');
-document.getElementById('fToggle').onclick=()=>{ document.body.classList.toggle('showf'); setTimeout(()=>map&&map.invalidateSize(),50); };
+document.getElementById('fToggle').onclick=()=>{ document.body.classList.toggle('showf'); document.getElementById('filtbtn').classList.toggle('on',document.body.classList.contains('showf')); setTimeout(()=>map&&map.invalidateSize(),50); };
 initKPIs(); render(); flushQueue(); syncHiddenToDB();
 if(location.hash==='#karte') setTab('map');
 </script>
