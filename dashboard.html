@@ -66,6 +66,30 @@
     body.tabmap:not(.showf) .filters{display:none}
     body.tabmap .kpis{display:none}
     .leaflet-control-zoom a{width:36px!important;height:36px!important;line-height:36px!important}
+    /* Karten-Ansicht: Tabelle bleibt im DOM, wird per CSS in Karten umgeklappt */
+    .tablewrap{background:none;border:0;overflow:visible}
+    table,tbody{display:block}
+    thead,thead tr{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px}
+    th{position:static;border:1px solid var(--line);border-radius:16px;padding:6px 12px;min-height:32px;box-sizing:border-box;display:flex;align-items:center;background:#fff;font-size:12px}
+    th:empty,th:nth-child(11),th:nth-child(12){display:none}
+    th.sorted{background:var(--accent);color:#fff;border-color:var(--accent)}
+    tbody tr{display:grid;grid-template-columns:repeat(3,1fr);gap:4px 8px;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin-bottom:10px}
+    tbody td{display:block;border:0;padding:0;white-space:normal;text-align:left;font-size:13px;grid-column:1/-1;order:20;background:none!important;min-width:0;overflow-wrap:anywhere}
+    tbody td.num{text-align:left}
+    td:empty{display:none}
+    td::before{content:attr(data-label);display:block;font-size:10px;color:var(--mut);text-transform:uppercase;letter-spacing:.03em}
+    td.c-rendite,td.c-preis,td.c-eur_sqm{grid-column:auto;font-size:16px;font-weight:700;order:1}
+    td.c-preis{order:2} td.c-eur_sqm{order:3}
+    td.c-stadtteil{grid-column:span 2;order:4;font-size:15px;font-weight:600}
+    td.c-lage{grid-column:span 1;order:5}
+    td.c-abschlag,td.c-sqm,td.c-tage{grid-column:auto;order:6}
+    td.c-flags{order:7;margin-top:4px} td.c-flags::before,td.c-objekt::before,td.c-hide::before{display:none}
+    td.c-anbindung{order:8} td.c-quelle{order:9} td.c-objekt{order:10;margin-top:4px}
+    td.c-hide{order:11} td.c-hide .hidebtn{min-height:44px;width:100%;font-size:14px;border-radius:9px}
+    .desc{max-width:none}
+    tr.weg td{text-decoration:none}
+    tr.neu{background:#fff8e1!important}
+    tr.weg{opacity:.55}
   }
 </style>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
@@ -231,6 +255,7 @@ function render(){
     const tr=document.createElement('tr'); tr.className=r.weg?"weg":(r.neu?"neu":"");
     COLS.forEach(c=>{
       const td=document.createElement('td'); if(c.num) td.classList.add('num');
+      td.classList.add('c-'+c.k); td.dataset.label=c.t;
       td.innerHTML = c.k==="flags"||c.k==="objekt" ? c.fmt(null,r) : c.fmt(r[c.k],r);
       tr.appendChild(td);
     });
