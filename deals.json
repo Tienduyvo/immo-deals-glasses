@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T19:23:51",
+ "generated_at": "2026-10-06T08:35:50",
  "count": 30,
  "deals": [
   {
@@ -85,20 +85,6 @@
    "kurzbeschreibung": "[ZV] Zweifamilienhaus : Friedensstraße 3, 61194 Niddatal, Bönstadt",
    "title": "Zweifamilienhaus : Friedensstraße 3, 61194 Niddatal, Bönstad",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55434&land_abk=he"
-  },
-  {
-   "eur_sqm": 737,
-   "yield": 22.8,
-   "price": 420000,
-   "sqm": 570.0,
-   "district": "Idstein",
-   "source": "ZVG",
-   "preisart": "zvg",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
-   "title": "Doppelhaushälfte : Mollweg 3, 65510 Idstein, Wörsdorf",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55197&land_abk=he"
   },
   {
    "eur_sqm": 748,
@@ -227,6 +213,20 @@
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMDF9ADMAAAAAAOIk19_HWDtQoLm8bCIHWyLH9HhvkoD6GRII1_ii9q2MTF8y505ASFdG7j9MDc9i61nPd_2ZOSuJ_ntWx0qRyVgUEoYbd9pfB9TAdBnJtnTFkJSH"
   },
   {
+   "eur_sqm": 969,
+   "yield": 17.34,
+   "price": 590000,
+   "sqm": 609.0,
+   "district": "Florstadt",
+   "source": "Immowelt (Mail)",
+   "preisart": "festpreis",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "Modernisiertes Mehrgenerationen-Anwesen mit großzü...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMjB9ADMAAAAAAQDGssHZPXRh8QKhAlWd5bm78YNTH7shO1vI1noGBiFbGy5BBTfpEB1MYG33-LWxx-W1rPxekVWHNThMfCZjjW3baf-a0bkWm1I6nrfHd5QM-6J15Q"
+  },
+  {
    "eur_sqm": 1010,
    "yield": 13.07,
    "price": 599000,
@@ -297,6 +297,20 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54911&land_abk=he"
   },
   {
+   "eur_sqm": 1102,
+   "yield": 9.8,
+   "price": 550000,
+   "sqm": 499.0,
+   "district": "Hanau",
+   "source": "Immowelt (Mail)",
+   "preisart": "angebotsverfahren",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "Angebotsverfahren - 4-Fam-Haus mit Ausbaupotenzial...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMjB9ADMAAAAAAQEO5RMz9mQsIYXPz7jRQTPwIsSzEp5MZPn94d6fyuDa_VGjCqUASmGiwpOHD_xgHL0f9cNi9ZVnKIa6lrA6msA21zTvgzv00Mwd8Cc0H7Xzbc77"
+  },
+  {
    "eur_sqm": 1103,
    "yield": 15.22,
    "price": 320000,
@@ -328,7 +342,7 @@
    "eur_sqm": 1124,
    "yield": 14.95,
    "price": 245000,
-   "sqm": 218.0,
+   "sqm": 218.06,
    "district": "",
    "source": "ImmoScout24 (Mail)",
    "preisart": "festpreis",
@@ -336,7 +350,7 @@
    "zustand": null,
    "kurzbeschreibung": null,
    "title": "Dreifamilienhaus nebst Terrasse und Doppelgarage",
-   "url": "https://www.immobilienscout24.de/expose/171300025"
+   "url": "https://www.immobilienscout24.de/expose/171515686"
   },
   {
    "eur_sqm": 1152,
@@ -407,20 +421,6 @@
    "kurzbeschreibung": null,
    "title": "Historische Hofreite mit viel Platz, Charakter und außergewö",
    "url": "https://www.immobilienscout24.de/expose/171155552"
-  },
-  {
-   "eur_sqm": 1312,
-   "yield": 12.8,
-   "price": 399000,
-   "sqm": 304.0,
-   "district": "Frankfurt am Main",
-   "source": "ImmoScout24 (Mail)",
-   "preisart": "festpreis",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
-   "title": "Raum für Generationen, Ideen und Perspektiven",
-   "url": "https://www.immobilienscout24.de/expose/170369664"
   }
  ]
 }
