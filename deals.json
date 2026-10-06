@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T08:35:50",
+ "generated_at": "2026-10-06T08:56:25",
  "count": 30,
  "deals": [
   {
@@ -40,7 +40,7 @@
    "preisart": "zvg",
    "baujahr": null,
    "zustand": null,
-   "kurzbeschreibung": null,
+   "kurzbeschreibung": "lfd. Nr. 2, Gemarkung Heftrich, Flur 3, Flurstück 117/2, Landwirtschaftliche Fläche, Kilbachweg 19, 378 qm",
    "title": "unbebautes Grundstück : Kilbachweg 19, 65510 Idstein, Heftri",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55372&land_abk=he"
   },
@@ -85,6 +85,20 @@
    "kurzbeschreibung": "[ZV] Zweifamilienhaus : Friedensstraße 3, 61194 Niddatal, Bönstadt",
    "title": "Zweifamilienhaus : Friedensstraße 3, 61194 Niddatal, Bönstad",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55434&land_abk=he"
+  },
+  {
+   "eur_sqm": 737,
+   "yield": 22.8,
+   "price": 420000,
+   "sqm": 570.0,
+   "district": "Idstein",
+   "source": "ZVG",
+   "preisart": "zvg",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "Doppelhaushälfte : Mollweg 3, 65510 Idstein, Wörsdorf",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55197&land_abk=he"
   },
   {
    "eur_sqm": 748,
@@ -407,20 +421,6 @@
    "kurzbeschreibung": null,
    "title": "Historisches Denkmal mit großem Potenzial – Verwirklichen Si",
    "url": "https://www.immobilienscout24.de/expose/170976044"
-  },
-  {
-   "eur_sqm": 1311,
-   "yield": 10.07,
-   "price": 279000,
-   "sqm": 212.74,
-   "district": "Darmstadt",
-   "source": "ImmoScout24 (Mail)",
-   "preisart": "festpreis",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
-   "title": "Historische Hofreite mit viel Platz, Charakter und außergewö",
-   "url": "https://www.immobilienscout24.de/expose/171155552"
   }
  ]
 }
