@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T08:35:36",
+ "generated_at": "2026-10-07T08:59:55",
  "count": 30,
  "deals": [
   {
@@ -87,9 +87,9 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55434&land_abk=he"
   },
   {
-   "eur_sqm": 748,
-   "yield": 14.44,
-   "price": 9720,
+   "eur_sqm": 713,
+   "yield": 15.15,
+   "price": 9270,
    "sqm": 13.0,
    "district": "Maintal",
    "source": "ZVG",
@@ -98,7 +98,21 @@
    "zustand": null,
    "kurzbeschreibung": null,
    "title": "Parkplatz : Stresemannstraße, 63477 Maintal, Dörnigheim",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55168&land_abk=he"
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55175&land_abk=he"
+  },
+  {
+   "eur_sqm": 737,
+   "yield": 22.8,
+   "price": 420000,
+   "sqm": 570.0,
+   "district": "Idstein",
+   "source": "ZVG",
+   "preisart": "zvg",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "Doppelhaushälfte : Mollweg 3, 65510 Idstein, Wörsdorf",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55197&land_abk=he"
   },
   {
    "eur_sqm": 761,
@@ -180,7 +194,7 @@
    "preisart": "zvg",
    "baujahr": null,
    "zustand": null,
-   "kurzbeschreibung": null,
+   "kurzbeschreibung": "lfd. Nr. 1, Gemarkung Niedernhausen, Flur 21, Flurstück 7, Hof-und Gebäudefläche, Fichtenweg 36, 785 qm",
    "title": "Mehrfamilienhaus, Garage : Fichtenweg 36, 65527 Niedernhause",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55352&land_abk=he"
   },
@@ -407,20 +421,6 @@
    "kurzbeschreibung": null,
    "title": "Sanierungsobjekt mit Potenzial in Offenbach: 3 Einheiten",
    "url": "https://www.immobilienscout24.de/expose/171329144"
-  },
-  {
-   "eur_sqm": 1309,
-   "yield": 9.17,
-   "price": 190000,
-   "sqm": 145.14,
-   "district": "Offenbach",
-   "source": "ImmoScout24 (Mail)",
-   "preisart": "festpreis",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
-   "title": "Historisches Denkmal mit großem Potenzial – Verwirklichen Si",
-   "url": "https://www.immobilienscout24.de/expose/170976044"
   }
  ]
 }
