@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T08:56:25",
+ "generated_at": "2026-10-07T08:35:36",
  "count": 30,
  "deals": [
   {
@@ -85,20 +85,6 @@
    "kurzbeschreibung": "[ZV] Zweifamilienhaus : Friedensstraße 3, 61194 Niddatal, Bönstadt",
    "title": "Zweifamilienhaus : Friedensstraße 3, 61194 Niddatal, Bönstad",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55434&land_abk=he"
-  },
-  {
-   "eur_sqm": 737,
-   "yield": 22.8,
-   "price": 420000,
-   "sqm": 570.0,
-   "district": "Idstein",
-   "source": "ZVG",
-   "preisart": "zvg",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
-   "title": "Doppelhaushälfte : Mollweg 3, 65510 Idstein, Wörsdorf",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55197&land_abk=he"
   },
   {
    "eur_sqm": 748,
@@ -367,20 +353,6 @@
    "url": "https://www.immobilienscout24.de/expose/171515686"
   },
   {
-   "eur_sqm": 1152,
-   "yield": 10.42,
-   "price": 325000,
-   "sqm": 282.1,
-   "district": "Karben",
-   "source": "ImmoScout24 (Mail)",
-   "preisart": "festpreis",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
-   "title": "Kapitalanlage - Dreifamilien-/Mehrgenerationenhaus",
-   "url": "https://www.immobilienscout24.de/expose/170389915"
-  },
-  {
    "eur_sqm": 1159,
    "yield": 11.39,
    "price": 765000,
@@ -393,6 +365,34 @@
    "kurzbeschreibung": null,
    "title": "Mehrfamilienhaus mit 13 Wohnungen + provisionsfrei +",
    "url": "https://www.immobilienscout24.de/expose/170387775"
+  },
+  {
+   "eur_sqm": 1185,
+   "yield": 14.17,
+   "price": 320000,
+   "sqm": 270.0,
+   "district": "Schmitten",
+   "source": "Immowelt (Mail)",
+   "preisart": "festpreis",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "Ihr Deal: 3 Häuschen, 3 Garagen, bis zu 5 WE, davo...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMjF9ADMAAAAAAQK5z7l0p6uaiKFOqsFoSn2RxTy3wtYRJr6Nnfs67N9L8TxLQ09DfDCS-LFyw4q29qqwlvQ1jaOy71z5swUftvYAsF8L7_sBiY2hT1XuvOTdSmll"
+  },
+  {
+   "eur_sqm": 1274,
+   "yield": 13.18,
+   "price": 395000,
+   "sqm": 310.0,
+   "district": "Schmitten",
+   "source": "Immowelt (Mail)",
+   "preisart": "festpreis",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "Viel Raum für Ideen - sanierungsbedürftiges Haus i...",
+   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMjF9ADMAAAAAAQKN-QOS18KAaxpspYDQtnZ8MzvQ4MMoJIrmIoanCNNq_kHAEs9i_j93YVa9HPh4xgA2a00cORQ1w8RNpy2EjYnXfV5Sy2uuAjOMkgDz3nVPqfnk"
   },
   {
    "eur_sqm": 1278,
