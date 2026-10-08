@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T08:59:55",
+ "generated_at": "2026-10-08T08:35:39",
  "count": 30,
  "deals": [
   {
@@ -101,20 +101,6 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55175&land_abk=he"
   },
   {
-   "eur_sqm": 737,
-   "yield": 22.8,
-   "price": 420000,
-   "sqm": 570.0,
-   "district": "Idstein",
-   "source": "ZVG",
-   "preisart": "zvg",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
-   "title": "Doppelhaushälfte : Mollweg 3, 65510 Idstein, Wörsdorf",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55197&land_abk=he"
-  },
-  {
    "eur_sqm": 761,
    "yield": 14.19,
    "price": 8370,
@@ -211,6 +197,20 @@
    "kurzbeschreibung": null,
    "title": "Ein Haus für hohe Ansprüche.",
    "url": "https://www.immobilienscout24.de/expose/171235275"
+  },
+  {
+   "eur_sqm": 921,
+   "yield": 18.25,
+   "price": 139000,
+   "sqm": 151.0,
+   "district": "",
+   "source": "ImmoScout24 (Mail)",
+   "preisart": "festpreis",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "Historisches Fachwerkhaus bietet besonderen Lebensraum",
+   "url": "https://www.immobilienscout24.de/expose/170974639"
   },
   {
    "eur_sqm": 969,
