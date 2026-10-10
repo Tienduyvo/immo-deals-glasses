@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T08:36:41",
+ "generated_at": "2026-10-10T09:01:11",
  "count": 30,
  "deals": [
   {
@@ -54,7 +54,7 @@
    "preisart": "zvg",
    "baujahr": null,
    "zustand": null,
-   "kurzbeschreibung": null,
+   "kurzbeschreibung": "Zweifamilienhaus, Haupt- und Nebengebäude, Grundstücksgröße 81 qm, Wohnfläche 93 qm, keine Garage, Baujahr vermutlich um 1900, Sanierungs- und Unterhaltungsstau, kein Energieausweis, keine Baulasten, Denkmalschutz",
    "title": "Zweifamilienhaus : Hermannseck 4, 61194 Niddatal, Bönstadt",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55124&land_abk=he"
   },
@@ -99,6 +99,20 @@
    "kurzbeschreibung": "[ZV] Parkplatz : Stresemannstraße, 63477 Maintal, Dörnigheim",
    "title": "Parkplatz : Stresemannstraße, 63477 Maintal, Dörnigheim",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55175&land_abk=he"
+  },
+  {
+   "eur_sqm": 737,
+   "yield": 22.8,
+   "price": 420000,
+   "sqm": 570.0,
+   "district": "Idstein",
+   "source": "ZVG",
+   "preisart": "zvg",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "Doppelhaushälfte : Mollweg 3, 65510 Idstein, Wörsdorf",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55197&land_abk=he"
   },
   {
    "eur_sqm": 761,
@@ -151,8 +165,8 @@
    "source": "ZVG",
    "preisart": "zvg",
    "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
+   "zustand": "Neubau",
+   "kurzbeschreibung": "Garage (Bestandteil eines geschlossenen Reihe aus fünf Garagen) Nutzfläche ca.",
    "title": "Garage : Eschstraße 1, 3, 5, 63069 Offenbach am Main",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55323&land_abk=he"
   },
@@ -239,6 +253,20 @@
    "kurzbeschreibung": null,
    "title": "Modernisiertes Mehrgenerationen-Anwesen mit großzü...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMjB9ADMAAAAAAQDGssHZPXRh8QKhAlWd5bm78YNTH7shO1vI1noGBiFbGy5BBTfpEB1MYG33-LWxx-W1rPxekVWHNThMfCZjjW3baf-a0bkWm1I6nrfHd5QM-6J15Q"
+  },
+  {
+   "eur_sqm": 993,
+   "yield": 16.93,
+   "price": 265000,
+   "sqm": 267.0,
+   "district": "Raunheim Hessen",
+   "source": "ZVG",
+   "preisart": "zvg",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "Einfamilienhaus : Frankfurter Str. 5, 5 A, 5 B, 65479 Raunhe",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55476&land_abk=he"
   },
   {
    "eur_sqm": 1010,
@@ -393,34 +421,6 @@
    "kurzbeschreibung": null,
    "title": "Ihr Deal: 3 Häuschen, 3 Garagen, bis zu 5 WE, davo...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMjF9ADMAAAAAAQK5z7l0p6uaiKFOqsFoSn2RxTy3wtYRJr6Nnfs67N9L8TxLQ09DfDCS-LFyw4q29qqwlvQ1jaOy71z5swUftvYAsF8L7_sBiY2hT1XuvOTdSmll"
-  },
-  {
-   "eur_sqm": 1274,
-   "yield": 13.18,
-   "price": 395000,
-   "sqm": 310.0,
-   "district": "Schmitten",
-   "source": "Immowelt (Mail)",
-   "preisart": "festpreis",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
-   "title": "Viel Raum für Ideen - sanierungsbedürftiges Haus i...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMjF9ADMAAAAAAQKN-QOS18KAaxpspYDQtnZ8MzvQ4MMoJIrmIoanCNNq_kHAEs9i_j93YVa9HPh4xgA2a00cORQ1w8RNpy2EjYnXfV5Sy2uuAjOMkgDz3nVPqfnk"
-  },
-  {
-   "eur_sqm": 1278,
-   "yield": 9.39,
-   "price": 170000,
-   "sqm": 133.0,
-   "district": "Offenbach",
-   "source": "ImmoScout24 (Mail)",
-   "preisart": "festpreis",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
-   "title": "Sanierungsobjekt mit Potenzial in Offenbach: 3 Einheiten",
-   "url": "https://www.immobilienscout24.de/expose/171329144"
   }
  ]
 }
