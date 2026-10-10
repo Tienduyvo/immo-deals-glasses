@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T08:56:48",
+ "generated_at": "2026-10-10T08:36:41",
  "count": 30,
  "deals": [
   {
@@ -99,20 +99,6 @@
    "kurzbeschreibung": "[ZV] Parkplatz : Stresemannstraße, 63477 Maintal, Dörnigheim",
    "title": "Parkplatz : Stresemannstraße, 63477 Maintal, Dörnigheim",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55175&land_abk=he"
-  },
-  {
-   "eur_sqm": 737,
-   "yield": 22.8,
-   "price": 420000,
-   "sqm": 570.0,
-   "district": "Idstein",
-   "source": "ZVG",
-   "preisart": "zvg",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
-   "title": "Doppelhaushälfte : Mollweg 3, 65510 Idstein, Wörsdorf",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55197&land_abk=he"
   },
   {
    "eur_sqm": 761,
@@ -421,6 +407,20 @@
    "kurzbeschreibung": null,
    "title": "Viel Raum für Ideen - sanierungsbedürftiges Haus i...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMjF9ADMAAAAAAQKN-QOS18KAaxpspYDQtnZ8MzvQ4MMoJIrmIoanCNNq_kHAEs9i_j93YVa9HPh4xgA2a00cORQ1w8RNpy2EjYnXfV5Sy2uuAjOMkgDz3nVPqfnk"
+  },
+  {
+   "eur_sqm": 1278,
+   "yield": 9.39,
+   "price": 170000,
+   "sqm": 133.0,
+   "district": "Offenbach",
+   "source": "ImmoScout24 (Mail)",
+   "preisart": "festpreis",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "Sanierungsobjekt mit Potenzial in Offenbach: 3 Einheiten",
+   "url": "https://www.immobilienscout24.de/expose/171329144"
   }
  ]
 }
