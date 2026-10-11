@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T08:35:32",
+ "generated_at": "2026-10-11T08:55:05",
  "count": 30,
  "deals": [
   {
@@ -25,8 +25,8 @@
    "source": "ZVG",
    "preisart": "zvg",
    "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
+   "zustand": "saniert",
+   "kurzbeschreibung": "Das im Grundbuch von Thalheim Blatt 1163 eingetragene Grundstück Lfd.Nr. Gemarkung Flur Flurstück Wirtschaftsart und Lage Größe m² 1 Thalheim 34 77/5 Hof- und Gebäudefläche, Oberdorf 10 255",
    "title": "Einfamilienhaus : Oberdorf 10, 65599 Dornburg, Thalheim",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55317&land_abk=he"
   },
@@ -99,6 +99,20 @@
    "kurzbeschreibung": "[ZV] Parkplatz : Stresemannstraße, 63477 Maintal, Dörnigheim",
    "title": "Parkplatz : Stresemannstraße, 63477 Maintal, Dörnigheim",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55175&land_abk=he"
+  },
+  {
+   "eur_sqm": 737,
+   "yield": 22.8,
+   "price": 420000,
+   "sqm": 570.0,
+   "district": "Idstein",
+   "source": "ZVG",
+   "preisart": "zvg",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "Doppelhaushälfte : Mollweg 3, 65510 Idstein, Wörsdorf",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55197&land_abk=he"
   },
   {
    "eur_sqm": 761,
@@ -245,12 +259,12 @@
    "yield": 16.93,
    "price": 265000,
    "sqm": 267.0,
-   "district": "Raunheim Hessen",
+   "district": "Raunheim",
    "source": "ZVG",
    "preisart": "zvg",
    "baujahr": null,
    "zustand": null,
-   "kurzbeschreibung": null,
+   "kurzbeschreibung": "Kontoverbindung für die Überweisung der Sicherheitsleistung: Gerichtskasse Frankfurt am Main: Landesbank Hessen-Thüringen, IBAN: DE73 5005 0000 0001 0060 30, BIC: HELADEFFXXX, unter Angabe des Kassenzeichens: 022681801072.",
    "title": "Einfamilienhaus : Frankfurter Str. 5, 5 A, 5 B, 65479 Raunhe",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55476&land_abk=he"
   },
@@ -278,7 +292,7 @@
    "preisart": "zvg",
    "baujahr": null,
    "zustand": null,
-   "kurzbeschreibung": null,
+   "kurzbeschreibung": "[ZV] Eigentumswohnung (3 bis 4 Zimmer) : Lohrer Weg 2-4, Mespelbrunner Weg 2-4, Rohrbrunner Weg 2-4, Marktheidenfelder Weg 2-4, Wertheimer Weg 2-4, 63128 D",
    "title": "Eigentumswohnung (3 bis 4 Zimmer) : Lohrer Weg 2-4, Mespelbr",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55101&land_abk=he"
   },
@@ -407,20 +421,6 @@
    "kurzbeschreibung": null,
    "title": "Ihr Deal: 3 Häuschen, 3 Garagen, bis zu 5 WE, davo...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMjF9ADMAAAAAAQK5z7l0p6uaiKFOqsFoSn2RxTy3wtYRJr6Nnfs67N9L8TxLQ09DfDCS-LFyw4q29qqwlvQ1jaOy71z5swUftvYAsF8L7_sBiY2hT1XuvOTdSmll"
-  },
-  {
-   "eur_sqm": 1274,
-   "yield": 13.18,
-   "price": 395000,
-   "sqm": 310.0,
-   "district": "Schmitten",
-   "source": "Immowelt (Mail)",
-   "preisart": "festpreis",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
-   "title": "Viel Raum für Ideen - sanierungsbedürftiges Haus i...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMjF9ADMAAAAAAQKN-QOS18KAaxpspYDQtnZ8MzvQ4MMoJIrmIoanCNNq_kHAEs9i_j93YVa9HPh4xgA2a00cORQ1w8RNpy2EjYnXfV5Sy2uuAjOMkgDz3nVPqfnk"
   }
  ]
 }
