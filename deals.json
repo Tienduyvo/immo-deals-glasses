@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T08:55:58",
+ "generated_at": "2026-10-13T10:18:30",
  "count": 30,
  "deals": [
   {
@@ -99,20 +99,6 @@
    "kurzbeschreibung": "[ZV] Parkplatz : Stresemannstraße, 63477 Maintal, Dörnigheim",
    "title": "Parkplatz : Stresemannstraße, 63477 Maintal, Dörnigheim",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55175&land_abk=he"
-  },
-  {
-   "eur_sqm": 737,
-   "yield": 22.8,
-   "price": 420000,
-   "sqm": 570.0,
-   "district": "Idstein",
-   "source": "ZVG",
-   "preisart": "zvg",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
-   "title": "Doppelhaushälfte : Mollweg 3, 65510 Idstein, Wörsdorf",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55197&land_abk=he"
   },
   {
    "eur_sqm": 761,
@@ -393,6 +379,20 @@
    "kurzbeschreibung": null,
    "title": "Dreifamilienhaus nebst Terrasse und Doppelgarage",
    "url": "https://www.immobilienscout24.de/expose/171515686"
+  },
+  {
+   "eur_sqm": 1141,
+   "yield": 14.72,
+   "price": 295000,
+   "sqm": 258.46,
+   "district": "",
+   "source": "ImmoScout24 (Mail)",
+   "preisart": "festpreis",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "Gute Wohnlage in Eschbach: Generationenhaus oder Eigennutzun",
+   "url": "https://www.immobilienscout24.de/expose/171726104"
   },
   {
    "eur_sqm": 1159,
