@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T08:54:14",
+ "generated_at": "2026-10-17T08:35:48",
  "count": 30,
  "deals": [
   {
@@ -213,6 +213,20 @@
    "url": "https://www.immobilienscout24.de/expose/170974639"
   },
   {
+   "eur_sqm": 921,
+   "yield": 18.23,
+   "price": 129000,
+   "sqm": 140.0,
+   "district": "",
+   "source": "ImmoScout24 (Mail)",
+   "preisart": "festpreis",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "Idyllisches Erbpachtgrundstück - Erschwingliches 70er-Fertig",
+   "url": "https://www.immobilienscout24.de/expose/171836974"
+  },
+  {
    "eur_sqm": 969,
    "yield": 17.34,
    "price": 309950,
@@ -407,20 +421,6 @@
    "kurzbeschreibung": null,
    "title": "Mehrfamilienhaus mit 13 Wohnungen + provisionsfrei +",
    "url": "https://www.immobilienscout24.de/expose/170387775"
-  },
-  {
-   "eur_sqm": 1185,
-   "yield": 14.17,
-   "price": 320000,
-   "sqm": 270.0,
-   "district": "Schmitten",
-   "source": "Immowelt (Mail)",
-   "preisart": "festpreis",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
-   "title": "Ihr Deal: 3 Häuschen, 3 Garagen, bis zu 5 WE, davo...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMjF9ADMAAAAAAQK5z7l0p6uaiKFOqsFoSn2RxTy3wtYRJr6Nnfs67N9L8TxLQ09DfDCS-LFyw4q29qqwlvQ1jaOy71z5swUftvYAsF8L7_sBiY2hT1XuvOTdSmll"
   }
  ]
 }
