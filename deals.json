@@ -1,7 +1,21 @@
 {
- "generated_at": "2026-10-17T08:35:48",
+ "generated_at": "2026-10-17T08:55:08",
  "count": 30,
  "deals": [
+  {
+   "eur_sqm": 34,
+   "yield": 390.47,
+   "price": 2528,
+   "sqm": 74.78,
+   "district": "Darmstadt",
+   "source": "ZVG",
+   "preisart": "zvg",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "Sonstiges : Hinter den Dorfgärten, 64291 Darmstadt, Arheilge",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55486&land_abk=he"
+  },
   {
    "eur_sqm": 110,
    "yield": 153.3,
@@ -407,20 +421,6 @@
    "kurzbeschreibung": null,
    "title": "Gute Wohnlage in Eschbach: Generationenhaus oder Eigennutzun",
    "url": "https://www.immobilienscout24.de/expose/171726104"
-  },
-  {
-   "eur_sqm": 1159,
-   "yield": 11.39,
-   "price": 765000,
-   "sqm": 660.08,
-   "district": "Darmstadt",
-   "source": "ImmoScout24 (Mail)",
-   "preisart": "festpreis",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
-   "title": "Mehrfamilienhaus mit 13 Wohnungen + provisionsfrei +",
-   "url": "https://www.immobilienscout24.de/expose/170387775"
   }
  ]
 }
