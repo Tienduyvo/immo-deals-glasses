@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T08:55:08",
+ "generated_at": "2026-10-18T08:35:46",
  "count": 30,
  "deals": [
   {
@@ -197,6 +197,20 @@
    "kurzbeschreibung": "lfd. Nr. 1, Gemarkung Niedernhausen, Flur 21, Flurstück 7, Hof-und Gebäudefläche, Fichtenweg 36, 785 qm",
    "title": "Mehrfamilienhaus, Garage : Fichtenweg 36, 65527 Niedernhause",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55352&land_abk=he"
+  },
+  {
+   "eur_sqm": 884,
+   "yield": 12.21,
+   "price": 130000,
+   "sqm": 147.0,
+   "district": "Hanau",
+   "source": "ImmoScout24 (Mail)",
+   "preisart": "festpreis",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "Zweifamilienhaus mit Scheune & zusätzlichem Baupotenzial in ",
+   "url": "https://www.immobilienscout24.de/expose/171850480"
   },
   {
    "eur_sqm": 909,
@@ -407,20 +421,6 @@
    "kurzbeschreibung": null,
    "title": "Dreifamilienhaus nebst Terrasse und Doppelgarage",
    "url": "https://www.immobilienscout24.de/expose/171515686"
-  },
-  {
-   "eur_sqm": 1141,
-   "yield": 14.72,
-   "price": 295000,
-   "sqm": 258.46,
-   "district": "",
-   "source": "ImmoScout24 (Mail)",
-   "preisart": "festpreis",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
-   "title": "Gute Wohnlage in Eschbach: Generationenhaus oder Eigennutzun",
-   "url": "https://www.immobilienscout24.de/expose/171726104"
   }
  ]
 }
