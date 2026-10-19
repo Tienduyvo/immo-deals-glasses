@@ -1,7 +1,21 @@
 {
- "generated_at": "2026-10-19T08:35:37",
+ "generated_at": "2026-10-19T08:54:03",
  "count": 30,
  "deals": [
+  {
+   "eur_sqm": 5,
+   "yield": 3360.0,
+   "price": 2190,
+   "sqm": 438.0,
+   "district": "Florstadt",
+   "source": "ZVG",
+   "preisart": "zvg",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "land- und forstwirtschaftlich genutztes Grundstück : Auf dem",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55488&land_abk=he"
+  },
   {
    "eur_sqm": 34,
    "yield": 390.47,
@@ -407,20 +421,6 @@
    "kurzbeschreibung": null,
    "title": "Einfamilienhaus mit Anbau, Lagerfläche und Doppelgarage!",
    "url": "https://www.immobilienscout24.de/expose/167106046"
-  },
-  {
-   "eur_sqm": 1124,
-   "yield": 14.95,
-   "price": 245000,
-   "sqm": 218.0,
-   "district": "Schmitten",
-   "source": "ImmoScout24 (Mail)",
-   "preisart": "festpreis",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
-   "title": "Wohnhaus in 61389 Schmitten, 9 Zi. - Ihre Chance auf eine at",
-   "url": "https://www.immobilienscout24.de/expose/171872399"
   }
  ]
 }
