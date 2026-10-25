@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T07:57:38",
+ "generated_at": "2026-10-25T07:52:45",
  "count": 30,
  "deals": [
   {
@@ -113,20 +113,6 @@
    "kurzbeschreibung": "[ZV] Zweifamilienhaus : Friedensstraße 3, 61194 Niddatal, Bönstadt",
    "title": "Zweifamilienhaus : Friedensstraße 3, 61194 Niddatal, Bönstad",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55434&land_abk=he"
-  },
-  {
-   "eur_sqm": 713,
-   "yield": 15.15,
-   "price": 9270,
-   "sqm": 13.0,
-   "district": "Maintal",
-   "source": "ZVG",
-   "preisart": "zvg",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": "[ZV] Parkplatz : Stresemannstraße, 63477 Maintal, Dörnigheim",
-   "title": "Parkplatz : Stresemannstraße, 63477 Maintal, Dörnigheim",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55175&land_abk=he"
   },
   {
    "eur_sqm": 761,
@@ -421,6 +407,20 @@
    "kurzbeschreibung": null,
    "title": "Einfamilienhaus mit Anbau, Lagerfläche und Doppelgarage!",
    "url": "https://www.immobilienscout24.de/expose/167106046"
+  },
+  {
+   "eur_sqm": 1124,
+   "yield": 14.95,
+   "price": 245000,
+   "sqm": 218.0,
+   "district": "Schmitten",
+   "source": "ImmoScout24 (Mail)",
+   "preisart": "festpreis",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "Wohnhaus in 61389 Schmitten, 9 Zi. - Ihre Chance auf eine at",
+   "url": "https://www.immobilienscout24.de/expose/171872399"
   }
  ]
 }
