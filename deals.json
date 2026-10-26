@@ -1,21 +1,7 @@
 {
- "generated_at": "2026-10-26T07:47:37",
+ "generated_at": "2026-10-26T07:53:20",
  "count": 30,
  "deals": [
-  {
-   "eur_sqm": 5,
-   "yield": 3360.0,
-   "price": 2190,
-   "sqm": 438.0,
-   "district": "Florstadt",
-   "source": "ZVG",
-   "preisart": "zvg",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": "Kontoverbindung für die Überweisung der Sicherheitsleistung (10 % des Verkehrswertes): Gerichtskasse Frankfurt am Main, Landesbank Hessen-Thüringen Frankfurt, IBAN DE73 5005 0000 0001 0060 30, BIC HELADEFF, unter Angabe des Kassenzeichens: X 052071204059X .",
-   "title": "land- und forstwirtschaftlich genutztes Grundstück : Auf dem",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55488&land_abk=he"
-  },
   {
    "eur_sqm": 34,
    "yield": 390.47,
@@ -113,6 +99,20 @@
    "kurzbeschreibung": "[ZV] Zweifamilienhaus : Friedensstraße 3, 61194 Niddatal, Bönstadt",
    "title": "Zweifamilienhaus : Friedensstraße 3, 61194 Niddatal, Bönstad",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55434&land_abk=he"
+  },
+  {
+   "eur_sqm": 713,
+   "yield": 15.15,
+   "price": 9270,
+   "sqm": 13.0,
+   "district": "Maintal",
+   "source": "ZVG",
+   "preisart": "zvg",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": "[ZV] Parkplatz : Stresemannstraße, 63477 Maintal, Dörnigheim",
+   "title": "Parkplatz : Stresemannstraße, 63477 Maintal, Dörnigheim",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55175&land_abk=he"
   },
   {
    "eur_sqm": 761,
