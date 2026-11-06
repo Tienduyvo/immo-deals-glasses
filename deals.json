@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T07:53:43",
+ "generated_at": "2026-11-06T07:54:08",
  "count": 30,
  "deals": [
   {
@@ -269,6 +269,20 @@
    "url": "https://www.immobilienscout24.de/expose/171836974"
   },
   {
+   "eur_sqm": 951,
+   "yield": 11.36,
+   "price": 46600,
+   "sqm": 49.0,
+   "district": "Dietzenbach",
+   "source": "ZVG",
+   "preisart": "zvg",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "Eigentumswohnung (1 bis 2 Zimmer) : Mespelbrunner Weg 2-4 u.",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55556&land_abk=he"
+  },
+  {
    "eur_sqm": 969,
    "yield": 17.34,
    "price": 309950,
@@ -407,20 +421,6 @@
    "kurzbeschreibung": null,
    "title": "Gepflegtes Ensemble mit viel Potenzial in guter La...",
    "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMDd9ADMAAAAAAOwALI1msC7azWmirpZwG8vLSLf4qkXUaGV5JWhjpOR-30rYJRq0pi2v_pilzM9PglEWy1vpA5XK8Ai0J33FSHeusVwgTQt3gyW0xinBV-AvQjH1"
-  },
-  {
-   "eur_sqm": 1122,
-   "yield": 14.97,
-   "price": 220000,
-   "sqm": 196.0,
-   "district": "",
-   "source": "ImmoScout24 (Mail)",
-   "preisart": "festpreis",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
-   "title": "Einfamilienhaus mit Anbau, Lagerfläche und Doppelgarage!",
-   "url": "https://www.immobilienscout24.de/expose/167106046"
   }
  ]
 }
