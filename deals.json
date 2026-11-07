@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T07:21:55",
+ "generated_at": "2026-11-07T07:54:19",
  "count": 30,
  "deals": [
   {
@@ -269,6 +269,20 @@
    "url": "https://www.immobilienscout24.de/expose/171836974"
   },
   {
+   "eur_sqm": 944,
+   "yield": 11.44,
+   "price": 62000,
+   "sqm": 65.69,
+   "district": "Dietzenbach",
+   "source": "ZVG",
+   "preisart": "zvg",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "Eigentumswohnung (3 bis 4 Zimmer) : Mespelbrunner Weg 2-4 u.",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55563&land_abk=he"
+  },
+  {
    "eur_sqm": 951,
    "yield": 11.36,
    "price": 46600,
@@ -277,10 +291,24 @@
    "source": "ZVG",
    "preisart": "zvg",
    "baujahr": null,
+   "zustand": "Neubau",
+   "kurzbeschreibung": "[ZV] Eigentumswohnung (1 bis 2 Zimmer) : Mespelbrunner Weg 2-4 u. a., 63128 Dietzenbach",
+   "title": "Eigentumswohnung (1 bis 2 Zimmer) : Mespelbrunner Weg 2-4 u.",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55557&land_abk=he"
+  },
+  {
+   "eur_sqm": 951,
+   "yield": 11.35,
+   "price": 62500,
+   "sqm": 65.69,
+   "district": "Dietzenbach",
+   "source": "ZVG",
+   "preisart": "zvg",
+   "baujahr": null,
    "zustand": null,
    "kurzbeschreibung": null,
-   "title": "Eigentumswohnung (1 bis 2 Zimmer) : Mespelbrunner Weg 2-4 u.",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55556&land_abk=he"
+   "title": "Eigentumswohnung (3 bis 4 Zimmer) : Mespellbunner Weg 2-4 u.",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55561&land_abk=he"
   },
   {
    "eur_sqm": 969,
@@ -393,34 +421,6 @@
    "kurzbeschreibung": null,
    "title": "Mehrfamilienhaus : Donaustr. 21, 63322 Rödermark, Ober-Roden",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54911&land_abk=he"
-  },
-  {
-   "eur_sqm": 1102,
-   "yield": 9.8,
-   "price": 550000,
-   "sqm": 499.0,
-   "district": "Hanau",
-   "source": "Immowelt (Mail)",
-   "preisart": "angebotsverfahren",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
-   "title": "Angebotsverfahren - 4-Fam-Haus mit Ausbaupotenzial...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMjB9ADMAAAAAAQEO5RMz9mQsIYXPz7jRQTPwIsSzEp5MZPn94d6fyuDa_VGjCqUASmGiwpOHD_xgHL0f9cNi9ZVnKIa6lrA6msA21zTvgzv00Mwd8Cc0H7Xzbc77"
-  },
-  {
-   "eur_sqm": 1103,
-   "yield": 15.22,
-   "price": 320000,
-   "sqm": 290.0,
-   "district": "Niddatal",
-   "source": "Immowelt (Mail)",
-   "preisart": "festpreis",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
-   "title": "Gepflegtes Ensemble mit viel Potenzial in guter La...",
-   "url": "https://click.by.immowelt.de/?qs=ABB7InYiOjEsImQiOjUwMDd9ADMAAAAAAOwALI1msC7azWmirpZwG8vLSLf4qkXUaGV5JWhjpOR-30rYJRq0pi2v_pilzM9PglEWy1vpA5XK8Ai0J33FSHeusVwgTQt3gyW0xinBV-AvQjH1"
   }
  ]
 }
