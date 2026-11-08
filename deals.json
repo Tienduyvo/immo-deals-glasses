@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T07:20:22",
+ "generated_at": "2026-11-08T07:52:15",
  "count": 30,
  "deals": [
   {
@@ -277,8 +277,8 @@
    "source": "ZVG",
    "preisart": "zvg",
    "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
+   "zustand": "Neubau",
+   "kurzbeschreibung": "[ZV] Eigentumswohnung (3 bis 4 Zimmer) : Mespelbrunner Weg 2-4 u. a., 63128 Dietzenbach",
    "title": "Eigentumswohnung (3 bis 4 Zimmer) : Mespelbrunner Weg 2-4 u.",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55563&land_abk=he"
   },
@@ -305,8 +305,8 @@
    "source": "ZVG",
    "preisart": "zvg",
    "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
+   "zustand": "Neubau",
+   "kurzbeschreibung": "[ZV] Eigentumswohnung (3 bis 4 Zimmer) : Mespellbunner Weg 2-4 u. a., 63128 Dietzenbach",
    "title": "Eigentumswohnung (3 bis 4 Zimmer) : Mespellbunner Weg 2-4 u.",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55561&land_abk=he"
   },
