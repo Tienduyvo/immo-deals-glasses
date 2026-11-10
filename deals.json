@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T07:41:36",
+ "generated_at": "2026-11-10T07:53:57",
  "count": 30,
  "deals": [
   {
@@ -311,6 +311,20 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55561&land_abk=he"
   },
   {
+   "eur_sqm": 952,
+   "yield": 11.34,
+   "price": 52000,
+   "sqm": 54.61,
+   "district": "Dietzenbach",
+   "source": "ZVG",
+   "preisart": "zvg",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "Eigentumswohnung (1 bis 2 Zimmer) : Rohrbrunnerweg 2-4, 6312",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55573&land_abk=he"
+  },
+  {
    "eur_sqm": 969,
    "yield": 17.34,
    "price": 309950,
@@ -407,20 +421,6 @@
    "kurzbeschreibung": null,
    "title": "Sanierung oder Abriss: Grundstück mit Vorder- und Hinterhaus",
    "url": "https://www.immobilienscout24.de/expose/170940728"
-  },
-  {
-   "eur_sqm": 1097,
-   "yield": 9.85,
-   "price": 590000,
-   "sqm": 538.0,
-   "district": "Rödermark",
-   "source": "ZVG",
-   "preisart": "zvg",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
-   "title": "Mehrfamilienhaus : Donaustr. 21, 63322 Rödermark, Ober-Roden",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=54911&land_abk=he"
   }
  ]
 }
