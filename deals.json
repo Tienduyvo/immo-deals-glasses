@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T14:44:57",
+ "generated_at": "2026-11-11T14:48:50",
  "count": 30,
  "deals": [
   {
@@ -381,6 +381,20 @@
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55476&land_abk=he"
   },
   {
+   "eur_sqm": 1000,
+   "yield": 15.6,
+   "price": 175000,
+   "sqm": 175.0,
+   "district": "Frankfurt (unspez.)",
+   "source": "ImmoScout24 (Mail)",
+   "preisart": "festpreis",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "bezugsfreies Einfamilienhaus im Frankfurter Einzugsgebiet",
+   "url": "https://www.immobilienscout24.de/expose/172482282"
+  },
+  {
    "eur_sqm": 1010,
    "yield": 13.07,
    "price": 599000,
@@ -407,20 +421,6 @@
    "kurzbeschreibung": "[ZV] Eigentumswohnung (3 bis 4 Zimmer) : Lohrer Weg 2-4, Mespelbrunner Weg 2-4, Rohrbrunner Weg 2-4, Marktheidenfelder Weg 2-4, Wertheimer Weg 2-4, 63128 D",
    "title": "Eigentumswohnung (3 bis 4 Zimmer) : Lohrer Weg 2-4, Mespelbr",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55101&land_abk=he"
-  },
-  {
-   "eur_sqm": 1056,
-   "yield": 15.91,
-   "price": 376000,
-   "sqm": 356.0,
-   "district": "",
-   "source": "ImmoScout24 (Mail)",
-   "preisart": "festpreis",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
-   "title": "Eigennutz oder Kapitalanlage, 4 Einheiten plus Werkstatt",
-   "url": "https://www.immobilienscout24.de/expose/170538999"
   }
  ]
 }
