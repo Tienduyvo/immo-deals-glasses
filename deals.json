@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T12:33:27",
+ "generated_at": "2026-11-11T12:48:45",
  "count": 30,
  "deals": [
   {
@@ -241,6 +241,20 @@
    "url": "https://www.immobilienscout24.de/expose/171235275"
   },
   {
+   "eur_sqm": 909,
+   "yield": 18.48,
+   "price": 150000,
+   "sqm": 165.0,
+   "district": "",
+   "source": "ImmoScout24 (Mail)",
+   "preisart": "festpreis",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "bezugsfreies Fachwerkwohnhaus mit Scheune",
+   "url": "https://www.immobilienscout24.de/expose/172480305"
+  },
+  {
    "eur_sqm": 921,
    "yield": 18.25,
    "price": 139000,
@@ -407,20 +421,6 @@
    "kurzbeschreibung": null,
    "title": "Eigennutz oder Kapitalanlage, 4 Einheiten plus Werkstatt",
    "url": "https://www.immobilienscout24.de/expose/170538999"
-  },
-  {
-   "eur_sqm": 1070,
-   "yield": 11.22,
-   "price": 199000,
-   "sqm": 186.0,
-   "district": "Wiesbaden",
-   "source": "ImmoScout24 (Mail)",
-   "preisart": "festpreis",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
-   "title": "Sanierung oder Abriss: Grundstück mit Vorder- und Hinterhaus",
-   "url": "https://www.immobilienscout24.de/expose/170940728"
   }
  ]
 }
