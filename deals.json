@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T07:58:34",
+ "generated_at": "2026-11-12T07:59:38",
  "count": 30,
  "deals": [
   {
@@ -333,8 +333,8 @@
    "source": "ZVG",
    "preisart": "zvg",
    "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": null,
+   "zustand": "Neubau",
+   "kurzbeschreibung": "[ZV] Eigentumswohnung (1 bis 2 Zimmer) : Rohrbrunnerweg 2-4, 63128 Dietzenbach",
    "title": "Eigentumswohnung (1 bis 2 Zimmer) : Rohrbrunnerweg 2-4, 6312",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55573&land_abk=he"
   },
