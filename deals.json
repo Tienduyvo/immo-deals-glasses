@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T07:57:51",
+ "generated_at": "2026-11-17T07:52:15",
  "count": 30,
  "deals": [
   {
@@ -43,6 +43,20 @@
    "kurzbeschreibung": "[ZV] unbebautes Grundstück : Ackerland, im Ort, 61137 Schöneck, Büdesheim",
    "title": "unbebautes Grundstück : Ackerland, im Ort, 61137 Schöneck, B",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55170&land_abk=he"
+  },
+  {
+   "eur_sqm": 117,
+   "yield": 144.17,
+   "price": 14100,
+   "sqm": 121.0,
+   "district": "Schöneck",
+   "source": "ZVG",
+   "preisart": "zvg",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": null,
+   "title": "Garage : Mühlstraße 12, 61137 Schöneck, Büdesheim",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55605&land_abk=he"
   },
   {
    "eur_sqm": 128,
@@ -407,20 +421,6 @@
    "kurzbeschreibung": null,
    "title": "Attraktives Baugrundstück – mehrere Bebauungsvarianten berei",
    "url": "https://www.immobilienscout24.de/expose/171330539"
-  },
-  {
-   "eur_sqm": 1049,
-   "yield": 16.02,
-   "price": 94000,
-   "sqm": 89.61,
-   "district": "",
-   "source": "ZVG",
-   "preisart": "zvg",
-   "baujahr": null,
-   "zustand": null,
-   "kurzbeschreibung": "[ZV] Eigentumswohnung (3 bis 4 Zimmer) : Lohrer Weg 2-4, Mespelbrunner Weg 2-4, Rohrbrunner Weg 2-4, Marktheidenfelder Weg 2-4, Wertheimer Weg 2-4, 63128 D",
-   "title": "Eigentumswohnung (3 bis 4 Zimmer) : Lohrer Weg 2-4, Mespelbr",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55101&land_abk=he"
   }
  ]
 }
