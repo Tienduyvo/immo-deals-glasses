@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T07:44:04",
+ "generated_at": "2026-11-20T07:58:52",
  "count": 30,
  "deals": [
   {
@@ -57,20 +57,6 @@
    "kurzbeschreibung": "Es handelt sich um ein 121qm großes Grundstück bebaut mit einer Garage in Standardgröße.",
    "title": "Garage : Mühlstraße 12, 61137 Schöneck, Büdesheim",
    "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55605&land_abk=he"
-  },
-  {
-   "eur_sqm": 128,
-   "yield": 130.81,
-   "price": 32750,
-   "sqm": 255.0,
-   "district": "Dornburg",
-   "source": "ZVG",
-   "preisart": "zvg",
-   "baujahr": null,
-   "zustand": "saniert",
-   "kurzbeschreibung": "Das im Grundbuch von Thalheim Blatt 1163 eingetragene Grundstück Lfd.Nr. Gemarkung Flur Flurstück Wirtschaftsart und Lage Größe m² 1 Thalheim 34 77/5 Hof- und Gebäudefläche, Oberdorf 10 255",
-   "title": "Einfamilienhaus : Oberdorf 10, 65599 Dornburg, Thalheim",
-   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55317&land_abk=he"
   },
   {
    "eur_sqm": 180,
@@ -421,6 +407,20 @@
    "kurzbeschreibung": null,
    "title": "Attraktives Baugrundstück – mehrere Bebauungsvarianten berei",
    "url": "https://www.immobilienscout24.de/expose/171330539"
+  },
+  {
+   "eur_sqm": 1049,
+   "yield": 16.02,
+   "price": 94000,
+   "sqm": 89.61,
+   "district": "",
+   "source": "ZVG",
+   "preisart": "zvg",
+   "baujahr": null,
+   "zustand": null,
+   "kurzbeschreibung": "[ZV] Eigentumswohnung (3 bis 4 Zimmer) : Lohrer Weg 2-4, Mespelbrunner Weg 2-4, Rohrbrunner Weg 2-4, Marktheidenfelder Weg 2-4, Wertheimer Weg 2-4, 63128 D",
+   "title": "Eigentumswohnung (3 bis 4 Zimmer) : Lohrer Weg 2-4, Mespelbr",
+   "url": "https://www.zvg-portal.de/index.php?button=showZvg&zvg_id=55101&land_abk=he"
   }
  ]
 }
